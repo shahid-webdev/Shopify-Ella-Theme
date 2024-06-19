@@ -1,0 +1,3146 @@
+﻿{
+  "current": {
+    "font_header": "google_fonts",
+    "fonts_name_hader": "Poppins",
+    "header_font_shopify": "poppins_n4",
+    "body_font": "google_fonts",
+    "body_fonts_name": "Poppins",
+    "base_font_shopify": "poppins_n4",
+    "type_base_size": "12px",
+    "body_layout": "full_width",
+    "header_layout": "header_default",
+    "list_collections_layout": "collections_default_grid",
+    "category_layouts": "layout_default",
+    "product_layout": "pr_layout_default",
+    "footer_layout": "footer_1",
+    "enable_multilang": true,
+    "lange_1": "en",
+    "lange_2": "de",
+    "lange_3": "",
+    "lange_4": "",
+    "lange_5": "",
+    "lange_6": "",
+    "enable_shopify_payments_currencies": false,
+    "enable_multiple_currencies": true,
+    "enable_auto_currency": false,
+    "currency_1_unit": "USD",
+    "currency_2_unit": "EUR",
+    "currency_3_unit": "",
+    "currency_4_unit": "",
+    "currency_5_unit": "",
+    "currency_6_unit": "",
+    "currency_7_unit": "",
+    "currency_8_unit": "",
+    "currency_9_unit": "",
+    "currency_10_unit": "",
+    "favicon": "shopify:\/\/shop_images\/favicon.png",
+    "enable_opengraph": true,
+    "image_share": "shopify:\/\/shop_images\/banner_mega_st3.png",
+    "product_card_height_procent": 100,
+    "image_swap": true,
+    "display_breadcrumb": true,
+    "show_product_quickview": true,
+    "show_product_vendor": true,
+    "show_product_title": true,
+    "show_product_reviews": true,
+    "show_product_price": true,
+    "show_product_button": true,
+    "show_product_variant": true,
+    "show_wishlist": true,
+    "show_wishlist_mb": false,
+    "show_store_locator": true,
+    "show_product_compare": true,
+    "show_product_compare_mb": false,
+    "variant_image_swatch": false,
+    "time_show_badgeNew": 94,
+    "product_show_badgeNew": 20,
+    "type_label_sale": "number",
+    "enable_change_group_image": false,
+    "display_size_chart": true,
+    "size_chart": "none",
+    "size_guide_text": "Size Guide",
+    "custom_size_chart": "shopify:\/\/shop_images\/size-chart-compressor.png",
+    "display_product_countdown": true,
+    "option_countdown": "all_product",
+    "text_countdown": "Limited-Time Offers, End in:",
+    "count_down_timer": "2020\/12\/25 22:11:00",
+    "display_trust_img": true,
+    "img_trust": "shopify:\/\/shop_images\/trust-banner-compressor.png",
+    "product_options_one": "color",
+    "product_options_two": "size",
+    "product_options_three": "Product Options",
+    "product_options_color": "color",
+    "product_options_size": "size",
+    "product_options3_size": "Product Options",
+    "terms_conditions": true,
+    "terms_conditions_text": "I agree with the terms and conditions",
+    "enable_backtotop": true,
+    "title_acc": "My Account",
+    "title_login": "Returning Customer",
+    "login_text_desc": "<p>I am a returning customer\n<\/p>",
+    "title_register": "New Customers",
+    "register_text_desc": "<p>Register Account<\/p>\n<p>By creating an account you will be able to shop faster, be up to date on an order's status, and keep track of the orders you have previously made.<\/p>",
+    "enable_search_trending": true,
+    "trending_search_title": "trending",
+    "trending_search_item_1": "dempus",
+    "trending_search_item_2": "sample",
+    "trending_search_item_3": "magnis",
+    "trending_search_item_4": "loremous saliduar",
+    "trending_search_item_5": "naminos",
+    "trending_search_item_6": "dinterdum",
+    "enable_search_popular_products": true,
+    "popular_products_search_title": "Popular Products",
+    "popular_products_collection": "loremouticas",
+    "popular_products_limit": 3,
+    "enable_ask_an_expert": true,
+    "enable_ask_an_expert_mb": true,
+    "ask_an_expert_header": "ask an Expert",
+    "ask_an_expert_title": "Ask the Jewelry Expert anything on Our Online Store",
+    "ask_an_expert_des": "Well follow up with you via email within 24-48 hours",
+    "form_an_expert_header": "Please answer the following Questionnaire",
+    "enable_ask_do_you_need": true,
+    "ask_do_you_need": "Do You Need:",
+    "ask_do_you_need_1": "Pricing",
+    "ask_do_you_need_2": "Answers",
+    "ask_do_you_need_3": "Both",
+    "ask_form_mess": "What can i help you with today ?",
+    "enable_how_would_you_like_me_to_contact_you": true,
+    "how_would_you_like_me_to_contact_you": "How would you like me to contact you?",
+    "contact_with_you_1": "Phone",
+    "contact_with_you_2": "Email",
+    "contact_with_you_3": "Both",
+    "qv_enable_zoom": true,
+    "qv_enable_fancybox": true,
+    "qv_video_product": true,
+    "qv_display_product_reviews": true,
+    "qv_show_sold_in": true,
+    "qv_item_prd": "3,5,6,7,8,10,12,15",
+    "qv_item_prds": "sold in last",
+    "qv_hours_prs": "10,15,16,17,18,20,25,35",
+    "qv_item_hours": "hours",
+    "qv_display_vendor": true,
+    "qv_display_product_sku": true,
+    "qv_display_availability": true,
+    "qv_display_product_type": false,
+    "qv_display_price": true,
+    "qv_display_subtotal": true,
+    "qv_show_quantity_selector": true,
+    "qv_display_short_description": true,
+    "qv_type_short_description": "default",
+    "qv_number_words": "16",
+    "qv_dpl_customers_view": true,
+    "qv_title_view": "customers are viewing this product",
+    "qv_number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+    "qv_display_product_detail_share": true,
+    "display_popup_newsletter": true,
+    "when_to_show": "first_time",
+    "popup_newsletter_expire": 1,
+    "popup_newsletter_delay": 8,
+    "newsletter": "shopify:\/\/shop_images\/banner-newll-compressor.png",
+    "popup_newsletter_title": "Join Our Mailing List",
+    "popup_newsletter_des_1": "Sign Up for exclusive updates, <br> new arrivals and insider-only discounts",
+    "popup_newsletter_des": "We promise to only send you good things",
+    "popup_newsletter_text_note": "Don't show again!",
+    "newssletter_success_text": "You have successfully subscribed!",
+    "newssletter_error_text": "This email has been registered",
+    "display_popup_social": true,
+    "background_newsletter": "#fff",
+    "text_content_newsletter": "#787878",
+    "color_title_newsletter": "#282828",
+    "back_button_newsletter": "#282828",
+    "color_button_newlet": "#fff",
+    "display_someone-purchased": true,
+    "display_someone-purchased_mb": true,
+    "show_someone-purchased": "left",
+    "autorotate_speed": 6,
+    "text": "Someone recently bought a",
+    "someone_recently_product_1": "copy-of-naminos-dementus-a-dincidunto-cosmo-milancelos-1",
+    "from_ago_1": "20 minutes ago from Melbourne, AUS",
+    "someone_recently_product_2": "copy-of-naminos-dementus-a-dincidunto-cosmo-milancelos",
+    "from_ago_2": "20 minutes ago from Melbourne, AUS",
+    "someone_recently_product_3": "copy-of-mauris-de-damet-porttitor-mante-le-cosmo-dametos-2",
+    "from_ago_3": "20 minutes ago from Melbourne, AUS",
+    "someone_recently_product_4": "copy-of-class-macitos-sociosques-delos-lorem-a-madis-1",
+    "from_ago_4": "20 minutes ago from Melbourne, AUS",
+    "someone_recently_product_5": "copy-of-class-mapten-tacitos-sociosques-delos-madis-1",
+    "from_ago_5": "20 minutes ago from Melbourne, AUS",
+    "color_notification2": "#8c8c8c",
+    "color_title_notification2": "#323232",
+    "color_title_border": "#a0a0a0",
+    "color_button_close": "#787878",
+    "color_bg_notification2": "#ffffff",
+    "display_gdpr": true,
+    "display_gdpr_mb": true,
+    "show_gdpr": "left",
+    "gdpr_content": "We use cookies to improve your experience on our website. Read about how we use cookies in our Privacy Policy. By browsing this website, you agree to our use of cookies.",
+    "gdpr_accept_cookies_text": "Accept Cookies",
+    "color_cookieMessage": "#8c8c8c",
+    "color_bg_cookieMessage": "#fafafa",
+    "color_btn_cookieMessage": "#fafafa",
+    "color_btn_bg_cookieMessage": "#8c8c8c",
+    "color_btn_cookieMessage_hover": "#ffffff",
+    "color_btn_bg_cookieMessage_hover": "#ed4f2d",
+    "color_btn_close_gp": "#8c8c8c",
+    "enable_progress_bar_shipping": true,
+    "shipping_price": "7000",
+    "cart_count_enable": true,
+    "minute_countdown": "30",
+    "enable_paypal": true,
+    "banner_paypal": "shopify:\/\/shop_images\/paypal-banner-compressor.png",
+    "enable_products_cart_sidebar": true,
+    "products_cart_sidebar_title": "You May Also Like...",
+    "cart_products_limit": "3",
+    "products_cart_sidebar": "lobortis",
+    "color_body_text": "#787878",
+    "color_url": "#8c8c8c",
+    "color_url_hover": "#ed4f2d",
+    "color_body_bg": "#ffffff",
+    "color_heading_text": "#323232",
+    "color_heading_url": "#4563b3",
+    "color_section_border": "#e2e4e8",
+    "color_section_bg_gray": "#f5f5f5",
+    "btn_1_text_color": "#323232",
+    "btn_1_border_color": "#787878",
+    "btn_1_bg_color": "#ffffff",
+    "btn_2_text_color": "#fff",
+    "btn_3_text_color": "#fff",
+    "btn_3_border_color": "#505050",
+    "btn_3_bg_color": "#505050",
+    "btn_2_border_color": "#323232",
+    "btn_2_bg_color": "#323232",
+    "sold_out_text": "#fff",
+    "bg_sold_out": "#b6b6b6",
+    "color_product_vendor": "#8c8c8c",
+    "color_product_title": "#323232",
+    "color_product_title_hover": "#8b714a",
+    "color_product_review": "#8b714a",
+    "color_product_review_empty": "#dfdfe0",
+    "color_product_price": "#282828",
+    "color_product_price_sale": "#282828",
+    "color_product_price_presale": "#8c8c8c",
+    "color_product_button_text": "#ffffff",
+    "color_product_button_bg": "#505050",
+    "color_product_button_border": "#505050",
+    "color_product_button_text_hover": "#505050",
+    "color_product_button_bg_hover": "#ffffff",
+    "color_product_button_border_hover": "#505050",
+    "color_product_button_soldOut_text": "#999999",
+    "color_product_button_soldOut_bg": "#f7f7f7",
+    "color_product_button_soldOut_border": "#f7f7f7",
+    "color_badge_text": "#ffffff",
+    "color_badge_bg": "#383e46",
+    "color_new_badge_text": "#ffffff",
+    "color_new_badge_bg": "#baa070",
+    "color_sale_badge_text": "#ffffff",
+    "color_sale_badge_bg": "#e95144",
+    "color_soldOut_badge_text": "#ffffff",
+    "color_soldOut_badge_bg": "#b6b6b6",
+    "color_bundle_badge_text": "#ffffff",
+    "color_bundle_badge_bg": "#505050",
+    "color_bestSellers_badge_text": "#ffffff",
+    "color_bestSellers_badge_bg": "#ed6912",
+    "color_text_field_text": "#787878",
+    "color_text_field_border": "#cccfd6",
+    "color_text_field": "#fff",
+    "image_overlay_opacity": 47,
+    "color_btt": "#8b704e",
+    "color_border_btt": "#8b704e",
+    "color_bg_btt": "#ffffff",
+    "postion_abs_hd_hp": true,
+    "color_bg_header_middle_2_hp": "rgba(0,0,0,0)",
+    "color_nav_2_hp": "#fae3ca",
+    "color_text_hp": "#fff",
+    "color_bg_announcement_bar_2": "#f2e3ca",
+    "color_announcement_bar_2": "#44311c",
+    "color_bg_header_middle_2": "#ffffff",
+    "color_text": "#787878",
+    "background_count_item": "#282828",
+    "color_count_item": "#fff",
+    "color_bg_announcement_bar": "#2e3031",
+    "color_announcement_bar": "#ffffff",
+    "color_bg_header_middle": "#f5f5f5",
+    "color_header_middle": "#464646",
+    "color_bor_middle": "#c8c8c8",
+    "color_logo": "#383e47",
+    "color_cart_countPill": "#ffffff",
+    "color_bg_cart_countPill": "#2e3031",
+    "color_bg_header_search": "#323232",
+    "color_button_header": "#ffffff",
+    "enable_header_search_mb": true,
+    "enable_header_account_mb": true,
+    "enable_header_cart_mb": true,
+    "color_bg_header_mb": "#ffffff",
+    "color_header_mb": "#2e3031",
+    "color_item_cart": "#fff",
+    "color_logo_mb": "#2e3031",
+    "bg_menu": "#fafafa",
+    "bg_dropdown_menu": "#fff",
+    "color_menu_lv1": "#8b714a",
+    "hover_color_mnu_lv1": "#282828",
+    "font_size_mnu_lv1": "13px",
+    "color_menu_lv2": "#8b714a",
+    "hover_color_mnu_lv2": "#282828",
+    "font_size_mnu_lv2": "12px",
+    "color_menu_lv3": "#787878",
+    "hover_color_mnu_lv3": "#282828",
+    "font_size_mnu_lv3": "12px",
+    "bg_lb_sale": "#ed4f2d",
+    "color_lb_sale": "#fff",
+    "bg_lb_new": "#4fb7d0",
+    "color_lb_new": "#fff",
+    "bg_lb_hot": "#f4ab3c",
+    "color_lb_hot": "#fff",
+    "color_menu_lv1_mb": "#282828",
+    "hover_color_menu_lv1_mb": "#787878",
+    "color_menu_lv2_mb": "#887250",
+    "hover_color_mnu_lv2_mb": "#787878",
+    "color_menu_lv3_mb": "#787878",
+    "hover_color_mnu_lv3_mb": "#282828",
+    "bor_footer_df": "#ececec",
+    "background_footer_df": "#fff",
+    "footer_link_df_title": "#272727",
+    "footer_link_df_text": "#787878",
+    "footer_link_df_text_hover": "#272727",
+    "border_bootom_br_nl": "#808284",
+    "back_footer_bt_df": "#fae3ca",
+    "footer_bottom_color_df": "#272727",
+    "back_footer_bg": "#f8f8f8",
+    "border_footer_col": "#dadada",
+    "color_footer_title": "#323232",
+    "color_newsletter_input": "#a0a0a0",
+    "newsletter_input_bg": "#ffffff",
+    "color_newsletter_input_border": "#c8c8c8",
+    "newsletter_button_bg": "#323232",
+    "color_newsletter_button": "#ffffff",
+    "footer_social": "#323232",
+    "footer_social_border": "#c9c9c9",
+    "footer_policy_text": "#323232",
+    "footer_policy_br": "#c8c8c8",
+    "footer_link_title": "#323232",
+    "footer_link_br": "#dadada",
+    "footer_link_text": "#646464",
+    "back_footer_bt": "#323232",
+    "footer_bottom_color": "#e0e0e0",
+    "share_image": "shopify:\/\/shop_images\/banner_mega_st3_1.png",
+    "social_twitter_link": "https:\/\/twitter.com\/shopify",
+    "social_facebook_link": "https:\/\/facebook.com\/shopify",
+    "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
+    "social_instagram_link": "http:\/\/instagram.com\/shopify",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_google_plus_link": "#",
+    "social_vimeo_link": "",
+    "show_shipping_calculator": true,
+    "shipping_calculator_heading": "SHIPPING",
+    "shipping_calculator_default_country": "Canada",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "tid": "9691007",
+    "enable_multilevel_categories": true,
+    "category_filter_title": "",
+    "category_filter_des": "",
+    "category_filter_label1": "",
+    "category_filter_label2": "",
+    "category_filter_label3": "",
+    "category_filter": "",
+    "product_options_dropdown": "size",
+    "lange_name_1": "English",
+    "lange_name_2": "German",
+    "lange_name_3": "",
+    "lange_name_4": "",
+    "lange_name_5": "",
+    "lange_name_6": "",
+    "hover_color_mnu_lv1_mb": "#787878",
+    "multiCategory_color": "#ffffff",
+    "multiCategory_border": "#ffffff",
+    "multiCategory_bg": "#383e47",
+    "display_countdown": false,
+    "css_enable": false,
+    "customcss_enable": false,
+    "wishlist_url_page": "shopify:\/\/pages\/wish-list",
+    "location_url_page": "shopify:\/\/pages\/store-locator",
+    "name_lange_1": "English",
+    "code_lange_1": "ENG",
+    "name_lange_2": "German",
+    "code_lange_2": "GER",
+    "qv_display_trust_img": "true",
+    "qv_img_trust": "",
+    "qv_use_color_swatch": "false",
+    "qv_display_countdown": "true",
+    "qv_option_color_swatch": "Color",
+    "qv_use_size_swatch": "true",
+    "qv_option_size_swatch": "Size",
+    "qv_share_text": "Share",
+    "gdpr_privacy_policy_text": "privacy policy",
+    "gdpr_privacy_policy_link": "https:\/\/policies.google.com",
+    "color_button_compare": "#fafafa",
+    "background_button_compare": "#505050",
+    "color_border_button_compare": "#505050",
+    "color_border_button_count": "#858585",
+    "category_layout": "default",
+    "time_new": "31",
+    "number_product": "5",
+    "color_icon_nav_2": "#8b714a",
+    "color_icon_nav_2_hp": "#fff",
+    "color_icon_use": "#787878",
+    "color_icon_nav": "#787878",
+    "type_header_base_size": "12px",
+    "type_header_font": "poppins_n4",
+    "logo_size": "26px",
+    "type_base_font": "poppins_n4",
+    "type_heading_font": "poppins_n4",
+    "type_heading_size": "22px",
+    "type_button_font": "poppins_n4",
+    "type_button_size": "16",
+    "productCard_layout": "layout_1",
+    "color_footer_icon": "#323232",
+    "footer_bottom_text": "#bcbfc5",
+    "footer_bottom_bg": "#222326",
+    "color_contact_owner": "#303030",
+    "bg_contact_owner": "#ffffff",
+    "border_contact_owner": "#e2e4e8",
+    "color_footer_block_icon": "#505050",
+    "color_title_footer_block_icon": "#323232",
+    "bg_footer_block_icon": "#ffffff",
+    "border_footer_block_icon": "#ededed",
+    "color_newsletter_input_bg": "#ffffff",
+    "color_footer_text": "#bcbfc5",
+    "color_footer_link_hover": "#ffffff",
+    "color_footer_bg": "#2e3034",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "color_button_text": "#ffffff",
+    "color_button_border": "#f04723",
+    "color_button": "#f04723",
+    "color_button_text_hover": "#ffffff",
+    "color_button_border_hover": "#cd2c19",
+    "color_button_hover": "#cd2c19",
+    "color_button_secondary_text": "#5d6673",
+    "color_button_secondary_border": "#7f7f7f",
+    "color_button_secondary": "",
+    "color_button_secondary_text_hover": "#ffffff",
+    "color_button_secondary_border_hover": "#5d6673",
+    "color_button_secondary_hover": "#5d6673",
+    "color_small_button_text": "#383e47",
+    "color_small_button_text_hover": "#4563b3",
+    "color_time_header_middle": "#383e47",
+    "color_header_bottom": "#323232",
+    "color_border_header_bottom": "#eeeeee",
+    "color_bg_header_bottom": "#ffffff",
+    "color_label_1": "#ffffff",
+    "color_bg_label_1": "#d95949",
+    "color_label_2": "#ffffff",
+    "color_bg_label_2": "#f4ae4d",
+    "color_label_3": "#ffffff",
+    "color_bg_label_3": "#41aed6",
+    "nav_vertical_bg": "#f7f7f7",
+    "nav_vertical_color": "#383e47",
+    "nav_vertical_dropdown_bg": "#ffffff",
+    "nav_vertical_dropdown_border": "#ffffff",
+    "color_title_dropdownmenu": "#323232",
+    "color_dropdownmenu": "#383e47",
+    "color_border_dropdownmenu": "#ebebeb",
+    "color_bg_dropdownmenu": "#ffffff",
+    "color_social": "#f04723",
+    "color_social_hover": "#f04723",
+    "color_search_bar": "#383e47",
+    "color_border_search_bar": "#cccfd6",
+    "color_bg_search_bar": "#ffffff",
+    "color_search_btn": "#383e47",
+    "color_bg_search_btn": "#f7f7f7",
+    "color_header_top": "#8c8c8c",
+    "color_bg_header_top": "#f7f7f7",
+    "color_border_header_top": "#f7f7f7",
+    "color_header_top_shortdescription": "#383e47",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "message": true,
+          "message_text": "Limited-Time Offers: Mid-Season Sale Up To 70% Off",
+          "message_link": "",
+          "header_middle": true,
+          "enable_free_shopping": true,
+          "free_shipping_text": "FREE SHIPPING* <br>No Minimum purchase",
+          "enable_header_search": true,
+          "enable_header_account": true,
+          "enable_header_wishlist": true,
+          "enable_header_cart": true,
+          "logo_type": "image",
+          "logo_text": "",
+          "logo_text_size": "25px",
+          "logo_text_size_mb": "20px",
+          "logo_pc": "shopify:\/\/shop_images\/logo.png",
+          "max_height_logo_pc": "100px",
+          "logo": "shopify:\/\/shop_images\/logo.png",
+          "max_height_logo_mb": "25px"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1578453163149": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Shop",
+              "footer_linklist": "shop"
+            }
+          },
+          "1578453197318": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Further info",
+              "footer_linklist": "further-info"
+            }
+          },
+          "1578453208070": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Brands",
+              "footer_linklist": "our-top-brands"
+            }
+          },
+          "1578453238604": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Customer Service",
+              "footer_linklist": "customer-service"
+            }
+          },
+          "1578459199858": {
+            "type": "footer_social_media",
+            "settings": {
+              "social_title_facebook": "Facebook",
+              "social_facebook_link": "https:\/\/facebook.com\/shopify",
+              "social_title_twitter": "Twitter",
+              "social_twitter_link": "https:\/\/twitter.com\/shopify",
+              "social_title_vimeo": "Vimeo",
+              "social_vimeo_link": "",
+              "social_title_instagram": "Instagram",
+              "social_instagram_link": "http:\/\/instagram.com\/shopify",
+              "social_title_google_plus": "Google Plus",
+              "social_google_plus_link": "https:\/\/plus.google.com\/+shopify",
+              "social_title_pinterest": "Pinterest",
+              "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
+              "social_title_tumblr": "Tumblr",
+              "social_tumblr_link": "",
+              "social_title_snapchat": "Snapchat",
+              "social_snapchat_link": "",
+              "social_title_youTube": "YouTube",
+              "social_youtube_link": "https:\/\/www.youtube.com\/shopify"
+            }
+          }
+        },
+        "block_order": [
+          "1578453163149",
+          "1578453197318",
+          "1578453208070",
+          "1578453238604",
+          "1578459199858"
+        ],
+        "settings": {
+          "footer_link_enable": true,
+          "footer_results_per_row_rc": "4",
+          "enable_footer_left": true,
+          "enable_footer_social": true,
+          "title_social_footer": "Stay Connected",
+          "footer_newsletter_enable_df": true,
+          "footer_newsletter_title_df": "Sign Up For our newsletter",
+          "footer_bottom_enable": true,
+          "footer_address_code": "Jewel All Rights Reserved. Powered by Shopify.",
+          "footer_preview_demo": "Shopify Themes by HaloThemes.com",
+          "link_preview": "",
+          "show_payment_icons": true,
+          "payment_display_visa": true,
+          "payment_display_visa_electron": false,
+          "payment_display_american_express": true,
+          "payment_display_master": true,
+          "payment_display_maestro": false,
+          "payment_display_solo": false,
+          "payment_display_paypal": true,
+          "payment_display_amazon_payments": true,
+          "payment_display_apple_pay": true,
+          "payment_display_bitcoin": false,
+          "payment_display_cirrus": false,
+          "payment_display_dankort": false,
+          "payment_display_diners_club": false,
+          "payment_display_discover": false,
+          "payment_display_dogecoin": false,
+          "payment_display_dwolla": false,
+          "payment_display_forbrugsforeningen": false,
+          "payment_display_interac": false,
+          "payment_display_jcb": false,
+          "payment_display_litecoin": false,
+          "payment_display_stripe": false,
+          "payment_display_sage": false,
+          "payment_display_wallet": false,
+          "icon_visa": "shopify:\/\/shop_images\/icon-pay6.png",
+          "icon_visa_electron": "",
+          "icon_master": "shopify:\/\/shop_images\/icon-pay4.png",
+          "icon_american_express": "shopify:\/\/shop_images\/icon-pay5.png",
+          "icon_maestro": "",
+          "icon_solo": "",
+          "icon_paypal": "shopify:\/\/shop_images\/icon-pay3.png",
+          "icon_amazon_payments": "shopify:\/\/shop_images\/iocn-pay2.png",
+          "icon_apple_pay": "shopify:\/\/shop_images\/iocn-pay.png",
+          "icon_bitcoin": "",
+          "icon_cirrus": "",
+          "icon_dankort": "",
+          "icon_diners_club": "",
+          "icon_discover": "",
+          "icon_dogecoin": "",
+          "icon_dwolla": "",
+          "icon_forbrugsforeningen": "",
+          "icon_interac": "",
+          "icon_jcb": "",
+          "icon_litecoin": "",
+          "icon_stripe": "",
+          "icon_sage": "",
+          "icon_wallet": ""
+        }
+      },
+      "navigation": {
+        "type": "navigation",
+        "blocks": {
+          "1577691886865": {
+            "type": "style_3",
+            "settings": {
+              "megamenu_items_3": "watches",
+              "banner_style_3_1": "shopify:\/\/shop_images\/banner_mega_st3.png",
+              "banner_style_3_2": "shopify:\/\/shop_images\/banner_mega_st3_1.png",
+              "banner_style_3_3": "shopify:\/\/shop_images\/banner_mega_st3_2.png",
+              "banner_style_3_4": "shopify:\/\/shop_images\/banner_mega_st3_3.png",
+              "banner_style_3_5": "shopify:\/\/shop_images\/banner_mega_st3_4.png",
+              "enable_banner_style_3_6": true,
+              "banner_style_3_6": "shopify:\/\/shop_images\/baner-mega-6-compressor.png"
+            }
+          },
+          "1577700918604": {
+            "type": "style_2",
+            "settings": {
+              "megamenu_items_2": "bracelets",
+              "banner_first_style_2": "shopify:\/\/shop_images\/banner_st_2-3-compressor.png",
+              "link_banner_first_style_2": "",
+              "title_feature_col": "Featured Collections",
+              "color_title_col": "#323232",
+              "content_feture_col": "Phasellus aliquet nulla justo demo cosmodo lorem varius deugiatos metus vehicula de donec duer ligula sollicitudin an milos mitos amet cosmo milancelos.",
+              "color_content_col": "#646464",
+              "title_button_col": "Shop Now",
+              "link_button_col": "shopify:\/\/collections",
+              "text_color_bt_col": "#646464",
+              "border_color_bt_col": "#b9babb",
+              "back_color_bt_col": "#fff",
+              "text_mega_style_2": "Promotion Information",
+              "color_text_mega_style_2": "#006464",
+              "back_text_mega_style_2": "#ddf5f5",
+              "enable_style_2_rows_4": true
+            }
+          },
+          "1577765873486": {
+            "type": "style_1",
+            "settings": {
+              "megamenu_items_1": "rings",
+              "enable_style_1_rows_4": true,
+              "title_featured_product": "Featured Products",
+              "featured_product_1_1": "copy-of-class-macitos-sociosques-delos-lorem-a-madis-1",
+              "featured_product_2_1": "copy-of-naminos-dementus-a-dincidunto-cosmo-milancelos-1",
+              "featured_product_3_1": "",
+              "banner_first_style_1": "shopify:\/\/shop_images\/mega-2-compressor.png",
+              "link_banner_first_style_1": "",
+              "banner_second_style_1": "shopify:\/\/shop_images\/mega-2-1-compressor.png",
+              "link_banner_second_style_1": ""
+            }
+          }
+        },
+        "block_order": [
+          "1577691886865",
+          "1577700918604",
+          "1577765873486"
+        ],
+        "settings": {
+          "horizontal_linklist": "main-menu",
+          "display_fixtop_menu": true,
+          "logo_fix": "shopify:\/\/shop_images\/logo.png",
+          "enable_sale": true,
+          "lb_sale": "Sale",
+          "sale_item": "watches",
+          "enable_new": true,
+          "lb_new": "New",
+          "new_item": "brands",
+          "enable_hot": true,
+          "lb_hot": "Hot",
+          "hot_item": "demos",
+          "display_megamenu": true
+        }
+      },
+      "footer-2": {
+        "type": "footer-2",
+        "blocks": {
+          "1578310748872": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Further Info",
+              "footer_linklist": "further-info"
+            }
+          },
+          "1578311490388": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Shop",
+              "footer_linklist": "shop"
+            }
+          },
+          "1578311555660": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "our top brands",
+              "footer_linklist": "our-top-brands"
+            }
+          },
+          "1578311588107": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Customer service",
+              "footer_linklist": "customer-service"
+            }
+          },
+          "1578305429163": {
+            "type": "text",
+            "settings": {
+              "icon_policy": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" version=\"1.1\" id=\"Capa_1\" x=\"0px\" y=\"0px\" width=\"493.349px\" height=\"493.349px\" viewbox=\"0 0 493.349 493.349\" style=\"enable-background:new 0 0 493.349 493.349;\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\"> <g> \t<path d=\"M487.932,51.1c-3.613-3.612-7.905-5.424-12.847-5.424h-292.36c-4.948,0-9.233,1.812-12.847,5.424   c-3.615,3.617-5.424,7.902-5.424,12.85v54.818h-45.683c-5.14,0-10.71,1.237-16.705,3.711c-5.996,2.478-10.801,5.518-14.416,9.135   l-56.532,56.531c-2.473,2.474-4.612,5.327-6.424,8.565c-1.807,3.23-3.14,6.14-3.997,8.705c-0.855,2.572-1.477,6.089-1.854,10.566   c-0.378,4.475-0.62,7.758-0.715,9.853c-0.091,2.092-0.091,5.71,0,10.85c0.096,5.142,0.144,8.47,0.144,9.995v91.36   c-4.947,0-9.229,1.807-12.847,5.428C1.809,347.076,0,351.363,0,356.312c0,2.851,0.378,5.376,1.14,7.562   c0.763,2.19,2.046,3.949,3.858,5.284c1.807,1.335,3.378,2.426,4.709,3.285c1.335,0.855,3.571,1.424,6.711,1.711   s5.28,0.479,6.423,0.575c1.143,0.089,3.568,0.089,7.279,0c3.715-0.096,5.855-0.144,6.427-0.144h18.271   c0,20.17,7.139,37.397,21.411,51.674c14.277,14.274,31.501,21.413,51.678,21.413c20.175,0,37.401-7.139,51.675-21.413   c14.277-14.276,21.411-31.504,21.411-51.674H310.63c0,20.17,7.139,37.397,21.412,51.674c14.271,14.274,31.498,21.413,51.675,21.413   c20.181,0,37.397-7.139,51.675-21.413c14.277-14.276,21.412-31.504,21.412-51.674c0.568,0,2.711,0.048,6.42,0.144   c3.713,0.089,6.14,0.089,7.282,0c1.144-0.096,3.289-0.288,6.427-0.575c3.139-0.287,5.373-0.855,6.708-1.711s2.901-1.95,4.709-3.285   c1.81-1.335,3.097-3.094,3.856-5.284c0.77-2.187,1.143-4.712,1.143-7.562V63.953C493.353,59.004,491.546,54.724,487.932,51.1z    M153.597,400.28c-7.229,7.23-15.797,10.854-25.694,10.854c-9.898,0-18.464-3.62-25.697-10.854   c-7.233-7.228-10.848-15.797-10.848-25.693c0-9.897,3.619-18.47,10.848-25.701c7.232-7.228,15.798-10.848,25.697-10.848   c9.897,0,18.464,3.617,25.694,10.848c7.236,7.231,10.853,15.804,10.853,25.701C164.45,384.483,160.833,393.052,153.597,400.28z    M164.45,228.403H54.814v-8.562c0-2.475,0.855-4.569,2.568-6.283l55.674-55.672c1.712-1.714,3.809-2.568,6.283-2.568h45.111   V228.403z M409.41,400.28c-7.23,7.23-15.797,10.854-25.693,10.854c-9.9,0-18.47-3.62-25.7-10.854   c-7.231-7.228-10.849-15.797-10.849-25.693c0-9.897,3.617-18.47,10.849-25.701c7.23-7.228,15.8-10.848,25.7-10.848   c9.896,0,18.463,3.617,25.693,10.848c7.231,7.235,10.852,15.804,10.852,25.701C420.262,384.483,416.648,393.052,409.41,400.28z\"><\/path> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "des_policy": "Free Express Shipping",
+              "link_policy": ""
+            }
+          },
+          "1578306070960": {
+            "type": "text",
+            "settings": {
+              "icon_policy": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" version=\"1.1\" id=\"Capa_1\" x=\"0px\" y=\"0px\" viewbox=\"0 0 17.12 17.12\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\"> <g>   <g>     <g>       <path d=\"M8.661,0.001c0.006,0,0.01,0,0.01,0c0.007,0,0.007,0,0.011,0c0.002,0,0.007,0,0.009,0     c0,0,0,0,0.004,0c0.019-0.002,0.027,0,0.039,0c2.213,0,4.367,0.876,5.955,2.42l1.758-1.776c0.081-0.084,0.209-0.11,0.314-0.065     c0.109,0.044,0.186,0.152,0.186,0.271l-0.294,6.066h-5.699c-0.003,0-0.011,0-0.016,0c-0.158,0-0.291-0.131-0.291-0.296     c0-0.106,0.059-0.201,0.146-0.252l1.73-1.751c-1.026-0.988-2.36-1.529-3.832-1.529c-2.993,0.017-5.433,2.47-5.433,5.51     c0.023,2.978,2.457,5.4,5.481,5.422c1.972-0.106,3.83-1.278,4.719-3.221l2.803,1.293l-0.019,0.039     c-1.92,3.713-4.946,5.277-8.192,4.944c-4.375-0.348-7.848-4.013-7.878-8.52C0.171,3.876,3.976,0.042,8.661,0.001z\"><\/path>    <\/g>  <\/g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "des_policy": "Free In-Store Returns",
+              "link_policy": ""
+            }
+          },
+          "1578306186800": {
+            "type": "text",
+            "settings": {
+              "icon_policy": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" version=\"1.1\" id=\"Capa_1\" x=\"0px\" y=\"0px\" width=\"438.543px\" height=\"438.543px\" viewbox=\"0 0 438.543 438.543\" style=\"enable-background:new 0 0 438.543 438.543;\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\"> <g> \t<path d=\"M396.58,5.424C392.959,1.807,388.675,0,383.727,0H54.824c-4.952,0-9.235,1.807-12.852,5.424   c-3.615,3.615-5.424,7.898-5.424,12.847v219.268c0,16.371,3.186,32.596,9.563,48.681c6.374,16.084,14.274,30.361,23.697,42.828   c9.423,12.47,20.651,24.605,33.689,36.405c13.04,11.806,25.078,21.6,36.116,29.409c11.038,7.803,22.554,15.181,34.545,22.121   c11.991,6.943,20.511,11.663,25.553,14.134c5.043,2.478,9.088,4.38,12.132,5.708c2.286,1.143,4.758,1.718,7.426,1.718   c2.671,0,5.14-0.575,7.428-1.718c3.042-1.328,7.087-3.23,12.128-5.708c5.041-2.471,13.565-7.19,25.557-14.134   c11.984-6.94,23.504-14.318,34.54-22.121c11.043-7.81,23.079-17.604,36.121-29.409c13.031-11.8,24.263-23.936,33.685-36.405   c9.421-12.467,17.319-26.744,23.705-42.828c6.379-16.085,9.562-32.31,9.562-48.681V18.271   C401.994,13.319,400.187,9.04,396.58,5.424z M347.178,237.539c0,33.5-22.367,67.759-67.095,102.781   c-17.892,14.082-38.164,27.124-60.813,39.115V54.813h127.908V237.539z\"><\/path> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "des_policy": "100% Secure Shopping",
+              "link_policy": ""
+            }
+          },
+          "1578306281872": {
+            "type": "text",
+            "settings": {
+              "icon_policy": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" version=\"1.1\" id=\"Layer_1\" x=\"0px\" y=\"0px\" viewbox=\"0 0 512 512\" style=\"enable-background:new 0 0 512 512;\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\"> <g> \t<g> \t\t<path d=\"M256,0C161.896,0,85.333,76.563,85.333,170.667c0,28.25,7.063,56.26,20.49,81.104L246.667,506.5    c1.875,3.396,5.448,5.5,9.333,5.5s7.458-2.104,9.333-5.5l140.896-254.813c13.375-24.76,20.438-52.771,20.438-81.021    C426.667,76.563,350.104,0,256,0z M256,256c-47.052,0-85.333-38.281-85.333-85.333c0-47.052,38.281-85.333,85.333-85.333    s85.333,38.281,85.333,85.333C341.333,217.719,303.052,256,256,256z\"><\/path> \t<\/g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "des_policy": "Find A Store Near You",
+              "link_policy": ""
+            }
+          }
+        },
+        "block_order": [
+          "1578310748872",
+          "1578311490388",
+          "1578311555660",
+          "1578311588107",
+          "1578305429163",
+          "1578306070960",
+          "1578306186800",
+          "1578306281872"
+        ],
+        "settings": {
+          "footer_top_enable": true,
+          "footer_newsletter_enable": true,
+          "footer_newsletter_title": "Sign Up For our newsletter",
+          "footer_policy_enable": true,
+          "footer_link_enable": true,
+          "footer_results_per_row_rc": "4",
+          "footer_store_location_enable": true,
+          "footer_store_location_title": "Store Location",
+          "order_by_number_icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" version=\"1.1\" id=\"Capa_1\" x=\"0px\" y=\"0px\" width=\"348.077px\" height=\"348.077px\" viewbox=\"0 0 348.077 348.077\" style=\"enable-background:new 0 0 348.077 348.077;\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\"> <g> \t<g> \t\t<g> \t\t\t<path d=\"M340.273,275.083l-53.755-53.761c-10.707-10.664-28.438-10.34-39.518,0.744l-27.082,27.076     c-1.711-0.943-3.482-1.928-5.344-2.973c-17.102-9.476-40.509-22.464-65.14-47.113c-24.704-24.701-37.704-48.144-47.209-65.257     c-1.003-1.813-1.964-3.561-2.913-5.221l18.176-18.149l8.936-8.947c11.097-11.1,11.403-28.826,0.721-39.521L73.39,8.194     C62.708-2.486,44.969-2.162,33.872,8.938l-15.15,15.237l0.414,0.411c-5.08,6.482-9.325,13.958-12.484,22.02     C3.74,54.28,1.927,61.603,1.098,68.941C-6,127.785,20.89,181.564,93.866,254.541c100.875,100.868,182.167,93.248,185.674,92.876     c7.638-0.913,14.958-2.738,22.397-5.627c7.992-3.122,15.463-7.361,21.941-12.43l0.331,0.294l15.348-15.029     C350.631,303.527,350.95,285.795,340.273,275.083z\"><\/path> \t\t<\/g> \t<\/g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+          "footer_order_by_number": "<p>\n  <strong>Order by Phone <\/strong><br>\n  <a href=\"tel:1.900.699\"><span class=\"border_hover\">1.900.699.JEWEL<\/span><\/a><br>\n  <span>Mon to Sat:<\/span><br>\n  <span>10am - 4pm EST<\/span><br>\n  <span>Sunday Closed<\/span>\n<\/p>",
+          "order_by_email_icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" version=\"1.1\" id=\"Layer_1\" x=\"0px\" y=\"0px\" viewbox=\"0 0 501.333 501.333\" style=\"enable-background:new 0 0 501.333 501.333;\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\"> <g> \t<g> \t\t<path d=\"M455.466,49.6h-409.6C20.267,49.6,0,69.867,0,95.466v310.4c0,25.6,20.267,45.867,45.867,45.867h409.6    c25.6,0,45.867-21.333,45.867-45.867v-310.4C501.333,69.867,481.066,49.6,455.466,49.6z M430.933,91.2L250.666,252.267    L71.466,91.2H430.933z M459.733,405.867c0,2.133-2.133,4.267-4.266,4.267h-409.6c-2.133,0-4.267-2.133-4.267-4.267V122.133    L236.8,296c4.267,3.2,8.533,5.333,13.867,5.333c5.333,0,9.6-2.133,13.867-5.333l195.2-173.867V405.867z\"><\/path> \t<\/g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+          "footer_by_email": "<p>\n  <strong>Send us an Email<\/strong><br>\n  <a href=\"mailto:support@halothemes.com\"><span class=\"border_hover\">Email us<\/span><\/a><br>\n<\/p>",
+          "footer_bottom_enable": true,
+          "footer_address_code": "Jewel All Rights Reserved. Powered by Shopify.",
+          "footer_preview_demo": "Shopify Themes by HaloThemes.com",
+          "link_preview": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.163001532.1058617754.1578372882-2128903961.1567048506",
+          "show_payment_icons": true,
+          "payment_display_visa": true,
+          "payment_display_visa_electron": false,
+          "payment_display_american_express": true,
+          "payment_display_master": true,
+          "payment_display_maestro": false,
+          "payment_display_solo": false,
+          "payment_display_paypal": true,
+          "payment_display_amazon_payments": false,
+          "payment_display_apple_pay": false,
+          "payment_display_bitcoin": false,
+          "payment_display_cirrus": false,
+          "payment_display_dankort": false,
+          "payment_display_diners_club": true,
+          "payment_display_discover": true,
+          "payment_display_dogecoin": false,
+          "payment_display_dwolla": false,
+          "payment_display_forbrugsforeningen": false,
+          "payment_display_interac": false,
+          "payment_display_jcb": true,
+          "payment_display_litecoin": false,
+          "payment_display_stripe": false,
+          "payment_display_sage": false,
+          "payment_display_wallet": false,
+          "icon_visa": "shopify:\/\/shop_images\/visa.png",
+          "icon_visa_electron": "",
+          "icon_master": "shopify:\/\/shop_images\/icon-2.png",
+          "icon_american_express": "shopify:\/\/shop_images\/icon-3.png",
+          "icon_maestro": "",
+          "icon_solo": "",
+          "icon_paypal": "shopify:\/\/shop_images\/icon-7.png",
+          "icon_amazon_payments": "",
+          "icon_apple_pay": "",
+          "icon_bitcoin": "",
+          "icon_cirrus": "",
+          "icon_dankort": "",
+          "icon_diners_club": "shopify:\/\/shop_images\/icon-6.png",
+          "icon_discover": "shopify:\/\/shop_images\/icon-4.png",
+          "icon_dogecoin": "",
+          "icon_dwolla": "",
+          "icon_forbrugsforeningen": "",
+          "icon_interac": "",
+          "icon_jcb": "shopify:\/\/shop_images\/icon-5.png",
+          "icon_litecoin": "",
+          "icon_stripe": "",
+          "icon_sage": "",
+          "icon_wallet": ""
+        }
+      },
+      "1578542087674": {
+        "type": "slideshow",
+        "blocks": {
+          "1578542087674-0": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/slide-show_df1-compressor_818ae758-43cf-4758-8eb8-868265dd1a3d.png",
+              "image_slide_mb": "",
+              "alignment": "left",
+              "sub_heading": "",
+              "heading": "Cosmour Doros",
+              "slide-des": "Detiam in sapien odio senenatis leo maecenas de milancelos cosmour modio.",
+              "button_slide": "Shop Now",
+              "link": "",
+              "product_1": "",
+              "coordinates_x_1": 36,
+              "coordinates_y_1": 48,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30,
+              "product_4": "",
+              "coordinates_x_4": 30,
+              "coordinates_y_4": 30
+            }
+          },
+          "1578560941689": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/slide-show_df2-compressor_8ef8ad92-f7ca-41f3-b5fa-c74770aca4f0.png",
+              "image_slide_mb": "",
+              "alignment": "left",
+              "sub_heading": "",
+              "heading": "Metropolis",
+              "slide-des": "Detiam in sapien odio senenatis leo maecenas de milancelos cosmour modio.",
+              "button_slide": "Shop Now",
+              "link": "",
+              "product_1": "",
+              "coordinates_x_1": 36,
+              "coordinates_y_1": 48,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30,
+              "product_4": "",
+              "coordinates_x_4": 30,
+              "coordinates_y_4": 30
+            }
+          }
+        },
+        "block_order": [
+          "1578542087674-0",
+          "1578560941689"
+        ],
+        "settings": {
+          "layout": "full",
+          "slide_height": "large",
+          "text_size": "large",
+          "show_arrows": false,
+          "show_arrows_below": true,
+          "show_dots": true,
+          "show_fadein": true,
+          "show_image_parallax": true,
+          "autoplay": true,
+          "show_content_bottom": false,
+          "video_height": "44.2%",
+          "autorotate_speed": 6,
+          "custom_color": false,
+          "color_sub_heading": "",
+          "color_heading": "",
+          "color_text": "",
+          "color_button_text": "",
+          "color_button_border": "",
+          "color_button_bg": "",
+          "color_button_text_hover": "",
+          "color_button_border_hover": "",
+          "color_button_bg_hover": "",
+          "color_arrow": "",
+          "color_arrow_border": "",
+          "color_dot": "",
+          "color_dot_border": ""
+        }
+      },
+      "1579057185264": {
+        "type": "home-instagram",
+        "blocks": {
+          "1585275589997": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/01-compressor.jpg"
+            }
+          },
+          "1585275593353": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/02-compressor.png"
+            }
+          },
+          "1585275594721": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/03-compressor.jpg"
+            }
+          },
+          "1585275595761": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/04-compressor.png"
+            }
+          },
+          "1585275597150": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/05-compressor.jpeg"
+            }
+          },
+          "1585275602050": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/06-compressor.png"
+            }
+          },
+          "1585275778135": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/07-compressor.jpg"
+            }
+          },
+          "1585275779372": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/08-compressor.png"
+            }
+          },
+          "1585275782149": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/09-compressor.jpg"
+            }
+          },
+          "1585275784691": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/10-compressor.png"
+            }
+          }
+        },
+        "block_order": [
+          "1585275589997",
+          "1585275593353",
+          "1585275594721",
+          "1585275595761",
+          "1585275597150",
+          "1585275602050",
+          "1585275778135",
+          "1585275779372",
+          "1585275782149",
+          "1585275784691"
+        ],
+        "settings": {
+          "instagram_option": "block",
+          "accessToken": "<script src=\"https:\/\/snapppt.com\/widgets\/widget_loader\/68697ddb-aaac-437e-9010-a83259efd3aa\/grid.js\" defer class=\"snapppt-widget\"><\/script>",
+          "instagram_layout": "layout_1",
+          "title": "#Jewel Image glalery",
+          "load_more": true,
+          "text_all": "View Gallery",
+          "text_all_link": "",
+          "custom_color": false,
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0,
+          "back_section": "",
+          "color_title": "",
+          "arrow_button": "",
+          "background_button": "",
+          "border_button": "",
+          "color_button": "",
+          "background_button_hover": "",
+          "border_button_hover": "",
+          "color_button_hover": ""
+        }
+      },
+      "1579145124276": {
+        "type": "rich-text",
+        "settings": {
+          "custom_color": false,
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0,
+          "color_title": "",
+          "color_text": "",
+          "section_title": "About Store",
+          "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis de amet eros. Nam suscipito mollis tellus vel malesuada duis danos an molestie.<\/p>"
+        }
+      },
+      "1579149252057": {
+        "type": "home-section-policy",
+        "blocks": {
+          "1579149252057-0": {
+            "type": "text",
+            "settings": {
+              "des_policy": "worldwide Delivery",
+              "link_policy": "shopify:\/\/collections\/dincidunteros"
+            }
+          },
+          "1579149252057-1": {
+            "type": "text",
+            "settings": {
+              "des_policy": "Free and easy returns",
+              "link_policy": "shopify:\/\/collections\/condimentum"
+            }
+          },
+          "1579149252057-2": {
+            "type": "text",
+            "settings": {
+              "des_policy": "rewards program",
+              "link_policy": "shopify:\/\/collections\/bracelets"
+            }
+          }
+        },
+        "block_order": [
+          "1579149252057-0",
+          "1579149252057-1",
+          "1579149252057-2"
+        ],
+        "settings": {
+          "enable": true,
+          "results_per_row_rc": "3",
+          "custom_color": false,
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0,
+          "background": "",
+          "color_text": ""
+        }
+      },
+      "1579156711820": {
+        "type": "slideshow",
+        "blocks": {
+          "1579156711820-0": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/new-banner-compressor.png",
+              "image_slide_mb": "",
+              "alignment": "right",
+              "sub_heading": "New Arrivals",
+              "heading": "Cosmo La Milancelos",
+              "slide-des": "Detiam in sapien odio senenatis leo maecenas de milancelos cosmour modio.",
+              "button_slide": "Shop the Collection",
+              "link": "",
+              "product_1": "",
+              "coordinates_x_1": 36,
+              "coordinates_y_1": 48,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30,
+              "product_4": "",
+              "coordinates_x_4": 30,
+              "coordinates_y_4": 30
+            }
+          }
+        },
+        "block_order": [
+          "1579156711820-0"
+        ],
+        "settings": {
+          "layout": "full",
+          "slide_height": "medium",
+          "text_size": "large",
+          "show_arrows": true,
+          "show_arrows_below": false,
+          "show_dots": true,
+          "show_fadein": false,
+          "show_image_parallax": true,
+          "autoplay": true,
+          "show_content_bottom": false,
+          "video_height": "44.2%",
+          "autorotate_speed": 5,
+          "custom_color": false,
+          "color_sub_heading": "",
+          "color_heading": "",
+          "color_text": "",
+          "color_button_text": "",
+          "color_button_border": "",
+          "color_button_bg": "",
+          "color_button_text_hover": "",
+          "color_button_border_hover": "",
+          "color_button_bg_hover": "",
+          "color_arrow": "",
+          "color_arrow_border": "",
+          "color_dot": "",
+          "color_dot_border": ""
+        }
+      },
+      "1579159366060": {
+        "type": "home-featured-collections",
+        "blocks": {
+          "1579159366060-0": {
+            "type": "collection_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cl-1-compressor.png",
+              "title": "Diamond Rings",
+              "sub_title": "",
+              "title_link": "Shop the Collection",
+              "link": ""
+            }
+          },
+          "1579159366060-1": {
+            "type": "collection_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cl-2-compressor.png",
+              "title": "Bracelets",
+              "sub_title": "",
+              "title_link": "Shop the Collection",
+              "link": ""
+            }
+          },
+          "1579159366060-2": {
+            "type": "collection_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cl-3-compressor.png",
+              "title": "Wedding Rings",
+              "sub_title": "",
+              "title_link": "Shop the Collection",
+              "link": ""
+            }
+          },
+          "1579159366060-3": {
+            "type": "collection_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cl-4-compressor.png",
+              "title": "Earrings",
+              "sub_title": "",
+              "title_link": "Shop the Collection",
+              "link": ""
+            }
+          },
+          "1579159488318": {
+            "type": "collection_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/coli-f-6-compressor.png",
+              "title": "swarovski pendants",
+              "sub_title": "",
+              "title_link": "Shop the Collection",
+              "link": ""
+            }
+          },
+          "1579159493351": {
+            "type": "collection_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cl-4-compressor.png",
+              "title": "Bracelets",
+              "sub_title": "",
+              "title_link": "Shop the Collection",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1579159366060-0",
+          "1579159366060-1",
+          "1579159366060-2",
+          "1579159366060-3",
+          "1579159488318",
+          "1579159493351"
+        ],
+        "settings": {
+          "enable": true,
+          "style_layout": "layout_2",
+          "collection_layout": "carousel",
+          "collection_results_per_row": "5",
+          "widget_title": "Featured Collections",
+          "custom_color": false,
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0,
+          "back_section": "#e2e4e8",
+          "color_title": "#2e3031",
+          "background_section": "#fff",
+          "color_title_items": "#282828",
+          "color_sub_title_items": "#969696",
+          "color_link_items": "#8b714a",
+          "border_hover_link_items": "#cabfb0",
+          "color_title_view_all": "#2e3031",
+          "border_color_title_view_all": "#c6c6c6",
+          "background_hover_view_all": "#2e3031",
+          "color_hover_view_all": "#fff",
+          "title_view_all_cl": "View All The Collections",
+          "link_view_all_col": ""
+        }
+      },
+      "1579164738978": {
+        "type": "slideshow",
+        "blocks": {
+          "1579165537764": {
+            "type": "video",
+            "settings": {
+              "video_link": "",
+              "video_mp4_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0286\/1239\/5148\/files\/halo-video.mp4?v=1579165799",
+              "alignment": "middle",
+              "sub_heading": "LookBook",
+              "heading": "Milancelos",
+              "slide-des": "Detiam in sapien odio senenatis leo maecenas nor de lorem cosmopolis quam odio.",
+              "button_slide": "Shop The Look",
+              "link": ""
+            }
+          },
+          "1579164738978-0": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/banner-new-3-compressor.png",
+              "image_slide_mb": "",
+              "alignment": "right",
+              "sub_heading": "LookBook",
+              "heading": "Milancelos",
+              "slide-des": "Detiam in sapien odio senenatis leo de lorem cosmopolis quam odio.",
+              "button_slide": "Shop The Look",
+              "link": "",
+              "product_1": "copy-of-naminos-dementus-a-dincidunto-cosmo-milancelos-1",
+              "coordinates_x_1": 27,
+              "coordinates_y_1": 33,
+              "product_2": "mauris-de-damet-porttitor-mante-le-cosmo-dametos",
+              "coordinates_x_2": 21,
+              "coordinates_y_2": 54,
+              "product_3": "mauris-cosmopolis-porttitor-a-lacos-dametos",
+              "coordinates_x_3": 37,
+              "coordinates_y_3": 73,
+              "product_4": "",
+              "coordinates_x_4": 37,
+              "coordinates_y_4": 84
+            }
+          }
+        },
+        "block_order": [
+          "1579165537764",
+          "1579164738978-0"
+        ],
+        "settings": {
+          "layout": "full",
+          "slide_height": "adapt",
+          "text_size": "large",
+          "show_arrows": true,
+          "show_arrows_below": false,
+          "show_dots": true,
+          "show_fadein": true,
+          "show_image_parallax": false,
+          "autoplay": false,
+          "show_content_bottom": true,
+          "video_height": "44.2%",
+          "autorotate_speed": 5,
+          "custom_color": false,
+          "color_sub_heading": "",
+          "color_heading": "",
+          "color_text": "",
+          "color_button_text": "",
+          "color_button_border": "",
+          "color_button_bg": "",
+          "color_button_text_hover": "",
+          "color_button_border_hover": "",
+          "color_button_bg_hover": "",
+          "color_arrow": "",
+          "color_arrow_border": "",
+          "color_dot": "",
+          "color_dot_border": ""
+        }
+      },
+      "1579168242940": {
+        "type": "home-brands",
+        "blocks": {
+          "1579168242940-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-1-compressor.jpg",
+              "link": ""
+            }
+          },
+          "1579168242940-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-2-compressor.jpg",
+              "link": ""
+            }
+          },
+          "1579168242940-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-3-compressor.jpg",
+              "link": ""
+            }
+          },
+          "1579168242940-3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-4-compressor.jpg",
+              "link": ""
+            }
+          },
+          "1579168242940-4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-5-compressor.jpg",
+              "link": ""
+            }
+          },
+          "1579168242940-5": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-3-compressor.jpg",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1579168242940-0",
+          "1579168242940-1",
+          "1579168242940-2",
+          "1579168242940-3",
+          "1579168242940-4",
+          "1579168242940-5"
+        ],
+        "settings": {
+          "custom_color": false,
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0,
+          "brand_title_color": "#34313a",
+          "brand_title": "Top Brands",
+          "brand_rows": "5"
+        }
+      },
+      "1580698680054": {
+        "type": "home-featured-blog",
+        "blocks": {
+          "1580700069922": {
+            "type": "featured_article_home",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/blog-home-1-compressor.png",
+              "featured_article": "blog\/commodo-de-quis-magna-rutrum-delos-placerat-interdus"
+            }
+          },
+          "1580718403310": {
+            "type": "featured_article_home",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/image-review-compressor.png",
+              "featured_article": "blog\/loremous-de-comodous-trending-now"
+            }
+          },
+          "1580718418804": {
+            "type": "featured_article_home",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-content-compressor.png",
+              "featured_article": "blog\/saliquam-mollis-accumsan-mios-delites-hendreritus"
+            }
+          }
+        },
+        "block_order": [
+          "1580700069922",
+          "1580718403310",
+          "1580718418804"
+        ],
+        "settings": {
+          "layout": "full",
+          "title": "From Our Blog",
+          "title_button": "View All Articles",
+          "blog_show_date": true,
+          "blog_show_author": true,
+          "custom_color": false,
+          "back_section": "",
+          "color_heading_section": "",
+          "color_article_title": "",
+          "color_date_author": "",
+          "color_excerpt": "",
+          "color_btn": "",
+          "back_button": "",
+          "color_button_hover": "",
+          "back_button_hover": "",
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0
+        }
+      },
+      "faq-page": {
+        "type": "faq-page",
+        "blocks": {
+          "1580961073805": {
+            "type": "pre_sale_questions",
+            "settings": {
+              "question_faqs": "Will your template be fully compatible with Shopify?",
+              "answer_faqs": "Yes it is."
+            }
+          },
+          "1580961100431": {
+            "type": "pre_sale_questions",
+            "settings": {
+              "question_faqs": "Do you offer free trials?",
+              "answer_faqs": "No, we don't"
+            }
+          },
+          "1580961128940": {
+            "type": "theme_questions",
+            "settings": {
+              "question_faqs_theme": "I cannot upload the theme to my Shopify store \/ Shopify alerts that the file is too big to upload, what is the problem?",
+              "answer_faqs_theme": "<p>Please make sure that you follow below steps:<\/p>\n\n<p>1\/ Download the package from themeforest.net (the file is in zip format)\n<br>\n<br>\n2\/ Extract the file you've just downloaded.\n<br>\n<br>\n3\/ Find this file: Jewel-1.0.0-sections-ready.zip in the folder Jewel Sections Ready 1.0.0, then you just need to upload Jewel-1.0.0-sections-ready.zip file to your Shopify store.\n<\/p>"
+            }
+          },
+          "1580961149670": {
+            "type": "theme_questions",
+            "settings": {
+              "question_faqs_theme": "What I have to do when I need your support?",
+              "answer_faqs_theme": "<p>To save your time and reach our support quickly, please follow below steps:\n<\/p><p>1\/ Create a staff account for us (with Themes permission and Settings permission) <a href=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" target=\"_blank\" rel=\"noopener noreferrer\">http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members<\/a><\/p>\n<p>2\/ Capture screenshot or video for the issue you get.<\/p>\n<p>3\/ Specify which template and version you are using.<\/p>\n<p>4\/ Describe clearly how to reproduce the issue.<\/p>\n<p>5\/ Send all information (staff account, screenshot, video, template name and version, description of the issues, link) to <a href=\"mailto:support@halothemes.com\" target=\"_blank\" style=\"color: #e66f65;\" rel=\"noopener noreferrer\">support@halothemes.com<\/a><\/p>\n<p><\/p>"
+            }
+          },
+          "1580980938165": {
+            "type": "theme_questions",
+            "settings": {
+              "question_faqs_theme": "Would assistance be available to upload the template if needed?",
+              "answer_faqs_theme": "Yes, we will assist you to install the template if needed"
+            }
+          },
+          "1580980952051": {
+            "type": "theme_questions",
+            "settings": {
+              "question_faqs_theme": "Do you guys offer customisation services for your themes?",
+              "answer_faqs_theme": "Yes, we do. Please send your customisation requests to support@halothemes.com, we will give you our quote. Thank you."
+            }
+          },
+          "1580980960332": {
+            "type": "theme_questions",
+            "settings": {
+              "question_faqs_theme": "Can I turn on\/off Lazy Loading Image \/ Item Animation \/ Fade Up on the page?",
+              "answer_faqs_theme": "Yes. You can turn on\/off the animation in the Setting page."
+            }
+          },
+          "1580980973603": {
+            "type": "theme_questions",
+            "settings": {
+              "question_faqs_theme": "Can I turn on\/off some blocks on the page?",
+              "answer_faqs_theme": "Yes. You can turn on\/off almost any blocks on the page (featured products, slideshow, banners, related products, recent products,...)."
+            }
+          },
+          "1580980995453": {
+            "type": "theme_questions",
+            "settings": {
+              "question_faqs_theme": "I want to have the dropdown cart displayed automatically every time clients hover over it (instead of clicking on it). Is it possible?",
+              "answer_faqs_theme": "Yes, we have a setting for you to switch between these two options: Display on Hover and Display on Click."
+            }
+          },
+          "1580981002935": {
+            "type": "theme_questions",
+            "settings": {
+              "question_faqs_theme": "What is included in the theme package?",
+              "answer_faqs_theme": "The theme package includes theme source, Photoshop design files, sample data and manual guide."
+            }
+          },
+          "1580981013738": {
+            "type": "theme_questions",
+            "settings": {
+              "question_faqs_theme": "I notice that the images used in the theme are all portrait. Will that be a problem if I use square images for our products? How will they be displayed in the theme?",
+              "answer_faqs_theme": "That is not a problem. You just need to modify the width\/height ratio in theme settings."
+            }
+          },
+          "1580981028788": {
+            "type": "theme_questions",
+            "settings": {
+              "question_faqs_theme": "Does the theme support image resizing and cropping?",
+              "answer_faqs_theme": "Yes. Normally, the theme will resize images to a default size (based on your width\/height ratio setting). We also have Crop setting if you don’t want to scale the image."
+            }
+          },
+          "1580981045058": {
+            "type": "theme_questions",
+            "settings": {
+              "question_faqs_theme": "Can I add borders around our product images?",
+              "answer_faqs_theme": "Yes, you can. Just simply follow the instructions in our Manual Guide, you will be able to easily create a multi-level menu."
+            }
+          },
+          "1580981054165": {
+            "type": "theme_questions",
+            "settings": {
+              "question_faqs_theme": "Do you guys provide customer support during weekends \/ holidays?",
+              "answer_faqs_theme": "Normally we don't provide support during weekends, except for urgent cases. In these cases, you only need to mark “Urgent” in your email, we will get back to you ASAP."
+            }
+          },
+          "1580981065819": {
+            "type": "theme_questions",
+            "settings": {
+              "question_faqs_theme": "Does the theme support Variant Image?",
+              "answer_faqs_theme": "Yes, it does. Please check it out here to see how it works: https:\/\/sneake-demo.myshopify.com\/products\/sample-proin-de-corper-nulla-dan-melementum-1?variant=10214763888684"
+            }
+          }
+        },
+        "block_order": [
+          "1580961073805",
+          "1580961100431",
+          "1580961128940",
+          "1580961149670",
+          "1580980938165",
+          "1580980952051",
+          "1580980960332",
+          "1580980973603",
+          "1580980995453",
+          "1580981002935",
+          "1580981013738",
+          "1580981028788",
+          "1580981045058",
+          "1580981054165",
+          "1580981065819"
+        ],
+        "settings": {
+          "enable_sidebar": true,
+          "back_sidebar": "#fafafa",
+          "title_sidebar": "Need Help?",
+          "color_title_sidebar": "#8b714a",
+          "color_border_pre_sidebar": "#f2e3ca",
+          "title_message": "Message Us",
+          "title_contact_us": "Contact Us",
+          "color_message": "#787878",
+          "color_icon": "#5a5a5a",
+          "color_border_sr": "#cacaca",
+          "des_faqs": "Below FAQ are some common concerns of our clients before purchasing the theme,\nif you have other questions, please just send it to \n<a href=\"mailto:support@halothemes.com\">support@halothemes.com<\/a>",
+          "color_des": "#787878",
+          "contact_text": "Unable to find satisfactory answers ?",
+          "contact_link_text": "Contact Support",
+          "color_contact_text": "#787878",
+          "contact_link": "",
+          "color_button": "#fff",
+          "color_back_bt": "#f4a884",
+          "title_pre_questions": "Pre-Sales Questions",
+          "color_title_pre": "#8b714a",
+          "color_border_pre": "#f2e3ca",
+          "title_theme_questions": "Theme Questions",
+          "color_title_theme": "#8b714a",
+          "color_border_theme": "#f2e3ca",
+          "color_question": "#787878",
+          "font_size_qs": "12",
+          "icon_answer": "Answer",
+          "bg_icon_answer": "#f2e3ca",
+          "color_icon_answer": "#8b714a",
+          "color_question_answer": "#787878",
+          "font_size_answer": "12",
+          "color_question_link": "#8b714a"
+        }
+      },
+      "contact-page": {
+        "type": "contact-page",
+        "settings": {
+          "title_contact_us": "DROP US A LINE",
+          "des_us": "Have a question or comment? Use the form below to send us a message \nor contact us by mail at: <a href=\"stores@domain.com\">stores@domain.com<\/a>",
+          "title_contact_insfor": "MAIN STORE",
+          "title_store_locator": "Store Locator",
+          "link_store_locator": "",
+          "des_us_store": "<p>We'd love to hear from you. Please use the form to send <br>us your message or ideaas. Or simply pop in for a \n cup of <br>fresh tea and a cookie:<\/p>\n<p>1669 Ave Dermentum, Onsectetur Adipiscing <br>\nTortor Sagittis, CA 880986,  <br>\nUnited States<\/p>\n\n<p class=\"addr\">Email: <a href=\"mailto:stores@domain.com\">stores@domain.com<\/a><br>\nToll-free: 1900 000 JEWEL<\/p>\n<div class=\"open-hours\">\n  <h4>Opening Hours:<\/h4>\n   <p>Monday to Saturday: 9am - 10pm\n  <br>Sundays: 10am - 6pm\n<\/p>\n<\/div>"
+        }
+      },
+      "store-locator-template": {
+        "type": "store-locator-template",
+        "blocks": {
+          "1581061132107": {
+            "type": "item",
+            "settings": {
+              "content": "<h4>Jewel Store Skyline<\/h4><p>2905 East Skyline Drive Tuscon,<br>AZ 85718, United States<\/p><p>Toll-Free: 1900 000 JEWEL<\/p>",
+              "name": "",
+              "lat": "42.3247425",
+              "lng": "-120.9321855"
+            }
+          },
+          "1581061272117": {
+            "type": "item",
+            "settings": {
+              "content": "<h4>Jewel Store Arizona<\/h4><p>5000 Arizona Mills Circle Tempe, <br>AZ 85282, United States<\/p><p>Toll-Free: 1900 000 JEWEL<\/p>",
+              "name": "",
+              "lat": "33.3891387",
+              "lng": "-111.9767654"
+            }
+          },
+          "1581061421363": {
+            "type": "item",
+            "settings": {
+              "content": "<h4>Jewel StoreCameback<\/h4><p> 7014 East CameLback Rd. Scottsdale, <br>AZ 85251, United States<\/p><p>Toll-Free: 1900 000 JEWEL<\/p>",
+              "name": "",
+              "lat": "36.502904",
+              "lng": "-101.9316692"
+            }
+          },
+          "1581061509406": {
+            "type": "item",
+            "settings": {
+              "content": "<h4>Jewel Store Broadway<\/h4><p> 5870 East Broadway Bvd. Tucson,  <br>AZ 85711, United States<\/p><p>Toll-Free: 1900 000 JEWEL<\/p>",
+              "name": "",
+              "lat": "32.2194629",
+              "lng": "-110.86807"
+            }
+          },
+          "1581061630181": {
+            "type": "item",
+            "settings": {
+              "content": "<h4>Jewel Store Fancico<\/h4><p> 2905 East Skyline Drive Tuscon,<br>AZ 85718, United States<\/p><p>Toll-Free: 1900 000 JEWEL<\/p>",
+              "name": "",
+              "lat": "40.3250511",
+              "lng": "-97.9306387"
+            }
+          },
+          "1581061701912": {
+            "type": "item",
+            "settings": {
+              "content": "<h4>Jewel Store Linenew<\/h4><p>2905 East Skyline Drive Tuscon,<br>AZ 85718, United States<\/p><p>Toll-Free: 1900 000 JEWEL<\/p>",
+              "name": "",
+              "lat": "35.474318",
+              "lng": "-97.5165599"
+            }
+          }
+        },
+        "block_order": [
+          "1581061132107",
+          "1581061272117",
+          "1581061421363",
+          "1581061509406",
+          "1581061630181",
+          "1581061701912"
+        ],
+        "settings": {
+          "display_find_a_store": true,
+          "title_find": "Find Store Location Near You",
+          "des_find": "We have 05 stores throughout \"Country\" and more in works.\nComplete the search details below to find a Cospora store near you."
+        }
+      },
+      "about-us-slideshow": {
+        "type": "about-us-slideshow",
+        "blocks": {
+          "1581309432621": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/slide-image-1-compressor.png",
+              "sub_heading": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" version=\"1.1\" id=\"Capa_1\" x=\"0px\" y=\"0px\" width=\"422.324px\" height=\"422.324px\" viewbox=\"0 0 422.324 422.324\" style=\"enable-background:new 0 0 422.324 422.324;\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\"> <g> \t<g id=\"Layer_8_76_\"> \t\t<path d=\"M420.657,139.528L350.385,23.729c-2.102-3.46-5.855-5.567-9.907-5.567H81.848c-4.044,0-7.795,2.107-9.901,5.567    L1.675,139.528c-0.06,0.112-0.071,0.229-0.134,0.331c-0.47,0.839-0.851,1.737-1.103,2.684c-0.037,0.153-0.096,0.293-0.128,0.433    C0.118,143.805,0,144.655,0,145.547c0,0.167,0.039,0.326,0.053,0.493c0.01,0.246,0.043,0.471,0.065,0.711    c0.101,0.919,0.299,1.822,0.593,2.673c0.052,0.134,0.08,0.281,0.129,0.411c0.394,0.984,0.936,1.882,1.57,2.706    c0.066,0.09,0.096,0.196,0.156,0.278l199.501,246.938l0.09,0.108c0.049,0.061,0.112,0.093,0.161,0.143    c0.539,0.646,1.16,1.226,1.838,1.752c0.033,0.01,0.056,0.056,0.091,0.086c0.091,0.068,0.173,0.11,0.269,0.165    c0.936,0.656,1.956,1.248,3.116,1.608c0.872,0.274,1.754,0.34,2.626,0.396c0.304,0.032,0.582,0.146,0.885,0.146    c0.007,0,0.007,0,0.011,0l0,0l0,0c0.068,0,0.124-0.033,0.187-0.033c1.018-0.02,2.004-0.179,2.956-0.459    c0.124-0.032,0.252-0.022,0.381-0.069c0.013,0,0.022,0,0.032-0.014c0.015,0,0.015-0.01,0.036-0.01    c0.265-0.11,0.517-0.229,0.777-0.346c0.311-0.115,0.612-0.246,0.908-0.388c0.36-0.187,0.7-0.416,1.032-0.645    c0.224-0.139,0.453-0.275,0.667-0.434c0.111-0.083,0.225-0.135,0.331-0.229c0.514-0.438,0.984-0.909,1.423-1.413    c0.076-0.104,0.196-0.164,0.275-0.276l0.099-0.101l199.49-246.943C422.818,149.022,423.172,143.709,420.657,139.528z     M236.141,41.32l37.049,92.635H149.141l37.052-92.635H236.141z M88.37,41.32h72.876l-37.052,92.635H32.146L88.37,41.32z     M35.823,157.118h87.76l57.654,179.991L35.823,157.118z M211.163,354.618l-63.262-197.5h126.521L211.163,354.618z     M241.096,337.118l57.644-180h87.758L241.096,337.118z M298.133,133.96L261.08,41.325h72.876l56.22,92.635H298.133z\"><\/path> \t<\/g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+              "heading": "We're Passionate <br> About Quality Craftsmanship",
+              "slide-des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis de amet eros."
+            }
+          },
+          "1581330146753": {
+            "type": "image",
+            "settings": {
+              "image_slide": "",
+              "sub_heading": "",
+              "heading": "Slideshow Heading",
+              "slide-des": "Detiam in sapien odio senenatis leo maecenas de milancelos cosmour modio."
+            }
+          },
+          "1581331520951": {
+            "type": "image",
+            "settings": {
+              "image_slide": "",
+              "sub_heading": "",
+              "heading": "Slideshow Heading",
+              "slide-des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis de amet eros."
+            }
+          }
+        },
+        "block_order": [
+          "1581309432621",
+          "1581330146753",
+          "1581331520951"
+        ],
+        "settings": {
+          "layout": "full",
+          "slide_height": "adapt",
+          "text_size": "large",
+          "show_arrows": false,
+          "show_dots": true,
+          "show_fadein": true,
+          "show_image_parallax": false,
+          "autoplay": false,
+          "autorotate_speed": 5,
+          "custom_color": false,
+          "color_sub_heading": "",
+          "color_heading": "",
+          "color_text": "",
+          "color_arrow": "",
+          "color_arrow_border": "",
+          "color_dot": "",
+          "color_dot_border": ""
+        }
+      },
+      "about-us-content": {
+        "type": "about-us-content",
+        "blocks": {
+          "1581386714805": {
+            "type": "description_content",
+            "settings": {
+              "title_des_1": "Our Vision",
+              "des_des_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum quis de amet eros pellentesque aliquet an durna.",
+              "title_des_2": "Our Mission",
+              "des_des_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum quis de amet eros pellentesque aliquet an durna."
+            }
+          },
+          "1581334077351": {
+            "type": "top_content",
+            "settings": {
+              "display_banner": true,
+              "banner": "shopify:\/\/shop_images\/banner-content-compressor.png",
+              "alignment": "left",
+              "title_banner": "What We Do",
+              "sub_title_banner": "Phasellus lorem malesuada pulvinar de milance",
+              "content_banner": "Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis duto an risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elit a lorem tempus scelerisque blandit est cursus...",
+              "title_botton_banner": "Shop Now",
+              "link_button": ""
+            }
+          },
+          "1581415104225": {
+            "type": "bottom_content",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/ab-1-compressor.png",
+              "title": "Anne Le",
+              "subtitle": "Founder & CEO",
+              "des_comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis de amet eros. Nam suscipito mollis tellus metropolis veil malesuada duis danos an molestie...",
+              "enable_sc": true,
+              "social_facebook_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506",
+              "social_messenger_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506",
+              "social_linkedin_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506",
+              "social_email_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506"
+            }
+          },
+          "1581415196891": {
+            "type": "bottom_content",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/ab-2-compressor.png",
+              "title": "Annie Spratt",
+              "subtitle": "Lead Jewelry Designer",
+              "des_comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis.",
+              "enable_sc": true,
+              "social_facebook_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506",
+              "social_messenger_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506",
+              "social_linkedin_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506",
+              "social_email_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506"
+            }
+          },
+          "1581415239930": {
+            "type": "bottom_content",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/ab-3-compressor.png",
+              "title": "Jonnelle Y.",
+              "subtitle": "Product Manager",
+              "des_comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis de amet eros. Nam suscipito mollis tellus metropolis veil malesuada duis danos an molestie...",
+              "enable_sc": true,
+              "social_facebook_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506",
+              "social_messenger_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506",
+              "social_linkedin_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506",
+              "social_email_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506"
+            }
+          },
+          "1581415293775": {
+            "type": "bottom_content",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/ab-1-compressor.png",
+              "title": "Anne Le",
+              "subtitle": "Product Manager",
+              "des_comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis de amet eros. Duis danos an molestie...",
+              "enable_sc": true,
+              "social_facebook_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506",
+              "social_messenger_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506",
+              "social_linkedin_link": "",
+              "social_email_link": "http:\/\/preview.themeforest.net\/item\/ella-responsive-shopify-template\/full_screen_preview\/9691007?_ga=2.96261212.1356048181.1581418137-2128903961.1567048506"
+            }
+          },
+          "1581474561123": {
+            "type": "brand_image",
+            "settings": {
+              "br_image": "shopify:\/\/shop_images\/bb-r1-compressor.png",
+              "link_br": ""
+            }
+          },
+          "1581474576936": {
+            "type": "brand_image",
+            "settings": {
+              "br_image": "shopify:\/\/shop_images\/bb-r2-compressor.png",
+              "link_br": ""
+            }
+          },
+          "1581474580866": {
+            "type": "brand_image",
+            "settings": {
+              "br_image": "shopify:\/\/shop_images\/br-3-compressor.png",
+              "link_br": ""
+            }
+          },
+          "1581474584323": {
+            "type": "brand_image",
+            "settings": {
+              "br_image": "shopify:\/\/shop_images\/bb-r4-compressor.png",
+              "link_br": ""
+            }
+          },
+          "1581474586932": {
+            "type": "brand_image",
+            "settings": {
+              "br_image": "shopify:\/\/shop_images\/bb-r3-compressor.png",
+              "link_br": ""
+            }
+          }
+        },
+        "block_order": [
+          "1581386714805",
+          "1581334077351",
+          "1581415104225",
+          "1581415196891",
+          "1581415239930",
+          "1581415293775",
+          "1581474561123",
+          "1581474576936",
+          "1581474580866",
+          "1581474584323",
+          "1581474586932"
+        ],
+        "settings": {
+          "display_brand_img": true,
+          "brand_heading": "As Seen In",
+          "brand_rows": "5",
+          "display_bottom_content": true,
+          "bot_heading": "Who We Are",
+          "bot_subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis de amet eros.",
+          "collection_results_per": "3",
+          "custom_color": false,
+          "title_color": "",
+          "des_color": "",
+          "line_color": "",
+          "sub_color": "",
+          "dost_color": "",
+          "back_color": "",
+          "back_btn_color": "",
+          "btn_text_color": "",
+          "btn_bor_color": ""
+        }
+      },
+      "customer-review-us": {
+        "type": "customer-review-us",
+        "blocks": {
+          "1581492111912": {
+            "type": "customer_review_us",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/image-review-compressor.png",
+              "top_title_review": "Customer Reviews",
+              "title_review": "Customer Review Title Goes Here",
+              "has_purchased": "has purchased:",
+              "sub_title_review": "Class mapten tacitos sociosques a madis",
+              "rating": "star5",
+              "des_review": "Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis duto an risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elit a lorem tempus scelerisque blandit est cursus...",
+              "title_button": "Read All Reviews",
+              "link_rv": ""
+            }
+          },
+          "1581495809181": {
+            "type": "customer_review_us",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-content-compressor.png",
+              "top_title_review": "Customer Reviews",
+              "title_review": "Customer Review Title Goes Here",
+              "has_purchased": "has purchased:",
+              "sub_title_review": "Class mapten tacitos sociosques a madis",
+              "rating": "star4",
+              "des_review": "Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis duto an risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elit a lorem tempus scelerisque blandit est cursus...",
+              "title_button": "Read All Reviews",
+              "link_rv": ""
+            }
+          },
+          "1581495836514": {
+            "type": "customer_review_us",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/blog-home-1-compressor.png",
+              "top_title_review": "Customer Reviews",
+              "title_review": "Customer Review Title Goes Here",
+              "has_purchased": "has purchased:",
+              "sub_title_review": "Class mapten tacitos sociosques a madis",
+              "rating": "star3",
+              "des_review": "Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis duto an risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elit a lorem tempus scelerisque blandit est cursus...",
+              "title_button": "Read All Reviews",
+              "link_rv": ""
+            }
+          }
+        },
+        "block_order": [
+          "1581492111912",
+          "1581495809181",
+          "1581495836514"
+        ],
+        "settings": {
+          "layout": "full",
+          "custom_color": false,
+          "back_section": "",
+          "color_heading_section": "",
+          "color_article_title": "",
+          "color_sub_title": "",
+          "color_des": "",
+          "color_btn": "",
+          "back_button": "",
+          "color_button_hover": "",
+          "back_button_hover": ""
+        }
+      },
+      "sidebar-blog": {
+        "type": "sidebar-blog",
+        "blocks": {
+          "1581560156040": {
+            "type": "search",
+            "settings": {
+              "enable_search": true
+            }
+          },
+          "1581563761610": {
+            "type": "collection_1",
+            "settings": {
+              "title": "Categories",
+              "collection_id": "little_category",
+              "link_list": "categories-blog"
+            }
+          },
+          "1581563953536": {
+            "type": "recent_post",
+            "settings": {
+              "title": "Recent Articles",
+              "number": 3
+            }
+          },
+          "1581564021879": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/blog-sidebar-1-compressor_1.png",
+              "link": "",
+              "image_2": "shopify:\/\/shop_images\/blog-sidebar-2-compressor.png",
+              "link_2": ""
+            }
+          },
+          "1581560171516": {
+            "type": "quote",
+            "settings": {
+              "title": "Custom CMS Block",
+              "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... or whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from Theme Editor.<\/p>",
+              "button_title": "Button",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1581560156040",
+          "1581563761610",
+          "1581563953536",
+          "1581564021879",
+          "1581560171516"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "position_sidebar": "left"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "blog_post_one_page": 3,
+          "blog_show_date": true,
+          "blog_show_author": true,
+          "blog_show_tag": false
+        }
+      },
+      "des-blog": {
+        "type": "des-blog",
+        "settings": {
+          "des_blog": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis de amet eros. Nam suscipito mollis tellus metropolis veil malesuada duis danos an molestie..."
+        }
+      },
+      "sidebar-filter": {
+        "type": "sidebar-filter",
+        "blocks": {
+          "1582099496052": {
+            "type": "collection_1",
+            "settings": {
+              "title": "Categories",
+              "collection_id": "little_category",
+              "link_list": "categories-collections"
+            }
+          },
+          "1582163464346": {
+            "type": "filter_color",
+            "settings": {
+              "title": "Color",
+              "color_text_1": "Yellow",
+              "color_img_1": "",
+              "color_text_2": "Olive",
+              "color_img_2": "shopify:\/\/shop_images\/olive.png",
+              "color_text_3": "Orange",
+              "color_img_3": "shopify:\/\/shop_images\/orange.png",
+              "color_text_4": "Gray",
+              "color_img_4": "shopify:\/\/shop_images\/gray.png",
+              "color_text_5": "Skyblue",
+              "color_img_5": "shopify:\/\/shop_images\/skyblue.png",
+              "color_text_6": "Green",
+              "color_img_6": "shopify:\/\/shop_images\/green.png",
+              "color_text_7": "Purple",
+              "color_img_7": "",
+              "color_text_8": "",
+              "color_img_8": "",
+              "color_text_9": "",
+              "color_img_9": "",
+              "color_text_10": "",
+              "color_img_10": "",
+              "color_text_11": "",
+              "color_img_11": "",
+              "color_text_12": "",
+              "color_img_12": "",
+              "color_text_13": "",
+              "color_img_13": "",
+              "color_text_14": "",
+              "color_img_14": "",
+              "color_text_15": "",
+              "color_img_15": "",
+              "color_text_16": "",
+              "color_img_16": "",
+              "color_text_17": "",
+              "color_img_17": "",
+              "color_text_18": "",
+              "color_img_18": "",
+              "color_text_19": "",
+              "color_img_19": "",
+              "color_text_20": "",
+              "color_img_20": ""
+            }
+          },
+          "1582105788732": {
+            "type": "filter_text",
+            "settings": {
+              "title": "Size",
+              "list_tags": "XSmall,Small,Medium,Large,XLarge",
+              "enable_view_all": false,
+              "view_title": "View All",
+              "link_view_all": ""
+            }
+          },
+          "1582106259194": {
+            "type": "filter_text",
+            "settings": {
+              "title": "Price",
+              "list_tags": "Under $690.00,$690.00 - $1.290.00,$1.890.00 - $2.690.00,$2.690.00 - $3.490.00,Above $3.490.00",
+              "enable_view_all": false,
+              "view_title": "View All",
+              "link_view_all": ""
+            }
+          },
+          "1582107414130": {
+            "type": "filter_text",
+            "settings": {
+              "title": "brand",
+              "list_tags": "Dincidunteros,Nectellus,Solutmades,Loremous Comodous,Namdos Hempus,Durpis Metus,Bibendumetos,mango,Sodling,Daventry Meers,Benjamin Button",
+              "enable_view_all": true,
+              "view_title": "View All",
+              "link_view_all": "shopify:\/\/collections\/all"
+            }
+          },
+          "1583484066214": {
+            "type": "filter_text",
+            "settings": {
+              "title": "Product Type",
+              "list_tags": "Dincidunteros, Nectellus",
+              "enable_view_all": false,
+              "view_title": "View All",
+              "link_view_all": ""
+            }
+          },
+          "1582098699828": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/blog-sidebar-1-compressor_1.png",
+              "link": "",
+              "image_2": "shopify:\/\/shop_images\/blog-sidebar-2-compressor.png",
+              "link_2": ""
+            }
+          },
+          "1582099102333": {
+            "type": "product_carousel",
+            "settings": {
+              "title": "Featured Products",
+              "collection": "frontpage",
+              "number": 3
+            }
+          },
+          "1582099620182": {
+            "type": "quote",
+            "settings": {
+              "title": "Custom CMS Block",
+              "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... or whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from Theme Editor.<\/p>",
+              "button_title": "Button",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1582099496052",
+          "1582163464346",
+          "1582105788732",
+          "1582106259194",
+          "1582107414130",
+          "1583484066214",
+          "1582098699828",
+          "1582099102333",
+          "1582099620182"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "position_sidebar": "left"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "layout": "grid",
+          "column": 3,
+          "rows": 18,
+          "sort_enable": true,
+          "enable_button_show_more": true
+        }
+      },
+      "header-default": {
+        "type": "header-default",
+        "settings": {
+          "message": true,
+          "message_text": "Free Shipping on all orders over $399",
+          "message_link": "",
+          "header_middle": true,
+          "enable_free_shopping": true,
+          "free_shipping_text": "Sale upto 70% off on selected items",
+          "enable_header_search": true,
+          "enable_header_account": true,
+          "enable_header_wishlist": true,
+          "enable_header_cart": true,
+          "logo_type": "image",
+          "logo_text": "Jewel",
+          "logo_text_size": "25px",
+          "logo_text_size_mb": "12px",
+          "logo_pc_hm": "shopify:\/\/shop_images\/jewel-w-logo.png",
+          "logo_pc": "shopify:\/\/shop_images\/jewel-g-logo.png",
+          "max_height_logo_pc": "48px",
+          "logo": "shopify:\/\/shop_images\/logo-2-compressor.png",
+          "max_height_logo_mb": "30px"
+        }
+      },
+      "1582709184921": {
+        "type": "home-section-products",
+        "settings": {
+          "title": "New Products",
+          "title_view_all": "Shop More",
+          "link_view_all": "",
+          "collection": "new-products",
+          "collection_layout_style": "style_1",
+          "collection_layout": "carousel",
+          "column": 5,
+          "rows": 6,
+          "carousel-arrows": true,
+          "carousel-dots": false,
+          "custom-color": false,
+          "background_section": "",
+          "color_heading_custom": "",
+          "border_layout": "",
+          "back_view_all": "",
+          "color_view_all": "",
+          "padding-top": 30,
+          "padding-bottom": 52
+        }
+      },
+      "1582709416643": {
+        "type": "home-section-products",
+        "settings": {
+          "title": "Featured Products",
+          "title_view_all": "Shop More",
+          "link_view_all": "",
+          "collection": "featured-products-1",
+          "collection_layout_style": "style_1",
+          "collection_layout": "carousel",
+          "column": 5,
+          "rows": 6,
+          "carousel-arrows": true,
+          "carousel-dots": false,
+          "custom-color": false,
+          "background_section": "",
+          "color_heading_custom": "",
+          "border_layout": "",
+          "back_view_all": "",
+          "color_view_all": "",
+          "padding-top": 30,
+          "padding-bottom": 52
+        }
+      },
+      "lookbook-content": {
+        "type": "lookbook-content",
+        "blocks": {
+          "1582779208674": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_image": "shopify:\/\/shop_images\/image-look3-compressor.png",
+              "product_1": "copy-of-class-mapten-tacitos-sociosques-delos-madis",
+              "coordinates_x_1": 36,
+              "coordinates_y_1": 48,
+              "product_2": "copy-of-naminos-dementus-a-dincidunto-cosmo-milancelos-1",
+              "coordinates_x_2": 50,
+              "coordinates_y_2": 48,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1582795594760": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_image": "shopify:\/\/shop_images\/image-look1-compressor.png",
+              "product_1": "copy-of-naminos-dementus-a-dincidunto-cosmo-milancelos",
+              "coordinates_x_1": 54,
+              "coordinates_y_1": 61,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1582795707121": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_image": "shopify:\/\/shop_images\/image-look2-compressor.png",
+              "product_1": "copy-of-mauris-de-damet-porttitor-mante-le-cosmo-dametos-2",
+              "coordinates_x_1": 56,
+              "coordinates_y_1": 54,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          }
+        },
+        "block_order": [
+          "1582779208674",
+          "1582795594760",
+          "1582795707121"
+        ],
+        "settings": {
+          "display_share": true,
+          "display_btn": true,
+          "back_button_point": "#8b714a",
+          "color_button_point": "#fff",
+          "btn_text": "Shop LookBook",
+          "btn_link": ""
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "1583202552275": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn15-compressor.png",
+              "collection": "dincidunteros"
+            }
+          },
+          "1583208870088": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn9-compressor.png",
+              "collection": "loremous-comodous"
+            }
+          },
+          "1583208875675": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn3-compressor.png",
+              "collection": "namdos-hempus"
+            }
+          },
+          "1583223370560": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn4-compressor.png",
+              "collection": "solutmades"
+            }
+          },
+          "1583223390670": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn5-compressor.png",
+              "collection": "pellentes-habitanto"
+            }
+          },
+          "1583223416641": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn7-compressor.png",
+              "collection": "bibendumetos"
+            }
+          },
+          "1583223436456": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn8-compressor.png",
+              "collection": "montemous"
+            }
+          },
+          "1583223455911": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn17-compressor.png",
+              "collection": "loremouticas"
+            }
+          },
+          "1583223484479": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn10-compressor.png",
+              "collection": "comodianos"
+            }
+          },
+          "1583223520688": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn2-compressor.png",
+              "collection": "metropolitanos"
+            }
+          },
+          "1583223549072": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn12-compressor.png",
+              "collection": "comodianos"
+            }
+          },
+          "1583223575894": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn13-compressor.png",
+              "collection": "milancelos"
+            }
+          },
+          "1583223598943": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn14-compressor.png",
+              "collection": "lobortis"
+            }
+          },
+          "1583223619912": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn11-compressor.png",
+              "collection": "condimentum"
+            }
+          },
+          "1583223643414": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/bn16-compressor.png",
+              "collection": "de-fermentumo"
+            }
+          }
+        },
+        "block_order": [
+          "1583202552275",
+          "1583208870088",
+          "1583208875675",
+          "1583223370560",
+          "1583223390670",
+          "1583223416641",
+          "1583223436456",
+          "1583223455911",
+          "1583223484479",
+          "1583223520688",
+          "1583223549072",
+          "1583223575894",
+          "1583223598943",
+          "1583223619912",
+          "1583223643414"
+        ],
+        "settings": {
+          "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis de amet eros. Nam suscipito mollis tellus vel malesuada duis danos an molestie.<\/p>",
+          "display_type": "selected",
+          "sort": "alphabetical",
+          "column": 3,
+          "col_list_show_first": 12,
+          "display_infinite_scrolling_col": true,
+          "col_list_limit": 3,
+          "title_show_more": "Show More",
+          "enable_des_col": false,
+          "custom_color_active": false,
+          "color_des_col": "",
+          "back_button": "",
+          "color_button": "",
+          "color_title": "",
+          "color_count_products": "",
+          "border_show_more": "",
+          "color_show_more": "",
+          "back_show_more": ""
+        }
+      },
+      "section-product-list-collection": {
+        "type": "section-product-list-collection",
+        "settings": {
+          "title": "Editors Picks",
+          "sub_title": "Phasellus malesuada ligula pulvinar commodo maecenas",
+          "title_view_all": "View All",
+          "link_view_all": "",
+          "custom-color": false,
+          "color_heading_custom": "",
+          "color_view_all": "",
+          "color_description_custom": "",
+          "enable_border_top": true,
+          "border_color": "",
+          "padding-top": 5,
+          "padding-bottom": 6,
+          "collection": "cosmopolis",
+          "collection_layout": "carousel",
+          "column": 4,
+          "rows": 6,
+          "carousel-arrows": true,
+          "carousel-dots": false
+        }
+      },
+      "list-collections-template-custom": {
+        "type": "list-collections-template-custom",
+        "blocks": {
+          "1583308258890": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col1-compressor.png",
+              "collection": "dincidunteros"
+            }
+          },
+          "1583308757677": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col2-compressor.png",
+              "collection": "loremous-comodous"
+            }
+          },
+          "1583308787644": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col3-compressor.png",
+              "collection": "namdos-hempus"
+            }
+          },
+          "1583308834965": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col4-compressor.png",
+              "collection": "solutmades"
+            }
+          },
+          "1583308868379": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col5-compressor.png",
+              "collection": "pellentes-habitanto"
+            }
+          },
+          "1583308887552": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col6-compressor.png",
+              "collection": "bibendumetos"
+            }
+          },
+          "1583308917565": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col7-compressor.png",
+              "collection": "montemous"
+            }
+          },
+          "1583308936656": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col8-compressor.png",
+              "collection": "loremouticas"
+            }
+          },
+          "1583308958730": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col9-compressor.png",
+              "collection": "comodianos"
+            }
+          },
+          "1583308975508": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col10-compressor.png",
+              "collection": "metropolitanos"
+            }
+          },
+          "1583308997852": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col11-compressor.png",
+              "collection": "cosmopolis"
+            }
+          },
+          "1583309017048": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col12-compressor.png",
+              "collection": "milancelos"
+            }
+          },
+          "1583309069816": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col13-compressor.png",
+              "collection": "lobortis"
+            }
+          },
+          "1583309088368": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col14-compressor.png",
+              "collection": "condimentum"
+            }
+          },
+          "1583309114182": {
+            "type": "collection",
+            "settings": {
+              "image_col": "shopify:\/\/shop_images\/col15-compressor.png",
+              "collection": "de-fermentumo"
+            }
+          }
+        },
+        "block_order": [
+          "1583308258890",
+          "1583308757677",
+          "1583308787644",
+          "1583308834965",
+          "1583308868379",
+          "1583308887552",
+          "1583308917565",
+          "1583308936656",
+          "1583308958730",
+          "1583308975508",
+          "1583308997852",
+          "1583309017048",
+          "1583309069816",
+          "1583309088368",
+          "1583309114182"
+        ],
+        "settings": {
+          "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis de amet eros. Nam suscipito mollis tellus vel malesuada duis danos an molestie.<\/p>",
+          "display_type": "selected",
+          "sort": "date",
+          "column": 3,
+          "col_list_show_first": 9,
+          "display_infinite_scrolling_col": true,
+          "col_list_limit": 3,
+          "title_show_more": "Show More",
+          "enable_des_col": true,
+          "custom_color_active": false,
+          "back_items": "",
+          "color_des_col": "",
+          "back_button": "",
+          "color_button": "",
+          "color_title": "",
+          "color_count_products": "",
+          "border_show_more": "",
+          "color_show_more": "",
+          "back_show_more": ""
+        }
+      },
+      "collection-header": {
+        "type": "collection-header",
+        "settings": {
+          "collection_header_enable": true,
+          "display_collection_image": true,
+          "collection_image": "shopify:\/\/shop_images\/col2.png",
+          "display_collection_des": true
+        }
+      },
+      "customer-banner-text-col": {
+        "type": "customer-banner-text-col",
+        "settings": {
+          "enable_col": true,
+          "layout": "full",
+          "image": "shopify:\/\/shop_images\/col-banner-compressor.png",
+          "alignment": "left",
+          "sub_heading": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" version=\"1.1\" id=\"Capa_1\" x=\"0px\" y=\"0px\" width=\"422.324px\" height=\"422.324px\" viewbox=\"0 0 422.324 422.324\" style=\"enable-background:new 0 0 422.324 422.324;\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\"> <g> \t<g id=\"Layer_8_76_\"> \t\t<path d=\"M420.657,139.528L350.385,23.729c-2.102-3.46-5.855-5.567-9.907-5.567H81.848c-4.044,0-7.795,2.107-9.901,5.567    L1.675,139.528c-0.06,0.112-0.071,0.229-0.134,0.331c-0.47,0.839-0.851,1.737-1.103,2.684c-0.037,0.153-0.096,0.293-0.128,0.433    C0.118,143.805,0,144.655,0,145.547c0,0.167,0.039,0.326,0.053,0.493c0.01,0.246,0.043,0.471,0.065,0.711    c0.101,0.919,0.299,1.822,0.593,2.673c0.052,0.134,0.08,0.281,0.129,0.411c0.394,0.984,0.936,1.882,1.57,2.706    c0.066,0.09,0.096,0.196,0.156,0.278l199.501,246.938l0.09,0.108c0.049,0.061,0.112,0.093,0.161,0.143    c0.539,0.646,1.16,1.226,1.838,1.752c0.033,0.01,0.056,0.056,0.091,0.086c0.091,0.068,0.173,0.11,0.269,0.165    c0.936,0.656,1.956,1.248,3.116,1.608c0.872,0.274,1.754,0.34,2.626,0.396c0.304,0.032,0.582,0.146,0.885,0.146    c0.007,0,0.007,0,0.011,0l0,0l0,0c0.068,0,0.124-0.033,0.187-0.033c1.018-0.02,2.004-0.179,2.956-0.459    c0.124-0.032,0.252-0.022,0.381-0.069c0.013,0,0.022,0,0.032-0.014c0.015,0,0.015-0.01,0.036-0.01    c0.265-0.11,0.517-0.229,0.777-0.346c0.311-0.115,0.612-0.246,0.908-0.388c0.36-0.187,0.7-0.416,1.032-0.645    c0.224-0.139,0.453-0.275,0.667-0.434c0.111-0.083,0.225-0.135,0.331-0.229c0.514-0.438,0.984-0.909,1.423-1.413    c0.076-0.104,0.196-0.164,0.275-0.276l0.099-0.101l199.49-246.943C422.818,149.022,423.172,143.709,420.657,139.528z     M236.141,41.32l37.049,92.635H149.141l37.052-92.635H236.141z M88.37,41.32h72.876l-37.052,92.635H32.146L88.37,41.32z     M35.823,157.118h87.76l57.654,179.991L35.823,157.118z M211.163,354.618l-63.262-197.5h126.521L211.163,354.618z     M241.096,337.118l57.644-180h87.758L241.096,337.118z M298.133,133.96L261.08,41.325h72.876l56.22,92.635H298.133z\"><\/path> \t<\/g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <g> <\/g> <\/svg>",
+          "title_col": "We're Passionate  <br>About Quality Craftsmanship",
+          "descriptions_col": "Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis duto an risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elit a lorem tempus scelerisque blandit est cursus...",
+          "title_button": "Read Full Story",
+          "link_col": "",
+          "custom_color": false,
+          "back_section": "",
+          "color_icon": "",
+          "color_title": "",
+          "color_des": "",
+          "color_btn": "",
+          "back_button": ""
+        }
+      },
+      "recently-viewed-products": {
+        "type": "recently-viewed-products",
+        "settings": {
+          "show": true,
+          "border_top": false,
+          "custom_collor": true,
+          "colo_border_top": "",
+          "colo_title": "",
+          "colo_des": "",
+          "colo_clear_all": "",
+          "padding-top": 0,
+          "padding-bottom": 0,
+          "title": "Recently Viewed Products",
+          "des_revently": "Phasellus malesuada ligula pulvinar commodo maecenas",
+          "clear_all": "Clear all",
+          "products_layout": "carousel",
+          "column": 5,
+          "limit": 11,
+          "carousel-arrows": true,
+          "carousel-dots": false
+        }
+      },
+      "collection-header-02": {
+        "type": "collection-header-02",
+        "settings": {
+          "collection_header_enable": true,
+          "display_collection_image": true,
+          "collection_image": "shopify:\/\/shop_images\/image-he2-compressor.png",
+          "display_collection_des": true,
+          "description_col": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque non nulla nulla, nec tincidunt risus morbi ultricies est ditae odio ultrices imperdiet. Cras accumsan dorci maces consequat blandi susto dusto an elementum libero non honcus purus sem sit amet enimos.",
+          "display_sub_categories": true
+        }
+      },
+      "product-template-01": {
+        "type": "product-template-01",
+        "settings": {
+          "enable_zoom": true,
+          "enable_text_zoom": true,
+          "enable_fancybox": true,
+          "enable_compare_color": true,
+          "title_compare_color": "Click on thumbnails to compare, click and drag images to reorder",
+          "video_product": true,
+          "display_product_reviews": true,
+          "show_sold_in": true,
+          "item_prd": "3,5,6,7,8,10,12,15",
+          "item_prds": "sold in last",
+          "hours_prs": "10,15,16,17,18,20,25,35",
+          "item_hours": "hours",
+          "display_vendor": true,
+          "display_product_sku": true,
+          "display_availability": true,
+          "display_product_type": false,
+          "display_price": true,
+          "display_subtotal": true,
+          "show_quantity_selector": true,
+          "display_short_description": true,
+          "type_short_description": "default",
+          "number_words": "16",
+          "enable_payment_button": true,
+          "dpl_customers_view": true,
+          "title_view": "customers are viewing this product",
+          "number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+          "display_product_detail_share": true,
+          "share_text": "Share",
+          "enable_sticky_atc": false
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "border-top": true,
+          "custom_color": false,
+          "color_border_rc": "",
+          "color_title_rc": "",
+          "padding_top": 5,
+          "padding_bottom": 3,
+          "title": "Related Products",
+          "products_layout": "carousel",
+          "column": 5,
+          "product_limit": 7,
+          "carousel-arrows": true,
+          "carousel-dots": true
+        }
+      },
+      "customer-review-product": {
+        "type": "customer-review-product",
+        "blocks": {
+          "1584010201703": {
+            "type": "customer_review_us",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-review-2-compressor.png",
+              "top_title_review": "Customer Reviews",
+              "title_review": "Customer Review Title Goes Here",
+              "has_purchased": "has purchased:",
+              "sub_title_review": "Class mapten tacitos sociosques a madis",
+              "rating": "star5",
+              "des_review": "Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis duto an risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elit a lorem tempus...",
+              "title_button": "Read All Reviews",
+              "link_rv": ""
+            }
+          },
+          "1585114605416": {
+            "type": "customer_review_us",
+            "settings": {
+              "image": "",
+              "top_title_review": "Customer Reviews",
+              "title_review": "Customer Review Title Goes Here",
+              "has_purchased": "has purchased:",
+              "sub_title_review": "Class mapten tacitos sociosques a madis",
+              "rating": "star5",
+              "des_review": "Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis duto an risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elit a lorem tempus...",
+              "title_button": "Read All Reviews",
+              "link_rv": ""
+            }
+          }
+        },
+        "block_order": [
+          "1584010201703",
+          "1585114605416"
+        ],
+        "settings": {
+          "layout": "full",
+          "custom_color": false,
+          "back_section": "rgba(0,0,0,0)",
+          "color_heading_section": "",
+          "color_article_title": "",
+          "color_sub_title": "",
+          "color_des": "",
+          "color_btn": "rgba(0,0,0,0)",
+          "back_button": "rgba(0,0,0,0)",
+          "color_button_hover": "",
+          "back_button_hover": ""
+        }
+      },
+      "tab-horizontal": {
+        "type": "tab-horizontal",
+        "blocks": {
+          "1584093100164": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Shipping & Returns",
+              "product_tab_content": "<div class=\"tab-shipping-returns\">\n  <p class=\"title-policy\">Returns Policy <\/p>\n  <p>You may return most new, unopened items within 30 days of delivery for a full refund. We'll also pay the return shipping costs if the return is a result of our error (you received an incorrect or defective item, etc.). <\/p>\n  <p>You should expect to receive your refund within four weeks of giving your package to the return shipper, however, in many cases you will receive a refund more quickly.<\/p>\n  <p>This time period includes the transit time for us to receive your return from the shipper (5 to 10 business days), the time it takes us to process your return once we receive it (3 to 5 business days), and the time it takes your bank to process our refund request (5 to 10 business days). <\/p>\n  <p>If you need to return an item, simply login to your account, view the order using the \"Complete Orders\" link under the My Account menu and click the Return Item(s) button. We'll notify you via e-mail of your refund once we've received and processed the returned item. <\/p>\n  <p class=\"title-shipping\">Shipping<\/p>\n  <p>We can ship to virtually any address in the world. Note that there are restrictions on some products, and some products cannot be shipped to international destinations.<\/p> \n  <p>When you place an order, we will estimate shipping & delivery dates for you based on the availability of your items and the shipping options you choose. Depending on the shipping provider you choose, shipping date estimates may appear on the shipping quotes page. <\/p>\n  <p>Please also note that the shipping rates for many items we sell are weight-based. The weight of any such item can be found on its detail page. To reflect the policies of the shipping companies we use, all weights will be rounded up to the next full pound.<\/p>\n<\/div>",
+              "product_tab_content_2": ""
+            }
+          },
+          "1584087745218": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Custom Tab",
+              "product_tab_content": "<div class=\"custom-tab\">\n  <div class=\"des-top rte\">\n    <p>Quisque convallis marius odio sed aliquet. Denean de rutrum ante. Sed sed massa laoreet finibus sem at interdum nisi. Morbi porttitor lobortis.<\/p>\n  <\/div>\n  <div class=\"tab-ct-content\">\n    <ul class=\"item\">\n      <li class=\"case_des\">\n        <span>Milancelos:<\/span>\n      <\/li>\n      <li class=\"des\">\n        <span>Comodous in tempor miaculis<\/span>\n      <\/li>\n    <\/ul>\n    <ul class=\"item\">\n      <li class=\"case_des\">\n        <span>Metropolitanos:<\/span>\n      <\/li>\n      <li class=\"des rte\">\n        <span>Pellentesque vitae neque mollis urna mattis<\/span>\n      <\/li>\n    <\/ul>\n    <ul class=\"item\">\n      <li class=\"case_des\">\n        <span>Cosmopolis:<\/span>\n      <\/li>\n      <li class=\"des rte\">\n        <span>Divamus sit amet purus justo<\/span>\n      <\/li>\n    <\/ul>\n    <ul class=\"item\">\n      <li class=\"case_des\">\n        <span>Loremous:<\/span>\n      <\/li>\n      <li class=\"des rte\">\n        <span>Proin molestie egestas orci ac suscipit risus posuere<\/span>\n      <\/li>\n    <\/ul>\n\n  <\/div>\n<\/div>",
+              "product_tab_content_2": ""
+            }
+          },
+          "1584153467566": {
+            "type": "lookbook_galry_item",
+            "settings": {
+              "main_pr_look": "",
+              "lookbook_image_1": "shopify:\/\/shop_images\/banner-lool1-compressor.png",
+              "product_1": "copy-of-class-mapten-tacitos-sociosques-delos-madis-1",
+              "coordinates_x_1": 35,
+              "coordinates_y_1": 33,
+              "lookbook_image_2": "shopify:\/\/shop_images\/banner-lool2-compressor.png",
+              "product_2": "copy-of-nulla-dinterdum-miverra-des-lacos-4",
+              "coordinates_x_2": 26,
+              "coordinates_y_2": 54,
+              "lookbook_image_3": "shopify:\/\/shop_images\/banner-lool3-compressor.png",
+              "product_3": "copy-of-mauris-cosmopolis-porttitor-a-lacos-dametos",
+              "coordinates_x_3": 28,
+              "coordinates_y_3": 48,
+              "lookbook_image_4": "shopify:\/\/shop_images\/banner-lool4-compressor.png",
+              "product_4": "copy-of-naminos-dementus-a-dincidunto-cosmo-milancelos",
+              "coordinates_x_4": 46,
+              "coordinates_y_4": 64,
+              "lookbook_image_5": "shopify:\/\/shop_images\/banner-lool5-compressor.png",
+              "product_5_1": "copy-of-class-mapten-tacitos-sociosques-delos-madis-2",
+              "coordinates_x_5_1": 34,
+              "coordinates_y_5_1": 12,
+              "product_5_2": "copy-of-nulla-dinterdum-miverra-des-lacos-4",
+              "coordinates_x_5_2": 40,
+              "coordinates_y_5_2": 60,
+              "product_5_3": "",
+              "coordinates_x_5_3": 36,
+              "coordinates_y_5_3": 48
+            }
+          },
+          "1584158956478": {
+            "type": "lookbook_galry_item",
+            "settings": {
+              "main_pr_look": "",
+              "lookbook_image_1": "shopify:\/\/shop_images\/banner-lookbook6-compressor.png",
+              "product_1": "",
+              "coordinates_x_1": 36,
+              "coordinates_y_1": 48,
+              "lookbook_image_2": "shopify:\/\/shop_images\/banner-lookbook7-compressor.png",
+              "product_2": "",
+              "coordinates_x_2": 36,
+              "coordinates_y_2": 48,
+              "lookbook_image_3": "shopify:\/\/shop_images\/banner-lookbook8-compressor.png",
+              "product_3": "",
+              "coordinates_x_3": 36,
+              "coordinates_y_3": 48,
+              "lookbook_image_4": "shopify:\/\/shop_images\/banner-lookbook9-compressor.png",
+              "product_4": "",
+              "coordinates_x_4": 36,
+              "coordinates_y_4": 48,
+              "lookbook_image_5": "shopify:\/\/shop_images\/banner-lookbook11-compressor.png",
+              "product_5_1": "",
+              "coordinates_x_5_1": 36,
+              "coordinates_y_5_1": 48,
+              "product_5_2": "",
+              "coordinates_x_5_2": 36,
+              "coordinates_y_5_2": 48,
+              "product_5_3": "",
+              "coordinates_x_5_3": 36,
+              "coordinates_y_5_3": 48
+            }
+          }
+        },
+        "block_order": [
+          "1584093100164",
+          "1584087745218",
+          "1584153467566",
+          "1584158956478"
+        ],
+        "settings": {
+          "display_product_detail_description": true,
+          "product_description_title": "Description",
+          "display_product_review_tab": true,
+          "product_review_title": "Customer Reviews",
+          "enable_lookbook_gallery": true,
+          "style_lookbook_gallery": "all_product",
+          "title_lob_glr": "Sample Image Gallery",
+          "title_paragraph_text": "Sample Paragraph Text",
+          "content_paragraph_text": "Praesent destibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras delis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam an turpis eleifend ditae malesuada loremous. nteger mattis augue sit amet mi ornare gravida. Mauris dapibus lobortis sem eu tristique. Pellentesque vel ullamcorper felis nullam tempor miaculis varius."
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_ajax_enable": true,
+          "trust_img_enable": true,
+          "trust_img": "shopify:\/\/shop_images\/truck-banner-compressor.png",
+          "cart_notes_enable": true,
+          "show_shipping_calculator": true,
+          "shipping_calculator_default_country": "Canada"
+        }
+      },
+      "section-product-cart-temlate": {
+        "type": "section-product-cart-temlate",
+        "settings": {
+          "border-top": true,
+          "padding-top": 5,
+          "padding-bottom": 3,
+          "title": "You may also like...",
+          "sub_title": "Phasellus malesuada ligula pulvinar commodo maecenas",
+          "custom-color": false,
+          "color_heading_custom": "",
+          "color_description_custom": "",
+          "collection": "comodianos",
+          "collection_layout": "carousel",
+          "column": 4,
+          "rows": 6,
+          "carousel-arrows": true,
+          "carousel-dots": false
+        }
+      },
+      "products_bundle_discount": {
+        "type": "products_bundle_discount",
+        "settings": {
+          "dpl_grouped_product": true,
+          "title": "Frequently Bought Together",
+          "enable_bundle_discount": true,
+          "grouped_choose_options_text": "Please choose options for all selected products:",
+          "bundle_discount_text": "Get a [discount]% discount buying these products together"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "blocks": {
+          "1585034136444": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Shipping & Returns",
+              "product_tab_content": "<div class=\"tab-shipping-returns\">\n  <p class=\"title-policy\">Returns Policy <\/p>\n  <p>You may return most new, unopened items within 30 days of delivery for a full refund. We'll also pay the return shipping costs if the return is a result of our error (you received an incorrect or defective item, etc.). <\/p>\n  <p>You should expect to receive your refund within four weeks of giving your package to the return shipper, however, in many cases you will receive a refund more quickly.<\/p>\n  <p>This time period includes the transit time for us to receive your return from the shipper (5 to 10 business days), the time it takes us to process your return once we receive it (3 to 5 business days), and the time it takes your bank to process our refund request (5 to 10 business days). <\/p>\n  <p>If you need to return an item, simply login to your account, view the order using the \"Complete Orders\" link under the My Account menu and click the Return Item(s) button. We'll notify you via e-mail of your refund once we've received and processed the returned item. <\/p>\n  <p class=\"title-shipping\">Shipping<\/p>\n  <p>We can ship to virtually any address in the world. Note that there are restrictions on some products, and some products cannot be shipped to international destinations.<\/p> \n  <p>When you place an order, we will estimate shipping & delivery dates for you based on the availability of your items and the shipping options you choose. Depending on the shipping provider you choose, shipping date estimates may appear on the shipping quotes page. <\/p>\n  <p>Please also note that the shipping rates for many items we sell are weight-based. The weight of any such item can be found on its detail page. To reflect the policies of the shipping companies we use, all weights will be rounded up to the next full pound.<\/p>\n<\/div>",
+              "product_tab_content_2": ""
+            }
+          },
+          "1585034167278": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Custom Tab",
+              "product_tab_content": "<div class=\"custom-tab\">\n  <div class=\"des-top rte\">\n    <p>Quisque convallis marius odio sed aliquet. Denean de rutrum ante. Sed sed massa laoreet finibus sem at interdum nisi. Morbi porttitor lobortis.<\/p>\n  <\/div>\n  <div class=\"tab-ct-content\">\n    <ul class=\"item\">\n      <li class=\"case_des\">\n        <span>Milancelos:<\/span>\n      <\/li>\n      <li class=\"des\">\n        <span>Comodous in tempor miaculis<\/span>\n      <\/li>\n    <\/ul>\n    <ul class=\"item\">\n      <li class=\"case_des\">\n        <span>Metropolitanos:<\/span>\n      <\/li>\n      <li class=\"des rte\">\n        <span>Pellentesque vitae neque mollis urna mattis<\/span>\n      <\/li>\n    <\/ul>\n    <ul class=\"item\">\n      <li class=\"case_des\">\n        <span>Cosmopolis:<\/span>\n      <\/li>\n      <li class=\"des rte\">\n        <span>Divamus sit amet purus justo<\/span>\n      <\/li>\n    <\/ul>\n    <ul class=\"item\">\n      <li class=\"case_des\">\n        <span>Loremous:<\/span>\n      <\/li>\n      <li class=\"des rte\">\n        <span>Proin molestie egestas orci ac suscipit risus posuere<\/span>\n      <\/li>\n    <\/ul>\n\n  <\/div>\n<\/div>",
+              "product_tab_content_2": ""
+            }
+          },
+          "1585034868752": {
+            "type": "lookbook_galry_item",
+            "settings": {
+              "main_pr_look": "mauris-de-damet-porttitor-mante-le-cosmo-dametos",
+              "lookbook_image_1": "shopify:\/\/shop_images\/banner-4-compressor_db0904c0-f413-4c02-a75b-2b3de57ef6a5.png",
+              "product_1": "class-mapten-tacitos-sociosques-delos-madis-1",
+              "coordinates_x_1": 36,
+              "coordinates_y_1": 48,
+              "lookbook_image_2": "shopify:\/\/shop_images\/banner-5.png",
+              "product_2": "copy-of-nulla-dinterdum-miverra-des-lacos-5",
+              "coordinates_x_2": 36,
+              "coordinates_y_2": 48
+            }
+          },
+          "1585034920260": {
+            "type": "lookbook_galry_item",
+            "settings": {
+              "main_pr_look": "mauris-de-damet-porttitor-mante-le-cosmo-dametos",
+              "lookbook_image_1": "shopify:\/\/shop_images\/banner-8-compressor.png",
+              "product_1": "mauris-de-damet-porttitor-mante-le-cosmo-dametos",
+              "coordinates_x_1": 36,
+              "coordinates_y_1": 48,
+              "lookbook_image_2": "shopify:\/\/shop_images\/banner-2_d80f4167-337f-43d5-867b-f6d4da308d76.png",
+              "product_2": "",
+              "coordinates_x_2": 36,
+              "coordinates_y_2": 48
+            }
+          }
+        },
+        "block_order": [
+          "1585034136444",
+          "1585034167278",
+          "1585034868752",
+          "1585034920260"
+        ],
+        "settings": {
+          "enable_fancybox": true,
+          "enable_zoom": true,
+          "enable_thumbnail_image": true,
+          "product_infomation_align": "center",
+          "enable_compare_color": true,
+          "title_compare_color": "Click on thumbnails to compare, click and drag images to reorder",
+          "video_product": true,
+          "display_product_reviews": true,
+          "show_sold_in": true,
+          "item_prd": "3,5,6,7,8,10,12,15",
+          "item_prds": "sold in last",
+          "hours_prs": "10,15,16,17,18,20,25,35",
+          "item_hours": "hours",
+          "display_vendor": true,
+          "display_product_sku": true,
+          "display_availability": true,
+          "display_price": true,
+          "display_subtotal": true,
+          "show_quantity_selector": true,
+          "display_short_description": true,
+          "type_short_description": "default",
+          "number_words": "16",
+          "enable_payment_button": true,
+          "dpl_customers_view": true,
+          "title_view": "customers are viewing this product",
+          "number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+          "display_product_detail_share": true,
+          "share_text": "Share",
+          "enable_sticky_atc": true,
+          "display_product_detail_description": true,
+          "product_description_title": "Description",
+          "display_product_review_tab": true,
+          "product_review_title": "Customer Reviews",
+          "enable_lookbook_gallery": true,
+          "style_lookbook_gallery": "all_product",
+          "title_lob_glr": "Sample Image Gallery",
+          "title_paragraph_text": "Sample Paragraph Text",
+          "content_paragraph_text": "Praesent destibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras delis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam an turpis eleifend ditae malesuada loremous. nteger mattis augue sit amet mi ornare gravida. Mauris dapibus lobortis sem eu tristique. Pellentesque vel ullamcorper felis nullam tempor miaculis varius."
+        }
+      },
+      "products_bundle_discount_default": {
+        "type": "products_bundle_discount_default",
+        "settings": {
+          "dpl_grouped_product": true,
+          "padding-top": 5,
+          "padding-bottom": 2,
+          "title": "Frequently Bought Together",
+          "enable_bundle_discount": true,
+          "bundle_discount_text": "Get a [discount]% discount buying these products together"
+        }
+      },
+      "custom-block-product": {
+        "type": "custom-block-product",
+        "blocks": {
+          "1585111653021": {
+            "type": "custom_text",
+            "settings": {
+              "title": "worldwide Delivery",
+              "text": "on all orders over $399"
+            }
+          },
+          "1585111655658": {
+            "type": "custom_text",
+            "settings": {
+              "title": "Free and easy returns",
+              "text": "online and in store"
+            }
+          },
+          "1585111657075": {
+            "type": "custom_text",
+            "settings": {
+              "title": "rewards program",
+              "text": "start to earn points as you shop"
+            }
+          },
+          "1585111658469": {
+            "type": "custom_text",
+            "settings": {
+              "title": "Free Gift Wrapping",
+              "text": "on all orders over $399"
+            }
+          }
+        },
+        "block_order": [
+          "1585111653021",
+          "1585111655658",
+          "1585111657075",
+          "1585111658469"
+        ],
+        "settings": {
+          "column": 4,
+          "padding-top": 3,
+          "padding-bottom": 3,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": "",
+          "color_line": "#26292d"
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_author": true,
+          "blog_show_date": true,
+          "show_share_buttons": true,
+          "title": "Sample Product Widget",
+          "collection": "rings",
+          "collection_layout": "carousel",
+          "column": 3,
+          "rows": 6,
+          "carousel-arrows": true,
+          "carousel-dots": true
+        }
+      },
+      "section-product-lookbook": {
+        "type": "section-product-lookbook",
+        "settings": {
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 3,
+          "title": "Shop The Look",
+          "sub_title": "Phasellus malesuada ligula pulvinar commodo maecenas",
+          "custom-color": false,
+          "color_heading_custom": "",
+          "color_description_custom": "",
+          "collection": "de-fermentumo",
+          "collection_layout": "carousel",
+          "column": 4,
+          "rows": 6,
+          "carousel-arrows": true,
+          "carousel-dots": false
+        }
+      },
+      "password-section": {
+        "type": "password-section",
+        "settings": {
+          "brand_type": "image",
+          "brand_text": "",
+          "brand_text_color": "#000",
+          "logo_pc": "shopify:\/\/shop_images\/jewel-b-logo.png",
+          "max_height_logo_pc": "44px",
+          "logo_mb": "",
+          "max_height_logo_mb": "25px",
+          "access_lable": "Early Access Login",
+          "access_lable_color": "#fff",
+          "banner": "",
+          "overlay_color": "#422011",
+          "overlay_opacity": "0.15",
+          "heading": "Our new store will be  opening soon",
+          "heading_size": "28",
+          "subtitle": "Phasellus lorem malesuada de pulvinar commodo maecenas.",
+          "subtitle_size": "13",
+          "backbround_color": "#fff",
+          "text_color": "#000",
+          "display_newsletter": true,
+          "success_message": "Thanks for contacting us. We'll get back to you as soon as possible",
+          "display_product_detail_share": true,
+          "footer_address_code": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1578542087674",
+      "1579156711820",
+      "1579149252057",
+      "1579159366060",
+      "1582709184921",
+      "1579164738978",
+      "1579168242940",
+      "1582709416643",
+      "1580698680054",
+      "1579145124276",
+      "1579057185264"
+    ]
+  }
+}

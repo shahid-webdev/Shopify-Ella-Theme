@@ -1,0 +1,1898 @@
+{
+  "current": {
+    "header_layout": "menu_on_navigation",
+    "collection_layout": "enable_collection_pages",
+    "enable_multilang_shopify": true,
+    "lange_name_1": "English",
+    "lange_1": "en",
+    "lange_name_2": "German",
+    "lange_2": "de",
+    "lange_name_3": "",
+    "lange_3": "",
+    "lange_name_4": "",
+    "lange_4": "",
+    "lange_name_5": "",
+    "lange_5": "",
+    "lange_name_6": "",
+    "lange_6": "",
+    "enable_shopify_payments_currencies": false,
+    "enable_multiple_currencies": true,
+    "enable_auto_currency": false,
+    "currency_1_unit": "USD",
+    "currency_2_unit": "EUR",
+    "currency_3_unit": "GBP",
+    "currency_4_unit": "AUD",
+    "currency_5_unit": "",
+    "currency_6_unit": "",
+    "currency_7_unit": "",
+    "currency_8_unit": "",
+    "currency_9_unit": "",
+    "currency_10_unit": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
+    "social_twitter_link": "https:\/\/twitter.com\/shopify",
+    "social_vimeo_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/shopify\/",
+    "social_google_plus_link": "",
+    "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify\/",
+    "messenger_link": "https:\/\/www.facebook.com\/shopify",
+    "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/shopify",
+    "social_youtube_link": "",
+    "newssletter_error_text": "This email has been registered",
+    "newssletter_success_text": "You have successfully subscribed!",
+    "favicon": "shopify:\/\/shop_images\/favicon_32x32-compressor.png",
+    "body_font_size": "14",
+    "body_color": "#73788a",
+    "body_bg": "#fff",
+    "color_product_title": "#000d41",
+    "display_breadcrumb": true,
+    "breadcrumb_color": "#999999",
+    "enable_opengraph": true,
+    "image_share": "shopify:\/\/shop_images\/product_2.jpg",
+    "enable_search": true,
+    "search_1": "Your search for | Ihre Suche nach",
+    "search_2": "did not yield any results. | hat keine Ergebnisse hervorgebracht.",
+    "search_3": "Your search for | Ihre Suche nach",
+    "search_4": "revealed the following: | hat folgende Ergebnisse hervorgebracht:",
+    "enable_search_trending": true,
+    "trending_search_title": "trending",
+    "trending_search_item_1": "dempus",
+    "trending_search_item_2": "sample",
+    "trending_search_item_3": "magnis",
+    "trending_search_item_4": "loremous saliduar",
+    "trending_search_item_5": "naminos",
+    "trending_search_item_6": "dinterdum",
+    "enable_search_popular_products": true,
+    "popular_products_search_title": "Popular Products",
+    "popular_products_collection": "metropolis",
+    "popular_products_limit": 3,
+    "display_product_reviews": true,
+    "embed_code_review": "",
+    "display_item_swatch": true,
+    "option_color_swatch": "Color",
+    "color_swatch_style": "normal",
+    "display_button": true,
+    "option_descript_pr": "all_product",
+    "product_title_line_text": "1",
+    "product_image_resize": false,
+    "margin_bottom_items_product": "0px",
+    "product_image_crop": false,
+    "product_image_height": "130",
+    "display_text_zoom": true,
+    "text_zoom_image": "Zoom the image with the mouse",
+    "enable_hover_image": true,
+    "enable_hover_product_image": true,
+    "qv_show_sold_in": true,
+    "qv_item_prd": "3,5,6,7,8,10,12,15",
+    "qv_item_prds": "sold in last",
+    "qv_hours_prs": "10,15,16,17,18,20,25,35",
+    "qv_item_hours": "hours",
+    "display_quickview_vendor": true,
+    "quickview_text_vendor": "Brand:",
+    "display_quickview_product_sku": true,
+    "text_quickview_product_sku": "Product Code:",
+    "display_quickview_availability": true,
+    "quickview_text_availability": "Availability:",
+    "display_quickview_short_desc": true,
+    "dpl_customers_view_qv": true,
+    "title_view_qv": "customers are viewing this product",
+    "number_view_qv": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+    "color_price": "#73788a",
+    "color_price_sale": "#e95144",
+    "color_quick_view": "#757a8b",
+    "bg_quick_view": "#ffffff",
+    "enable_wishlist": true,
+    "enable_wishlist_mb": false,
+    "color_wishlist": "#757a8b",
+    "color_br_wishlist": "#efefef",
+    "bg_wishlist": "#ffffff",
+    "display_product_countdown": true,
+    "option_countdown": "all_product",
+    "text_countdown": "Limited-Time Offers, End in:",
+    "count_down_timer": "2020-12-25 22:11:00",
+    "video_product": true,
+    "video_product_icon": "#ec3323",
+    "type_label_sale": "discount_sale",
+    "sale_text": "#fff",
+    "bg_sale": "#e95144",
+    "new_text": "#fff",
+    "bg_new": "#296fc2",
+    "hot_text": "#fff",
+    "bg_hot": "#faa900",
+    "bundle_text": "#fff",
+    "bg_bundle": "#000d41",
+    "text_sould_out": "#fff",
+    "bg_sould_out": "#afb6bd",
+    "enable_quick_view": true,
+    "enable_quick_view_mb": false,
+    "qv_display_product_reviews": true,
+    "display_trust_img": true,
+    "img_trust": "shopify:\/\/shop_images\/trust-compressor.png",
+    "display_size_chart": true,
+    "display_size_chart_at": "Size",
+    "size_guide_text": "Size Guide",
+    "custom_size_chart_header": "Size Chart",
+    "size_chart": "none",
+    "custom_size_chart": "shopify:\/\/shop_images\/size_chart.png",
+    "btn_1_bg_color": "#296fc2",
+    "btn_1_border_color": "#296fc2",
+    "btn_1_text_color": "#fff",
+    "btn_1_bg_color_hover": "#fff",
+    "btn_1_border_color_hover": "#000d41",
+    "btn_1_text_color_hover": "#000d41",
+    "btn_2_bg_color": "#fff",
+    "btn_2_border_color": "#000d41",
+    "btn_2_text_color": "#000d41",
+    "btn_2_bg_color_hover": "#296fc2",
+    "btn_2_border_color_hover": "#296fc2",
+    "btn_2_text_color_hover": "#fff",
+    "ajax_popup_cart": "none",
+    "redirect_button": "link_to",
+    "link_to_redirect": "shopify:\/\/collections\/all",
+    "terms_and_conditions_text": "I agree with the terms and conditions",
+    "secure_text": "Secure Checkout Guarantee.",
+    "show_shipping_calculator": true,
+    "shipping_calculator_heading": "Get Shipping Estimates",
+    "shipping_calculator_default_country": "Canada",
+    "color_button_checkout": "#fff",
+    "back_button_checkout": "#ec3323",
+    "title_login": "Returning Customer",
+    "login_text_desc": "I am a returning customer",
+    "title_register": "New Customer",
+    "register_text_desc": "Register Account",
+    "register_text_desc_2": "By creating an account you will be able to shop faster, be up to date on an order's status, and keep track of the orders you have previously made.",
+    "font": "google_fonts",
+    "fonts_name": "Poppins",
+    "shopify_font_ud": "poppins_n4",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "small",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "enable_multilang": false,
+    "display_video_quickview": true,
+    "display_product_detail_share": true,
+    "display_quickview_product_type": true,
+    "quickview_text_product_type": "Product Type",
+    "quickview_text_countdown": "Limited-Time Offers, End in:",
+    "display_quickview_subtotal": true,
+    "variant_image_swatch": false,
+    "use_color_swatch": true,
+    "color_title_product": "#000d41",
+    "cart_popup_related_title": "You May Also Like",
+    "color_title_product_hover": "#73788a",
+    "color_vendor": "#232323",
+    "display_popup_newsletter": true,
+    "popup_newsletter_delay": "5",
+    "newsletter": "",
+    "popup_newsletter_title": "",
+    "popup_newsletter_des": "",
+    "popup_newsletter_text_note": "",
+    "display_popup_social": true,
+    "image_swap": true,
+    "product_image_border": false,
+    "product_image_border_color": "",
+    "show_vendor": true,
+    "display_item_size": true,
+    "collection_infinite_scrolling": true,
+    "infinity_scroll_feature": true,
+    "custom_label_text": "#fff",
+    "custom_label_bg": "#323232",
+    "bundle_label_text": "#fff",
+    "bundle_label_bg": "#232323",
+    "new_label_text": "#fff",
+    "new_label_bg": "#06bfe2",
+    "sold_out_text": "#fff",
+    "bg_sold_out": "#c1c1c1",
+    "color_compare_price": "#969696",
+    "bg_menu_mb": "#fff",
+    "color_menu_mb": "#323232",
+    "border_color_menu_mb": "#e5e5e5",
+    "color_menu_mb_lv1": "#323232",
+    "color_menu_mb_lv1_hover": "#0688e2",
+    "bg_color_menu_mb_lv1_hover": "#f8f8f8",
+    "color_menu_mb_lv2": "#323232",
+    "color_menu_mb_lv2_hover": "#323232",
+    "color_menu_mb_lv3": "#646464",
+    "color_menu_mb_lv3_hover": "#0688e2",
+    "link_color": "#0688e2",
+    "link_color_hover": "#ff5621",
+    "breadcrumb_text_transform": "capitalize",
+    "page_title_font_size": "24",
+    "page_title_color": "#232323",
+    "page_title_text_align": "left",
+    "enable_sidebar_multiple_choice": true,
+    "product_name_text_transform": "none",
+    "product_name_text_align": "left",
+    "enable_ask_an_expert": true,
+    "ask_an_expert": "Have Questions? Ask An Expert",
+    "ask_an_expert_header": "Have Questions?",
+    "ask_an_expert_title": "Ask the Fashion Expert anything on Ella Boutique",
+    "ask_an_expert_des": "We will follow up with you via email within 24-36 hours",
+    "ask_an_expert_questions": "Please answer the following questionnaire",
+    "enable_ask_do_you_need": true,
+    "ask_do_you_need": "Do You Need",
+    "ask_do_you_need_1": "Pricing",
+    "ask_do_you_need_2": "Answers",
+    "ask_do_you_need_3": "Both",
+    "ask_form_mess": "What can i help you with today ?",
+    "enable_how_would_you_like_me_to_contact_you": true,
+    "how_would_you_like_me_to_contact_you": "How would you like me to contact you?",
+    "contact_with_you_1": "Phone",
+    "contact_with_you_2": "Email",
+    "contact_with_you_3": "Both",
+    "base_font_new": "beefcakes_n4",
+    "shopify_font": "work_sans_n6",
+    "header_font_new": "americana_n4",
+    "social_tumblr_link": "",
+    "btn_3_bg_color": "#ef6454",
+    "btn_3_border_color": "#ef6454",
+    "btn_3_text_color": "#fff",
+    "bg_body_boxed": "#f8f8f8",
+    "list_collections_layout": "collections_01_grid",
+    "category_layout": "default",
+    "product_layout": "default",
+    "blog_layout": "default",
+    "footer_layout": "default",
+    "password_layout": "default",
+    "display_sticky": false,
+    "display_sticky_mb": true,
+    "display_countdown": true,
+    "bg_sticky": "#fff",
+    "color_sticky": "#3c3c3c",
+    "color_variants": "#646464",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "display_header_top": true,
+          "top_message_text": "Populate this marketing banner to advertise a special promotion*|Füllen Sie dieses Marketing-Banner aus, um für eine Sonderaktion zu werben *",
+          "bg_header_top": "#f7f7f7",
+          "text_header_top_color": "#73788a",
+          "display_fixtop_menu": true,
+          "dropdown_color": "#212529",
+          "back_dropdown": "#ffffff",
+          "font-size-hd-top": "12px",
+          "back_header_bottom": "#ffffff",
+          "brand_type": "image",
+          "brand_text": "",
+          "logo_text_color": "#010d42",
+          "logo_text_color_mb": "#010d42",
+          "logo_text_size": "25px",
+          "logo_text_size_mb": "18px",
+          "logo_svg_color_mb": "#010d42",
+          "logo_svg_color": "#010d42",
+          "logo_svg_size": "40px",
+          "logo_svg_size_mb": "30px",
+          "logo": "shopify:\/\/shop_images\/soun-black.png",
+          "max_height_logo_mb": "26px",
+          "logo_pc_homepage": "shopify:\/\/shop_images\/soun-black.png",
+          "max_height_logo_pc_homepage": "45px",
+          "logo_pc": "shopify:\/\/shop_images\/soun-white.png",
+          "max_height_logo_pc": "45px",
+          "horizontal_linklist": "main-menu-curr",
+          "color_nav_homepage": "#ffffff",
+          "color_nav": "#000d41",
+          "goto_homepage": "Back to Home",
+          "font_size_menu": "14px",
+          "enable_sale": true,
+          "lb_sale": "Sale",
+          "sale_item": "",
+          "bg_lb_sale": "#ef6454",
+          "color_lb_sale": "#fff",
+          "enable_new": true,
+          "lb_new": "New",
+          "new_item": "blog; demo",
+          "bg_lb_new": "#6bcc44",
+          "color_lb_new": "#fff",
+          "enable_hot": false,
+          "lb_hot": "Hot",
+          "hot_item": "blog",
+          "bg_lb_hot": "#faa900",
+          "color_lb_hot": "#fff",
+          "color_sub_nav": "#000d41",
+          "color_hover_sub_nav": "#ffffff",
+          "back_sub_nav": "#fff",
+          "back_sub_nav_hover": "#296fc2",
+          "bg_cart_color": "#000d41",
+          "bg_cart_color_mb": "#000d41",
+          "cart_color": "#ffffff",
+          "cart_color_mb": "#fff",
+          "back_header_mb": "#fff",
+          "color_header_mobile": "#000d41",
+          "text_buy_now": "Buy Now | Kaufe Jetzt"
+        }
+      },
+      "navigation": {
+        "type": "navigation",
+        "settings": {
+          "horizontal_linklist": "main-menu",
+          "display_fixtop_menu": true,
+          "logo_fix": "",
+          "alignment": "left",
+          "bg_menu": "#232323",
+          "bg_dropdown_menu": "#fff",
+          "color_menu_lv1": "#fff",
+          "hover_color_mnu_lv1": "#fff",
+          "font_size_mnu_lv1": "13px",
+          "color_menu_lv2": "#232323",
+          "hover_color_mnu_lv2": "#232323",
+          "font_size_mnu_lv2": "12px",
+          "color_menu_lv3": "#3c3c3c",
+          "hover_color_mnu_lv3": "#0688e2",
+          "font_size_mnu_lv3": "12px",
+          "enable_sale": true,
+          "lb_sale": "Sale",
+          "sale_item": "",
+          "bg_lb_sale": "#ef6454",
+          "color_lb_sale": "#fff",
+          "enable_new": true,
+          "lb_new": "New",
+          "new_item": "",
+          "bg_lb_new": "#06bfe2",
+          "color_lb_new": "#fff",
+          "enable_hot": true,
+          "lb_hot": "Hot",
+          "hot_item": "",
+          "bg_lb_hot": "#ffbb49",
+          "color_lb_hot": "#fff",
+          "display_megamenu": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "bg_footer_img": "bg-footer",
+          "bg_footer_color": "#232323",
+          "bg_footer_position_x": "left",
+          "bg_footer_position_y": "top",
+          "bg_footer_repeat": "repeat-x",
+          "bg_footer_attachment": "fixed",
+          "bg-footer-img": "shopify:\/\/shop_images\/banner-footer2-compressor.png",
+          "footer_newsletter_enable": true,
+          "footer_newsletter_title": "Newsletter Signup",
+          "font_size_new_title": "50px",
+          "color_new_title": "#fff",
+          "footer_newsletter_des": "Sign Up for exclusive updates, new arrivals & insider-only discounts",
+          "font_size_new_descriptions": "16px",
+          "color_new_descriptions": "#fff",
+          "bg_newsletter_color": "#fff",
+          "newsletter_color": "#717171",
+          "newsletter_border_color": "#ffffff",
+          "bg_newsletter_button_color": "#296fc2",
+          "newsletter_button_color": "#fff",
+          "footer_social_enable": true,
+          "footer_social_color": "#fff",
+          "brand_type": "image",
+          "brand_text": "",
+          "logo_pc": "shopify:\/\/shop_images\/soun-black.png",
+          "max_height_logo_pc": "36px",
+          "footer_address_code": "© SOUN Demo. All Rights Reserved",
+          "color_address": "#73788a",
+          "menu_footer": "footer",
+          "color_nav_footer": "#73788a",
+          "show_payment_icons": true,
+          "payment_display_visa": true,
+          "payment_display_visa_electron": false,
+          "payment_display_american_express": true,
+          "payment_display_master": true,
+          "payment_display_maestro": false,
+          "payment_display_solo": false,
+          "payment_display_shopify": true,
+          "payment_display_paypal": true,
+          "payment_display_amazon_payments": false,
+          "payment_display_apple_pay": false,
+          "payment_display_bitcoin": false,
+          "payment_display_cirrus": false,
+          "payment_display_dankort": false,
+          "payment_display_diners_club": false,
+          "payment_display_discover": true,
+          "payment_display_dogecoin": false,
+          "payment_display_dwolla": false,
+          "payment_display_forbrugsforeningen": false,
+          "payment_display_interac": false,
+          "payment_display_jcb": false,
+          "payment_display_litecoin": true,
+          "payment_display_stripe": false,
+          "payment_display_sage": false,
+          "payment_display_wallet": false,
+          "icon_visa": "shopify:\/\/shop_images\/payment-1.png",
+          "icon_visa_electron": "",
+          "icon_master": "shopify:\/\/shop_images\/payment-2.png",
+          "icon_american_express": "shopify:\/\/shop_images\/payment-3.png",
+          "icon_maestro": "",
+          "icon_solo": "",
+          "icon_shopify": "shopify:\/\/shop_images\/shopify.png",
+          "icon_paypal": "shopify:\/\/shop_images\/paypal.png",
+          "icon_amazon_payments": "",
+          "icon_apple_pay": "",
+          "icon_bitcoin": "",
+          "icon_cirrus": "shopify:\/\/shop_images\/payment-8.png",
+          "icon_dankort": "",
+          "icon_diners_club": "",
+          "icon_discover": "shopify:\/\/shop_images\/payment-4.png",
+          "icon_dogecoin": "",
+          "icon_dwolla": "",
+          "icon_forbrugsforeningen": "",
+          "icon_interac": "",
+          "icon_jcb": "",
+          "icon_litecoin": "shopify:\/\/shop_images\/payment-9.png",
+          "icon_stripe": "",
+          "icon_sage": "",
+          "icon_wallet": ""
+        }
+      },
+      "someone-purchased": {
+        "type": "someone-purchased",
+        "blocks": {
+          "1562311098541": {
+            "type": "image",
+            "settings": {
+              "product": "soun-serie-x-wireless",
+              "from_ago": "Melbourne, Australia",
+              "time_ago": "10 minutes ago"
+            }
+          }
+        },
+        "block_order": [
+          "1562311098541"
+        ],
+        "settings": {
+          "display_someone-purchased": true,
+          "display_someone-purchased_mb": true,
+          "show_someone-purchased": "right",
+          "someone_speed": "7000",
+          "text": "Someone recently bought a",
+          "time_location_text": "[time], from [location]"
+        }
+      },
+      "GDPR-modal": {
+        "type": "GDPR-modal",
+        "settings": {
+          "display_gdpr": true,
+          "bg_color": "#f7f7f7",
+          "text_color": "#73788a",
+          "content": "The cookie settings on this website are set to 'allow all cookies' to give you the very best experience. Please click Accept Cookies to continue to use the site.",
+          "privacy_policy_text": "privacy policy",
+          "text_color_hover": "#296fc2",
+          "privacy_policy_link": "https:\/\/policies.google.com\/",
+          "accept_cookies_text": "Accept Cookies",
+          "icon_svg_color": "#296fc2"
+        }
+      },
+      "1561349147878": {
+        "type": "homepage-custom-block",
+        "blocks": {
+          "1561349147878-0": {
+            "type": "text",
+            "settings": {
+              "icon": "<i class=\"fa fa-truck\" aria-hidden=\"true\"><\/i>",
+              "icon_color": "#73788a",
+              "text": "Free Worldwide Delivery",
+              "text_color": "#73788a"
+            }
+          },
+          "1561349520946": {
+            "type": "text",
+            "settings": {
+              "icon": "<i class=\"fa fa-refresh\" aria-hidden=\"true\"><\/i>",
+              "icon_color": "#73788a",
+              "text": "30 Day Money Back Guarantee",
+              "text_color": "#73788a"
+            }
+          },
+          "1561349565071": {
+            "type": "text",
+            "settings": {
+              "icon": "<i class=\"fa fa-star-o\" aria-hidden=\"true\"><\/i>",
+              "icon_color": "#73788a",
+              "text": "Outstanding Customer Service",
+              "text_color": "#73788a"
+            }
+          },
+          "1561349624559": {
+            "type": "text",
+            "settings": {
+              "icon": "<i class=\"fa fa-shield\" aria-hidden=\"true\"><\/i>",
+              "icon_color": "#73788a",
+              "text": "Secure Checkout Guarantee",
+              "text_color": "#73788a"
+            }
+          }
+        },
+        "block_order": [
+          "1561349147878-0",
+          "1561349520946",
+          "1561349565071",
+          "1561349624559"
+        ],
+        "settings": {
+          "enable": true
+        }
+      },
+      "1561351153677": {
+        "type": "home-instagram",
+        "blocks": {
+          "1590563611560": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/1-compressor.jpg"
+            }
+          },
+          "1590563706577": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/2-compressor.jpg"
+            }
+          },
+          "1590563707623": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/5-compressor.jpg"
+            }
+          },
+          "1590563708458": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/6-compressor.jpg"
+            }
+          },
+          "1590563709473": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/4-compressor.jpg"
+            }
+          },
+          "1590564727035": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/6-compressor.jpg"
+            }
+          },
+          "1590564734203": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/2-compressor.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1590563611560",
+          "1590563706577",
+          "1590563707623",
+          "1590563708458",
+          "1590563709473",
+          "1590564727035",
+          "1590564734203"
+        ],
+        "settings": {
+          "show_instagram": true,
+          "instagram_title": "#SOUN On Instagram",
+          "color_title": "#73788a",
+          "instagram_option": "block",
+          "accessToken": "",
+          "display_arrow": true,
+          "images_per_row": "5",
+          "resolution_images": "standard_resolution"
+        }
+      },
+      "1561358353015": {
+        "type": "homepage-customer-reviews",
+        "blocks": {
+          "1561358353015-0": {
+            "type": "Customer",
+            "settings": {
+              "user": "shopify:\/\/shop_images\/review_1.jpg",
+              "reviews_title": "Best sound ever...",
+              "reviews_title_color": "#000d41",
+              "reviews_name": "John Doe",
+              "reviews_name_color": "#73788a",
+              "rating": "star5",
+              "body_review": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor melementum etos lobortis des mollis de risus. Sedcus faucibus an sullamcorper mattis drostique...",
+              "body_review_color": "#73788a"
+            }
+          },
+          "1561358353015-1": {
+            "type": "Customer",
+            "settings": {
+              "user": "shopify:\/\/shop_images\/review_2.jpg",
+              "reviews_title": "So awesome",
+              "reviews_title_color": "#000d41",
+              "reviews_name": "Anne Le",
+              "reviews_name_color": "#73788a",
+              "rating": "star5",
+              "body_review": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor melementum etos lobortis des mollis de risus.",
+              "body_review_color": "#73788a"
+            }
+          },
+          "1563249893374": {
+            "type": "Customer",
+            "settings": {
+              "user": "shopify:\/\/shop_images\/review_2.jpg",
+              "reviews_title": "Best sound ever...",
+              "reviews_title_color": "#000d41",
+              "reviews_name": "John Doe",
+              "reviews_name_color": "#73788a",
+              "rating": "star4",
+              "body_review": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor melementum etos lobortis des mollis de risus. Sedcus faucibus an sullamcorper mattis drostique...",
+              "body_review_color": "#73788a"
+            }
+          }
+        },
+        "block_order": [
+          "1561358353015-0",
+          "1561358353015-1",
+          "1563249893374"
+        ],
+        "settings": {
+          "enable": true,
+          "title": "CMS Block: Reviews",
+          "font_size_title": "50px",
+          "title_color": "#000d41"
+        }
+      },
+      "1561430157460": {
+        "type": "home-banner-parallax",
+        "settings": {
+          "enable": true,
+          "back_image": "shopify:\/\/shop_images\/banner-paralax-compressor.png",
+          "min_height": "890px",
+          "sub_heading": "Phasellus lorem malesuada ligula pulvinar commodo maecenas",
+          "color_sub": "#fff",
+          "font_size_sub": "14px",
+          "heading": "Hear Whatever You Need.",
+          "color_heading": "#fff",
+          "font_size_heading": "50px",
+          "text_submit": "Shop Now",
+          "btn_color": "#fff",
+          "back_btn_color": "transparent",
+          "link_button": "#shopnow",
+          "animation_image": true,
+          "image_right": "shopify:\/\/shop_images\/banner-left-compressor.png"
+        }
+      },
+      "1561446135779": {
+        "type": "homepage-custom-block-style2",
+        "settings": {
+          "enable": true,
+          "back_style": "back_img",
+          "back_color": "#ffffff",
+          "back_img": "shopify:\/\/shop_images\/back-custom-soun.png",
+          "heading": "Sample Heading",
+          "color_heading": "#000d41",
+          "font_size_heading": "24px",
+          "title": "Cosmo Milancelos",
+          "color_title": "#000d41",
+          "font_size_title": "50px",
+          "nav_link": "",
+          "color_nav": "#000d41",
+          "font_size_nav": "14px",
+          "animation_image": true,
+          "img_left": "shopify:\/\/shop_images\/banner-2-compressor.png",
+          "video_id": "video_youtube",
+          "enable_video": true,
+          "video_link": "_9VUPq3SxOc",
+          "video_mp4_link": "",
+          "image_right": "shopify:\/\/shop_images\/banner-3-compressor_1.png",
+          "heading_text": "Metropolitanos",
+          "heading_text_color": "#000d41",
+          "font_size_heading_text": "30px",
+          "sub_heading": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus ansullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.",
+          "sub_heading_text_color": "#73788a",
+          "font_size_sub_heading": "14px",
+          "text_btn": "Explore",
+          "link_btn": ""
+        }
+      },
+      "1561514584488": {
+        "type": "homepage-block-features",
+        "blocks": {
+          "1561516683617": {
+            "type": "features_des",
+            "settings": {
+              "icon": "shopify:\/\/shop_images\/icon1-soun.png",
+              "des_title": "Design",
+              "features_color_des_title": "#000d41",
+              "features_content": "Nam tempus turpis at metus scelerisque placerat nulla deumantos a solicitud felis. Pellentesque diam dolor elementum etos lobortis des mollis.",
+              "features_color_des": "#73788a"
+            }
+          },
+          "1561516686801": {
+            "type": "features_des",
+            "settings": {
+              "icon": "shopify:\/\/shop_images\/icon-2-soun.png",
+              "des_title": "Design",
+              "features_color_des_title": "#000d41",
+              "features_content": "Nam tempus turpis at metus scelerisque placerat nulla deumantos a solicitud felis. Pellentesque diam dolor elementum etos lobortis des mollis.",
+              "features_color_des": "#73788a"
+            }
+          },
+          "1561516691784": {
+            "type": "features_des",
+            "settings": {
+              "icon": "shopify:\/\/shop_images\/icon-3-soun.png",
+              "des_title": "Design",
+              "features_color_des_title": "#000d41",
+              "features_content": "Nam tempus turpis at metus scelerisque placerat nulla deumantos a solicitud felis. Pellentesque diam dolor elementum etos lobortis des mollis.",
+              "features_color_des": "#73788a"
+            }
+          }
+        },
+        "block_order": [
+          "1561516683617",
+          "1561516686801",
+          "1561516691784"
+        ],
+        "settings": {
+          "enable": true,
+          "id_scroll": "features",
+          "back_style": "back_img",
+          "back_color": "#ffffff",
+          "back_img": "shopify:\/\/shop_images\/bck_features-soun.png",
+          "feature_title": "Features",
+          "features_color": "#000d41",
+          "animation_image": true,
+          "image_btm": "shopify:\/\/shop_images\/banner-4-compressor.png",
+          "text_btn_1": "Shop Now",
+          "link_btn_1": "#shopnow",
+          "text_btn_2": "Specification",
+          "link_btn_2": "#specification"
+        }
+      },
+      "1561618561461": {
+        "type": "homepage-custom-block-specification",
+        "blocks": {
+          "1561625427155": {
+            "type": "Specification_content",
+            "settings": {
+              "case_des": "Diam an Selemento",
+              "case_des_color": "#000d41",
+              "desscription": "Nam tempus turpis at metus.",
+              "desscription_color": "#73788a"
+            }
+          },
+          "1561625446850": {
+            "type": "Specification_content",
+            "settings": {
+              "case_des": "Loremicas",
+              "case_des_color": "#000d41",
+              "desscription": "Praesent deu odio des nisios sultricies.",
+              "desscription_color": "#73788a"
+            }
+          },
+          "1561625703566": {
+            "type": "Specification_content",
+            "settings": {
+              "case_des": "Integer Mermento",
+              "case_des_color": "#000d41",
+              "desscription": "Lorem tempus scelerisque blandito.",
+              "desscription_color": "#73788a"
+            }
+          },
+          "1561625710000": {
+            "type": "Specification_content",
+            "settings": {
+              "case_des": "Cosmopolis",
+              "case_des_color": "#000d41",
+              "desscription": "Pellentesque de delementumos.",
+              "desscription_color": "#73788a"
+            }
+          },
+          "1561625718832": {
+            "type": "Specification_content",
+            "settings": {
+              "case_des": "Parturient Monte",
+              "case_des_color": "#000d41",
+              "desscription": "Nam tempus turpis at metus scelerisques.",
+              "desscription_color": "#73788a"
+            }
+          },
+          "1561625724655": {
+            "type": "Specification_content",
+            "settings": {
+              "case_des": "Nullas Dollicitudino",
+              "case_des_color": "#000d41",
+              "desscription": "Placerat nulla deumantos.",
+              "desscription_color": "#73788a"
+            }
+          },
+          "1561625736384": {
+            "type": "Specification_content",
+            "settings": {
+              "case_des": "Milancelos",
+              "case_des_color": "#000d41",
+              "desscription": "Pellentesque diam dolor elementum lobortis.",
+              "desscription_color": "#73788a"
+            }
+          }
+        },
+        "block_order": [
+          "1561625427155",
+          "1561625446850",
+          "1561625703566",
+          "1561625710000",
+          "1561625718832",
+          "1561625724655",
+          "1561625736384"
+        ],
+        "settings": {
+          "enable": true,
+          "id_scroll": "specification",
+          "specification_title": "Specification",
+          "title_color": "#000d41",
+          "font_size_title": "50px",
+          "cotent_sub": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras",
+          "cotent_color": "#73788a",
+          "font_size_cotent": "14px",
+          "enable_tab1": true,
+          "specification_tab_title": "Specification",
+          "specification_tab_title_color": "#000d41",
+          "enable_tab2": true,
+          "custom_tab_title": "Shipping and Returns | Liefer- und Versandkosten",
+          "custom_tab_title_color": "#000d41",
+          "content_cusstom_tab": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.",
+          "content_cusstom_tab_color": "#73788a",
+          "animation_image": true,
+          "image_ifo": "shopify:\/\/shop_images\/banner-8-compressor.png"
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "settings": {
+          "display_google_map": true,
+          "google_map_code": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3919.211481188846!2d106.71971781526032!3d10.795108461799389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529a18fa325fd%3A0x25f815f86c6d39c1!2sVincom+Center+Landmark+81!5e0!3m2!1svi!2s!4v1561710379219!5m2!1svi!2s\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"><\/iframe>",
+          "contact_title": "Contact Us",
+          "contact_text_desc": "Get in touch! We're here to quickly provide you with the info and dervices you need & answer any question you may have.",
+          "title_left": "Send us an email",
+          "des_left": "Have a question or comment? <br>\nUse the form below to send us a message or contact us by mail at:",
+          "contact_your_name": "",
+          "contact_phone_number": "",
+          "contact_your_email": "",
+          "title_right": "Please do get in touch!",
+          "des_right": "We'd love to hear from you - please use the form to send us your message or ideas. Or simply pop in for a cup of fresh tea and a cookie.",
+          "btn_right": "Chat now",
+          "link_btn_right": "",
+          "display_location": true,
+          "location_code": "<p>8808 Ave Dermentum, Onsectetur Adipiscing<br>Tortor Sagittis, CA 880986,<br>United States<\/p>\n<p>9087S Divamus Faucibus Str., <br> City name,<br> Postal Code,<br>CA 90896 <br>United States<\/p>\n<p>E-Mail: stores@domain.com<br>Toll-free: (1800) 000 8808<\/p>\n<p class=\"open-hours\">Opening Hours:<br>Monday to Saturday: 9am - 10pm<br>Sundays: 10am - 6pm<\/p>",
+          "custom_style_color": false,
+          "color_title": "",
+          "color_content": "",
+          "color_label": "",
+          "back_right": ""
+        }
+      },
+      "about-us_content": {
+        "type": "about-us_content",
+        "blocks": {
+          "1561956956924": {
+            "type": "top_content",
+            "settings": {
+              "display_banner": true,
+              "banner": "",
+              "alignment": "right",
+              "title_1": "Our Mission",
+              "content_1": "Nullam daliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam praesent murna de tellus laoreet cosmopolis quisque hendreritos.",
+              "title_2": "",
+              "content_2": "",
+              "title_3": "",
+              "content_3": "",
+              "title_4": "",
+              "content_4": "",
+              "title_5": "",
+              "content_5": ""
+            }
+          },
+          "1562031959903": {
+            "type": "top_content",
+            "settings": {
+              "display_banner": true,
+              "banner": "",
+              "alignment": "left",
+              "title_1": "Our Story",
+              "content_1": "Nullam daliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam praesent murna de tellus laoreet cosmopolis quisque hendreritos.",
+              "title_2": "Our Mission",
+              "content_2": "Nullam daliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam praesent murna de tellus laoreet cosmopolis quisque hendreritos.",
+              "title_3": "Our Approach",
+              "content_3": "Nullam daliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam praesent murna de tellus laoreet cosmopolis quisque hendreritos.",
+              "title_4": "",
+              "content_4": "",
+              "title_5": "",
+              "content_5": ""
+            }
+          },
+          "1562031994850": {
+            "type": "top_content",
+            "settings": {
+              "display_banner": true,
+              "banner": "",
+              "alignment": "right",
+              "title_1": "Our Approach",
+              "content_1": "Nullam daliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam praesent murna de tellus laoreet cosmopolis quisque hendreritos.",
+              "title_2": "",
+              "content_2": "",
+              "title_3": "Title",
+              "content_3": "",
+              "title_4": "",
+              "content_4": "",
+              "title_5": "",
+              "content_5": ""
+            }
+          },
+          "1562035184585": {
+            "type": "bottom_content",
+            "settings": {
+              "image": "",
+              "title": "Michael D.",
+              "subtitle": "Managing Director",
+              "content": "Nam tempus turpis at metus scelerisque placerat nulla deumantos a solicitud felis. Pellentesque diam dolor elementum etos lobortis des mollis.",
+              "url": "shopify:\/\/collections\/all",
+              "social_facebook_link": "https:\/\/facebook.com\/shopify",
+              "social_twitter_link": "https:\/\/twitter.com\/shopify",
+              "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
+              "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/shopify"
+            }
+          },
+          "1562035195511": {
+            "type": "bottom_content",
+            "settings": {
+              "image": "",
+              "title": "Anne L.",
+              "subtitle": "Art Director",
+              "content": "Nam tempus turpis at metus scelerisque placerat nulla deumantos a solicitud felis. Pellentesque diam dolor elementum etos lobortis des mollis.",
+              "url": "shopify:\/\/collections\/all",
+              "social_facebook_link": "https:\/\/facebook.com\/shopify",
+              "social_twitter_link": "https:\/\/twitter.com\/shopify",
+              "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
+              "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/shopify"
+            }
+          },
+          "1562035197429": {
+            "type": "bottom_content",
+            "settings": {
+              "image": "",
+              "title": "Michael D.",
+              "subtitle": "Lead Customer Service",
+              "content": "Nam tempus turpis at metus scelerisque placerat nulla deumantos a solicitud felis. Pellentesque diam dolor elementum etos lobortis des mollis.",
+              "url": "shopify:\/\/collections\/all",
+              "social_facebook_link": "https:\/\/facebook.com\/shopify",
+              "social_twitter_link": "https:\/\/twitter.com\/shopify",
+              "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
+              "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/shopify"
+            }
+          }
+        },
+        "block_order": [
+          "1561956956924",
+          "1562031959903",
+          "1562031994850",
+          "1562035184585",
+          "1562035195511",
+          "1562035197429"
+        ],
+        "settings": {
+          "display_top_content": true,
+          "about_title": "About Us",
+          "about_text_desc": "Phasellus lorem malesuada ligula pulvinar commodo maecenas suscipit auctom.",
+          "top_content_bgc": "#fafafa",
+          "top_content_tt_size": "30",
+          "top_content_ttc": "#000d41",
+          "top_content_txtc": "#73788a",
+          "dots_color": "#969696",
+          "display_bottom_content": true,
+          "bot_heading": "Our Team.",
+          "bot_subheading": "Quisquemos sodales suscipit tortor ditaemcos condimentum de cosmo lacus meleifend menean diverra loremous. Nullam sit amet orci rutrum risus laoreet semper vel non magna. Mauris vel sem a lectus vehicula ultricies. Etiam semper sollicitudin lectus indous scelerisque. Curabitur vel tristique lacus. Nam risus mauris, accumsan et eleifend vitae, dignissim at eros.",
+          "bottom_content_ttc": "#000d41",
+          "bottom_content_txtc": "#73788a",
+          "link_color": "#296fc2",
+          "addthis_code": "<!-- Go to www.addthis.com\/dashboard to customize your tools --> <script type=\"text\/javascript\" src=\"\/\/s7.addthis.com\/js\/300\/addthis_widget.js#pubid=ra-5d0c92dcba478c17\"><\/script>\n<!-- Go to www.addthis.com\/dashboard to customize your tools --> <div class=\"addthis_inline_share_toolbox_vv3h\"><\/div>"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "style_moreview": "vertical",
+          "enable_terms_and_conditions": true,
+          "terms_and_conditions_text": "I agree with the terms and conditions",
+          "enable_condition_checkbox": true,
+          "display_trust_img": true,
+          "img_trust": "shopify:\/\/shop_images\/trust-compressor.png",
+          "show_desc": "short"
+        }
+      },
+      "faq-product": {
+        "type": "faq-product",
+        "blocks": {
+          "1562727467841": {
+            "type": "pre_sale_questions",
+            "settings": {
+              "question_faqs_pre": "Praesent deu modio de nisios dullamcorper sultricies.",
+              "answer_faqs_pre": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1562727481168": {
+            "type": "pre_sale_questions",
+            "settings": {
+              "question_faqs_pre": "Pellentesque diam dolor melementum en lobortis at mollis.",
+              "answer_faqs_pre": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1562727495559": {
+            "type": "pre_sale_questions",
+            "settings": {
+              "question_faqs_pre": "Nam tempus turpis at metus scelerisque placerat nulla deumantos \nsollicitudin felis.",
+              "answer_faqs_pre": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1562727511033": {
+            "type": "pre_sale_questions",
+            "settings": {
+              "question_faqs_pre": "Lorem tempus scelerisque blandit est cursus.",
+              "answer_faqs_pre": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1562727528344": {
+            "type": "pre_sale_questions",
+            "settings": {
+              "question_faqs_pre": "Nam tempus turpis at metus scelerisque.",
+              "answer_faqs_pre": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1562727549225": {
+            "type": "most_asked_technical",
+            "settings": {
+              "question_faqs_technical": "Praesent deu modio de nisios dullamcorper sultricies.",
+              "answer_faqs_technical": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1562727567456": {
+            "type": "most_asked_technical",
+            "settings": {
+              "question_faqs_technical": "Pellentesque diam dolor melementum en lobortis at mollis.",
+              "answer_faqs_technical": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1562727587922": {
+            "type": "most_asked_technical",
+            "settings": {
+              "question_faqs_technical": "Nam tempus turpis at metus scelerisque placerat nulla deumantos \nsollicitudin felis.",
+              "answer_faqs_technical": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1562727610882": {
+            "type": "most_asked_technical",
+            "settings": {
+              "question_faqs_technical": "Lorem tempus scelerisque blandit est cursus.",
+              "answer_faqs_technical": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1562727628489": {
+            "type": "most_asked_technical",
+            "settings": {
+              "question_faqs_technical": "Nam tempus turpis at metus scelerisque.",
+              "answer_faqs_technical": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          }
+        },
+        "block_order": [
+          "1562727467841",
+          "1562727481168",
+          "1562727495559",
+          "1562727511033",
+          "1562727528344",
+          "1562727549225",
+          "1562727567456",
+          "1562727587922",
+          "1562727610882",
+          "1562727628489"
+        ],
+        "settings": {
+          "enable": true,
+          "title_faqs": "Frequently Asked Questions",
+          "color_title_faqs": "#000d41",
+          "font_size_title_faqs": "50px",
+          "color_icon_qs": "#dddddd",
+          "color_question": "#296fc2",
+          "font_size_qs": "14px",
+          "color_question_answer": "#73788a",
+          "font_size_answer": "14px",
+          "title_pre_questions": "Pre Sale Questions",
+          "des_pre_questions": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus.",
+          "title_technical_questions": "Most Asked Technical Questions",
+          "des_technical_questions": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus.",
+          "color_title_botton": "#000d41",
+          "font_size_title_botton": "20px"
+        }
+      },
+      "description_product_detail": {
+        "type": "description_product_detail",
+        "blocks": {
+          "1563331558511": {
+            "type": "descript_style",
+            "settings": {
+              "alignment": "left",
+              "style_custom": "img",
+              "video_id": "video_youtube",
+              "video_link": "_9VUPq3SxOc",
+              "video_mp4_link": "",
+              "back_style_left": "#f7f7f7",
+              "title_style": "Phasellus Loremous",
+              "title_style_color": "#000d41",
+              "font_size_title_style": "30px",
+              "des_style": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.",
+              "des_style_color": "#73788a",
+              "font_size_des_style": "14px",
+              "link_title": "",
+              "link_color": "#296fc2",
+              "font_size_link": "14px",
+              "link_style": "",
+              "img_style": "shopify:\/\/shop_images\/banner-7-compressor.png"
+            }
+          },
+          "1563331606409": {
+            "type": "descript_style",
+            "settings": {
+              "alignment": "right",
+              "style_custom": "img",
+              "video_id": "video_youtube",
+              "video_link": "_9VUPq3SxOc",
+              "video_mp4_link": "",
+              "back_style_left": "#f7f7f7",
+              "title_style": "Phasellus Loremous",
+              "title_style_color": "#000d41",
+              "font_size_title_style": "30px",
+              "des_style": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitudo felis. Pellentesque diam dolor melementum etos lobortis.\n<ul>\n  <li>Nam tempus turpis at metus scelerisque placerato<\/li>\n  <li>Nulla deumantos solicitud felis.<\/li>\n  <li>Pellentesque diam dolor, elementum etos lobortis des mollis risus.<\/li>\n  <li>Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras.<\/li>\n  <li>Loremos done pretium egestas sapien et mollis.<\/li>\n<\/ul>",
+              "des_style_color": "#73788a",
+              "font_size_des_style": "14px",
+              "link_title": "",
+              "link_color": "#296fc2",
+              "font_size_link": "14px",
+              "link_style": "",
+              "img_style": "shopify:\/\/shop_images\/banner-6-compressor.png"
+            }
+          },
+          "1563331640605": {
+            "type": "descript_style",
+            "settings": {
+              "alignment": "left",
+              "style_custom": "video",
+              "video_id": "video_youtube",
+              "video_link": "_9VUPq3SxOc",
+              "video_mp4_link": "",
+              "back_style_left": "#f7f7f7",
+              "title_style": "Phasellus Loremous",
+              "title_style_color": "#000d41",
+              "font_size_title_style": "30px",
+              "des_style": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.",
+              "des_style_color": "#73788a",
+              "font_size_des_style": "14px",
+              "link_title": "Sample URL >",
+              "link_color": "#296fc2",
+              "font_size_link": "14px",
+              "link_style": "",
+              "img_style": "shopify:\/\/shop_images\/banner-3-compressor_1.png"
+            }
+          }
+        },
+        "block_order": [
+          "1563331558511",
+          "1563331606409",
+          "1563331640605"
+        ],
+        "settings": {
+          "enable": true
+        }
+      },
+      "contact-support-pr": {
+        "type": "contact-support-pr",
+        "settings": {
+          "enable": true,
+          "des": "Unable to find satisfactory answers ?",
+          "color_title": "#73788a",
+          "font_size_title": "14px",
+          "text_button": "Contact Support",
+          "color_button_content": "#fff",
+          "back_button_content": "#ec3323",
+          "color_hover": "#ec3323",
+          "back_button_hover": "#fff"
+        }
+      },
+      "1563270071353": {
+        "type": "homepage-custom-block-overview",
+        "blocks": {
+          "1563270071353-0": {
+            "type": "overview_style",
+            "settings": {
+              "alignment": "left",
+              "style_custom": "img",
+              "video_id": "video_youtube",
+              "video_link": "_9VUPq3SxOc",
+              "video_mp4_link": "",
+              "back_style_left": "#f7f7f7",
+              "title_style": "Phasellus Loremous",
+              "title_style_color": "#000d41",
+              "font_size_title_style": "30px",
+              "des_style": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.",
+              "des_style_color": "#73788a",
+              "font_size_des_style": "14px",
+              "link_title": "",
+              "link_color": "#296fc2",
+              "font_size_link": "14px",
+              "link_style": "",
+              "img_style": "shopify:\/\/shop_images\/banner-5-compressor.png",
+              "link_banner": "shopify:\/\/collections\/cosmopolis"
+            }
+          },
+          "1563270084399": {
+            "type": "overview_style",
+            "settings": {
+              "alignment": "right",
+              "style_custom": "img",
+              "video_id": "video_youtube",
+              "video_link": "_9VUPq3SxOc",
+              "video_mp4_link": "",
+              "back_style_left": "#f7f7f7",
+              "title_style": "Phasellus Loremous",
+              "title_style_color": "#000d41",
+              "font_size_title_style": "30px",
+              "des_style": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitudo felis. Pellentesque diam dolor melementum etos lobortis.\n<ul>\n  <li>Nam tempus turpis at metus scelerisque placerato<\/li>\n  <li>Nulla deumantos solicitud felis.<\/li>\n  <li>Pellentesque diam dolor, elementum etos lobortis des mollis risus.<\/li>\n  <li>Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras.<\/li>\n  <li>Loremos done pretium egestas sapien et mollis.<\/li>\n<\/ul>",
+              "des_style_color": "#73788a",
+              "font_size_des_style": "14px",
+              "link_title": "",
+              "link_color": "#296fc2",
+              "font_size_link": "14px",
+              "link_style": "",
+              "img_style": "shopify:\/\/shop_images\/banner-6-compressor.png",
+              "link_banner": ""
+            }
+          },
+          "1563270093628": {
+            "type": "overview_style",
+            "settings": {
+              "alignment": "left",
+              "style_custom": "video",
+              "video_id": "video_youtube",
+              "video_link": "_9VUPq3SxOc",
+              "video_mp4_link": "",
+              "back_style_left": "#f7f7f7",
+              "title_style": "Phasellus Loremous",
+              "title_style_color": "#000d41",
+              "font_size_title_style": "30px",
+              "des_style": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.",
+              "des_style_color": "#73788a",
+              "font_size_des_style": "14px",
+              "link_title": "Sample URL >",
+              "link_color": "#296fc2",
+              "font_size_link": "14px",
+              "link_style": "shopify:\/\/products\/soun-serie-x-wireless",
+              "img_style": "shopify:\/\/shop_images\/banner-7-compressor.png",
+              "link_banner": ""
+            }
+          }
+        },
+        "block_order": [
+          "1563270071353-0",
+          "1563270084399",
+          "1563270093628"
+        ],
+        "settings": {
+          "enable": true,
+          "id_scroll": "overview-custom",
+          "overview_title": "Overview",
+          "title_color": "#000d41",
+          "font_size_title": "50px",
+          "overview_des": "Phasellus lorem an malesuada ligula pulvinar commodo maecenas de metropolis",
+          "sub_content_color": "#73788a",
+          "font_size_des": "14px"
+        }
+      },
+      "product-review": {
+        "type": "product-review",
+        "settings": {
+          "enable": true,
+          "review_title": "Customer Reviews",
+          "review_title_color": "#000d41",
+          "content_des_review": "Phasellus lorem an malesuada ligula pulvinar commodo maecenas de metropolis",
+          "sub_color": "#73788a"
+        }
+      },
+      "password-section": {
+        "type": "password-section",
+        "settings": {
+          "brand_type": "image",
+          "brand_text": "",
+          "brand_text_color": "#000d41",
+          "logo_pc": "",
+          "max_height_logo_pc": "30px",
+          "logo_mb": "",
+          "max_height_logo_mb": "25",
+          "access_lable": "Early Access Login",
+          "access_lable_color": "#fff",
+          "banner": "",
+          "heading": "Our new store will be  opening soon",
+          "heading_size": "30",
+          "subtitle": "Phasellus lorem malesuada de pulvinar commodo maecenas.",
+          "subtitle_size": "13",
+          "backbround_color": "#fff",
+          "text_color": "#000d41",
+          "display_newsletter": true,
+          "success_message": "Thanks for contacting us. We'll get back to you as soon as possible",
+          "display_product_detail_share": true,
+          "footer_address_code": ""
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_notes": true
+        }
+      },
+      "sidebar-filter": {
+        "type": "sidebar-filter",
+        "blocks": {
+          "1590998287098": {
+            "type": "filter_color",
+            "settings": {
+              "enable": true,
+              "title": "Color",
+              "list_tags": "Gray,Snow,Black,Red,Green,Brown,Pink,Orange,Skyeblue",
+              "show_product_color_img": true
+            }
+          },
+          "1590999847482": {
+            "type": "filter_text",
+            "settings": {
+              "enable": true,
+              "title": "Size",
+              "list_tags": "XSmall,Small,Medium,Large,XLarge"
+            }
+          },
+          "1591000539059": {
+            "type": "filter_text",
+            "settings": {
+              "enable": true,
+              "title": "Price",
+              "list_tags": "Less than $300,$300 - $400,Above $400"
+            }
+          },
+          "1591000768172": {
+            "type": "filter_text",
+            "settings": {
+              "enable": true,
+              "title": "Brand",
+              "list_tags": "Soun,Milancelos,Other"
+            }
+          },
+          "1591000887322": {
+            "type": "filter_text",
+            "settings": {
+              "enable": true,
+              "title": "Product Type",
+              "list_tags": "Bibendumetos,Consequato"
+            }
+          }
+        },
+        "block_order": [
+          "1590998287098",
+          "1590999847482",
+          "1591000539059",
+          "1591000768172",
+          "1591000887322"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "show_sidebar": "left",
+          "enable_categories": true,
+          "title_categories": "Categories",
+          "style_categories": "style_little",
+          "link_list": "categories",
+          "enable_product": true,
+          "title_product": "Featured Products",
+          "collection": "sidebar-collection",
+          "limit": "3",
+          "enable_img": true,
+          "image_img": "shopify:\/\/shop_images\/banner-sidebar-compressor.png",
+          "link_img": "",
+          "enable_custom_block": true,
+          "title_custom_block": "Custom Block",
+          "quote_custom_block": "<p class=\"first\">Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from admin panel.<\/p>"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "enable_toolbar": true,
+          "view_as_enable": true,
+          "limited_view": true,
+          "sort_enable": true,
+          "collection_results_per_row": "3",
+          "collection_results_per_page_col": "18"
+        }
+      },
+      "collection-header": {
+        "type": "collection-header",
+        "settings": {
+          "collection_header_enable": true,
+          "display_collection_image": true,
+          "collection_image": "shopify:\/\/shop_images\/banner-banner-compressor.png",
+          "display_collection_des": true
+        }
+      },
+      "recently-viewed-products": {
+        "type": "recently-viewed-products",
+        "settings": {
+          "display_recently_viewed_products": true,
+          "recently_viewed_products_title": "Recently Viewed",
+          "number_of_recently_viewed_products": "8"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "display_related_products": true,
+          "related_products_title": "Related Products",
+          "number_of_related_products": "8"
+        }
+      },
+      "tab-horizontal": {
+        "type": "tab-horizontal",
+        "blocks": {
+          "1591327748962": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Specification",
+              "product_tab_content": "<div class=\"product-tab\">\n<div class=\"pecification\">\n          \n          <ul class=\"item\">\n            <li class=\"case_des\">\n<span>\n  Diam an Selemento\n<\/span>\n<\/li>\n            <li class=\"des\">\n<span>\n  Nam tempus turpis at metus.\n<\/span>\n<\/li>\n          <\/ul>\n\n          \n          <ul class=\"item\">\n            <li class=\"case_des\">\n<span>\n  Loremicas\n<\/span>\n<\/li>\n            <li class=\"des\">\n<span>\n  Praesent deu odio des nisios sultricies.\n<\/span>\n<\/li>\n          <\/ul>\n\n          \n          <ul class=\"item\">\n            <li class=\"case_des\">\n<span>\n  Integer Mermento\n<\/span>\n<\/li>\n            <li class=\"des\">\n<span>\n  Lorem tempus scelerisque blandito.\n<\/span>\n<\/li>\n          <\/ul>\n\n          \n          <ul class=\"item\">\n            <li class=\"case_des\">\n<span>\n  Cosmopolis\n<\/span>\n<\/li>\n            <li class=\"des\">\n<span>\n  Pellentesque de delementumos.\n<\/span>\n<\/li>\n          <\/ul>\n\n          \n          <ul class=\"item\">\n            <li class=\"case_des\">\n<span>\n  Parturient Monte\n<\/span>\n<\/li>\n            <li class=\"des\">\n<span>\n  Nam tempus turpis at metus scelerisques.\n<\/span>\n<\/li>\n          <\/ul>\n\n          \n          <ul class=\"item\">\n            <li class=\"case_des\">\n<span>\n  Nullas Dollicitudino\n<\/span>\n<\/li>\n            <li class=\"des\">\n<span>\n  Placerat nulla deumantos.\n<\/span>\n<\/li>\n          <\/ul>\n\n          \n          <ul class=\"item\">\n            <li class=\"case_des\">\n<span>\n  Milancelos\n<\/span>\n<\/li>\n            <li class=\"des\">\n<span>\n  Pellentesque diam dolor elementum lobortis.\n<\/span>\n<\/li>\n          <\/ul>\n\n          \n        <\/div>\n        <\/div>",
+              "product_tab_content_2": "ffffffffffffffff"
+            }
+          },
+          "1591327651647": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Shipping and Returns",
+              "product_tab_content": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.",
+              "product_tab_content_2": ""
+            }
+          },
+          "1591329680104": {
+            "type": "pre_sale_questions",
+            "settings": {
+              "question_faqs_pre": "Praesent deu modio de nisios dullamcorper sultricies.",
+              "answer_faqs_pre": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1591329734492": {
+            "type": "most_asked_technical",
+            "settings": {
+              "question_faqs_technical": "Praesent deu modio de nisios dullamcorper sultricies.",
+              "answer_faqs_technical": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1591331839285": {
+            "type": "pre_sale_questions",
+            "settings": {
+              "question_faqs_pre": "Pellentesque diam dolor melementum en lobortis at mollis.",
+              "answer_faqs_pre": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1591331851361": {
+            "type": "pre_sale_questions",
+            "settings": {
+              "question_faqs_pre": "Nam tempus turpis at metus scelerisque placerat nulla deumantos \nsollicitudin felis.",
+              "answer_faqs_pre": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1591331874535": {
+            "type": "pre_sale_questions",
+            "settings": {
+              "question_faqs_pre": "Lorem tempus scelerisque blandit est cursus.",
+              "answer_faqs_pre": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1591331900146": {
+            "type": "pre_sale_questions",
+            "settings": {
+              "question_faqs_pre": "Nam tempus turpis at metus scelerisque.",
+              "answer_faqs_pre": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1591331932409": {
+            "type": "most_asked_technical",
+            "settings": {
+              "question_faqs_technical": "Pellentesque diam dolor melementum en lobortis at mollis.",
+              "answer_faqs_technical": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1591331942757": {
+            "type": "most_asked_technical",
+            "settings": {
+              "question_faqs_technical": "Nam tempus turpis at metus scelerisque placerat nulla deumantos \nsollicitudin felis.",
+              "answer_faqs_technical": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1591331962953": {
+            "type": "most_asked_technical",
+            "settings": {
+              "question_faqs_technical": "Lorem tempus scelerisque blandit est cursus.",
+              "answer_faqs_technical": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          },
+          "1591331987064": {
+            "type": "most_asked_technical",
+            "settings": {
+              "question_faqs_technical": "Nam tempus turpis at metus scelerisque.",
+              "answer_faqs_technical": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+            }
+          }
+        },
+        "block_order": [
+          "1591327748962",
+          "1591327651647",
+          "1591329680104",
+          "1591329734492",
+          "1591331839285",
+          "1591331851361",
+          "1591331874535",
+          "1591331900146",
+          "1591331932409",
+          "1591331942757",
+          "1591331962953",
+          "1591331987064"
+        ],
+        "settings": {
+          "display_product_detail_description": true,
+          "product_description_title": "Description",
+          "display_product_review_tab": true,
+          "product_review_title": "Reviews",
+          "display_product_faq_tab": true,
+          "product_faq_title": "FAQ",
+          "title_pre_questions": "Pre Sale Questions",
+          "des_pre_questions": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus.",
+          "title_technical_questions": "Most Asked Technical Questions",
+          "des_technical_questions": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus."
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "1591608895043": {
+            "type": "collection_3item",
+            "settings": {
+              "image_1": "shopify:\/\/shop_images\/banner2-compressor.png",
+              "collection_1": "milancelos",
+              "image_2": "shopify:\/\/shop_images\/banner-3-compressor.png",
+              "collection_2": "sapieno",
+              "image_3": "shopify:\/\/shop_images\/banner1-compressor.png",
+              "collection_3": "cosmopolis"
+            }
+          },
+          "1591675700862": {
+            "type": "collection_1item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-4-compressor_f7904094-18aa-453c-b372-463f3469aca8.png",
+              "collection": "metropolis"
+            }
+          },
+          "1591689156530": {
+            "type": "collection_3item",
+            "settings": {
+              "image_1": "",
+              "collection_1": "",
+              "image_2": "",
+              "collection_2": "",
+              "image_3": "",
+              "collection_3": ""
+            }
+          },
+          "1591689532030": {
+            "type": "collection_1item",
+            "settings": {
+              "image": "",
+              "collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "1591608895043",
+          "1591675700862",
+          "1591689156530",
+          "1591689532030"
+        ],
+        "settings": {
+          "title_col": "Collections",
+          "des_col": "Phasellus lorem malesuada ligula pulvinar commodo maecenas suscipit auctom.",
+          "list_collection_results_per_row": "3",
+          "style_categories": "style_little",
+          "col_list_show_first": 2,
+          "display_infinite_scrolling_col": true,
+          "col_list_limit": 2,
+          "title_show_more": "Show More"
+        }
+      },
+      "list-product-col": {
+        "type": "list-product-col",
+        "settings": {
+          "featured_products_title": "Editors Picks",
+          "color_title": "#000d41",
+          "size_title": "50px",
+          "show_slider_featured_collection": "milancelos",
+          "slider_featured_limit_all": 10,
+          "collection_featured_layout": "carousel",
+          "collection_results_per_row1": "4"
+        }
+      },
+      "sidebar-blog": {
+        "type": "sidebar-blog",
+        "blocks": {
+          "1591761670292": {
+            "type": "product",
+            "settings": {
+              "enable": true,
+              "title": "Featured Products",
+              "collection": "sidebar-collection",
+              "limit": "8"
+            }
+          },
+          "1591761737858": {
+            "type": "image",
+            "settings": {
+              "enable": true,
+              "image": "shopify:\/\/shop_images\/banner-sidebar-compressor.png",
+              "link": ""
+            }
+          },
+          "1591761749651": {
+            "type": "quote",
+            "settings": {
+              "enable": true,
+              "title": "Custom Block",
+              "quote": "<p class=\"first\">Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from admin panel.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1591761670292",
+          "1591761737858",
+          "1591761749651"
+        ],
+        "settings": {
+          "display_sidebar_blog_page": true,
+          "show_sidebar": "left",
+          "display_sidebar_link": true,
+          "sidebar_link_title": "Blog Categories",
+          "style_categories": "style_little",
+          "link_list": "blog-categories",
+          "sidebar_recent_art": true,
+          "sidebar_blog_tags": true
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "blog_post": "8",
+          "blog_text_align": "left",
+          "blog_show_author": true,
+          "blog_show_date": true
+        }
+      },
+      "description_one_product_detail": {
+        "type": "description_one_product_detail",
+        "blocks": {
+          "1592472076467": {
+            "type": "descript_style",
+            "settings": {
+              "product_name": "soun serie x pulvinar",
+              "handle_page": "soun-serie-x-aneano",
+              "alignment": "left",
+              "style_custom": "img",
+              "video_id": "video_youtube",
+              "video_link": "_9VUPq3SxOc",
+              "video_mp4_link": "",
+              "back_style_left": "#f7f7f7",
+              "title_style": "Phasellus Loremous",
+              "title_style_color": "#000d41",
+              "font_size_title_style": "30px",
+              "des_style": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.",
+              "des_style_color": "#73788a",
+              "font_size_des_style": "14px",
+              "link_title": "",
+              "link_color": "#296fc2",
+              "font_size_link": "14px",
+              "link_style": "",
+              "img_style": "shopify:\/\/shop_images\/banner-art-blog-compressor.png",
+              "link_banner": ""
+            }
+          },
+          "1592531800057": {
+            "type": "descript_style",
+            "settings": {
+              "product_name": "",
+              "handle_page": "soun-serie-x-pulvinar",
+              "alignment": "left",
+              "style_custom": "img",
+              "video_id": "video_youtube",
+              "video_link": "_9VUPq3SxOc",
+              "video_mp4_link": "",
+              "back_style_left": "#f7f7f7",
+              "title_style": "Phasellus Loremous",
+              "title_style_color": "#000d41",
+              "font_size_title_style": "30px",
+              "des_style": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.",
+              "des_style_color": "#73788a",
+              "font_size_des_style": "14px",
+              "link_title": "",
+              "link_color": "#296fc2",
+              "font_size_link": "14px",
+              "link_style": "",
+              "img_style": "shopify:\/\/shop_images\/banner-art-compressor.png",
+              "link_banner": ""
+            }
+          }
+        },
+        "block_order": [
+          "1592472076467",
+          "1592531800057"
+        ],
+        "settings": {
+        }
+      },
+      "products_bundle_discount": {
+        "type": "products_bundle_discount",
+        "settings": {
+          "dpl_grouped_product": true,
+          "title": "Frequently Bought Together",
+          "enable_bundle_discount": true,
+          "choose_options": "Choose options",
+          "bundle_discount_text": "Get a [discount]% discount buying these products together"
+        }
+      },
+      "brands-page": {
+        "type": "brands-page",
+        "blocks": {
+          "1605688533451": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-1.jpg",
+              "title": "Benjamin Button",
+              "link": ""
+            }
+          },
+          "1605688542282": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-2.jpg",
+              "title": "Benjamin Button",
+              "link": ""
+            }
+          },
+          "1605688547731": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-3.jpg",
+              "title": "Benjamin Button",
+              "link": ""
+            }
+          },
+          "1605688548905": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-4.jpg",
+              "title": "Benjamin Button",
+              "link": ""
+            }
+          },
+          "1605688549951": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-5.jpg",
+              "title": "Benjamin Button",
+              "link": ""
+            }
+          },
+          "1605688550834": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-4.jpg",
+              "title": "Benjamin Button",
+              "link": ""
+            }
+          },
+          "1605688551906": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-3.jpg",
+              "title": "Benjamin Button",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1605688533451",
+          "1605688542282",
+          "1605688547731",
+          "1605688548905",
+          "1605688549951",
+          "1605688550834",
+          "1605688551906"
+        ],
+        "settings": {
+          "display_brand": true
+        }
+      },
+      "404-section": {
+        "type": "404-section",
+        "settings": {
+          "background": "",
+          "overlay_color": "#fff",
+          "overlay_opacity": "0.35",
+          "number_size": "200",
+          "subtitle": "Oops... the page you looking for clocked out!",
+          "subtitle_size": "16",
+          "text_color": "#232323",
+          "btn_bgc": "#232323",
+          "btn_txtc": "#fff",
+          "btn_bdc": "#232323",
+          "btn_bgc_h": "#fff",
+          "btn_txtc_h": "#232323",
+          "btn_bdc_h": "#232323",
+          "btn_link_1": "\/",
+          "btn_text_1": "Return to Store"
+        }
+      },
+      "1606206048849": {
+        "type": "home-featured-products",
+        "settings": {
+          "featured_products_title": "Featured Products",
+          "color_title": "#000d41",
+          "size_title": "50px",
+          "show_slider_featured_collection": "home-page-products",
+          "slider_featured_limit_all": 10,
+          "collection_featured_layout": "carousel",
+          "collection_results_per_row1": "5",
+          "margin_bottom_mb": 40,
+          "margin_bottom_tab": 40,
+          "margin_bottom": 25
+        }
+      }
+    },
+    "content_for_index": [
+      "1561430157460",
+      "1561446135779",
+      "1561514584488",
+      "1563270071353",
+      "1561618561461",
+      "1606206048849",
+      "1561358353015",
+      "1561351153677",
+      "1561349147878"
+    ]
+  }
+}

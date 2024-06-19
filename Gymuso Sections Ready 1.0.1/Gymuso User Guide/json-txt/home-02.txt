@@ -1,0 +1,2035 @@
+{
+  "current": {
+    "type_header_font": "rajdhani_n7",
+    "type_header_base_size": 16,
+    "logo_size": 28,
+    "type_base_font": "arimo_n4",
+    "type_base_size": 12,
+    "type_heading_font": "rajdhani_n6",
+    "type_heading_size": 30,
+    "favicon": "shopify:\/\/shop_images\/favicon.png",
+    "enable_opengraph": true,
+    "image_share": "",
+    "body_layout": "page-full-width",
+    "header_layout": "header_2",
+    "enable_header_effect": true,
+    "footer_layout": "footer_2",
+    "enable_footer_effect": true,
+    "product_layout": "layout-2",
+    "breadcrumb_layout": "bottom",
+    "product_card_height_procent": 150,
+    "terms_conditions": true,
+    "option_swatch": true,
+    "option_color_swatch": "Color",
+    "show_product_switch_image": true,
+    "show_product_wishlist": true,
+    "show_product_quickview": true,
+    "show_product_countdown": true,
+    "show_product_button": true,
+    "show_product_vendor": false,
+    "show_product_title": true,
+    "show_product_reviews": false,
+    "show_product_price": true,
+    "show_product_variant": true,
+    "show_product_variant_img": false,
+    "type_product_variant": "option_1",
+    "time_show_badgeNew": 30,
+    "product_show_badgeNew": 30,
+    "type_label_sale": "number",
+    "enable_zoom_qv": true,
+    "enable_product_reviews_qv": true,
+    "enable_vendor_qv": true,
+    "enable_product_sku_qv": true,
+    "enable_product_availability_qv": true,
+    "enable_countdown_qv": true,
+    "enable_short_description_qv": true,
+    "number_words_qv": 25,
+    "enable_quantity_selector_qv": true,
+    "enable_totalPrice_qv": true,
+    "enable_product_wishlist_qv": true,
+    "enable_product_socialShare_qv": true,
+    "enable_customers_view_qv": true,
+    "number_view_qv": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+    "title_view_qv": "customers are viewing this product",
+    "enable_sold_in_qv": true,
+    "item_prd_qv": "3,5,6,7,8,10,12,15",
+    "item_prds_qv": "sold in last",
+    "hours_prs_qv": "10,15,16,17,18,20,25,35",
+    "item_hours_qv": "hours",
+    "enable_language": true,
+    "enable_shopify_payments_currencies": false,
+    "enable_multiple_currencies": true,
+    "enable_auto_currency": false,
+    "currency_1_unit": "USD",
+    "currency_2_unit": "EUR",
+    "currency_3_unit": "JPY",
+    "currency_4_unit": "GBP",
+    "currency_5_unit": "",
+    "currency_6_unit": "",
+    "currency_7_unit": "",
+    "currency_8_unit": "",
+    "currency_9_unit": "",
+    "currency_10_unit": "",
+    "enable_ajax": false,
+    "enable_products_cart_sidebar": true,
+    "products_cart_sidebar_title": "You May Also Like",
+    "products_cart_sidebar": "shop-outlet",
+    "enable-search-form": true,
+    "enable-search-trending": true,
+    "search-trending-title": "trending",
+    "search-trending-item-1": "sample",
+    "search-trending-item-2": "dempus",
+    "search-trending-item-3": "magnis",
+    "search-trending-item-4": "loremous",
+    "search-trending-item-5": "naminos",
+    "search-trending-item-6": "dinterdum",
+    "enable-search-products": true,
+    "search-products-title": "Popular Products",
+    "search-products-list": "shop-outlet",
+    "popular_products_limit": 4,
+    "enable_popup_newsletter": true,
+    "enable_popup_newsletter_mb": true,
+    "when_to_show": "first_time",
+    "popup_newsletter_expire": 1,
+    "popup_newsletter_delay": 15,
+    "newsletter_image": "shopify:\/\/shop_images\/newsletter.jpg",
+    "popup_newsletter_title": "Join Our Mailing List",
+    "popup_newsletter_des": "Be the first to know about our new collections, exclusive promotions and more.",
+    "enable_someone_purchased": true,
+    "enable_someone_purchased_mb": false,
+    "show_someone_purchased": "left",
+    "autorotate_speed": 15,
+    "text": "Someone recently bought a",
+    "someone_recently_product_1": "cosmo-naminos-delementum-bra-3",
+    "from_ago_1": "20 minutes ago from Blackburn, UK",
+    "someone_recently_product_2": "delementum-milancelos-preteus-tomuir",
+    "from_ago_2": "20 minutes ago from Blackburn, UK",
+    "someone_recently_product_3": "dinterdum-preteus-tomuir-leggings-1",
+    "from_ago_3": "20 minutes ago from Blackburn, UK",
+    "someone_recently_product_4": "",
+    "from_ago_4": "",
+    "someone_recently_product_5": "",
+    "from_ago_5": "",
+    "someone_recently_product_6": "",
+    "from_ago_6": "",
+    "someone_recently_product_7": "",
+    "from_ago_7": "",
+    "someone_recently_product_8": "",
+    "from_ago_8": "",
+    "color_someone_purchased": "#969696",
+    "color_link_someone_purchased": "#000000",
+    "color_bg_someone_purchased": "#ffffff",
+    "enable_gdpr": true,
+    "enable_gdpr_mb": true,
+    "gdpr_description": "<p>Gymuso Apparel uses cookies to offer you a smoother and more personalised experience. By continuing we assume that you are consenting to all cookies on our website.<\/p>",
+    "enable_recently_viewed_product": true,
+    "enable_recently_viewed_product_mb": true,
+    "enable_progress_bar_shipping": true,
+    "enable_progress_bar_shipping_mb": true,
+    "shipping_price": "1001",
+    "enable_before_you_leave": true,
+    "enable_before_you_leave_mb": true,
+    "before_you_leave_expire": 30,
+    "before_you_leave_logo": "shopify:\/\/shop_images\/logo_footer.png",
+    "before_you_leave_bg": "shopify:\/\/shop_images\/before-you-leave-bg.jpg",
+    "before_you_leave_des": "<p><strong>Before you leave...<\/strong><\/p>\n<p>Take 20% off your first order<\/p>\n<p><a href=\"#\" title=\"#\"><strong>20% off<\/strong><\/a><\/p>\n<p>Enter the code below at checkout to get 20% off&nbsp;your first order.<\/p>\n<p><strong>Sale20<\/strong><\/p>",
+    "before_you_leave_products": "dinciduntero",
+    "enable_compare_product": true,
+    "enable_ask_an_expert": true,
+    "ask_an_expert_header": "Have Questions?",
+    "ask_an_expert_des": "<p><strong>Ask the expert anything on Gymuso Store<\/strong><\/p>\n<p><\/p>\n<p><em>We will follow up with you via email within 24-36 hours. Please answer the following questionnaire:<\/em><\/p>",
+    "enable_ask_do_you_need": true,
+    "ask_do_you_need": "Do You Need",
+    "ask_do_you_need_1": "Pricing",
+    "ask_do_you_need_2": "Answers",
+    "ask_do_you_need_3": "Both",
+    "ask_form_mess": "What can i help you with today ?",
+    "enable_how_would_you_like_me_to_contact_you": true,
+    "how_would_you_like_me_to_contact_you": "How would you like me to contact you?",
+    "contact_with_you_1": "Phone",
+    "contact_with_you_2": "Email",
+    "contact_with_you_3": "Both",
+    "share_image": "",
+    "social_twitter_link": "https:\/\/twitter.com\/shopify",
+    "social_facebook_link": "https:\/\/facebook.com\/shopify",
+    "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
+    "social_instagram_link": "http:\/\/instagram.com\/shopify",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/shopify",
+    "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
+    "social_vimeo_link": "",
+    "color_body_text": "#5a5a5a",
+    "color_url": "#5a5a5a",
+    "color_url_hover": "#000000",
+    "color_body_bg": "#fff",
+    "color_heading_text": "#000000",
+    "color_des_text": "#5a5a5a",
+    "color_section_border": "#e2e4e8",
+    "color_section_bg_gray": "#f5f5f5",
+    "color_breadcrumb_bg": "#ffffff",
+    "color_breadcrumb_text": "#999999",
+    "color_text_field_text": "#5a5a5a",
+    "color_text_field_border": "#cbcbcb",
+    "color_text_field": "#fff",
+    "color_button_text": "#fff",
+    "color_button_border": "#1e1e1e",
+    "color_button_background": "#1e1e1e",
+    "color_button_secondary_text": "#1e1e1e",
+    "color_button_secondary_border": "#1e1e1e",
+    "color_button_secondary_background": "#ffffff",
+    "color_small_button_text_border": "#3d4246",
+    "color_announcement_bar": "#ffffff",
+    "color_bg_announcement_bar": "#1a1a1a",
+    "color_text_header": "#ffffff",
+    "color_bg_header": "#000000",
+    "color_search_bar": "#ffffff",
+    "color_border_search_bar": "#969696",
+    "color_bg_search_bar": "#1e1e1e",
+    "color_search_bar_2": "#787878",
+    "color_border_search_bar_2": "#f6f6f6",
+    "color_bg_search_bar_2": "#f6f6f6",
+    "color_cart_countPill": "#ffffff",
+    "color_bg_cart_countPill": "#e13f3f",
+    "color_label_1": "#ffffff",
+    "color_bg_label_1": "#d95949",
+    "color_label_2": "#ffffff",
+    "color_bg_label_2": "#f4ae4d",
+    "color_label_3": "#ffffff",
+    "color_bg_label_3": "#41aed6",
+    "dropdown_text": "#5a5a5a",
+    "dropdown_text_hover": "#000000",
+    "dropdown_border": "#f5f5f5",
+    "dropdown_background": "#ffffff",
+    "color_footer_top": "#ffffff",
+    "color_bg_footer_top": "#1e1e1e",
+    "color_footer_middle": "#5a5a5a",
+    "color_title_footer_middle": "#000000",
+    "color_bg_footer_middle": "#ffffff",
+    "color_footer_bottom": "#5a5a5a",
+    "color_bg_footer_bottom": "#f6f6f6",
+    "color_product_vendor": "#787878",
+    "color_product_title": "#000000",
+    "color_product_review": "#ffc50a",
+    "color_product_review_empty": "#e4e4e4",
+    "color_product_price": "#787878",
+    "color_product_price_sale": "#e13f3f",
+    "color_product_price_presale": "#969696",
+    "color_product_button_text": "#ffffff",
+    "color_product_button_bg": "#000000",
+    "color_product_button_border": "#000000",
+    "color_badge_text": "#ffffff",
+    "color_badge_bg": "#477bc1",
+    "color_new_badge_text": "#ffffff",
+    "color_new_badge_bg": "#1e1e1e",
+    "color_sale_badge_text": "#ffffff",
+    "color_sale_badge_bg": "#e13f3f",
+    "color_soldOut_badge_text": "#ffffff",
+    "color_soldOut_badge_bg": "#b6b6b6",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "header_layouts": "header_2",
+    "option_size_swatch": "Size",
+    "option_material_swatch": "Material",
+    "enable_currency": true,
+    "lange_1": "",
+    "lange_1_icon": "",
+    "lange_2": "",
+    "lange_2_icon": "",
+    "lange_3": "",
+    "lange_3_icon": "",
+    "lange_4": "",
+    "lange_4_icon": "",
+    "lange_5": "",
+    "lange_5_icon": "",
+    "show_variant_labels_qv": true,
+    "enable_payment_button_qv": true,
+    "show_share_buttons_qv": true,
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "enable_backtotop": true,
+    "color-text-header": "#ffffff",
+    "color-bg-header": "#1e1e1e",
+    "color-search-bar": "#ffffff",
+    "color-border-search-bar": "#969696",
+    "color-bg-search-bar": "#1e1e1e",
+    "color-cart-countPill": "#ffffff",
+    "color-bg-cart-countPill": "#e13f3f",
+    "color_borders": "#e8e9eb",
+    "color_button": "#557b97",
+    "color_text": "#3d4246",
+    "color_sale_text": "#557b97",
+    "color_image_overlay_text": "#fff",
+    "color_image_overlay": "#3d4246",
+    "image_overlay_opacity": 40,
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "1581675839196": {
+            "type": "style_1",
+            "settings": {
+              "megamenu_items_1": "new releases",
+              "title_featured_product_1": "Editor’s Picks",
+              "featured_product_1_1": "cosmo-naminos-delementum-bra-3",
+              "featured_product_1_2": "lobortis-desan-mollis-ut-risus",
+              "featured_product_1_3": "dinterdum-preteus-tomuir-leggings",
+              "featured_product_1_4": "",
+              "banner_image_1": "shopify:\/\/shop_images\/header-banner-1.jpg",
+              "link_banner_image_1": "shopify:\/\/collections"
+            }
+          },
+          "1581908798999": {
+            "type": "style_2",
+            "settings": {
+              "megamenu_items_2": "men",
+              "custom_text_2": "<p><a href=\"\/collections\" title=\"All Collections\">All Products<\/a><\/p>\n<p><a href=\"\/collections\/accessories\" title=\"Accessories\">Accessories<\/a><\/p>\n<p><a href=\"\/collections\/womens\" title=\"womens\">Gift Card<\/a><\/p>\n<p><a href=\"\/collections\/dinciduntero\" title=\"dinciduntero\">Editor&rsquo;s Picks<\/a><\/p>\n<p><a href=\"\/collections\/new-releases\" title=\"New Releases\">New Releases<\/a><\/p>",
+              "title_featured_product_2": "New Products",
+              "featured_product_2_1": "vitae-malesuada-magna-congue-luna",
+              "featured_product_2_2": "dinterdum-preteus-tomuir-leggings",
+              "featured_product_2_3": "",
+              "featured_product_2_4": "",
+              "banner_image_2": "shopify:\/\/shop_images\/header-banner-2.jpg",
+              "link_banner_image_2": "shopify:\/\/collections"
+            }
+          }
+        },
+        "block_order": [
+          "1581675839196",
+          "1581908798999"
+        ],
+        "settings": {
+          "message": true,
+          "home_page_only": false,
+          "message_text_1": "Free Domestic Shipping on all orders over $149",
+          "message_link_1": "https:\/\/gymuso-theme.myshopify.com\/",
+          "message_text_2": "Mid-Season Sale Up to 70% OFF. Shop Now",
+          "message_link_2": "https:\/\/gymuso-theme.myshopify.com\/",
+          "message_text_3": "Free shipping on all orders. No minimum purchases*",
+          "message_link_3": "https:\/\/gymuso-theme.myshopify.com\/",
+          "logo_text": "GYMUSO",
+          "logo": "shopify:\/\/shop_images\/logo-w.png",
+          "logo_max_width": 130,
+          "enable-header-search": true,
+          "header-search-position": "right",
+          "enable-header-cart": true,
+          "header-cart-position": "right",
+          "enable-header-account": true,
+          "header-account-position": "right",
+          "enable-header-currency": true,
+          "header-currency-position": "right",
+          "enable-header-language": true,
+          "header-language-position": "right",
+          "main_linklist": "main-menu",
+          "main-menu-position": "left",
+          "label_1": "new",
+          "label_1_collection": "mens",
+          "label_2": "hot",
+          "label_2_collection": "accessories",
+          "label_3": "sale",
+          "label_3_collection": "shop outlet",
+          "enable_megamenu": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1578037112145": {
+            "type": "logo",
+            "settings": {
+              "logo_footer": "shopify:\/\/shop_images\/logo-b.png",
+              "logo_footer_content": "<p>Visit the <a href=\"\/blogs\/news\" title=\"News\">Gymuso Journal<\/a>&nbsp;&nbsp; ❯<\/p>"
+            }
+          },
+          "1578040245456": {
+            "type": "info_store",
+            "settings": {
+              "title": "GYMUSO Store",
+              "info_text_1": "9087S Divamus Faucibus Str., City name, CA 90896, United States.",
+              "info_text_2": "Call: 1-800-000-8910",
+              "info_text_3": "support@halothemes.com"
+            }
+          },
+          "1578041844868": {
+            "type": "navigation_list",
+            "settings": {
+              "title": "HELP",
+              "navigation": "footer"
+            }
+          },
+          "1578041869536": {
+            "type": "navigation_list",
+            "settings": {
+              "title": "ABOUT",
+              "navigation": "footer-menu-2"
+            }
+          },
+          "1578041888072": {
+            "type": "navigation_list",
+            "settings": {
+              "title": "ACCOUNT",
+              "navigation": "footer-menu-3"
+            }
+          },
+          "1578042598036": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Sign Up for our Newsletter"
+            }
+          }
+        },
+        "block_order": [
+          "1578037112145",
+          "1578040245456",
+          "1578041844868",
+          "1578041869536",
+          "1578041888072",
+          "1578042598036"
+        ],
+        "settings": {
+          "message": true,
+          "home_page_only": true,
+          "message_text": "<h3>Buy Now, Pay Later with <img class=\"lazyload\" data-srcset=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0281\/5600\/2440\/files\/banner-promotion.png?v=1580974076\" alt=\"\" data-image=\"\"> Starting at 0% APR. <a href=\"#\">Read More<\/a>\n<\/h3>",
+          "footer_top": true,
+          "contact_description": "<p>Be the first to know about our new collections, exclusive promotions and more.<\/p>",
+          "footer_middle": true,
+          "footer_bottom": true,
+          "copyright": "© 2019 Gymuso Demo. All Rights Reserved. Powered by Shopify.",
+          "payment_image_1": "<svg width=\"780\" height=\"500\" enable-background=\"new 0 0 780 500\" version=\"1.1\" viewbox=\"0 0 780 500\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xml:space=\"preserve\"><rect width=\"780\" height=\"500\" fill=\"#0E4595\"><\/rect><path d=\"m293.2 348.73l33.361-195.76h53.36l-33.385 195.76h-53.336zm246.11-191.54c-10.57-3.966-27.137-8.222-47.822-8.222-52.725 0-89.865 26.55-90.18 64.603-0.299 28.13 26.514 43.822 46.752 53.186 20.771 9.595 27.752 15.714 27.654 24.283-0.131 13.121-16.586 19.116-31.922 19.116-21.357 0-32.703-2.967-50.227-10.276l-6.876-3.11-7.489 43.823c12.463 5.464 35.51 10.198 59.438 10.443 56.09 0 92.5-26.246 92.916-66.882 0.199-22.269-14.016-39.216-44.801-53.188-18.65-9.055-30.072-15.099-29.951-24.268 0-8.137 9.668-16.839 30.557-16.839 17.449-0.27 30.09 3.535 39.938 7.5l4.781 2.26 7.232-42.429m137.31-4.223h-41.232c-12.773 0-22.332 3.487-27.941 16.234l-79.244 179.4h56.031s9.16-24.123 11.232-29.418c6.125 0 60.555 0.084 68.338 0.084 1.596 6.853 6.49 29.334 6.49 29.334h49.514l-43.188-195.64zm-65.418 126.41c4.412-11.279 21.26-54.723 21.26-54.723-0.316 0.522 4.379-11.334 7.074-18.684l3.605 16.879s10.219 46.729 12.354 56.528h-44.293zm-363.3-126.41l-52.24 133.5-5.567-27.13c-9.725-31.273-40.025-65.155-73.898-82.118l47.766 171.2 56.456-0.064 84.004-195.39h-56.521\" fill=\"#fff\"><\/path><path d=\"m146.92 152.96h-86.041l-0.681 4.073c66.938 16.204 111.23 55.363 129.62 102.41l-18.71-89.96c-3.23-12.395-12.597-16.094-24.186-16.527\" fill=\"#F2AE14\"><\/path><\/svg>",
+          "payment_image_2": "<svg width=\"780\" height=\"500\" enable-background=\"new 0 0 780 500\" version=\"1.1\" viewbox=\"0 0 780 500\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xml:space=\"preserve\"><rect width=\"780\" height=\"500\" fill=\"#FFF\" stroke-width=\"15px\" stroke=\"#fff\"><\/rect><path d=\"m449.01 250c0 99.143-80.371 179.5-179.51 179.5s-179.5-80.361-179.5-179.5c0-99.133 80.362-179.5 179.5-179.5 99.137 0 179.51 80.371 179.51 179.5\" fill=\"#D9222A\"><\/path><path d=\"m510.49 70.496c-46.379 0-88.643 17.596-120.5 46.467-6.49 5.889-12.548 12.237-18.125 18.996h36.267c4.965 6.037 9.536 12.387 13.685 19.012h-63.635c-3.827 6.122-7.281 12.469-10.342 19.008h84.313c2.894 6.185 5.431 12.53 7.601 19.004h-99.513c-2.09 6.234-3.832 12.58-5.217 19.008h109.94c2.689 12.49 4.045 25.231 4.042 38.008 0 19.935-3.254 39.112-9.254 57.021h-99.513c2.164 6.477 4.7 12.824 7.596 19.008h84.316c-3.063 6.541-6.519 12.889-10.347 19.013h-63.625c4.147 6.62 8.719 12.966 13.685 18.996h36.259c-5.57 6.772-11.63 13.127-18.13 19.013 31.857 28.866 74.117 46.454 120.5 46.454 99.139 0 179.51-80.361 179.51-179.5 0-99.129-80.371-179.5-179.51-179.5\" fill=\"#EE9F2D\"><\/path><path d=\"m666.07 350.06c0-3.199 2.592-5.801 5.796-5.801s5.796 2.602 5.796 5.801-2.592 5.801-5.796 5.801-5.796-2.602-5.796-5.801zm5.796 4.408c2.434-1e-3 4.407-1.974 4.408-4.408 0-2.432-1.971-4.402-4.402-4.404h-6e-3c-2.429-3e-3 -4.4 1.963-4.404 4.391v0.014c-2e-3 2.433 1.968 4.406 4.4 4.408 1e-3 -1e-3 3e-3 -1e-3 4e-3 -1e-3zm-0.783-1.86h-1.187v-5.096h2.149c0.45 0 0.908 0 1.305 0.254 0.413 0.279 0.646 0.771 0.646 1.279 0 0.571-0.338 1.104-0.884 1.312l0.938 2.25h-1.315l-0.779-2.017h-0.871l-2e-3 2.018zm0-2.89h0.658c0.246 0 0.505 0.021 0.726-0.1 0.195-0.125 0.296-0.359 0.296-0.584-5e-3 -0.209-0.112-0.402-0.288-0.518-0.207-0.129-0.536-0.101-0.758-0.101h-0.634v1.303zm-443.5-80.063c-2.046-0.238-2.945-0.301-4.35-0.301-11.046 0-16.638 3.787-16.638 11.268 0 4.611 2.729 7.545 6.987 7.545 7.939 0 13.659-7.559 14.001-18.512zm14.171 32.996h-16.146l0.371-7.676c-4.926 6.065-11.496 8.949-20.426 8.949-10.563 0-17.804-8.25-17.804-20.229 0-18.024 12.596-28.541 34.217-28.541 2.208 0 5.042 0.199 7.941 0.57 0.604-2.441 0.763-3.488 0.763-4.801 0-4.908-3.396-6.737-12.5-6.737-9.533-0.108-17.396 2.271-20.625 3.333 0.204-1.229 2.7-16.659 2.7-16.659 9.712-2.846 16.116-3.917 23.325-3.917 16.732 0 25.596 7.513 25.579 21.712 0.033 3.805-0.597 8.5-1.579 14.671-1.691 10.734-5.32 33.721-5.816 39.325zm-62.158 0h-19.487l11.162-69.997-24.925 69.997h-13.279l-1.642-69.597-11.733 69.597h-18.242l15.237-91.056h28.021l1.7 50.968 17.092-50.968h31.167l-15.071 91.056m354.97-32.996c-2.037-0.238-2.941-0.301-4.342-0.301-11.041 0-16.634 3.787-16.634 11.268 0 4.611 2.726 7.545 6.983 7.545 7.94 0 13.664-7.559 13.993-18.512zm14.184 32.996h-16.146l0.366-7.676c-4.926 6.065-11.5 8.949-20.422 8.949-10.565 0-17.8-8.25-17.8-20.229 0-18.024 12.588-28.541 34.213-28.541 2.208 0 5.037 0.199 7.934 0.57 0.604-2.441 0.763-3.488 0.763-4.801 0-4.908-3.392-6.737-12.496-6.737-9.533-0.108-17.387 2.271-20.629 3.333 0.204-1.229 2.709-16.659 2.709-16.659 9.712-2.846 16.112-3.917 23.313-3.917 16.74 0 25.604 7.513 25.587 21.712 0.032 3.805-0.597 8.5-1.579 14.671-1.684 10.734-5.321 33.721-5.813 39.325zm-220.39-1.125c-5.333 1.679-9.491 2.398-14 2.398-9.962 0-15.399-5.725-15.399-16.267-0.142-3.271 1.433-11.88 2.671-19.737 1.125-6.917 8.449-50.529 8.449-50.529h19.371l-2.263 11.208h11.699l-2.642 17.796h-11.742c-2.25 14.083-5.454 31.625-5.491 33.95 0 3.816 2.037 5.483 6.671 5.483 2.221 0 3.94-0.227 5.254-0.7l-2.578 16.398m59.392-0.6c-6.654 2.034-13.075 3.017-19.879 3-21.684-0.021-32.987-11.346-32.987-33.032 0-25.313 14.38-43.947 33.899-43.947 15.971 0 26.171 10.433 26.171 26.796 0 5.429-0.7 10.729-2.388 18.212h-38.574c-1.305 10.741 5.57 15.217 16.837 15.217 6.935 0 13.188-1.429 20.142-4.663l-3.221 18.417zm-10.888-43.9c0.107-1.543 2.055-13.217-9.013-13.217-6.171 0-10.583 4.704-12.38 13.217h21.393zm-123.42-5.017c0 9.367 4.542 15.826 14.842 20.676 7.892 3.709 9.112 4.81 9.112 8.17 0 4.617-3.479 6.701-11.191 6.701-5.813 0-11.221-0.908-17.458-2.922 0 0-2.563 16.321-2.68 17.102 4.43 0.967 8.38 1.861 20.279 2.19 20.563 0 30.059-7.829 30.059-24.75 0-10.175-3.976-16.146-13.737-20.634-8.171-3.75-9.108-4.587-9.108-8.045 0-4.004 3.237-6.046 9.537-6.046 3.825 0 9.05 0.408 14 1.112l2.775-17.175c-5.046-0.8-12.696-1.442-17.15-1.442-21.801 1e-3 -29.347 11.388-29.28 25.063m229.09-23.116c5.412 0 10.458 1.421 17.412 4.921l3.188-19.763c-2.854-1.121-12.904-7.7-21.417-7.7-13.041 0-24.065 6.471-31.82 17.15-11.309-3.746-15.958 3.825-21.657 11.367l-5.063 1.179c0.383-2.483 0.729-4.95 0.612-7.446h-17.896c-2.445 22.917-6.778 46.128-10.171 69.075l-0.884 4.976h19.496c3.254-21.143 5.037-34.68 6.121-43.842l7.341-4.084c1.097-4.078 4.529-5.458 11.417-5.291-0.926 5.008-1.389 10.091-1.383 15.184 0 24.225 13.07 39.308 34.05 39.308 5.404 0 10.041-0.712 17.221-2.658l3.43-20.759c-6.458 3.181-11.759 4.677-16.559 4.677-11.329 0-18.184-8.363-18.184-22.185 0-20.051 10.196-34.109 24.746-34.109\"><\/path><path d=\"m185.21 297.24h-19.491l11.171-69.988-24.926 69.988h-13.283l-1.642-69.588-11.733 69.588h-18.241l15.237-91.042h28.021l0.788 56.362 18.904-56.362h30.267l-15.072 91.042\" fill=\"#fff\"><\/path><path d=\"m647.52 211.6l-4.321 26.309c-5.329-7.013-11.054-12.088-18.612-12.088-9.833 0-18.783 7.455-24.642 18.425-8.158-1.692-16.597-4.563-16.597-4.563l-4e-3 0.067c0.658-6.134 0.921-9.875 0.862-11.146h-17.9c-2.438 22.917-6.771 46.128-10.157 69.075l-0.893 4.976h19.492c2.633-17.096 4.648-31.291 6.133-42.551 6.658-6.016 9.992-11.266 16.721-10.916-2.979 7.205-4.725 15.503-4.725 24.017 0 18.513 9.366 30.725 23.533 30.725 7.142 0 12.621-2.462 17.967-8.171l-0.913 6.884h18.435l14.842-91.042-19.221-1e-3zm-24.371 73.941c-6.634 0-9.983-4.908-9.983-14.596 0-14.555 6.271-24.875 15.112-24.875 6.695 0 10.32 5.104 10.32 14.509 1e-3 14.679-6.37 24.962-15.449 24.962z\"><\/path><path d=\"m233.19 264.26c-2.042-0.236-2.946-0.299-4.346-0.299-11.046 0-16.634 3.787-16.634 11.266 0 4.604 2.729 7.547 6.979 7.547 7.947-1e-3 13.668-7.559 14.001-18.514zm14.178 32.984h-16.146l0.367-7.663c-4.921 6.054-11.5 8.95-20.421 8.95-10.567 0-17.805-8.25-17.805-20.229 0-18.032 12.592-28.542 34.217-28.542 2.208 0 5.042 0.2 7.938 0.571 0.604-2.441 0.763-3.487 0.763-4.808 0-4.909-3.392-6.729-12.496-6.729-9.537-0.108-17.396 2.271-20.629 3.321 0.204-1.225 2.7-16.637 2.7-16.637 9.708-2.858 16.12-3.929 23.32-3.929 16.737 0 25.604 7.517 25.588 21.704 0.029 3.821-0.604 8.513-1.584 14.675-1.687 10.724-5.319 33.724-5.812 39.316zm261.38-88.592l-3.191 19.767c-6.95-3.496-12-4.92-17.407-4.92-14.551 0-24.75 14.058-24.75 34.106 0 13.821 6.857 22.181 18.184 22.181 4.8 0 10.096-1.492 16.554-4.675l-3.421 20.75c-7.184 1.957-11.816 2.67-17.225 2.67-20.977 0-34.051-15.084-34.051-39.309 0-32.55 18.059-55.3 43.888-55.3 8.507 1e-3 18.561 3.609 21.419 4.73m31.443 55.608c-2.041-0.236-2.941-0.299-4.347-0.299-11.041 0-16.633 3.787-16.633 11.266 0 4.604 2.729 7.547 6.983 7.547 7.938-1e-3 13.663-7.559 13.997-18.514zm14.178 32.984h-16.15l0.371-7.663c-4.925 6.054-11.5 8.95-20.421 8.95-10.563 0-17.804-8.25-17.804-20.229 0-18.032 12.596-28.542 34.212-28.542 2.213 0 5.042 0.2 7.941 0.571 0.601-2.441 0.763-3.487 0.763-4.808 0-4.909-3.393-6.729-12.495-6.729-9.533-0.108-17.396 2.271-20.63 3.321 0.204-1.225 2.704-16.637 2.704-16.637 9.709-2.858 16.116-3.929 23.316-3.929 16.741 0 25.604 7.517 25.583 21.704 0.033 3.821-0.596 8.513-1.579 14.675-1.682 10.724-5.323 33.724-5.811 39.316zm-220.39-1.121c-5.338 1.679-9.496 2.408-14 2.408-9.962 0-15.399-5.726-15.399-16.268-0.138-3.279 1.438-11.88 2.675-19.736 1.12-6.926 8.445-50.534 8.445-50.534h19.368l-2.26 11.212h9.941l-2.646 17.788h-9.975c-2.25 14.092-5.463 31.62-5.496 33.95 0 3.83 2.041 5.482 6.671 5.482 2.221 0 3.938-0.216 5.254-0.691l-2.578 16.389m59.391-0.592c-6.65 2.033-13.079 3.012-19.879 3-21.685-0.021-32.987-11.346-32.987-33.033 0-25.321 14.379-43.95 33.899-43.95 15.971 0 26.171 10.429 26.171 26.8 0 5.434-0.7 10.733-2.384 18.212h-38.574c-1.306 10.741 5.569 15.222 16.837 15.222 6.93 0 13.188-1.435 20.138-4.677l-3.221 18.426zm-10.891-43.912c0.116-1.538 2.06-13.217-9.013-13.217-6.167 0-10.579 4.717-12.375 13.217h21.388zm-123.42-5.005c0 9.367 4.542 15.818 14.842 20.675 7.892 3.709 9.112 4.812 9.112 8.172 0 4.616-3.483 6.699-11.188 6.699-5.816 0-11.225-0.908-17.467-2.921 0 0-2.554 16.321-2.671 17.101 4.421 0.967 8.375 1.85 20.275 2.191 20.566 0 30.059-7.829 30.059-24.746 0-10.18-3.971-16.15-13.737-20.637-8.167-3.759-9.113-4.584-9.113-8.046 0-4 3.246-6.059 9.542-6.059 3.821 0 9.046 0.421 14.004 1.125l2.771-17.179c-5.042-0.8-12.692-1.441-17.146-1.441-21.804 0-29.346 11.379-29.283 25.066m398.45 50.63h-18.438l0.917-6.893c-5.347 5.717-10.825 8.18-17.968 8.18-14.166 0-23.528-12.213-23.528-30.726 0-24.63 14.521-45.392 31.708-45.392 7.559 0 13.279 3.087 18.604 10.096l4.325-26.308h19.221l-14.841 91.043zm-28.746-17.109c9.075 0 15.45-10.283 15.45-24.953 0-9.405-3.629-14.509-10.325-14.509-8.837 0-15.115 10.315-15.115 24.875-1e-3 9.686 3.357 14.587 9.99 14.587zm-56.842-56.929c-2.441 22.917-6.773 46.13-10.162 69.063l-0.892 4.976h19.491c6.972-45.275 8.658-54.117 19.588-53.009 1.742-9.267 4.982-17.383 7.399-21.479-8.163-1.7-12.721 2.913-18.688 11.675 0.471-3.788 1.333-7.467 1.162-11.225l-17.898-1e-3m-160.42 0c-2.446 22.917-6.779 46.13-10.167 69.063l-0.888 4.976h19.5c6.963-45.275 8.646-54.117 19.57-53.009 1.75-9.267 4.991-17.383 7.399-21.479-8.154-1.7-12.717 2.913-18.679 11.675 0.471-3.788 1.324-7.467 1.162-11.225l-17.897-1e-3m254.57 68.241c-4e-3 -3.199 2.586-5.795 5.784-5.799h0.012c3.197-4e-3 5.793 2.586 5.796 5.783v0.016c-1e-3 3.201-2.595 5.795-5.796 5.797-3.201-2e-3 -5.795-2.596-5.796-5.797zm5.796 4.405c2.431 2e-3 4.402-1.969 4.403-4.399v-4e-3c3e-3 -2.433-1.968-4.406-4.399-4.408h-4e-3c-2.435 1e-3 -4.407 1.974-4.408 4.408 2e-3 2.432 1.975 4.403 4.408 4.403zm-0.784-1.871h-1.188v-5.082h2.153c0.446 0 0.909 9e-3 1.296 0.254 0.417 0.283 0.654 0.767 0.654 1.274 0 0.575-0.337 1.112-0.888 1.317l0.941 2.236h-1.32l-0.779-2.009h-0.87l1e-3 2.01zm0-2.879h0.653c0.246 0 0.513 0.019 0.729-0.1 0.196-0.125 0.296-0.361 0.296-0.588-9e-3 -0.21-0.114-0.404-0.287-0.523-0.204-0.117-0.542-0.084-0.763-0.084h-0.629l1e-3 1.295z\" fill=\"#fff\"><\/path><\/svg>",
+          "payment_image_3": "<svg width=\"780\" height=\"500\" enable-background=\"new 0 0 780 500\" version=\"1.1\" viewbox=\"0 0 780 500\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xml:space=\"preserve\"><rect width=\"780\" height=\"500\" fill=\"#2478bc\"><\/rect><path d=\"m0.253 235.69h37.441l8.442-19.51h18.9l8.42 19.51h73.668v-14.915l6.576 14.98h38.243l6.576-15.202v15.138h183.08l-0.085-32.026h3.542c2.479 0.083 3.204 0.302 3.204 4.226v27.8h94.689v-7.455c7.639 3.92 19.518 7.455 35.148 7.455h39.836l8.525-19.51h18.9l8.337 19.51h76.765v-18.532l11.626 18.532h61.515v-122.51h-60.88v14.468l-8.522-14.468h-62.471v14.468l-7.828-14.468h-84.38c-14.123 0-26.539 1.889-36.569 7.153v-7.153h-58.229v7.153c-6.383-5.426-15.079-7.153-24.75-7.153h-212.74l-14.274 31.641-14.659-31.641h-67.005v14.468l-7.362-14.468h-57.145l-26.539 58.246v64.261h3e-3zm236.34-17.67h-22.464l-0.083-68.794-31.775 68.793h-19.24l-31.858-68.854v68.854h-44.57l-8.42-19.592h-45.627l-8.505 19.592h-23.801l39.241-87.837h32.559l37.269 83.164v-83.164h35.766l28.678 59.587 26.344-59.587h36.485l1e-3 87.838zm-165.9-37.823l-14.998-35.017-14.915 35.017h29.913zm255.3 37.821h-73.203v-87.837h73.203v18.291h-51.289v15.833h50.06v18.005h-50.061v17.542h51.289l1e-3 18.166zm103.16-64.18c0 14.004-9.755 21.24-15.439 23.412 4.794 1.748 8.891 4.838 10.84 7.397 3.094 4.369 3.628 8.271 3.628 16.116v17.255h-22.104l-0.083-11.077c0-5.285 0.528-12.886-3.458-17.112-3.202-3.09-8.083-3.76-15.973-3.76h-23.523v31.95h-21.914v-87.838h50.401c11.199 0 19.451 0.283 26.535 4.207 6.933 3.924 11.09 9.652 11.09 19.45zm-27.699 13.042c-3.013 1.752-6.573 1.81-10.841 1.81h-26.62v-19.51h26.982c3.818 0 7.804 0.164 10.393 1.584 2.842 1.28 4.601 4.003 4.601 7.765 0 3.84-1.674 6.929-4.515 8.351zm62.844 51.138h-22.358v-87.837h22.358v87.837zm259.56 0h-31.053l-41.535-65.927v65.927h-44.628l-8.527-19.592h-45.521l-8.271 19.592h-25.648c-10.649 0-24.138-2.257-31.773-9.715-7.701-7.458-11.708-17.56-11.708-33.533 0-13.027 2.395-24.936 11.812-34.347 7.085-7.01 18.18-10.242 33.28-10.242h21.215v18.821h-20.771c-7.997 0-12.514 1.14-16.862 5.203-3.735 3.699-6.298 10.69-6.298 19.897 0 9.41 1.951 16.196 6.023 20.628 3.373 3.476 9.506 4.53 15.272 4.53h9.842l30.884-69.076h32.835l37.102 83.081v-83.08h33.366l38.519 61.174v-61.174h22.445v87.833zm-133.2-37.82l-15.165-35.017-15.081 35.017h30.246zm189.04 178.08c-5.322 7.457-15.694 11.238-29.736 11.238h-42.319v-18.84h42.147c4.181 0 7.106-0.527 8.868-2.175 1.665-1.474 2.605-3.554 2.591-5.729 0-2.561-1.064-4.593-2.677-5.811-1.59-1.342-3.904-1.95-7.722-1.95-20.574-0.67-46.244 0.608-46.244-27.194 0-12.742 8.443-26.156 31.439-26.156h43.649v-17.479h-40.557c-12.237 0-21.129 2.81-27.425 7.174v-7.175h-59.985c-9.595 0-20.854 2.279-26.179 7.175v-7.175h-107.12v7.175c-8.524-5.892-22.908-7.175-29.549-7.175h-70.656v7.175c-6.745-6.258-21.742-7.175-30.886-7.175h-79.077l-18.094 18.764-16.949-18.764h-118.13v122.59h115.9l18.646-19.062 17.565 19.062 71.442 0.061v-28.838h7.021c9.479 0.14 20.66-0.228 30.523-4.312v33.085h58.928v-31.952h2.842c3.628 0 3.985 0.144 3.985 3.615v28.333h179.01c11.364 0 23.244-2.786 29.824-7.845v7.845h56.78c11.815 0 23.354-1.587 32.134-5.649l2e-3 -22.84zm-354.94-47.155c0 24.406-19.005 29.445-38.159 29.445h-27.343v29.469h-42.591l-26.984-29.086-28.042 29.086h-86.802v-87.859h88.135l26.961 28.799 27.875-28.799h70.021c17.389 0 36.929 4.613 36.929 28.945zm-174.22 40.434h-53.878v-17.48h48.11v-17.926h-48.11v-15.974h54.939l23.969 25.604-25.03 25.776zm86.81 10.06l-33.644-35.789 33.644-34.65v70.439zm49.757-39.066h-28.318v-22.374h28.572c7.912 0 13.404 3.09 13.404 10.772 0 7.599-5.238 11.602-13.658 11.602zm148.36-40.373h73.138v18.17h-51.315v15.973h50.062v17.926h-50.062v17.48l51.314 0.08v18.23h-73.139l2e-3 -87.859zm-28.119 47.029c4.878 1.725 8.865 4.816 10.734 7.375 3.095 4.291 3.542 8.294 3.631 16.037v17.418h-22.002v-10.992c0-5.286 0.531-13.112-3.542-17.198-3.201-3.147-8.083-3.899-16.076-3.899h-23.42v32.09h-22.02v-87.859h50.594c11.093 0 19.173 0.47 26.366 4.146 6.915 4.004 11.266 9.487 11.266 19.511-1e-3 14.022-9.764 21.178-15.531 23.371zm-12.385-11.107c-2.932 1.667-6.556 1.811-10.818 1.811h-26.622v-19.732h26.982c3.902 0 7.807 0.08 10.458 1.587 2.84 1.423 4.538 4.146 4.538 7.903 0 3.758-1.699 6.786-4.538 8.431zm197.82 5.597c4.27 4.229 6.554 9.571 6.554 18.613 0 18.9-12.322 27.723-34.425 27.723h-42.68v-18.84h42.51c4.157 0 7.104-0.525 8.95-2.175 1.508-1.358 2.589-3.333 2.589-5.729 0-2.561-1.17-4.592-2.675-5.811-1.675-1.34-3.986-1.949-7.803-1.949-20.493-0.67-46.157 0.609-46.157-27.192 0-12.744 8.355-26.158 31.33-26.158h43.932v18.7h-40.198c-3.984 0-6.575 0.145-8.779 1.587-2.4 1.422-3.29 3.534-3.29 6.319 0 3.314 2.037 5.57 4.795 6.546 2.311 0.77 4.795 0.995 8.526 0.995l11.797 0.306c11.895 0.276 20.061 2.248 25.024 7.065zm86.955-23.52h-39.938c-3.986 0-6.638 0.144-8.867 1.587-2.312 1.423-3.202 3.534-3.202 6.322 0 3.314 1.951 5.568 4.791 6.544 2.312 0.771 4.795 0.996 8.444 0.996l11.878 0.304c11.983 0.284 19.982 2.258 24.86 7.072 0.891 0.67 1.422 1.422 2.033 2.175v-25h1e-3z\" fill=\"#fff\"><\/path><\/svg>",
+          "payment_image_4": "<svg width=\"780\" height=\"500\" enable-background=\"new 0 0 780 500\" version=\"1.1\" viewbox=\"0 0 780 500\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xml:space=\"preserve\"><rect width=\"780\" height=\"500\" fill=\"#FFF\" stroke-width=\"15px\" stroke=\"#fff\"><\/rect><path d=\"m409.41 197.26c30.938 0 56.02 23.58 56.02 52.709v0.033c0 29.129-25.082 52.742-56.02 52.742-30.941 0-56.022-23.613-56.022-52.742v-0.033c0-29.129 25.081-52.709 56.022-52.709z\" fill=\"#F47216\"><\/path><path d=\"m321.43 197.94c8.836 0 16.247 1.785 25.27 6.09v22.753c-8.544-7.863-15.955-11.154-25.757-11.154-19.265 0-34.413 15.015-34.413 34.051 0 20.074 14.681 34.195 35.368 34.195 9.312 0 16.586-3.12 24.802-10.856v22.764c-9.343 4.142-16.912 5.775-25.757 5.775-31.277 0-55.581-22.597-55.581-51.736-2e-3 -28.83 24.949-51.882 56.068-51.882zm-97.113 0.626c11.546 0 22.109 3.721 30.942 10.994l-10.748 13.248c-5.351-5.646-10.411-8.027-16.563-8.027-8.854 0-15.301 4.744-15.301 10.988 0 5.354 3.618 8.188 15.944 12.481 23.364 8.043 30.289 15.176 30.289 30.926 0 19.193-14.976 32.554-36.319 32.554-15.631 0-26.993-5.795-36.457-18.871l13.268-12.03c4.73 8.608 12.622 13.223 22.42 13.223 9.163 0 15.947-5.95 15.947-13.983 0-4.164-2.056-7.733-6.158-10.258-2.066-1.195-6.158-2.978-14.199-5.646-19.292-6.538-25.91-13.527-25.91-27.186-1e-3 -16.227 14.213-28.413 32.845-28.413zm234.72 1.729h22.436l28.084 66.592 28.447-66.592h22.267l-45.493 101.69h-11.054l-44.687-101.69zm-301.21 0.152h20.541v99.143h-20.541v-99.143zm411.73 0h58.253v16.799h-37.726v22.006h36.336v16.791h-36.336v26.762h37.726v16.785h-58.253v-99.143zm115.59 57.377c15.471-2.965 23.983-12.926 23.983-28.105 0-18.562-13.575-29.271-37.266-29.271h-30.454v99.144h20.516v-39.83h2.681l28.43 39.828h25.26l-33.15-41.766zm-17.218-11.736h-6.002v-30.025h6.326c12.791 0 19.744 5.049 19.744 14.697 2e-3 9.967-6.951 15.328-20.068 15.328zm-576.09-45.641h-30.149v99.143h29.992c15.946 0 27.465-3.543 37.573-11.445 12.014-9.359 19.117-23.467 19.117-38.057 1e-3 -29.259-23.221-49.641-56.533-49.641zm23.997 74.479c-6.454 5.484-14.837 7.879-28.108 7.879h-5.514v-65.559h5.513c13.271 0 21.323 2.238 28.108 8.018 7.104 5.956 11.377 15.184 11.377 24.682 1e-3 9.513-4.273 19.024-11.376 24.98z\"><\/path><\/svg>",
+          "payment_image_5": "<svg width=\"780\" height=\"500\" enable-background=\"new 0 0 780 500\" version=\"1.1\" viewbox=\"0 0 780 500\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xml:space=\"preserve\"><rect width=\"780\" height=\"500\" fill=\"#0E4C96\"><\/rect><path d=\"m632.24 361.27c0 41.615-33.729 75.36-75.36 75.36h-409.13v-297.88c0-41.626 33.733-75.37 75.365-75.37l409.12-1e-3 1e-3 297.89z\" fill=\"#fff\"><\/path><lineargradient id=\"c\" x1=\"83.977\" x2=\"84.977\" y1=\"645.5\" y2=\"645.5\" gradienttransform=\"matrix(132.87 0 0 -323.02 -10686 2.0876e5)\" gradientunits=\"userSpaceOnUse\"><stop stop-color=\"#007B40\" offset=\"0\"><\/stop><stop stop-color=\"#55B330\" offset=\"1\"><\/stop><\/lineargradient><path d=\"m498.86 256.54c11.684 0.253 23.437-0.516 35.076 0.4 11.787 2.199 14.629 20.043 4.156 25.888-7.141 3.851-15.633 1.433-23.379 2.113h-15.852l-1e-3 -28.401zm41.833-32.145c2.596 9.164-6.238 17.392-15.066 16.13h-26.767c0.185-8.642-0.368-18.021 0.271-26.208 10.725 0.301 21.549-0.616 32.21 0.479 4.581 1.151 8.414 4.917 9.352 9.599zm64.428-135.9c0.498 17.501 0.071 35.927 0.214 53.783-0.035 72.596 0.072 145.19-0.055 217.79-0.47 27.207-24.582 50.844-51.601 51.387-27.046 0.111-54.095 0.016-81.142 0.047v-109.75c29.47-0.154 58.959 0.307 88.417-0.232 13.667-0.859 28.632-9.875 29.27-24.914 1.61-15.103-12.632-25.551-26.152-27.201-5.198-0.135-5.044-1.516 0-2.117 12.892-2.787 23.02-16.133 19.226-29.499-3.236-14.058-18.772-19.499-31.697-19.472-26.351-0.18-52.709-0.026-79.062-0.077 0.172-20.489-0.354-41 0.286-61.474 2.087-26.716 26.806-48.747 53.447-48.27h78.849v-1e-3z\" fill=\"url(#c)\"><\/path><lineargradient id=\"b\" x1=\"83.984\" x2=\"84.979\" y1=\"645.5\" y2=\"645.5\" gradienttransform=\"matrix(133.43 0 0 -323.02 -11031 2.0876e5)\" gradientunits=\"userSpaceOnUse\"><stop stop-color=\"#1D2970\" offset=\"0\"><\/stop><stop stop-color=\"#006DBA\" offset=\"1\"><\/stop><\/lineargradient><path d=\"m174.74 139.54c0.674-27.163 24.889-50.611 51.875-51.007 26.944-0.083 53.891-0.012 80.837-0.036-0.074 90.885 0.148 181.78-0.112 272.66-1.038 26.835-24.99 49.835-51.679 50.308-26.996 0.099-53.995 0.014-80.992 0.042v-113.45c26.223 6.194 53.722 8.832 80.473 4.721 15.993-2.574 33.488-10.424 38.902-27.014 3.986-14.191 1.742-29.126 2.334-43.691v-33.824h-46.297c-0.208 22.369 0.426 44.779-0.335 67.125-1.248 13.734-14.846 22.46-27.8 21.994-16.066 0.17-47.898-11.639-47.898-11.639-0.08-41.918 0.466-94.409 0.692-136.18z\" fill=\"url(#b)\"><\/path><lineargradient id=\"a\" x1=\"83.978\" x2=\"84.977\" y1=\"645.5\" y2=\"645.5\" gradienttransform=\"matrix(132.96 0 0 -323.03 -10842 2.0877e5)\" gradientunits=\"userSpaceOnUse\"><stop stop-color=\"#6E2B2F\" offset=\"0\"><\/stop><stop stop-color=\"#E30138\" offset=\"1\"><\/stop><\/lineargradient><path d=\"m324.72 211.89c-2.434 0.517-0.489-8.301-1.113-11.646 0.165-21.15-0.347-42.323 0.283-63.458 2.083-26.829 26.991-48.916 53.739-48.288h78.766c-0.073 90.884 0.147 181.78-0.111 272.66-1.039 26.834-24.992 49.833-51.681 50.308-26.997 0.1-53.997 0.015-80.997 0.043v-124.3c18.44 15.128 43.5 17.483 66.473 17.524 17.316-6e-3 34.534-2.674 51.35-6.67v-22.772c-18.953 9.446-41.232 15.446-62.243 10.019-14.655-3.65-25.294-17.812-25.056-32.937-1.699-15.728 7.524-32.335 22.981-37.011 19.189-6.008 40.107-1.413 58.096 6.397 3.854 2.019 7.765 4.521 6.222-1.921v-17.9c-30.084-7.156-62.101-9.792-92.329-2.004-8.749 2.469-17.271 6.212-24.38 11.958z\" fill=\"url(#a)\"><\/path><\/svg>",
+          "payment_image_6": "<svg width=\"780\" height=\"500\" enable-background=\"new 0 0 780 500\" version=\"1.1\" viewbox=\"0 0 780 500\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xml:space=\"preserve\"><rect width=\"780\" height=\"500\" fill=\"#FFF\"><\/rect><path d=\"m168.38 169.85c-8.399-5.774-19.359-8.668-32.88-8.668h-52.346c-4.145 0-6.435 2.073-6.87 6.214l-21.265 133.48c-0.221 1.311 0.107 2.51 0.981 3.6 0.869 1.093 1.962 1.636 3.271 1.636h24.864c4.361 0 6.758-2.068 7.198-6.216l5.888-35.985c0.215-1.744 0.982-3.162 2.291-4.254 1.308-1.09 2.944-1.804 4.907-2.13 1.963-0.324 3.814-0.487 5.562-0.487 1.743 0 3.814 0.11 6.217 0.327 2.397 0.218 3.925 0.324 4.58 0.324 18.756 0 33.478-5.285 44.167-15.866 10.684-10.577 16.032-25.244 16.032-44.004 0-12.868-4.202-22.192-12.597-27.975zm-26.99 40.08c-1.094 7.635-3.926 12.649-8.506 15.049-4.581 2.403-11.124 3.597-19.629 3.597l-10.797 0.328 5.563-35.007c0.434-2.397 1.851-3.597 4.252-3.597h6.218c8.72 0 15.049 1.257 18.975 3.761 3.924 2.51 5.233 7.802 3.924 15.869z\" fill=\"#003087\"><\/path><path d=\"m720.79 161.18h-24.208c-2.405 0-3.821 1.2-4.253 3.599l-21.267 136.1-0.328 0.654c0 1.096 0.437 2.127 1.311 3.109 0.868 0.979 1.963 1.471 3.271 1.471h21.595c4.138 0 6.429-2.068 6.871-6.215l21.265-133.81v-0.325c-2e-3 -3.053-1.424-4.58-4.257-4.58z\" fill=\"#009CDE\"><\/path><path d=\"m428.31 213.86c0-1.088-0.438-2.126-1.306-3.106-0.875-0.981-1.857-1.474-2.945-1.474h-25.191c-2.404 0-4.366 1.096-5.89 3.271l-34.679 51.04-14.394-49.075c-1.096-3.488-3.493-5.236-7.198-5.236h-24.54c-1.093 0-2.075 0.492-2.942 1.474-0.875 0.98-1.309 2.019-1.309 3.106 0 0.44 2.127 6.871 6.379 19.303 4.252 12.434 8.833 25.848 13.741 40.244 4.908 14.394 7.468 22.031 7.688 22.898-17.886 24.43-26.826 37.518-26.826 39.26 0 2.838 1.417 4.254 4.253 4.254h25.191c2.399 0 4.361-1.088 5.89-3.271l83.427-120.4c0.433-0.433 0.651-1.193 0.651-2.289z\" fill=\"#003087\"><\/path><path d=\"m662.89 209.28h-24.865c-3.056 0-4.904 3.599-5.559 10.797-5.677-8.72-16.031-13.088-31.083-13.088-15.704 0-29.065 5.89-40.077 17.668-11.016 11.779-16.521 25.631-16.521 41.551 0 12.871 3.761 23.121 11.285 30.752 7.524 7.639 17.611 11.451 30.266 11.451 6.323 0 12.757-1.311 19.3-3.926 6.544-2.617 11.665-6.105 15.379-10.469 0 0.219-0.222 1.198-0.654 2.942-0.44 1.748-0.655 3.06-0.655 3.926 0 3.494 1.414 5.234 4.254 5.234h22.576c4.138 0 6.541-2.068 7.193-6.216l13.415-85.389c0.215-1.309-0.111-2.507-0.981-3.599-0.876-1.087-1.964-1.634-3.273-1.634zm-42.694 64.452c-5.562 5.453-12.269 8.179-20.12 8.179-6.328 0-11.449-1.742-15.377-5.234-3.928-3.483-5.891-8.282-5.891-14.396 0-8.064 2.727-14.884 8.181-20.446 5.446-5.562 12.214-8.343 20.284-8.343 6.102 0 11.174 1.8 15.212 5.397 4.032 3.599 6.055 8.563 6.055 14.888-1e-3 7.851-2.783 14.505-8.344 19.955z\" fill=\"#009CDE\"><\/path><path d=\"m291.23 209.28h-24.864c-3.058 0-4.908 3.599-5.563 10.797-5.889-8.72-16.25-13.088-31.081-13.088-15.704 0-29.065 5.89-40.078 17.668-11.016 11.779-16.521 25.631-16.521 41.551 0 12.871 3.763 23.121 11.288 30.752 7.525 7.639 17.61 11.451 30.262 11.451 6.104 0 12.433-1.311 18.975-3.926 6.543-2.617 11.778-6.105 15.704-10.469-0.875 2.616-1.309 4.907-1.309 6.868 0 3.494 1.417 5.234 4.253 5.234h22.574c4.141 0 6.543-2.068 7.198-6.216l13.413-85.389c0.215-1.309-0.112-2.507-0.981-3.599-0.873-1.087-1.962-1.634-3.27-1.634zm-42.695 64.614c-5.563 5.351-12.382 8.017-20.447 8.017-6.329 0-11.4-1.742-15.214-5.234-3.819-3.483-5.726-8.282-5.726-14.396 0-8.064 2.725-14.884 8.18-20.446 5.449-5.562 12.211-8.343 20.284-8.343 6.104 0 11.175 1.8 15.214 5.398 4.032 3.599 6.052 8.563 6.052 14.888 0 8.069-2.781 14.778-8.343 20.116z\" fill=\"#003087\"><\/path><path d=\"m540.04 169.85c-8.398-5.774-19.356-8.668-32.879-8.668h-52.02c-4.364 0-6.765 2.073-7.197 6.214l-21.266 133.48c-0.221 1.312 0.106 2.511 0.981 3.601 0.865 1.092 1.962 1.635 3.271 1.635h26.826c2.617 0 4.361-1.416 5.235-4.252l5.89-37.949c0.216-1.744 0.98-3.162 2.29-4.254 1.309-1.09 2.943-1.803 4.908-2.13 1.962-0.324 3.812-0.487 5.562-0.487 1.743 0 3.814 0.11 6.214 0.327 2.399 0.218 3.931 0.324 4.58 0.324 18.76 0 33.479-5.285 44.168-15.866 10.688-10.577 16.031-25.244 16.031-44.004 2e-3 -12.867-4.199-22.191-12.594-27.974zm-33.534 53.82c-4.799 3.271-11.997 4.906-21.592 4.906l-10.47 0.328 5.562-35.007c0.432-2.397 1.849-3.597 4.252-3.597h5.887c4.798 0 8.614 0.218 11.454 0.653 2.831 0.44 5.562 1.799 8.179 4.089 2.618 2.291 3.926 5.618 3.926 9.98 0 9.16-2.402 15.375-7.198 18.648z\" fill=\"#009CDE\"><\/path><\/svg>",
+          "payment_image_7": "",
+          "payment_image_8": ""
+        }
+      },
+      "1578294053456": {
+        "type": "product-list",
+        "disabled": true,
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "top": 0,
+          "bottom": 80,
+          "sub_title": "",
+          "title": "New Releases",
+          "countdown": "",
+          "description": "Quisquemos sodales suscipit ditaemcos condimentum de cosmo.",
+          "link": "Shop now",
+          "enabled_banner": true,
+          "image": "shopify:\/\/shop_images\/banner-parallax-1-1.jpg",
+          "hero_size": "large",
+          "overlay": "dark",
+          "effect": "parallax",
+          "collection": "new-releases",
+          "collection_layout": "carousel",
+          "column": 4,
+          "limit": 5,
+          "carousel-arrows": true,
+          "carousel-dots": false,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": "",
+          "color_btn_text": "",
+          "color_btn_border": "",
+          "color_btn_bg": ""
+        }
+      },
+      "1578305380427": {
+        "type": "product-list",
+        "disabled": true,
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "top": 0,
+          "bottom": 80,
+          "sub_title": "",
+          "title": "Shop Womens",
+          "countdown": "",
+          "description": "Quisquemos sodales suscipit ditaemcos condimentum de cosmo.",
+          "link": "shop now",
+          "enabled_banner": true,
+          "image": "shopify:\/\/shop_images\/banner-parallax-2-1.jpg",
+          "hero_size": "large",
+          "overlay": "dark",
+          "effect": "parallax",
+          "collection": "women",
+          "collection_layout": "carousel",
+          "column": 4,
+          "limit": 4,
+          "carousel-arrows": true,
+          "carousel-dots": false,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": "",
+          "color_btn_text": "",
+          "color_btn_border": "",
+          "color_btn_bg": ""
+        }
+      },
+      "1578305501771": {
+        "type": "product-list",
+        "disabled": true,
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "top": 0,
+          "bottom": 80,
+          "sub_title": "",
+          "title": "Editor’s Picks",
+          "countdown": "",
+          "description": "Quisquemos sodales suscipit ditaemcos condimentum de cosmo.",
+          "link": "shop now",
+          "enabled_banner": true,
+          "image": "shopify:\/\/shop_images\/banner-parallax-3-1.jpg",
+          "hero_size": "large",
+          "overlay": "dark",
+          "effect": "parallax",
+          "collection": "montemous",
+          "collection_layout": "carousel",
+          "column": 4,
+          "limit": 4,
+          "carousel-arrows": true,
+          "carousel-dots": false,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": "",
+          "color_btn_text": "",
+          "color_btn_border": "",
+          "color_btn_bg": ""
+        }
+      },
+      "1578305579907": {
+        "type": "product-list",
+        "disabled": true,
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "top": 0,
+          "bottom": 80,
+          "sub_title": "Special offer",
+          "title": "Sale Up To 70% Off",
+          "countdown": "2020\/12\/12 0:0:00",
+          "description": "Quisquemos sodales suscipit ditaemcos condimentum de cosmo.",
+          "link": "shop now",
+          "enabled_banner": true,
+          "image": "shopify:\/\/shop_images\/banner-parallax-4-1.jpg",
+          "hero_size": "large",
+          "overlay": "dark",
+          "effect": "parallax",
+          "collection": "loremous",
+          "collection_layout": "carousel",
+          "column": 4,
+          "limit": 5,
+          "carousel-arrows": true,
+          "carousel-dots": false,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": "",
+          "color_btn_text": "",
+          "color_btn_border": "",
+          "color_btn_bg": ""
+        }
+      },
+      "1578310925568": {
+        "type": "featured-blog",
+        "disabled": true,
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "top": 0,
+          "bottom": 70,
+          "title": "latest posts",
+          "description": "",
+          "layout": "carousel",
+          "column": 2,
+          "post_limit": 2,
+          "carousel-arrows": false,
+          "carousel-dots": false,
+          "blog": "news",
+          "blog_show_author": true,
+          "blog_show_date": true,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": ""
+        }
+      },
+      "1578381736117": {
+        "type": "instagram",
+        "blocks": {
+          "1582805002226": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/instagram-1.jpg"
+            }
+          },
+          "1582805223481": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/instagram-5.jpg"
+            }
+          },
+          "1582805237185": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/instagram-7.jpg"
+            }
+          },
+          "1592280840825": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/about-1.jpg"
+            }
+          },
+          "1582805217586": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/instagram-4.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1582805002226",
+          "1582805223481",
+          "1582805237185",
+          "1592280840825",
+          "1582805217586"
+        ],
+        "settings": {
+          "background-color": false,
+          "border-top": true,
+          "border-bottom": false,
+          "top": 60,
+          "bottom": 0,
+          "title": "@Gymuso Image Gallery",
+          "sub_title": "",
+          "description": "This is an image gallery block but you can use this block as an <strong>Instagram Feed<\/strong> by installing an <strong>Instagram App<\/strong>",
+          "instagram_option": "block",
+          "accessToken": "<script src=\"https:\/\/snapppt.com\/widgets\/widget_loader\/34b5a123-7449-4d2d-9ed3-2091e43791c8\/gymuso-gallery.js\" defer class=\"snapppt-widget\"><\/script>",
+          "layout": "full",
+          "style": "custom",
+          "load_more": true,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": ""
+        }
+      },
+      "sidebar-blog": {
+        "type": "sidebar-blog",
+        "blocks": {
+          "1578459148640": {
+            "type": "search",
+            "settings": {
+              "enable_search": true
+            }
+          },
+          "1578545446689": {
+            "type": "collection",
+            "settings": {
+              "title": "Blog Categories",
+              "collection_id": "show_all",
+              "link_list": "main-menu"
+            }
+          }
+        },
+        "block_order": [
+          "1578459148640",
+          "1578545446689"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "position_sidebar": "left"
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_author": true,
+          "blog_show_date": true,
+          "show_share_buttons": true
+        }
+      },
+      "sidebar-blogs": {
+        "type": "sidebar-blogs",
+        "blocks": {
+          "1578560722156": {
+            "type": "search",
+            "settings": {
+              "enable_search": true
+            }
+          },
+          "1578560727003": {
+            "type": "collection",
+            "settings": {
+              "title": "Blog Categories",
+              "collection_id": "show_all",
+              "link_list": "main-menu"
+            }
+          }
+        },
+        "block_order": [
+          "1578560722156",
+          "1578560727003"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "position_sidebar": "left"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "blog_show_date": true,
+          "blog_show_author": true
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "blocks": {
+          "1578658545281": {
+            "type": "contact_infomation",
+            "settings": {
+              "title": "PLEASE DO GET IN TOUCH!",
+              "description": "<p>We'd love to hear from you - please use the form to send us your message or ideas. Or simply pop in for a cup of fresh tea and a cookie.<\/p>\n<p><strong><a href=\"#\" title=\"#\">Chat With us<\/a><\/strong><\/p>\n<p><\/p>\n<p>9087S Divamus Faucibus Str., City name, CA 90896, United States<\/p>\n<p>Call: 1-800-000-8910<\/p>\n<p>Email: <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\">support@halothemes.com<\/a><\/p>"
+            }
+          },
+          "1578658642484": {
+            "type": "contact_infomation",
+            "settings": {
+              "title": "",
+              "description": "<p><strong>OPENING HOURS: <\/strong><\/p>\n<p>Monday to Saturday: 9am - 10pm<\/p>\n<p>Sundays: 10am - 6pm<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1578658545281",
+          "1578658642484"
+        ],
+        "settings": {
+          "display_google_map": true,
+          "google_map_code": "<iframe src=\"https:\/\/maps.google.com\/maps?f=q&source=s_q&hl=vi&geocode=&q=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1&aq=&sll=37.0625,-95.677068&sspn=41.903538,86.572266&ie=UTF8&hq=&hnear=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+Chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam&t=m&ll=10.797518,106.700377&spn=0.014754,0.071197&z=15&iwloc=A&output=embed\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"100%\" height=\"350\"><\/iframe>"
+        }
+      },
+      "lookbook-template": {
+        "type": "lookbook-template",
+        "blocks": {
+          "1578891680758": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-1.jpg",
+              "product_1": "cosmo-naminos-delementum-bra-3",
+              "coordinates_x_1": 55,
+              "coordinates_y_1": 25,
+              "product_2": "dinterdum-preteus-tomuir-leggings",
+              "coordinates_x_2": 70,
+              "coordinates_y_2": 40,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1578891734054": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-2.jpg",
+              "product_1": "milancelos-cosmo-naminos-delementum",
+              "coordinates_x_1": 35,
+              "coordinates_y_1": 45,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1578891890950": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-3.jpg",
+              "product_1": "delementum-milancelos-preteus-tomuir",
+              "coordinates_x_1": 30,
+              "coordinates_y_1": 40,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1578900823205": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-4.jpg",
+              "product_1": "",
+              "coordinates_x_1": 10,
+              "coordinates_y_1": 10,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          }
+        },
+        "block_order": [
+          "1578891680758",
+          "1578891734054",
+          "1578891890950",
+          "1578900823205"
+        ],
+        "settings": {
+          "display_share": true,
+          "display_btn": true,
+          "btn_text": "Submit Contact",
+          "btn_link": "#"
+        }
+      },
+      "faq-template": {
+        "type": "faq-template",
+        "blocks": {
+          "1578909110297": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Will your template be fully compatible with Shopify?",
+              "answer_faqs": "<p>Yes it is.<\/p>"
+            }
+          },
+          "1578909239303": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Do you offer free trials?",
+              "answer_faqs": "<p>No, We don't<\/p>"
+            }
+          },
+          "1578909284214": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "I cannot upload the theme to my Shopify store \/ Shopify alerts that the file is too big to upload, what is the problem?",
+              "answer_faqs": "<p>Please make sure that you follow below steps:<\/p>\n<p>1\/ Download the package from themeforest.net (the file is in zip format)<br><br>2\/ Extract the file you've just downloaded.<br><br>3\/ Find this file: gymuso-1.0.0-sections-ready.zip in the folder Ella Sections Ready 3.0.0, then you just need to upload gymuso-1.0.0-sections-ready.zip file to your Shopify store.<br><\/p>"
+            }
+          },
+          "1578909345302": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "What I have to do when I need your support?",
+              "answer_faqs": "<p>To save your time and reach our support quickly, please follow below steps:<\/p>\n<p>1\/ Create a staff account for us (with Themes permission and Settings permission) <a href=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" title=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\">http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members<\/a><\/p>\n<p>2\/ Capture screenshot or video for the issue you get.<\/p>\n<p>3\/ Specify which template and version you are using.<\/p>\n<p>4\/ Describe clearly how to reproduce the issue.<\/p>\n<p>5\/ Send all information (staff account, screenshot, video, template name and version, description of the issues, link) to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\">support@halothemes.com<\/a><\/p>"
+            }
+          },
+          "1578909422350": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Would assistance be available to upload the template if needed?",
+              "answer_faqs": "<p>Yes, we will assist you to install the template if needed<\/p>"
+            }
+          },
+          "1578909478174": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Do you guys offer customisation services for your themes?",
+              "answer_faqs": "<p>Yes, we do. Please send your customisation requests to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\">support@halothemes.com<\/a>, we will give you our quote. Thank you.<\/p>"
+            }
+          },
+          "1578909504189": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Can I turn on\/off Lazy Loading Image \/ Item Animation \/ Fade Up on the page?",
+              "answer_faqs": "<p>Yes. You can turn on\/off the animation in the Setting page.<\/p>"
+            }
+          },
+          "1578909527653": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Can I turn on\/off some blocks on the page?",
+              "answer_faqs": "<p>Yes. You can turn on\/off almost any blocks on the page (featured products, slideshow, banners, related products, recent products,...).<\/p>"
+            }
+          },
+          "1578909547490": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "I want to have the dropdown cart displayed automatically every time clients hover over it (instead of clicking on it). Is it possible?",
+              "answer_faqs": "<p>Yes, we have a setting for you to switch between these two options: Display on Hover and Display on Click.<\/p>"
+            }
+          },
+          "1578909572007": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "What is included in the theme package?",
+              "answer_faqs": "<p>The theme package includes theme source, Photoshop design files, sample data and manual guide.<\/p>"
+            }
+          },
+          "1578909593616": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "I notice that the images used in the theme are all portrait. Will that be a problem if I use square images for our products? How will they be displayed in the theme?",
+              "answer_faqs": "<p>That is not a problem. You just need to modify the width\/height ratio in theme settings.<\/p>"
+            }
+          },
+          "1578909615062": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Does the theme support image resizing and cropping?",
+              "answer_faqs": "<p>Yes. Normally, the theme will resize images to a default size (based on your width\/height ratio setting). We also have Crop setting if you don’t want to scale the image.<\/p>"
+            }
+          },
+          "1578909654318": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Can I add borders around our product images?",
+              "answer_faqs": "<p>Yes, you can. You can also set image border colours.<\/p>"
+            }
+          },
+          "1578909678313": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Can I have multi level menu?",
+              "answer_faqs": "<p>Yes, you can. Just simply follow the instructions in our Manual Guide, you will be able to easily create a multi-level menu.<\/p>"
+            }
+          },
+          "1578909705240": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Do you guys provide customer support during weekends \/ holidays?",
+              "answer_faqs": "<p>Normally we don't provide support during weekends, except for urgent cases. In these cases, you only need to mark “Urgent” in your email, we will get back to you ASAP.<\/p>"
+            }
+          },
+          "1578909721466": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Does the theme support Variant Image?",
+              "answer_faqs": "<p>Yes, it does. Please check it out here to see how it works: <a href=\"https:\/\/sneake-demo.myshopify.com\/products\/sample-proin-de-corper-nulla-dan-melementum-1?variant=10214763888684\">https:\/\/sneake-demo.myshopify.com\/products\/sample-proin-de-corper-nulla-dan-melementum-1?variant=10214763888684<\/a><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1578909110297",
+          "1578909239303",
+          "1578909284214",
+          "1578909345302",
+          "1578909422350",
+          "1578909478174",
+          "1578909504189",
+          "1578909527653",
+          "1578909547490",
+          "1578909572007",
+          "1578909593616",
+          "1578909615062",
+          "1578909654318",
+          "1578909678313",
+          "1578909705240",
+          "1578909721466"
+        ],
+        "settings": {
+          "faq_banner": "shopify:\/\/shop_images\/banner-hero-1.jpg",
+          "link_1": "#",
+          "link_2": "#",
+          "faq_text": "<p>Unable to find satisfactory answers ?&nbsp;<a href=\"#\" title=\"#\">Contact Support<\/a><\/p>"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "1578986375688": {
+            "type": "collection",
+            "settings": {
+              "collection": "new-releases"
+            }
+          },
+          "1578986601110": {
+            "type": "collection",
+            "settings": {
+              "collection": "montemous"
+            }
+          },
+          "1578986610078": {
+            "type": "collection",
+            "settings": {
+              "collection": "dinciduntero"
+            }
+          },
+          "1578986619829": {
+            "type": "collection",
+            "settings": {
+              "collection": "shop-outlet"
+            }
+          },
+          "1578986641526": {
+            "type": "collection",
+            "settings": {
+              "collection": "accessories"
+            }
+          },
+          "1578986591965": {
+            "type": "collection",
+            "settings": {
+              "collection": "loremous"
+            }
+          }
+        },
+        "block_order": [
+          "1578986375688",
+          "1578986601110",
+          "1578986610078",
+          "1578986619829",
+          "1578986641526",
+          "1578986591965"
+        ],
+        "settings": {
+          "collection_banner": "",
+          "description": "<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin delos felis. Pellentesque diam dolor an elementum et lobortis an mollis ut risus. Curabitur semper sagittis mi condimentum de milancelos.<\/p>",
+          "display_type": "selected",
+          "sort": "alphabetical",
+          "column": 3
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "blocks": {
+          "1579057071812": {
+            "type": "filter_text",
+            "settings": {
+              "title": "Categories",
+              "list_tags": "womens, loremous, comodianos"
+            }
+          },
+          "1583753229365": {
+            "type": "filter_color",
+            "settings": {
+              "title": "colors",
+              "list_tags": "black, white, gray, hotpink, lightskyblue, lightcoral, mediumpurple, cornflowerblue"
+            }
+          },
+          "1579056915236": {
+            "type": "filter_text",
+            "settings": {
+              "title": "Sizes",
+              "list_tags": "XS, S, M, L, XL"
+            }
+          },
+          "1579057129403": {
+            "type": "filter_text",
+            "settings": {
+              "title": "Prices",
+              "list_tags": "< $69.00, $69.00 - $100.00, $101.00 - $200.00, $201.00 - $300.00, > $301.00"
+            }
+          },
+          "1579061517182": {
+            "type": "filter_text",
+            "settings": {
+              "title": "Brands",
+              "list_tags": "Nike, Adidas, Jimmy Choo,"
+            }
+          }
+        },
+        "block_order": [
+          "1579057071812",
+          "1583753229365",
+          "1579056915236",
+          "1579057129403",
+          "1579061517182"
+        ],
+        "settings": {
+          "column": 4,
+          "limit": 12,
+          "enable_filter": true,
+          "enable_sort": true,
+          "pagination_type": "infinite_scroll"
+        }
+      },
+      "list-collections-products-2": {
+        "type": "list-collections-products-2",
+        "settings": {
+          "enable_layout": true,
+          "border-top": false,
+          "border-bottom": false,
+          "top": 30,
+          "bottom": 80,
+          "title": "Recently Viewed Products",
+          "description": "",
+          "collection": "loremous",
+          "column": 4,
+          "limit": 5,
+          "carousel-arrows": true,
+          "carousel-dots": false
+        }
+      },
+      "collection-hero": {
+        "type": "collection-hero",
+        "blocks": {
+          "1579056312467": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-hero-2.jpg",
+              "collection_id": "comodianos"
+            }
+          },
+          "1579056322360": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-hero-2.jpg",
+              "collection_id": "loremous"
+            }
+          },
+          "1579056332883": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-hero-2.jpg",
+              "collection_id": ""
+            }
+          },
+          "1579056340683": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-hero-2.jpg",
+              "collection_id": "new-releases"
+            }
+          },
+          "1579056351299": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-hero-2.jpg",
+              "collection_id": "accessories"
+            }
+          },
+          "1579056359114": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-hero-2.jpg",
+              "collection_id": "dinciduntero"
+            }
+          },
+          "1579056367860": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-hero-2.jpg",
+              "collection_id": "montemous"
+            }
+          },
+          "1579056376115": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-hero-2.jpg",
+              "collection_id": "shop-outlet"
+            }
+          },
+          "1579056386067": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-hero-2.jpg",
+              "collection_id": ""
+            }
+          }
+        },
+        "block_order": [
+          "1579056312467",
+          "1579056322360",
+          "1579056332883",
+          "1579056340683",
+          "1579056351299",
+          "1579056359114",
+          "1579056367860",
+          "1579056376115",
+          "1579056386067"
+        ],
+        "settings": {
+          "enable_bannerImage": true
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "enable_product_reviews": true,
+          "enable_vendor": true,
+          "enable_product_sku": true,
+          "enable_product_availability": true,
+          "enable_short_description": true,
+          "number_words": 25,
+          "type_short_description": "default",
+          "enable_variant_labels": true,
+          "enable_quantity_selector": true,
+          "enable_product_wishlist": true,
+          "enable_payment_button": true,
+          "enable_zoom": true,
+          "enable_fancybox": true,
+          "enable_change_group_image": true,
+          "enable_compare_color": true,
+          "enable_video_product": true,
+          "enable_sold_in": true,
+          "item_prd": "3,5,6,7,8,10,12,15",
+          "item_prds": "sold in last",
+          "hours_prs": "10,15,16,17,18,20,25,35",
+          "item_hours": "hours",
+          "enable_countdown": true,
+          "enable_size_chart": true,
+          "size_chart": "none",
+          "custom_size_chart": "shopify:\/\/shop_images\/size-chart.jpg",
+          "enable_totalPrice": true,
+          "enable_customers_view": true,
+          "number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+          "title_view": "customers are viewing this product",
+          "enable_product_socialShare": true
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "enable_layout": true,
+          "border-top": true,
+          "border-bottom": false,
+          "top": 60,
+          "bottom": 60,
+          "title": "Related Products",
+          "description": "",
+          "column": 4,
+          "limit": 6,
+          "carousel-arrows": true,
+          "carousel-dots": false
+        }
+      },
+      "recently-viewed-products": {
+        "type": "recently-viewed-products",
+        "settings": {
+          "enable_layout": true,
+          "border-top": true,
+          "border-bottom": false,
+          "top": 60,
+          "bottom": 0,
+          "title": "Recently Viewed Products",
+          "description": "",
+          "column": 4,
+          "limit": 6,
+          "carousel-arrows": true,
+          "carousel-dots": false
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_ajax_enable": true,
+          "trust_img_enable": true,
+          "trust_img": "shopify:\/\/shop_images\/trust_img.png",
+          "cart_notes_enable": true,
+          "show_shipping_calculator": true,
+          "shipping_calculator_default_country": "United States"
+        }
+      },
+      "list-collections-products-3": {
+        "type": "list-collections-products-3",
+        "settings": {
+          "enable_layout": true,
+          "border-top": false,
+          "border-bottom": false,
+          "top": 0,
+          "bottom": 80,
+          "title": "You May Also Like",
+          "description": "",
+          "collection": "new-releases",
+          "column": 4,
+          "limit": 5,
+          "carousel-arrows": true,
+          "carousel-dots": false
+        }
+      },
+      "search-template": {
+        "type": "search-template",
+        "settings": {
+          "column": 4,
+          "limit": 15
+        }
+      },
+      "list-collections-products-1": {
+        "type": "list-collections-products-1",
+        "settings": {
+          "enable_layout": true,
+          "border-top": false,
+          "border-bottom": false,
+          "top": 30,
+          "bottom": 80,
+          "title": "Most Popular",
+          "description": "",
+          "collection": "new-releases",
+          "column": 4,
+          "limit": 6,
+          "carousel-arrows": true,
+          "carousel-dots": false
+        }
+      },
+      "about-template": {
+        "type": "about-template",
+        "blocks": {
+          "1582085539403": {
+            "type": "about_infomation",
+            "settings": {
+              "layout": "right",
+              "image": "shopify:\/\/shop_images\/about-1.jpg",
+              "description": "<h1 class=\"title\">Who We are<\/h1>\n<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis ut risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elit a lorem tempus scelerisque blandit est cursus. <\/p>\n<p>Quisque volutpat orci ut metus malesuada in interdumos lectus anmos scelerisque lorem. Praesent deu odio des nisios dullamcorper sultricies. Cum sociis natoque penatibus et magnis dis parturient montes. Maecenas vulputate varius laoreet. Nam ac tortor ante, ac pellentesque lorem. Sed eros nulla, luctus eget laoreet ut, cursus ut tellus. Ut est justo, suscipit vitae sollicitudin in, posuere eget mi. Aliquam tristique egestas felis sed feugiat. Sed ultrices justo ac dui tristique cursus danos.\n<\/p>\n<ul class=\"list-unstyled mt2\">\n<li>Comodous in tempor mullamcorper de miaculis. <\/li>\n<li>Pellentesque ditae neque mollis urna mattis laoreet.<\/li>\n<li>Divamus delo gamet purus justo. <\/li>\n<li>Proin molestie gaule morci an suscipit risus posuere milance.<\/li>\n<\/ul>\n<ul class=\"list-unstyled mt-4\">\n    <li class=\"media mb-2\">\n        <img class=\"mr-3\" srcset=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0281\/5600\/2440\/files\/staff-1.png\" alt=\"\">\n        <div class=\"media-body\">\n            <p class=\"mt-0 mb-0\"><b>Edmunds D.<\/b> - Founder<\/p>\n        <\/div>\n    <\/li>\n    <li class=\"media mb-2\">\n        <img class=\"mr-3\" srcset=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0281\/5600\/2440\/files\/staff-2.png\" alt=\"\">\n        <div class=\"media-body\">\n            <p class=\"mt-0 mb-0\"><b>Clarkson H.<\/b> - Chief Executive Officer, Co-founder<\/p>\n        <\/div>\n    <\/li>\n    <li class=\"media mb-2\">\n        <img class=\"mr-3\" srcset=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0281\/5600\/2440\/files\/staff-3.png\" alt=\"\">\n        <div class=\"media-body\">\n            <p class=\"mt-0 mb-0\"><b>Gabrielle P.<\/b> - Chief People Officer<\/p>\n        <\/div>\n    <\/li>\n    <li class=\"media\">\n        <img class=\"mr-3\" srcset=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0281\/5600\/2440\/files\/staff-4.png\" alt=\"\">\n        <div class=\"media-body\">\n            <p class=\"mt-0 mb-0\"><b>Anderson R.<\/b> - Chief Strategic Officer<\/p>\n        <\/div>\n    <\/li>\n<\/ul>"
+            }
+          },
+          "1582096074905": {
+            "type": "about_infomation",
+            "settings": {
+              "layout": "left",
+              "image": "shopify:\/\/shop_images\/about-2.jpg",
+              "description": "<div class=\"padding-top-80\"><\/div>\n<h1 class=\"title\">What We Do<\/h1>\n<h3 class=\"mt-4\">Vision<\/h3>\n<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis ut risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elit a lorem tempus scelerisque blandit est cursus. Destibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut varius arcu sed velit faucibus, eget imperdiet leo bibendum. Phasellus suscipit, nisl eget aliquam placeratos.\n<\/p>\n<h3 class=\"mt-4\">Progression<\/h3>\n<p>Quisque volutpat orci ut metus malesuada in interdumos lectus anmos scelerisque lorem. Praesent deu odio des nisios dullamcorper sultricies. Cum sociis natoque penatibus et magnis dis parturient montes. Maecenas vulputate varius laoreet. Nam ac tortor ante, ac pellentesque lorem. Sed eros nulla, luctus eget laoreet ut, cursus ut tellus. Ut est justo, suscipit vitae sollicitudin in, posuere eget mi. Aliquam tristique egestas felis sed feugiat. Sed ultrices justo ac dui tristique cursus danos.<\/p>\n<div class=\"padding-bottom-80\"><\/div>"
+            }
+          },
+          "1582097070435": {
+            "type": "about_infomation",
+            "settings": {
+              "layout": "right",
+              "image": "shopify:\/\/shop_images\/about-3.jpg",
+              "description": "<h1 class=\"title\">Get In Touch<\/h1>\n<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis ut risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elit a lorem tempus scelerisque.<\/p>\n<br>\n<div class=\"row mb-5\">\n    <div class=\"col-sm-6 col-12 mb-4\">\n        <h3 class=\"mb-1\">Customer Service Dept.<\/h3>\n        <a href=\"mailto:support@halothemes.com\">support@halothemes.com<\/a>\n    <\/div>\n    <div class=\"col-sm-6 col-12 mb-4\">\n        <h3 class=\"mb-1\">Sales Dept.<\/h3>\n        <a href=\"mailto:sales@halothemes.com\">sales@halothemes.com<\/a>\n<\/div>\n    <div class=\"col-sm-6 col-12\">\n        <h3 class=\"mb-1\">Business Enquiry Dept.<\/h3>\n        <a href=\"mailto:contact@halothemes.com\">contact@halothemes.com<\/a>\n<\/div>\n<\/div>\n<br>\n<iframe src=\"https:\/\/maps.google.com\/maps?f=q&amp;source=s_q&amp;hl=vi&amp;geocode=&amp;q=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=41.903538,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+Chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam&amp;t=m&amp;ll=10.797518,106.700377&amp;spn=0.014754,0.071197&amp;z=15&amp;iwloc=A&amp;output=embed\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"100%\" height=\"400\"><\/iframe>"
+            }
+          }
+        },
+        "block_order": [
+          "1582085539403",
+          "1582096074905",
+          "1582097070435"
+        ],
+        "settings": {
+        }
+      },
+      "product-template-2": {
+        "type": "product-template-2",
+        "settings": {
+          "enable_product_reviews": true,
+          "enable_vendor": true,
+          "enable_product_sku": true,
+          "enable_product_availability": true,
+          "enable_short_description": true,
+          "number_words": 25,
+          "type_short_description": "default",
+          "enable_variant_labels": true,
+          "enable_quantity_selector": true,
+          "enable_product_wishlist": true,
+          "enable_payment_button": true,
+          "enable_zoom": true,
+          "enable_fancybox": true,
+          "enable_change_group_image": true,
+          "enable_compare_color": true,
+          "enable_video_product": true,
+          "enable_sold_in": true,
+          "item_prd": "3,5,6,7,8,10,12,15",
+          "item_prds": "sold in last",
+          "hours_prs": "10,15,16,17,18,20,25,35",
+          "item_hours": "hours",
+          "enable_countdown": true,
+          "enable_size_chart": true,
+          "size_chart": "none",
+          "custom_size_chart": "shopify:\/\/shop_images\/size-chart.jpg",
+          "enable_totalPrice": true,
+          "enable_customers_view": true,
+          "number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+          "title_view": "customers are viewing this product",
+          "enable_product_socialShare": true
+        }
+      },
+      "tab-horizontal": {
+        "type": "tab-horizontal",
+        "blocks": {
+          "1582113061933": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Shipping \/ Returns",
+              "product_tab_content": "<h3>Returns Policy<\/h3>\n<p>You may return most new, unopened items within 30 days of delivery for a full refund. We'll also pay the return shipping costs if the return is a result of our error (you received an incorrect or defective item, etc.).<\/p>\n<p>You should expect to receive your refund within four weeks of giving your package to the return shipper, however, in many cases you will receive a refund more quickly. This time period includes the transit time for us to receive your return from the shipper (5 to 10 business days), the time it takes us to process your return once we receive it (3 to 5 business days), and the time it takes your bank to process our refund request (5 to 10 business days).<\/p>\n<p>If you need to return an item, simply login to your account, view the order using the \"Complete Orders\" link under the My Account menu and click the Return Item(s) button. We'll notify you via e-mail of your refund once we've received and processed the returned item.<\/p>\n\n<h3>Shipping<\/h3>\n<p>We can ship to virtually any address in the world. Note that there are restrictions on some products, and some products cannot be shipped to international destinations.<\/p>\n<p>When you place an order, we will estimate shipping and delivery dates for you based on the availability of your items and the shipping options you choose. Depending on the shipping provider you choose, shipping date estimates may appear on the shipping quotes page.<\/p>\n<p>Please also note that the shipping rates for many items we sell are weight-based. The weight of any such item can be found on its detail page. To reflect the policies of the shipping companies we use, all weights will be rounded up to the next full pound.<\/p>",
+              "product_tab_content_2": ""
+            }
+          },
+          "1582113238143": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Custom tab",
+              "product_tab_content": "<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis. Pellentesque diam dolor cosmopolis etos lobortis.<\/p>\n<table>\n    <tbody>\n        <tr>\n            <td class=\"title\">Comodous:<\/td>\n            <td>Comodous in tempor ullamcorper miaculis<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Mattis laoreet:<\/td>\n            <td>Pellentesque vitae neque mollis urna mattis laoreet<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Divamus de ametos:<\/td>\n            <td>Divamus sit amet purus justo<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Molestie:<\/td>\n            <td>Proin molestie egestas orci ac suscipit risus posuere loremous<\/td>\n        <\/tr>\n    <\/tbody>\n<\/table>",
+              "product_tab_content_2": ""
+            }
+          }
+        },
+        "block_order": [
+          "1582113061933",
+          "1582113238143"
+        ],
+        "settings": {
+          "display_product_detail_tabs": true,
+          "display_product_detail_description": true,
+          "product_description_title": "Description",
+          "display_product_reviews": true,
+          "product_review_title": "Customer Reviews"
+        }
+      },
+      "tab-vertical": {
+        "type": "tab-vertical",
+        "blocks": {
+          "1582195470417": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Shipping \/ Returns",
+              "product_tab_content": "<h3>Returns Policy<\/h3>\n<p>You may return most new, unopened items within 30 days of delivery for a full refund. We'll also pay the return shipping costs if the return is a result of our error (you received an incorrect or defective item, etc.).<\/p>\n<p>You should expect to receive your refund within four weeks of giving your package to the return shipper, however, in many cases you will receive a refund more quickly. This time period includes the transit time for us to receive your return from the shipper (5 to 10 business days), the time it takes us to process your return once we receive it (3 to 5 business days), and the time it takes your bank to process our refund request (5 to 10 business days).<\/p>\n<p>If you need to return an item, simply login to your account, view the order using the \"Complete Orders\" link under the My Account menu and click the Return Item(s) button. We'll notify you via e-mail of your refund once we've received and processed the returned item.<\/p>\n\n<h3>Shipping<\/h3>\n<p>We can ship to virtually any address in the world. Note that there are restrictions on some products, and some products cannot be shipped to international destinations.<\/p>\n<p>When you place an order, we will estimate shipping and delivery dates for you based on the availability of your items and the shipping options you choose. Depending on the shipping provider you choose, shipping date estimates may appear on the shipping quotes page.<\/p>\n<p>Please also note that the shipping rates for many items we sell are weight-based. The weight of any such item can be found on its detail page. To reflect the policies of the shipping companies we use, all weights will be rounded up to the next full pound.<\/p>",
+              "product_tab_content_2": ""
+            }
+          },
+          "1582195554040": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Custom Tab",
+              "product_tab_content": "<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis. Pellentesque diam dolor cosmopolis etos lobortis.<\/p>\n<table>\n    <tbody>\n        <tr>\n            <td class=\"title\">Comodous:<\/td>\n            <td>Comodous in tempor ullamcorper miaculis<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Mattis laoreet:<\/td>\n            <td>Pellentesque vitae neque mollis urna mattis laoreet<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Divamus de ametos:<\/td>\n            <td>Divamus sit amet purus justo<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Molestie:<\/td>\n            <td>Proin molestie egestas orci ac suscipit risus posuere loremous<\/td>\n        <\/tr>\n    <\/tbody>\n<\/table>",
+              "product_tab_content_2": ""
+            }
+          }
+        },
+        "block_order": [
+          "1582195470417",
+          "1582195554040"
+        ],
+        "settings": {
+          "display_product_detail_tabs": true,
+          "display_product_detail_description": true,
+          "product_description_title": "Description",
+          "display_product_reviews": true,
+          "product_review_title": "Customer Reviews"
+        }
+      },
+      "blog-template-custom": {
+        "type": "blog-template-custom",
+        "blocks": {
+          "1582198715528": {
+            "type": "blog_infomation",
+            "settings": {
+              "layout": "left",
+              "image": "shopify:\/\/shop_images\/blog-custom-1.jpg",
+              "title": "Shop Womens",
+              "text": "<p>Quisquemos sodales suscipit ditaemcos condimentum de cosmo.<\/p>",
+              "button": "view all womens",
+              "button_link": "shopify:\/\/collections\/womens",
+              "collection": "loremous",
+              "column": 2,
+              "limit": 3,
+              "carousel-arrows": true,
+              "carousel-dots": false
+            }
+          },
+          "1582198751073": {
+            "type": "blog_infomation",
+            "settings": {
+              "layout": "right",
+              "image": "shopify:\/\/shop_images\/blog-custom-2.jpg",
+              "title": "Must Have",
+              "text": "<p>Quisquemos sodales suscipit ditaemcos condimentum de cosmo.<\/p>",
+              "button": "shop must have",
+              "button_link": "shopify:\/\/collections\/accessories",
+              "collection": "new-releases",
+              "column": 2,
+              "limit": 3,
+              "carousel-arrows": true,
+              "carousel-dots": false
+            }
+          }
+        },
+        "block_order": [
+          "1582198715528",
+          "1582198751073"
+        ],
+        "settings": {
+        }
+      },
+      "product-add-more": {
+        "type": "product-add-more",
+        "settings": {
+          "enable_product_show_more": true,
+          "collection_title": "Complete The Look",
+          "collection_more": "dinciduntero",
+          "column": 3,
+          "limit": 4,
+          "collection_message_text": "<h3>Buy Now, Pay Later with <img class=\"lazyload\" data-srcset=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0281\/5600\/2440\/files\/banner-promotion.png?v=1580974076\" alt=\"\" data-image=\"\"> Starting at 0% APR. <a href=\"#\">Read More<\/a>\n<\/h3>"
+        }
+      },
+      "wishlist-template": {
+        "type": "wishlist-template",
+        "settings": {
+        }
+      },
+      "header-2": {
+        "type": "header-2",
+        "blocks": {
+          "1592369202758": {
+            "type": "style_1",
+            "settings": {
+              "megamenu_items_1": "new releases",
+              "title_featured_product_1": "Editor’s Picks",
+              "featured_product_1_1": "dinterdum-preteus-tomuir-leggings",
+              "featured_product_1_2": "hentum-tosmo-naminos-delem-rin",
+              "featured_product_1_3": "dinterdum-preteus-tomuir-leggings-1",
+              "featured_product_1_4": "",
+              "banner_image_1": "shopify:\/\/shop_images\/header-banner-1.jpg",
+              "link_banner_image_1": "shopify:\/\/collections"
+            }
+          },
+          "1592369247487": {
+            "type": "style_2",
+            "settings": {
+              "megamenu_items_2": "men",
+              "custom_text_2": "<p><a href=\"\/collections\" title=\"All Collections\">All Products<\/a><\/p>\n<p><a href=\"\/collections\/accessories\" title=\"Accessories\">Accessories<\/a><\/p>\n<p><a href=\"\/collections\/womens\" title=\"womens\">Gift Card<\/a><\/p>\n<p><a href=\"\/collections\/dinciduntero\" title=\"dinciduntero\">Editor&rsquo;s Picks<\/a><\/p>\n<p><a href=\"\/collections\/new-releases\" title=\"New Releases\">New Releases<\/a><\/p>",
+              "title_featured_product_2": "New Products",
+              "featured_product_2_1": "divamus-ametend-purus-justopis",
+              "featured_product_2_2": "lobortis-desmollis-risused-cusaciu",
+              "featured_product_2_3": "",
+              "featured_product_2_4": "",
+              "banner_image_2": "shopify:\/\/shop_images\/header-banner-2.jpg",
+              "link_banner_image_2": "shopify:\/\/collections"
+            }
+          }
+        },
+        "block_order": [
+          "1592369202758",
+          "1592369247487"
+        ],
+        "settings": {
+          "message": true,
+          "home_page_only": true,
+          "message_text_1": "Free Exchanges and Returns",
+          "message_link_1": "",
+          "message_text_2": "Free Shipping on all orders over $149",
+          "message_link_2": "",
+          "message_text_3": "Buy Now Pay Later With Affirm",
+          "message_link_3": "",
+          "logo_text": "",
+          "logo": "shopify:\/\/shop_images\/logo-w.png",
+          "logo_max_width": 130,
+          "enable-header-search": true,
+          "enable-header-cart": true,
+          "enable-header-account": true,
+          "enable-header-currency": true,
+          "enable-header-language": true,
+          "main_linklist": "main-menu",
+          "label_1": "new",
+          "label_1_collection": "mens",
+          "label_2": "hot",
+          "label_2_collection": "accessories",
+          "label_3": "sale",
+          "label_3_collection": "shop outlet",
+          "enable_megamenu": true
+        }
+      },
+      "1591764494882": {
+        "type": "slideshow",
+        "blocks": {
+          "1591764494882-0": {
+            "type": "image",
+            "settings": {
+              "slide_image": "shopify:\/\/shop_images\/slider-image-1-compressor.jpg",
+              "style_layout": "style-2",
+              "alignment": "left",
+              "slide_heading": "Milancelos",
+              "slide_heading_sub": "",
+              "slide_des": "Quisquemos sodales suscipit ditaemcos condimentum de cosmo.",
+              "countdown": "",
+              "slide_button": "Shop Now",
+              "link": ""
+            }
+          },
+          "1591765136931": {
+            "type": "image",
+            "settings": {
+              "slide_image": "shopify:\/\/shop_images\/slider-image-2-compressor.jpg",
+              "style_layout": "style-1",
+              "alignment": "middle",
+              "slide_heading": "Sale Upto 70% Off",
+              "slide_heading_sub": "Special Offers",
+              "slide_des": "Quisquemos sodales suscipit ditaemcos condimentum de cosmo. Limited-time only:",
+              "countdown": "2020\/12\/20 0:0:00",
+              "slide_button": "Shop Now",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1591764494882-0",
+          "1591765136931"
+        ],
+        "settings": {
+          "slide_height": "large",
+          "text_size": "medium",
+          "overlay": "dark",
+          "show_arrows": true,
+          "show_dots": true,
+          "show_fadein": false,
+          "autoplay": true,
+          "autorotate_speed": 5,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": "",
+          "color_button_text": "",
+          "color_button_border": "",
+          "color_button_bg": "",
+          "color_arrow": "",
+          "color_dot": "",
+          "color_dot_border": ""
+        }
+      },
+      "1591860823596": {
+        "type": "product-list-2",
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "top": 60,
+          "bottom": 70,
+          "sub_title": "",
+          "title": "Most Popular",
+          "description": "",
+          "link": "View all",
+          "collection": "new-releases",
+          "collection_layout": "carousel",
+          "column": 5,
+          "limit": 7,
+          "carousel-arrows": true,
+          "carousel-dots": false,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": "",
+          "color_btn_text": "",
+          "color_btn_border": "",
+          "color_btn_bg": ""
+        }
+      },
+      "1591865743761": {
+        "type": "hero-2",
+        "blocks": {
+          "1591870672586": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-image-1-compressor.jpg",
+              "sub_title": "New Releases",
+              "title": "Shop Womens",
+              "text": "",
+              "button": "Shop Now",
+              "button_link": "shopify:\/\/collections\/dinciduntero"
+            }
+          },
+          "1591870676904": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-image-2-compressor.jpg",
+              "sub_title": "New Releases",
+              "title": "Shop Mens",
+              "text": "",
+              "button": "Shop Now",
+              "button_link": "shopify:\/\/collections\/accessories"
+            }
+          }
+        },
+        "block_order": [
+          "1591870672586",
+          "1591870676904"
+        ],
+        "settings": {
+          "top": 30,
+          "bottom": 30,
+          "hero_layout": "full_width",
+          "hero_size": "large",
+          "overlay": "dark",
+          "text_size": "medium",
+          "custom_color": false,
+          "color_heading": "",
+          "color_heading_sub": "",
+          "color_text": "",
+          "color_button": "",
+          "border_button": "",
+          "bg_button": ""
+        }
+      },
+      "1591933775280": {
+        "type": "product-list-2",
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "top": 30,
+          "bottom": 70,
+          "sub_title": "",
+          "title": "New Releases",
+          "description": "",
+          "link": "View All",
+          "collection": "new-releases",
+          "collection_layout": "grid",
+          "column": 5,
+          "limit": 10,
+          "carousel-arrows": false,
+          "carousel-dots": false,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": "",
+          "color_btn_text": "",
+          "color_btn_border": "",
+          "color_btn_bg": ""
+        }
+      },
+      "1591936527607": {
+        "type": "hero-3",
+        "blocks": {
+          "1591936527607-0": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/image-custom-1-compressor.jpg",
+              "sub_title": "",
+              "title": "LOREM DE DORUS",
+              "text": "",
+              "button": "Shop Now",
+              "button_link": "shopify:\/\/collections\/dinciduntero"
+            }
+          },
+          "1591936527607-1": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/image-custom-2-compressor.jpg",
+              "sub_title": "",
+              "title": "MILANCELOS LANOS",
+              "text": "",
+              "button": "Shop Now",
+              "button_link": "shopify:\/\/collections\/shop-outlet"
+            }
+          },
+          "1591936527607-2": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/image-custom-3-compressor.jpg",
+              "sub_title": "",
+              "title": "#De Metropolis",
+              "text": "",
+              "button": "Shop Now",
+              "button_link": "shopify:\/\/collections\/shop-outlet"
+            }
+          }
+        },
+        "block_order": [
+          "1591936527607-0",
+          "1591936527607-1",
+          "1591936527607-2"
+        ],
+        "settings": {
+          "top": 30,
+          "bottom": 30,
+          "hero_layout": "fixed_width",
+          "hero_size": "small",
+          "overlay": "dark",
+          "text_size": "small",
+          "custom_color": false,
+          "color_heading": "",
+          "color_heading_sub": "",
+          "color_text": "",
+          "color_button": ""
+        }
+      },
+      "1591953855781": {
+        "type": "hero-2",
+        "blocks": {
+          "1591953855781-0": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-image-style-1-compressor.jpg",
+              "sub_title": "Editor’s Picks",
+              "title": "#Trending Now",
+              "text": "",
+              "button": "Shop Now",
+              "button_link": "shopify:\/\/collections\/women"
+            }
+          },
+          "1591953855781-1": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-image-style-2-compressor.jpg",
+              "sub_title": "Shop Outlet",
+              "title": "#Cosmopolis",
+              "text": "",
+              "button": "Shop Now",
+              "button_link": "shopify:\/\/collections\/men"
+            }
+          }
+        },
+        "block_order": [
+          "1591953855781-0",
+          "1591953855781-1"
+        ],
+        "settings": {
+          "top": 30,
+          "bottom": 0,
+          "hero_layout": "full_width",
+          "hero_size": "large",
+          "overlay": "dark",
+          "text_size": "medium",
+          "custom_color": false,
+          "color_heading": "",
+          "color_heading_sub": "",
+          "color_text": "",
+          "color_button": "",
+          "border_button": "",
+          "bg_button": ""
+        }
+      },
+      "1592187066338": {
+        "type": "hero",
+        "blocks": {
+          "1592187077174": {
+            "type": "product_item",
+            "settings": {
+              "product": "dinterdum-preteus-tomuir-leggings",
+              "coordinates_x": 45,
+              "coordinates_y": 71
+            }
+          },
+          "1592197257132": {
+            "type": "product_item",
+            "settings": {
+              "product": "delementum-milancelos-preteus-tomuir",
+              "coordinates_x": 61,
+              "coordinates_y": 40
+            }
+          },
+          "1592197328862": {
+            "type": "product_item",
+            "settings": {
+              "product": "lobortis-desan-mollis-ut-risus",
+              "coordinates_x": 76,
+              "coordinates_y": 78
+            }
+          }
+        },
+        "block_order": [
+          "1592187077174",
+          "1592197257132",
+          "1592197328862"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/banner-custom-image-1-compressor.jpg",
+          "hero_layout": "full_width",
+          "hero_size": "large",
+          "overlay": "dark",
+          "effect": "none",
+          "content_layout": "left",
+          "text_size": "medium",
+          "sub_title": "",
+          "title": "Shop The Look",
+          "countdown": "",
+          "text_style_2": "text_style_2",
+          "text": "<p>Quisquemos sodales suscipit ditaemcos condimento<\/p>",
+          "button": "Shop Now",
+          "button_link": "",
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": "",
+          "color_button_text": "",
+          "color_button_border": "",
+          "color_button_bg": ""
+        }
+      },
+      "1592207561309": {
+        "type": "rich-text",
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "top": 60,
+          "bottom": 30,
+          "full_width": false,
+          "text_align": "text-center",
+          "section_title": "Why Shop With Us",
+          "text": "<p>Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elitos. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis de denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum. Proin molestie egestas orci ac suscipit risus posuere loremous. Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin felis. Pellentesque diam dolor, elementum et lobortis at, mollis ut risus. Sedcuman des faucibus sullamcorper mattis fusce molestie elito.<\/p>",
+          "title_size": "large",
+          "text_size": "medium",
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": ""
+        }
+      },
+      "1592209707062": {
+        "type": "icon-with-text",
+        "blocks": {
+          "1592209707062-0": {
+            "type": "icon_item",
+            "settings": {
+              "icon": "<svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fal\" data-icon=\"plane\" role=\"img\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 576 512\" class=\"rotate svg-inline--fa fa-plane fa-w-18 fa-2x\"><path fill=\"currentColor\" d=\"M480 192H365.71L260.61 8.06A16.014 16.014 0 0 0 246.71 0h-88.36c-10.63 0-18.3 10.17-15.38 20.39L192 192h-64l-43.2-57.6c-3.02-4.03-7.77-6.4-12.8-6.4H16.01C5.6 128-2.04 137.78.49 147.88L32 256 .49 364.12C-2.04 374.22 5.6 384 16.01 384H72c5.04 0 9.78-2.37 12.8-6.4L128 320h64l-49.03 171.6c-2.92 10.22 4.75 20.4 15.38 20.4h88.36c5.74 0 11.04-3.08 13.89-8.06L365.71 320H480c35.35 0 96-28.65 96-64s-60.65-64-96-64zm0 96H347.14L237.43 480h-57.86l54.86-192H112l-48 64H37.35l27.98-96-28-96H64l48 64h122.42L179.57 32h57.87l109.71 192H480c26.24 0 62.61 21.75 64 31.91-1.39 10.34-37.76 32.09-64 32.09z\" class=\"\"><\/path><\/svg>",
+              "title": "Free Shipping Worldwide",
+              "description": "for all order $199"
+            }
+          },
+          "1592209707062-1": {
+            "type": "icon_item",
+            "settings": {
+              "icon": "<svg class=\"rotate1\" version=\"1.1\" id=\"Capa_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" x=\"0px\" y=\"0px\" width=\"51.818px\" height=\"51.818px\" viewbox=\"0 0 51.818 51.818\" style=\"enable-background:new 0 0 51.818 51.818;\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\"> \t<path stroke=\"currentColor\" d=\"M44.562,29.018c0,10.282-8.368,18.65-18.653,18.65c-10.285,0-18.653-8.365-18.653-18.65 \t\tc0-10.087,8.057-18.312,18.069-18.625v6.188l9.327-8.291L25.325,0v6.232C13.023,6.544,3.109,16.642,3.109,29.018 \t\tc0,12.57,10.228,22.801,22.8,22.801c12.571,0,22.8-10.229,22.8-22.801H44.562z\"><\/path> <\/svg>",
+              "title": "Free exchanges + Returns",
+              "description": "Find out more"
+            }
+          },
+          "1592209707062-2": {
+            "type": "icon_item",
+            "settings": {
+              "icon": "<svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fal\" data-icon=\"certificate\" role=\"img\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 512 512\" class=\"svg-inline--fa fa-certificate fa-w-16 fa-2x\"><path fill=\"currentColor\" d=\"M495.768 272.292l-16.72-16.363 16.719-16.362c30.04-28.786 16.251-79.537-23.83-89.365l-22.768-5.811 6.464-22.698c11.232-39.997-26.115-76.468-65.449-65.451l-22.672 6.461-5.809-22.778C351.926.052 300.89-13.786 272.299 16.142L256 32.934l-16.301-16.791c-28.323-29.647-79.535-16.514-89.405 23.793l-5.807 22.768-22.672-6.461c-39.14-10.992-76.677 25.224-65.449 65.45l6.464 22.698-22.767 5.811c-40.081 9.827-53.87 60.579-23.831 89.365l16.72 16.363-16.719 16.362c-30.04 28.786-16.251 79.537 23.83 89.365l22.768 5.811-6.464 22.698c-11.221 40.203 26.255 76.429 65.449 65.45l22.672-6.461 5.807 22.767c9.93 40.578 60.865 53.609 89.366 23.836L256 479.05l16.254 16.62c28.257 29.9 79.554 16.68 89.452-23.746l5.807-22.767 22.672 6.461c39.472 11.086 76.598-25.509 65.449-65.45l-6.464-22.698 22.767-5.811c40.082-9.829 53.87-60.581 23.831-89.367zm-31.567 58.313l-54.819 13.991 15.453 54.263c4.366 15.605-10.346 30.332-25.953 25.962l-54.245-15.458L330.65 464.2c-3.796 15.884-24.347 21.136-35.285 9.334L256 433.284l-39.366 40.251c-11.051 11.681-31.4 6.919-35.285-9.334l-13.986-54.837-54.245 15.458c-15.603 4.368-30.32-10.354-25.953-25.962l15.453-54.263-54.819-13.991c-15.733-3.762-21.326-23.942-9.331-35.297l40.237-39.379-40.237-39.379c-11.989-11.35-6.407-31.532 9.331-35.296l54.819-13.991L87.165 113c-4.366-15.605 10.346-30.332 25.953-25.962l54.245 15.458 13.986-54.837c3.743-15.664 24.233-21.016 35.285-9.334L256 78.873l39.366-40.548c11.179-11.816 31.583-6.152 35.285 9.334l13.986 54.837 54.245-15.458c15.603-4.368 30.32 10.354 25.953 25.962l-15.453 54.263 54.819 13.991c15.733 3.762 21.326 23.942 9.331 35.296l-40.237 39.379 40.237 39.379c11.989 11.351 6.407 31.533-9.331 35.297z\" class=\"\"><\/path><\/svg>",
+              "title": "Authenticity Guaranteed",
+              "description": "Find out more"
+            }
+          },
+          "1592209707062-3": {
+            "type": "icon_item",
+            "settings": {
+              "icon": "<svg version=\"1.1\" id=\"shield-icon\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" x=\"0px\" y=\"0px\" viewbox=\"0 0 31.694 31.694\" style=\"enable-background:new 0 0 31.694 31.694;\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" xml:space=\"preserve\"> \t<path d=\"M27.126,3.842c-9.268,0-10.836-3.518-10.85-3.551C16.208,0.119,16.04,0.004,15.85,0c0,0-0.004,0-0.008,0 \t\tc-0.184,0-0.354,0.115-0.428,0.283C15.403,0.32,13.801,3.842,4.568,3.842c-0.258,0-0.462,0.209-0.462,0.461v15.764 \t\tc0,6.453,11.084,11.383,11.553,11.59c0.062,0.027,0.121,0.037,0.188,0.037c0.061,0,0.127-0.01,0.186-0.037 \t\tc0.473-0.207,11.555-5.137,11.555-11.59V4.303C27.586,4.051,27.381,3.842,27.126,3.842z M25.038,19.15 \t\tc0,5.049-8.678,8.912-9.047,9.072c-0.045,0.023-0.098,0.031-0.145,0.031c-0.051,0-0.098-0.008-0.146-0.031 \t\tc-0.365-0.16-9.046-4.023-9.046-9.072V6.811c0-0.199,0.161-0.363,0.362-0.363c7.229,0,8.482-2.756,8.494-2.783 \t\tc0.057-0.133,0.189-0.223,0.334-0.223c0.002,0,0.006,0,0.006,0c0.148,0.002,0.279,0.092,0.332,0.229 \t\tc0.012,0.025,1.24,2.777,8.494,2.777c0.201,0,0.361,0.164,0.361,0.363L25.038,19.15L25.038,19.15z\"><\/path> <\/svg>",
+              "title": "Secure Checkout Guaranteed",
+              "description": "Find out more"
+            }
+          }
+        },
+        "block_order": [
+          "1592209707062-0",
+          "1592209707062-1",
+          "1592209707062-2",
+          "1592209707062-3"
+        ],
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "top": 60,
+          "bottom": 90,
+          "title": "",
+          "description": "",
+          "button": "",
+          "button_link": "",
+          "column": 4,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": "",
+          "color_btn_text": "",
+          "color_btn_border": "",
+          "color_btn_bg": "",
+          "color_icon": "",
+          "color_title": "",
+          "color_description": ""
+        }
+      },
+      "footer_2": {
+        "type": "footer_2",
+        "blocks": {
+          "1592291950411": {
+            "type": "logo",
+            "settings": {
+              "logo_footer": "shopify:\/\/shop_images\/logo-b.png",
+              "logo_footer_content": ""
+            }
+          },
+          "1592283177245": {
+            "type": "info_store",
+            "settings": {
+              "title": "",
+              "info_text_1": "© 2019 Gymuso. Powered by Shopify.",
+              "info_text_2": "Shopify Themes & Templates by HaloThemes.com",
+              "info_text_3": ""
+            }
+          },
+          "1592283218206": {
+            "type": "navigation_list",
+            "settings": {
+              "title": "HELP",
+              "navigation": "footer"
+            }
+          },
+          "1592283245515": {
+            "type": "navigation_list",
+            "settings": {
+              "title": "ABOUT",
+              "navigation": "footer-menu-2"
+            }
+          },
+          "1592283257402": {
+            "type": "navigation_list",
+            "settings": {
+              "title": "ACCOUNT",
+              "navigation": "footer-menu-3"
+            }
+          },
+          "1592283270251": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Sign Up for our Newsletter",
+              "des": "Be the first to know about our new collections, exclusive promotions and more.",
+              "payment_image_1": "<svg width=\"780\" height=\"500\" enable-background=\"new 0 0 780 500\" version=\"1.1\" viewbox=\"0 0 780 500\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xml:space=\"preserve\"><rect width=\"780\" height=\"500\" fill=\"#0E4595\"><\/rect><path d=\"m293.2 348.73l33.361-195.76h53.36l-33.385 195.76h-53.336zm246.11-191.54c-10.57-3.966-27.137-8.222-47.822-8.222-52.725 0-89.865 26.55-90.18 64.603-0.299 28.13 26.514 43.822 46.752 53.186 20.771 9.595 27.752 15.714 27.654 24.283-0.131 13.121-16.586 19.116-31.922 19.116-21.357 0-32.703-2.967-50.227-10.276l-6.876-3.11-7.489 43.823c12.463 5.464 35.51 10.198 59.438 10.443 56.09 0 92.5-26.246 92.916-66.882 0.199-22.269-14.016-39.216-44.801-53.188-18.65-9.055-30.072-15.099-29.951-24.268 0-8.137 9.668-16.839 30.557-16.839 17.449-0.27 30.09 3.535 39.938 7.5l4.781 2.26 7.232-42.429m137.31-4.223h-41.232c-12.773 0-22.332 3.487-27.941 16.234l-79.244 179.4h56.031s9.16-24.123 11.232-29.418c6.125 0 60.555 0.084 68.338 0.084 1.596 6.853 6.49 29.334 6.49 29.334h49.514l-43.188-195.64zm-65.418 126.41c4.412-11.279 21.26-54.723 21.26-54.723-0.316 0.522 4.379-11.334 7.074-18.684l3.605 16.879s10.219 46.729 12.354 56.528h-44.293zm-363.3-126.41l-52.24 133.5-5.567-27.13c-9.725-31.273-40.025-65.155-73.898-82.118l47.766 171.2 56.456-0.064 84.004-195.39h-56.521\" fill=\"#fff\"><\/path><path d=\"m146.92 152.96h-86.041l-0.681 4.073c66.938 16.204 111.23 55.363 129.62 102.41l-18.71-89.96c-3.23-12.395-12.597-16.094-24.186-16.527\" fill=\"#F2AE14\"><\/path><\/svg>",
+              "payment_image_2": "<svg width=\"780\" height=\"500\" enable-background=\"new 0 0 780 500\" version=\"1.1\" viewbox=\"0 0 780 500\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xml:space=\"preserve\"><rect width=\"780\" height=\"500\" fill=\"#FFF\" stroke-width=\"15px\" stroke=\"#fff\"><\/rect><path d=\"m449.01 250c0 99.143-80.371 179.5-179.51 179.5s-179.5-80.361-179.5-179.5c0-99.133 80.362-179.5 179.5-179.5 99.137 0 179.51 80.371 179.51 179.5\" fill=\"#D9222A\"><\/path><path d=\"m510.49 70.496c-46.379 0-88.643 17.596-120.5 46.467-6.49 5.889-12.548 12.237-18.125 18.996h36.267c4.965 6.037 9.536 12.387 13.685 19.012h-63.635c-3.827 6.122-7.281 12.469-10.342 19.008h84.313c2.894 6.185 5.431 12.53 7.601 19.004h-99.513c-2.09 6.234-3.832 12.58-5.217 19.008h109.94c2.689 12.49 4.045 25.231 4.042 38.008 0 19.935-3.254 39.112-9.254 57.021h-99.513c2.164 6.477 4.7 12.824 7.596 19.008h84.316c-3.063 6.541-6.519 12.889-10.347 19.013h-63.625c4.147 6.62 8.719 12.966 13.685 18.996h36.259c-5.57 6.772-11.63 13.127-18.13 19.013 31.857 28.866 74.117 46.454 120.5 46.454 99.139 0 179.51-80.361 179.51-179.5 0-99.129-80.371-179.5-179.51-179.5\" fill=\"#EE9F2D\"><\/path><path d=\"m666.07 350.06c0-3.199 2.592-5.801 5.796-5.801s5.796 2.602 5.796 5.801-2.592 5.801-5.796 5.801-5.796-2.602-5.796-5.801zm5.796 4.408c2.434-1e-3 4.407-1.974 4.408-4.408 0-2.432-1.971-4.402-4.402-4.404h-6e-3c-2.429-3e-3 -4.4 1.963-4.404 4.391v0.014c-2e-3 2.433 1.968 4.406 4.4 4.408 1e-3 -1e-3 3e-3 -1e-3 4e-3 -1e-3zm-0.783-1.86h-1.187v-5.096h2.149c0.45 0 0.908 0 1.305 0.254 0.413 0.279 0.646 0.771 0.646 1.279 0 0.571-0.338 1.104-0.884 1.312l0.938 2.25h-1.315l-0.779-2.017h-0.871l-2e-3 2.018zm0-2.89h0.658c0.246 0 0.505 0.021 0.726-0.1 0.195-0.125 0.296-0.359 0.296-0.584-5e-3 -0.209-0.112-0.402-0.288-0.518-0.207-0.129-0.536-0.101-0.758-0.101h-0.634v1.303zm-443.5-80.063c-2.046-0.238-2.945-0.301-4.35-0.301-11.046 0-16.638 3.787-16.638 11.268 0 4.611 2.729 7.545 6.987 7.545 7.939 0 13.659-7.559 14.001-18.512zm14.171 32.996h-16.146l0.371-7.676c-4.926 6.065-11.496 8.949-20.426 8.949-10.563 0-17.804-8.25-17.804-20.229 0-18.024 12.596-28.541 34.217-28.541 2.208 0 5.042 0.199 7.941 0.57 0.604-2.441 0.763-3.488 0.763-4.801 0-4.908-3.396-6.737-12.5-6.737-9.533-0.108-17.396 2.271-20.625 3.333 0.204-1.229 2.7-16.659 2.7-16.659 9.712-2.846 16.116-3.917 23.325-3.917 16.732 0 25.596 7.513 25.579 21.712 0.033 3.805-0.597 8.5-1.579 14.671-1.691 10.734-5.32 33.721-5.816 39.325zm-62.158 0h-19.487l11.162-69.997-24.925 69.997h-13.279l-1.642-69.597-11.733 69.597h-18.242l15.237-91.056h28.021l1.7 50.968 17.092-50.968h31.167l-15.071 91.056m354.97-32.996c-2.037-0.238-2.941-0.301-4.342-0.301-11.041 0-16.634 3.787-16.634 11.268 0 4.611 2.726 7.545 6.983 7.545 7.94 0 13.664-7.559 13.993-18.512zm14.184 32.996h-16.146l0.366-7.676c-4.926 6.065-11.5 8.949-20.422 8.949-10.565 0-17.8-8.25-17.8-20.229 0-18.024 12.588-28.541 34.213-28.541 2.208 0 5.037 0.199 7.934 0.57 0.604-2.441 0.763-3.488 0.763-4.801 0-4.908-3.392-6.737-12.496-6.737-9.533-0.108-17.387 2.271-20.629 3.333 0.204-1.229 2.709-16.659 2.709-16.659 9.712-2.846 16.112-3.917 23.313-3.917 16.74 0 25.604 7.513 25.587 21.712 0.032 3.805-0.597 8.5-1.579 14.671-1.684 10.734-5.321 33.721-5.813 39.325zm-220.39-1.125c-5.333 1.679-9.491 2.398-14 2.398-9.962 0-15.399-5.725-15.399-16.267-0.142-3.271 1.433-11.88 2.671-19.737 1.125-6.917 8.449-50.529 8.449-50.529h19.371l-2.263 11.208h11.699l-2.642 17.796h-11.742c-2.25 14.083-5.454 31.625-5.491 33.95 0 3.816 2.037 5.483 6.671 5.483 2.221 0 3.94-0.227 5.254-0.7l-2.578 16.398m59.392-0.6c-6.654 2.034-13.075 3.017-19.879 3-21.684-0.021-32.987-11.346-32.987-33.032 0-25.313 14.38-43.947 33.899-43.947 15.971 0 26.171 10.433 26.171 26.796 0 5.429-0.7 10.729-2.388 18.212h-38.574c-1.305 10.741 5.57 15.217 16.837 15.217 6.935 0 13.188-1.429 20.142-4.663l-3.221 18.417zm-10.888-43.9c0.107-1.543 2.055-13.217-9.013-13.217-6.171 0-10.583 4.704-12.38 13.217h21.393zm-123.42-5.017c0 9.367 4.542 15.826 14.842 20.676 7.892 3.709 9.112 4.81 9.112 8.17 0 4.617-3.479 6.701-11.191 6.701-5.813 0-11.221-0.908-17.458-2.922 0 0-2.563 16.321-2.68 17.102 4.43 0.967 8.38 1.861 20.279 2.19 20.563 0 30.059-7.829 30.059-24.75 0-10.175-3.976-16.146-13.737-20.634-8.171-3.75-9.108-4.587-9.108-8.045 0-4.004 3.237-6.046 9.537-6.046 3.825 0 9.05 0.408 14 1.112l2.775-17.175c-5.046-0.8-12.696-1.442-17.15-1.442-21.801 1e-3 -29.347 11.388-29.28 25.063m229.09-23.116c5.412 0 10.458 1.421 17.412 4.921l3.188-19.763c-2.854-1.121-12.904-7.7-21.417-7.7-13.041 0-24.065 6.471-31.82 17.15-11.309-3.746-15.958 3.825-21.657 11.367l-5.063 1.179c0.383-2.483 0.729-4.95 0.612-7.446h-17.896c-2.445 22.917-6.778 46.128-10.171 69.075l-0.884 4.976h19.496c3.254-21.143 5.037-34.68 6.121-43.842l7.341-4.084c1.097-4.078 4.529-5.458 11.417-5.291-0.926 5.008-1.389 10.091-1.383 15.184 0 24.225 13.07 39.308 34.05 39.308 5.404 0 10.041-0.712 17.221-2.658l3.43-20.759c-6.458 3.181-11.759 4.677-16.559 4.677-11.329 0-18.184-8.363-18.184-22.185 0-20.051 10.196-34.109 24.746-34.109\"><\/path><path d=\"m185.21 297.24h-19.491l11.171-69.988-24.926 69.988h-13.283l-1.642-69.588-11.733 69.588h-18.241l15.237-91.042h28.021l0.788 56.362 18.904-56.362h30.267l-15.072 91.042\" fill=\"#fff\"><\/path><path d=\"m647.52 211.6l-4.321 26.309c-5.329-7.013-11.054-12.088-18.612-12.088-9.833 0-18.783 7.455-24.642 18.425-8.158-1.692-16.597-4.563-16.597-4.563l-4e-3 0.067c0.658-6.134 0.921-9.875 0.862-11.146h-17.9c-2.438 22.917-6.771 46.128-10.157 69.075l-0.893 4.976h19.492c2.633-17.096 4.648-31.291 6.133-42.551 6.658-6.016 9.992-11.266 16.721-10.916-2.979 7.205-4.725 15.503-4.725 24.017 0 18.513 9.366 30.725 23.533 30.725 7.142 0 12.621-2.462 17.967-8.171l-0.913 6.884h18.435l14.842-91.042-19.221-1e-3zm-24.371 73.941c-6.634 0-9.983-4.908-9.983-14.596 0-14.555 6.271-24.875 15.112-24.875 6.695 0 10.32 5.104 10.32 14.509 1e-3 14.679-6.37 24.962-15.449 24.962z\"><\/path><path d=\"m233.19 264.26c-2.042-0.236-2.946-0.299-4.346-0.299-11.046 0-16.634 3.787-16.634 11.266 0 4.604 2.729 7.547 6.979 7.547 7.947-1e-3 13.668-7.559 14.001-18.514zm14.178 32.984h-16.146l0.367-7.663c-4.921 6.054-11.5 8.95-20.421 8.95-10.567 0-17.805-8.25-17.805-20.229 0-18.032 12.592-28.542 34.217-28.542 2.208 0 5.042 0.2 7.938 0.571 0.604-2.441 0.763-3.487 0.763-4.808 0-4.909-3.392-6.729-12.496-6.729-9.537-0.108-17.396 2.271-20.629 3.321 0.204-1.225 2.7-16.637 2.7-16.637 9.708-2.858 16.12-3.929 23.32-3.929 16.737 0 25.604 7.517 25.588 21.704 0.029 3.821-0.604 8.513-1.584 14.675-1.687 10.724-5.319 33.724-5.812 39.316zm261.38-88.592l-3.191 19.767c-6.95-3.496-12-4.92-17.407-4.92-14.551 0-24.75 14.058-24.75 34.106 0 13.821 6.857 22.181 18.184 22.181 4.8 0 10.096-1.492 16.554-4.675l-3.421 20.75c-7.184 1.957-11.816 2.67-17.225 2.67-20.977 0-34.051-15.084-34.051-39.309 0-32.55 18.059-55.3 43.888-55.3 8.507 1e-3 18.561 3.609 21.419 4.73m31.443 55.608c-2.041-0.236-2.941-0.299-4.347-0.299-11.041 0-16.633 3.787-16.633 11.266 0 4.604 2.729 7.547 6.983 7.547 7.938-1e-3 13.663-7.559 13.997-18.514zm14.178 32.984h-16.15l0.371-7.663c-4.925 6.054-11.5 8.95-20.421 8.95-10.563 0-17.804-8.25-17.804-20.229 0-18.032 12.596-28.542 34.212-28.542 2.213 0 5.042 0.2 7.941 0.571 0.601-2.441 0.763-3.487 0.763-4.808 0-4.909-3.393-6.729-12.495-6.729-9.533-0.108-17.396 2.271-20.63 3.321 0.204-1.225 2.704-16.637 2.704-16.637 9.709-2.858 16.116-3.929 23.316-3.929 16.741 0 25.604 7.517 25.583 21.704 0.033 3.821-0.596 8.513-1.579 14.675-1.682 10.724-5.323 33.724-5.811 39.316zm-220.39-1.121c-5.338 1.679-9.496 2.408-14 2.408-9.962 0-15.399-5.726-15.399-16.268-0.138-3.279 1.438-11.88 2.675-19.736 1.12-6.926 8.445-50.534 8.445-50.534h19.368l-2.26 11.212h9.941l-2.646 17.788h-9.975c-2.25 14.092-5.463 31.62-5.496 33.95 0 3.83 2.041 5.482 6.671 5.482 2.221 0 3.938-0.216 5.254-0.691l-2.578 16.389m59.391-0.592c-6.65 2.033-13.079 3.012-19.879 3-21.685-0.021-32.987-11.346-32.987-33.033 0-25.321 14.379-43.95 33.899-43.95 15.971 0 26.171 10.429 26.171 26.8 0 5.434-0.7 10.733-2.384 18.212h-38.574c-1.306 10.741 5.569 15.222 16.837 15.222 6.93 0 13.188-1.435 20.138-4.677l-3.221 18.426zm-10.891-43.912c0.116-1.538 2.06-13.217-9.013-13.217-6.167 0-10.579 4.717-12.375 13.217h21.388zm-123.42-5.005c0 9.367 4.542 15.818 14.842 20.675 7.892 3.709 9.112 4.812 9.112 8.172 0 4.616-3.483 6.699-11.188 6.699-5.816 0-11.225-0.908-17.467-2.921 0 0-2.554 16.321-2.671 17.101 4.421 0.967 8.375 1.85 20.275 2.191 20.566 0 30.059-7.829 30.059-24.746 0-10.18-3.971-16.15-13.737-20.637-8.167-3.759-9.113-4.584-9.113-8.046 0-4 3.246-6.059 9.542-6.059 3.821 0 9.046 0.421 14.004 1.125l2.771-17.179c-5.042-0.8-12.692-1.441-17.146-1.441-21.804 0-29.346 11.379-29.283 25.066m398.45 50.63h-18.438l0.917-6.893c-5.347 5.717-10.825 8.18-17.968 8.18-14.166 0-23.528-12.213-23.528-30.726 0-24.63 14.521-45.392 31.708-45.392 7.559 0 13.279 3.087 18.604 10.096l4.325-26.308h19.221l-14.841 91.043zm-28.746-17.109c9.075 0 15.45-10.283 15.45-24.953 0-9.405-3.629-14.509-10.325-14.509-8.837 0-15.115 10.315-15.115 24.875-1e-3 9.686 3.357 14.587 9.99 14.587zm-56.842-56.929c-2.441 22.917-6.773 46.13-10.162 69.063l-0.892 4.976h19.491c6.972-45.275 8.658-54.117 19.588-53.009 1.742-9.267 4.982-17.383 7.399-21.479-8.163-1.7-12.721 2.913-18.688 11.675 0.471-3.788 1.333-7.467 1.162-11.225l-17.898-1e-3m-160.42 0c-2.446 22.917-6.779 46.13-10.167 69.063l-0.888 4.976h19.5c6.963-45.275 8.646-54.117 19.57-53.009 1.75-9.267 4.991-17.383 7.399-21.479-8.154-1.7-12.717 2.913-18.679 11.675 0.471-3.788 1.324-7.467 1.162-11.225l-17.897-1e-3m254.57 68.241c-4e-3 -3.199 2.586-5.795 5.784-5.799h0.012c3.197-4e-3 5.793 2.586 5.796 5.783v0.016c-1e-3 3.201-2.595 5.795-5.796 5.797-3.201-2e-3 -5.795-2.596-5.796-5.797zm5.796 4.405c2.431 2e-3 4.402-1.969 4.403-4.399v-4e-3c3e-3 -2.433-1.968-4.406-4.399-4.408h-4e-3c-2.435 1e-3 -4.407 1.974-4.408 4.408 2e-3 2.432 1.975 4.403 4.408 4.403zm-0.784-1.871h-1.188v-5.082h2.153c0.446 0 0.909 9e-3 1.296 0.254 0.417 0.283 0.654 0.767 0.654 1.274 0 0.575-0.337 1.112-0.888 1.317l0.941 2.236h-1.32l-0.779-2.009h-0.87l1e-3 2.01zm0-2.879h0.653c0.246 0 0.513 0.019 0.729-0.1 0.196-0.125 0.296-0.361 0.296-0.588-9e-3 -0.21-0.114-0.404-0.287-0.523-0.204-0.117-0.542-0.084-0.763-0.084h-0.629l1e-3 1.295z\" fill=\"#fff\"><\/path><\/svg>",
+              "payment_image_3": "<svg width=\"780\" height=\"500\" enable-background=\"new 0 0 780 500\" version=\"1.1\" viewbox=\"0 0 780 500\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xml:space=\"preserve\"><rect width=\"780\" height=\"500\" fill=\"#2478bc\"><\/rect><path d=\"m0.253 235.69h37.441l8.442-19.51h18.9l8.42 19.51h73.668v-14.915l6.576 14.98h38.243l6.576-15.202v15.138h183.08l-0.085-32.026h3.542c2.479 0.083 3.204 0.302 3.204 4.226v27.8h94.689v-7.455c7.639 3.92 19.518 7.455 35.148 7.455h39.836l8.525-19.51h18.9l8.337 19.51h76.765v-18.532l11.626 18.532h61.515v-122.51h-60.88v14.468l-8.522-14.468h-62.471v14.468l-7.828-14.468h-84.38c-14.123 0-26.539 1.889-36.569 7.153v-7.153h-58.229v7.153c-6.383-5.426-15.079-7.153-24.75-7.153h-212.74l-14.274 31.641-14.659-31.641h-67.005v14.468l-7.362-14.468h-57.145l-26.539 58.246v64.261h3e-3zm236.34-17.67h-22.464l-0.083-68.794-31.775 68.793h-19.24l-31.858-68.854v68.854h-44.57l-8.42-19.592h-45.627l-8.505 19.592h-23.801l39.241-87.837h32.559l37.269 83.164v-83.164h35.766l28.678 59.587 26.344-59.587h36.485l1e-3 87.838zm-165.9-37.823l-14.998-35.017-14.915 35.017h29.913zm255.3 37.821h-73.203v-87.837h73.203v18.291h-51.289v15.833h50.06v18.005h-50.061v17.542h51.289l1e-3 18.166zm103.16-64.18c0 14.004-9.755 21.24-15.439 23.412 4.794 1.748 8.891 4.838 10.84 7.397 3.094 4.369 3.628 8.271 3.628 16.116v17.255h-22.104l-0.083-11.077c0-5.285 0.528-12.886-3.458-17.112-3.202-3.09-8.083-3.76-15.973-3.76h-23.523v31.95h-21.914v-87.838h50.401c11.199 0 19.451 0.283 26.535 4.207 6.933 3.924 11.09 9.652 11.09 19.45zm-27.699 13.042c-3.013 1.752-6.573 1.81-10.841 1.81h-26.62v-19.51h26.982c3.818 0 7.804 0.164 10.393 1.584 2.842 1.28 4.601 4.003 4.601 7.765 0 3.84-1.674 6.929-4.515 8.351zm62.844 51.138h-22.358v-87.837h22.358v87.837zm259.56 0h-31.053l-41.535-65.927v65.927h-44.628l-8.527-19.592h-45.521l-8.271 19.592h-25.648c-10.649 0-24.138-2.257-31.773-9.715-7.701-7.458-11.708-17.56-11.708-33.533 0-13.027 2.395-24.936 11.812-34.347 7.085-7.01 18.18-10.242 33.28-10.242h21.215v18.821h-20.771c-7.997 0-12.514 1.14-16.862 5.203-3.735 3.699-6.298 10.69-6.298 19.897 0 9.41 1.951 16.196 6.023 20.628 3.373 3.476 9.506 4.53 15.272 4.53h9.842l30.884-69.076h32.835l37.102 83.081v-83.08h33.366l38.519 61.174v-61.174h22.445v87.833zm-133.2-37.82l-15.165-35.017-15.081 35.017h30.246zm189.04 178.08c-5.322 7.457-15.694 11.238-29.736 11.238h-42.319v-18.84h42.147c4.181 0 7.106-0.527 8.868-2.175 1.665-1.474 2.605-3.554 2.591-5.729 0-2.561-1.064-4.593-2.677-5.811-1.59-1.342-3.904-1.95-7.722-1.95-20.574-0.67-46.244 0.608-46.244-27.194 0-12.742 8.443-26.156 31.439-26.156h43.649v-17.479h-40.557c-12.237 0-21.129 2.81-27.425 7.174v-7.175h-59.985c-9.595 0-20.854 2.279-26.179 7.175v-7.175h-107.12v7.175c-8.524-5.892-22.908-7.175-29.549-7.175h-70.656v7.175c-6.745-6.258-21.742-7.175-30.886-7.175h-79.077l-18.094 18.764-16.949-18.764h-118.13v122.59h115.9l18.646-19.062 17.565 19.062 71.442 0.061v-28.838h7.021c9.479 0.14 20.66-0.228 30.523-4.312v33.085h58.928v-31.952h2.842c3.628 0 3.985 0.144 3.985 3.615v28.333h179.01c11.364 0 23.244-2.786 29.824-7.845v7.845h56.78c11.815 0 23.354-1.587 32.134-5.649l2e-3 -22.84zm-354.94-47.155c0 24.406-19.005 29.445-38.159 29.445h-27.343v29.469h-42.591l-26.984-29.086-28.042 29.086h-86.802v-87.859h88.135l26.961 28.799 27.875-28.799h70.021c17.389 0 36.929 4.613 36.929 28.945zm-174.22 40.434h-53.878v-17.48h48.11v-17.926h-48.11v-15.974h54.939l23.969 25.604-25.03 25.776zm86.81 10.06l-33.644-35.789 33.644-34.65v70.439zm49.757-39.066h-28.318v-22.374h28.572c7.912 0 13.404 3.09 13.404 10.772 0 7.599-5.238 11.602-13.658 11.602zm148.36-40.373h73.138v18.17h-51.315v15.973h50.062v17.926h-50.062v17.48l51.314 0.08v18.23h-73.139l2e-3 -87.859zm-28.119 47.029c4.878 1.725 8.865 4.816 10.734 7.375 3.095 4.291 3.542 8.294 3.631 16.037v17.418h-22.002v-10.992c0-5.286 0.531-13.112-3.542-17.198-3.201-3.147-8.083-3.899-16.076-3.899h-23.42v32.09h-22.02v-87.859h50.594c11.093 0 19.173 0.47 26.366 4.146 6.915 4.004 11.266 9.487 11.266 19.511-1e-3 14.022-9.764 21.178-15.531 23.371zm-12.385-11.107c-2.932 1.667-6.556 1.811-10.818 1.811h-26.622v-19.732h26.982c3.902 0 7.807 0.08 10.458 1.587 2.84 1.423 4.538 4.146 4.538 7.903 0 3.758-1.699 6.786-4.538 8.431zm197.82 5.597c4.27 4.229 6.554 9.571 6.554 18.613 0 18.9-12.322 27.723-34.425 27.723h-42.68v-18.84h42.51c4.157 0 7.104-0.525 8.95-2.175 1.508-1.358 2.589-3.333 2.589-5.729 0-2.561-1.17-4.592-2.675-5.811-1.675-1.34-3.986-1.949-7.803-1.949-20.493-0.67-46.157 0.609-46.157-27.192 0-12.744 8.355-26.158 31.33-26.158h43.932v18.7h-40.198c-3.984 0-6.575 0.145-8.779 1.587-2.4 1.422-3.29 3.534-3.29 6.319 0 3.314 2.037 5.57 4.795 6.546 2.311 0.77 4.795 0.995 8.526 0.995l11.797 0.306c11.895 0.276 20.061 2.248 25.024 7.065zm86.955-23.52h-39.938c-3.986 0-6.638 0.144-8.867 1.587-2.312 1.423-3.202 3.534-3.202 6.322 0 3.314 1.951 5.568 4.791 6.544 2.312 0.771 4.795 0.996 8.444 0.996l11.878 0.304c11.983 0.284 19.982 2.258 24.86 7.072 0.891 0.67 1.422 1.422 2.033 2.175v-25h1e-3z\" fill=\"#fff\"><\/path><\/svg>",
+              "payment_image_4": "<svg width=\"780\" height=\"500\" enable-background=\"new 0 0 780 500\" version=\"1.1\" viewbox=\"0 0 780 500\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xml:space=\"preserve\"><rect width=\"780\" height=\"500\" fill=\"#FFF\" stroke-width=\"15px\" stroke=\"#fff\"><\/rect><path d=\"m409.41 197.26c30.938 0 56.02 23.58 56.02 52.709v0.033c0 29.129-25.082 52.742-56.02 52.742-30.941 0-56.022-23.613-56.022-52.742v-0.033c0-29.129 25.081-52.709 56.022-52.709z\" fill=\"#F47216\"><\/path><path d=\"m321.43 197.94c8.836 0 16.247 1.785 25.27 6.09v22.753c-8.544-7.863-15.955-11.154-25.757-11.154-19.265 0-34.413 15.015-34.413 34.051 0 20.074 14.681 34.195 35.368 34.195 9.312 0 16.586-3.12 24.802-10.856v22.764c-9.343 4.142-16.912 5.775-25.757 5.775-31.277 0-55.581-22.597-55.581-51.736-2e-3 -28.83 24.949-51.882 56.068-51.882zm-97.113 0.626c11.546 0 22.109 3.721 30.942 10.994l-10.748 13.248c-5.351-5.646-10.411-8.027-16.563-8.027-8.854 0-15.301 4.744-15.301 10.988 0 5.354 3.618 8.188 15.944 12.481 23.364 8.043 30.289 15.176 30.289 30.926 0 19.193-14.976 32.554-36.319 32.554-15.631 0-26.993-5.795-36.457-18.871l13.268-12.03c4.73 8.608 12.622 13.223 22.42 13.223 9.163 0 15.947-5.95 15.947-13.983 0-4.164-2.056-7.733-6.158-10.258-2.066-1.195-6.158-2.978-14.199-5.646-19.292-6.538-25.91-13.527-25.91-27.186-1e-3 -16.227 14.213-28.413 32.845-28.413zm234.72 1.729h22.436l28.084 66.592 28.447-66.592h22.267l-45.493 101.69h-11.054l-44.687-101.69zm-301.21 0.152h20.541v99.143h-20.541v-99.143zm411.73 0h58.253v16.799h-37.726v22.006h36.336v16.791h-36.336v26.762h37.726v16.785h-58.253v-99.143zm115.59 57.377c15.471-2.965 23.983-12.926 23.983-28.105 0-18.562-13.575-29.271-37.266-29.271h-30.454v99.144h20.516v-39.83h2.681l28.43 39.828h25.26l-33.15-41.766zm-17.218-11.736h-6.002v-30.025h6.326c12.791 0 19.744 5.049 19.744 14.697 2e-3 9.967-6.951 15.328-20.068 15.328zm-576.09-45.641h-30.149v99.143h29.992c15.946 0 27.465-3.543 37.573-11.445 12.014-9.359 19.117-23.467 19.117-38.057 1e-3 -29.259-23.221-49.641-56.533-49.641zm23.997 74.479c-6.454 5.484-14.837 7.879-28.108 7.879h-5.514v-65.559h5.513c13.271 0 21.323 2.238 28.108 8.018 7.104 5.956 11.377 15.184 11.377 24.682 1e-3 9.513-4.273 19.024-11.376 24.98z\"><\/path><\/svg>",
+              "payment_image_5": "<svg width=\"780\" height=\"500\" enable-background=\"new 0 0 780 500\" version=\"1.1\" viewbox=\"0 0 780 500\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xml:space=\"preserve\"><rect width=\"780\" height=\"500\" fill=\"#0E4C96\"><\/rect><path d=\"m632.24 361.27c0 41.615-33.729 75.36-75.36 75.36h-409.13v-297.88c0-41.626 33.733-75.37 75.365-75.37l409.12-1e-3 1e-3 297.89z\" fill=\"#fff\"><\/path><lineargradient id=\"c\" x1=\"83.977\" x2=\"84.977\" y1=\"645.5\" y2=\"645.5\" gradienttransform=\"matrix(132.87 0 0 -323.02 -10686 2.0876e5)\" gradientunits=\"userSpaceOnUse\"><stop stop-color=\"#007B40\" offset=\"0\"><\/stop><stop stop-color=\"#55B330\" offset=\"1\"><\/stop><\/lineargradient><path d=\"m498.86 256.54c11.684 0.253 23.437-0.516 35.076 0.4 11.787 2.199 14.629 20.043 4.156 25.888-7.141 3.851-15.633 1.433-23.379 2.113h-15.852l-1e-3 -28.401zm41.833-32.145c2.596 9.164-6.238 17.392-15.066 16.13h-26.767c0.185-8.642-0.368-18.021 0.271-26.208 10.725 0.301 21.549-0.616 32.21 0.479 4.581 1.151 8.414 4.917 9.352 9.599zm64.428-135.9c0.498 17.501 0.071 35.927 0.214 53.783-0.035 72.596 0.072 145.19-0.055 217.79-0.47 27.207-24.582 50.844-51.601 51.387-27.046 0.111-54.095 0.016-81.142 0.047v-109.75c29.47-0.154 58.959 0.307 88.417-0.232 13.667-0.859 28.632-9.875 29.27-24.914 1.61-15.103-12.632-25.551-26.152-27.201-5.198-0.135-5.044-1.516 0-2.117 12.892-2.787 23.02-16.133 19.226-29.499-3.236-14.058-18.772-19.499-31.697-19.472-26.351-0.18-52.709-0.026-79.062-0.077 0.172-20.489-0.354-41 0.286-61.474 2.087-26.716 26.806-48.747 53.447-48.27h78.849v-1e-3z\" fill=\"url(#c)\"><\/path><lineargradient id=\"b\" x1=\"83.984\" x2=\"84.979\" y1=\"645.5\" y2=\"645.5\" gradienttransform=\"matrix(133.43 0 0 -323.02 -11031 2.0876e5)\" gradientunits=\"userSpaceOnUse\"><stop stop-color=\"#1D2970\" offset=\"0\"><\/stop><stop stop-color=\"#006DBA\" offset=\"1\"><\/stop><\/lineargradient><path d=\"m174.74 139.54c0.674-27.163 24.889-50.611 51.875-51.007 26.944-0.083 53.891-0.012 80.837-0.036-0.074 90.885 0.148 181.78-0.112 272.66-1.038 26.835-24.99 49.835-51.679 50.308-26.996 0.099-53.995 0.014-80.992 0.042v-113.45c26.223 6.194 53.722 8.832 80.473 4.721 15.993-2.574 33.488-10.424 38.902-27.014 3.986-14.191 1.742-29.126 2.334-43.691v-33.824h-46.297c-0.208 22.369 0.426 44.779-0.335 67.125-1.248 13.734-14.846 22.46-27.8 21.994-16.066 0.17-47.898-11.639-47.898-11.639-0.08-41.918 0.466-94.409 0.692-136.18z\" fill=\"url(#b)\"><\/path><lineargradient id=\"a\" x1=\"83.978\" x2=\"84.977\" y1=\"645.5\" y2=\"645.5\" gradienttransform=\"matrix(132.96 0 0 -323.03 -10842 2.0877e5)\" gradientunits=\"userSpaceOnUse\"><stop stop-color=\"#6E2B2F\" offset=\"0\"><\/stop><stop stop-color=\"#E30138\" offset=\"1\"><\/stop><\/lineargradient><path d=\"m324.72 211.89c-2.434 0.517-0.489-8.301-1.113-11.646 0.165-21.15-0.347-42.323 0.283-63.458 2.083-26.829 26.991-48.916 53.739-48.288h78.766c-0.073 90.884 0.147 181.78-0.111 272.66-1.039 26.834-24.992 49.833-51.681 50.308-26.997 0.1-53.997 0.015-80.997 0.043v-124.3c18.44 15.128 43.5 17.483 66.473 17.524 17.316-6e-3 34.534-2.674 51.35-6.67v-22.772c-18.953 9.446-41.232 15.446-62.243 10.019-14.655-3.65-25.294-17.812-25.056-32.937-1.699-15.728 7.524-32.335 22.981-37.011 19.189-6.008 40.107-1.413 58.096 6.397 3.854 2.019 7.765 4.521 6.222-1.921v-17.9c-30.084-7.156-62.101-9.792-92.329-2.004-8.749 2.469-17.271 6.212-24.38 11.958z\" fill=\"url(#a)\"><\/path><\/svg>",
+              "payment_image_6": "<svg width=\"780\" height=\"500\" enable-background=\"new 0 0 780 500\" version=\"1.1\" viewbox=\"0 0 780 500\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xml:space=\"preserve\"><rect width=\"780\" height=\"500\" fill=\"#FFF\"><\/rect><path d=\"m168.38 169.85c-8.399-5.774-19.359-8.668-32.88-8.668h-52.346c-4.145 0-6.435 2.073-6.87 6.214l-21.265 133.48c-0.221 1.311 0.107 2.51 0.981 3.6 0.869 1.093 1.962 1.636 3.271 1.636h24.864c4.361 0 6.758-2.068 7.198-6.216l5.888-35.985c0.215-1.744 0.982-3.162 2.291-4.254 1.308-1.09 2.944-1.804 4.907-2.13 1.963-0.324 3.814-0.487 5.562-0.487 1.743 0 3.814 0.11 6.217 0.327 2.397 0.218 3.925 0.324 4.58 0.324 18.756 0 33.478-5.285 44.167-15.866 10.684-10.577 16.032-25.244 16.032-44.004 0-12.868-4.202-22.192-12.597-27.975zm-26.99 40.08c-1.094 7.635-3.926 12.649-8.506 15.049-4.581 2.403-11.124 3.597-19.629 3.597l-10.797 0.328 5.563-35.007c0.434-2.397 1.851-3.597 4.252-3.597h6.218c8.72 0 15.049 1.257 18.975 3.761 3.924 2.51 5.233 7.802 3.924 15.869z\" fill=\"#003087\"><\/path><path d=\"m720.79 161.18h-24.208c-2.405 0-3.821 1.2-4.253 3.599l-21.267 136.1-0.328 0.654c0 1.096 0.437 2.127 1.311 3.109 0.868 0.979 1.963 1.471 3.271 1.471h21.595c4.138 0 6.429-2.068 6.871-6.215l21.265-133.81v-0.325c-2e-3 -3.053-1.424-4.58-4.257-4.58z\" fill=\"#009CDE\"><\/path><path d=\"m428.31 213.86c0-1.088-0.438-2.126-1.306-3.106-0.875-0.981-1.857-1.474-2.945-1.474h-25.191c-2.404 0-4.366 1.096-5.89 3.271l-34.679 51.04-14.394-49.075c-1.096-3.488-3.493-5.236-7.198-5.236h-24.54c-1.093 0-2.075 0.492-2.942 1.474-0.875 0.98-1.309 2.019-1.309 3.106 0 0.44 2.127 6.871 6.379 19.303 4.252 12.434 8.833 25.848 13.741 40.244 4.908 14.394 7.468 22.031 7.688 22.898-17.886 24.43-26.826 37.518-26.826 39.26 0 2.838 1.417 4.254 4.253 4.254h25.191c2.399 0 4.361-1.088 5.89-3.271l83.427-120.4c0.433-0.433 0.651-1.193 0.651-2.289z\" fill=\"#003087\"><\/path><path d=\"m662.89 209.28h-24.865c-3.056 0-4.904 3.599-5.559 10.797-5.677-8.72-16.031-13.088-31.083-13.088-15.704 0-29.065 5.89-40.077 17.668-11.016 11.779-16.521 25.631-16.521 41.551 0 12.871 3.761 23.121 11.285 30.752 7.524 7.639 17.611 11.451 30.266 11.451 6.323 0 12.757-1.311 19.3-3.926 6.544-2.617 11.665-6.105 15.379-10.469 0 0.219-0.222 1.198-0.654 2.942-0.44 1.748-0.655 3.06-0.655 3.926 0 3.494 1.414 5.234 4.254 5.234h22.576c4.138 0 6.541-2.068 7.193-6.216l13.415-85.389c0.215-1.309-0.111-2.507-0.981-3.599-0.876-1.087-1.964-1.634-3.273-1.634zm-42.694 64.452c-5.562 5.453-12.269 8.179-20.12 8.179-6.328 0-11.449-1.742-15.377-5.234-3.928-3.483-5.891-8.282-5.891-14.396 0-8.064 2.727-14.884 8.181-20.446 5.446-5.562 12.214-8.343 20.284-8.343 6.102 0 11.174 1.8 15.212 5.397 4.032 3.599 6.055 8.563 6.055 14.888-1e-3 7.851-2.783 14.505-8.344 19.955z\" fill=\"#009CDE\"><\/path><path d=\"m291.23 209.28h-24.864c-3.058 0-4.908 3.599-5.563 10.797-5.889-8.72-16.25-13.088-31.081-13.088-15.704 0-29.065 5.89-40.078 17.668-11.016 11.779-16.521 25.631-16.521 41.551 0 12.871 3.763 23.121 11.288 30.752 7.525 7.639 17.61 11.451 30.262 11.451 6.104 0 12.433-1.311 18.975-3.926 6.543-2.617 11.778-6.105 15.704-10.469-0.875 2.616-1.309 4.907-1.309 6.868 0 3.494 1.417 5.234 4.253 5.234h22.574c4.141 0 6.543-2.068 7.198-6.216l13.413-85.389c0.215-1.309-0.112-2.507-0.981-3.599-0.873-1.087-1.962-1.634-3.27-1.634zm-42.695 64.614c-5.563 5.351-12.382 8.017-20.447 8.017-6.329 0-11.4-1.742-15.214-5.234-3.819-3.483-5.726-8.282-5.726-14.396 0-8.064 2.725-14.884 8.18-20.446 5.449-5.562 12.211-8.343 20.284-8.343 6.104 0 11.175 1.8 15.214 5.398 4.032 3.599 6.052 8.563 6.052 14.888 0 8.069-2.781 14.778-8.343 20.116z\" fill=\"#003087\"><\/path><path d=\"m540.04 169.85c-8.398-5.774-19.356-8.668-32.879-8.668h-52.02c-4.364 0-6.765 2.073-7.197 6.214l-21.266 133.48c-0.221 1.312 0.106 2.511 0.981 3.601 0.865 1.092 1.962 1.635 3.271 1.635h26.826c2.617 0 4.361-1.416 5.235-4.252l5.89-37.949c0.216-1.744 0.98-3.162 2.29-4.254 1.309-1.09 2.943-1.803 4.908-2.13 1.962-0.324 3.812-0.487 5.562-0.487 1.743 0 3.814 0.11 6.214 0.327 2.399 0.218 3.931 0.324 4.58 0.324 18.76 0 33.479-5.285 44.168-15.866 10.688-10.577 16.031-25.244 16.031-44.004 2e-3 -12.867-4.199-22.191-12.594-27.974zm-33.534 53.82c-4.799 3.271-11.997 4.906-21.592 4.906l-10.47 0.328 5.562-35.007c0.432-2.397 1.849-3.597 4.252-3.597h5.887c4.798 0 8.614 0.218 11.454 0.653 2.831 0.44 5.562 1.799 8.179 4.089 2.618 2.291 3.926 5.618 3.926 9.98 0 9.16-2.402 15.375-7.198 18.648z\" fill=\"#009CDE\"><\/path><\/svg>",
+              "payment_image_7": "",
+              "payment_image_8": ""
+            }
+          }
+        },
+        "block_order": [
+          "1592291950411",
+          "1592283177245",
+          "1592283218206",
+          "1592283245515",
+          "1592283257402",
+          "1592283270251"
+        ],
+        "settings": {
+          "message": false,
+          "home_page_only": false,
+          "message_text": "",
+          "footer_top": false,
+          "contact_description": "",
+          "footer_middle": true,
+          "footer_bottom": false,
+          "copyright": "© 2019 Gymuso Demo. All Rights Reserved. Powered by Shopify.",
+          "payment_image_1": "",
+          "payment_image_2": "",
+          "payment_image_3": "",
+          "payment_image_4": "",
+          "payment_image_5": "",
+          "payment_image_6": "",
+          "payment_image_7": "",
+          "payment_image_8": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1591764494882",
+      "1591860823596",
+      "1591865743761",
+      "1591933775280",
+      "1591936527607",
+      "1591953855781",
+      "1592187066338",
+      "1592207561309",
+      "1592209707062",
+      "1578294053456",
+      "1578305380427",
+      "1578305501771",
+      "1578305579907",
+      "1578310925568",
+      "1578381736117"
+    ]
+  }
+}

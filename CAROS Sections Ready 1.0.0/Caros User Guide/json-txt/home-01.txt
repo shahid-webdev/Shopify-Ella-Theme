@@ -1,0 +1,3038 @@
+{
+  "current": {
+    "type_header_font": "rajdhani_n4",
+    "type_header_base_size": 16,
+    "logo_size": 26,
+    "type_base_font": "arimo_n4",
+    "type_base_size": 12,
+    "type_heading_font": "rajdhani_n7",
+    "type_heading_size": 24,
+    "type_button_font": "rajdhani_n7",
+    "type_button_size": 16,
+    "favicon": "shopify:\/\/shop_images\/favicon.png",
+    "enable_opengraph": true,
+    "image_share": "shopify:\/\/shop_images\/mobile.png",
+    "header_layout": "header_1",
+    "footer_layout": "footer_1",
+    "product_layout": "layout-1",
+    "enable_backtotop": true,
+    "option_swatch": true,
+    "terms_conditions": true,
+    "terms_conditions_text": "I agree with the terms and conditions",
+    "product_card_height_procent": 100,
+    "image_swap": true,
+    "show_product_quickview": true,
+    "display_countdown": true,
+    "show_product_vendor": true,
+    "show_product_title": true,
+    "show_product_reviews": true,
+    "show_product_price": true,
+    "show_product_button": true,
+    "show_wishlist": true,
+    "show_wishlist_mb": false,
+    "show_product_compare": true,
+    "show_product_compare_mb": false,
+    "qv_enable_zoom": true,
+    "qv_enable_fancybox": true,
+    "qv_display_product_reviews": true,
+    "qv_show_sold_in": true,
+    "qv_item_prd": "3,5,6,7,8,10,12,15",
+    "qv_item_prds": "sold in last",
+    "qv_hours_prs": "10,15,16,17,18,20,25,35",
+    "qv_item_hours": "Hours",
+    "qv_display_vendor": true,
+    "qv_display_product_sku": true,
+    "qv_display_availability": true,
+    "qv_display_product_type": false,
+    "qv_display_countdown": true,
+    "qv_display_price": true,
+    "qv_display_subtotal": true,
+    "qv_show_quantity_selector": true,
+    "qv_display_short_description": true,
+    "qv_number_words": "16",
+    "qv_dpl_customers_view": true,
+    "qv_title_view": "customers are viewing this product",
+    "qv_number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+    "qv_display_product_detail_share": true,
+    "qv_share_text": "Share",
+    "enable_search_trending": true,
+    "trending_search_title": "trending",
+    "trending_search_item_1": "dempu",
+    "trending_search_item_2": "sample",
+    "trending_search_item_3": "magnis",
+    "trending_search_item_4": "loremous salidua",
+    "trending_search_item_5": "namino",
+    "trending_search_item_6": "dinterdui",
+    "enable_search_popular_products": true,
+    "popular_products_search_title": "Popular Products",
+    "popular_products_collection": "custom-wheels",
+    "popular_products_limit": 4,
+    "enable_multilevel_categories": true,
+    "multilevel_categories_position": "slideshow",
+    "category_filter_title": "select your vehicle",
+    "category_filter_des": "",
+    "category_filter_label1": "select level 1",
+    "category_filter_label2": "select level 2",
+    "category_filter_label3": "select level 3",
+    "category_filter": "main-menu",
+    "enable_shopify_payments_currencies": false,
+    "enable_multiple_currencies": true,
+    "enable_auto_currency": false,
+    "currency_1_unit": "USD",
+    "currency_1_icon": "<svg viewbox=\"0 0 512 512\" id=\"icon-usd\" class=\"icon-flag\">     <circle style=\"fill:#F0F0F0;\" cx=\"256\" cy=\"256\" r=\"256\"><\/circle>     <g>         <path style=\"fill:#D80027;\" d=\"M244.87,256H512c0-23.106-3.08-45.49-8.819-66.783H244.87V256z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M244.87,122.435h229.556c-15.671-25.572-35.708-48.175-59.07-66.783H244.87V122.435z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M256,512c60.249,0,115.626-20.824,159.356-55.652H96.644C140.374,491.176,195.751,512,256,512z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M37.574,389.565h436.852c12.581-20.529,22.338-42.969,28.755-66.783H8.819             C15.236,346.596,24.993,369.036,37.574,389.565z\"><\/path>     <\/g>     <path style=\"fill:#0052B4;\" d=\"M118.584,39.978h23.329l-21.7,15.765l8.289,25.509l-21.699-15.765L85.104,81.252l7.16-22.037         C73.158,75.13,56.412,93.776,42.612,114.552h7.475l-13.813,10.035c-2.152,3.59-4.216,7.237-6.194,10.938l6.596,20.301l-12.306-8.941         c-3.059,6.481-5.857,13.108-8.372,19.873l7.267,22.368h26.822l-21.7,15.765l8.289,25.509l-21.699-15.765l-12.998,9.444         C0.678,234.537,0,245.189,0,256h256c0-141.384,0-158.052,0-256C205.428,0,158.285,14.67,118.584,39.978z M128.502,230.4         l-21.699-15.765L85.104,230.4l8.289-25.509l-21.7-15.765h26.822l8.288-25.509l8.288,25.509h26.822l-21.7,15.765L128.502,230.4z          M120.213,130.317l8.289,25.509l-21.699-15.765l-21.699,15.765l8.289-25.509l-21.7-15.765h26.822l8.288-25.509l8.288,25.509h26.822         L120.213,130.317z M220.328,230.4l-21.699-15.765L176.93,230.4l8.289-25.509l-21.7-15.765h26.822l8.288-25.509l8.288,25.509h26.822         l-21.7,15.765L220.328,230.4z M212.039,130.317l8.289,25.509l-21.699-15.765l-21.699,15.765l8.289-25.509l-21.7-15.765h26.822         l8.288-25.509l8.288,25.509h26.822L212.039,130.317z M212.039,55.743l8.289,25.509l-21.699-15.765L176.93,81.252l8.289-25.509         l-21.7-15.765h26.822l8.288-25.509l8.288,25.509h26.822L212.039,55.743z\"><\/path><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg>",
+    "currency_2_unit": "JPY",
+    "currency_2_icon": "<svg viewbox=\"0 0 512 512\" id=\"icon-jpy\" class=\"icon-flag\">     <circle style=\"fill:#F0F0F0;\" cx=\"256\" cy=\"256\" r=\"256\"><\/circle>     <circle style=\"fill:#D80027;\" cx=\"256\" cy=\"256\" r=\"111.304\"><\/circle>     <g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg>",
+    "currency_3_unit": "EUR",
+    "currency_3_icon": "<svg viewbox=\"0 0 512 512\" id=\"icon-euro\" class=\"icon-flag\">     <circle style=\"fill:#0052B4;\" cx=\"256\" cy=\"256\" r=\"256\"><\/circle>     <g>     <polygon style=\"fill:#FFDA44;\" points=\"256.001,100.174 264.29,125.683 291.11,125.683 269.411,141.448 277.7,166.957          256.001,151.191 234.301,166.957 242.59,141.448 220.891,125.683 247.712,125.683  \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"145.814,145.814 169.714,157.99 188.679,139.026 184.482,165.516 208.381,177.693          181.89,181.889 177.694,208.381 165.517,184.482 139.027,188.679 157.992,169.714  \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"100.175,256 125.684,247.711 125.684,220.89 141.448,242.59 166.958,234.301 151.191,256          166.958,277.699 141.448,269.411 125.684,291.11 125.684,264.289  \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"145.814,366.186 157.991,342.286 139.027,323.321 165.518,327.519 177.693,303.62          181.89,330.111 208.38,334.307 184.484,346.484 188.679,372.974 169.714,354.009   \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"256.001,411.826 247.711,386.317 220.891,386.317 242.591,370.552 234.301,345.045          256.001,360.809 277.7,345.045 269.411,370.552 291.11,386.317 264.289,386.317    \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"366.187,366.186 342.288,354.01 323.322,372.975 327.519,346.483 303.622,334.307          330.112,330.111 334.308,303.62 346.484,327.519 372.974,323.321 354.009,342.288  \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"411.826,256 386.317,264.289 386.317,291.11 370.552,269.41 345.045,277.699 360.81,256          345.045,234.301 370.553,242.59 386.317,220.89 386.317,247.712   \"><\/polygon>     <polygon style=\"fill:#FFDA44;\" points=\"366.187,145.814 354.01,169.714 372.975,188.679 346.483,184.481 334.308,208.38          330.112,181.889 303.622,177.692 327.519,165.516 323.322,139.027 342.289,157.991     \"><\/polygon><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg>",
+    "currency_4_unit": "AUD",
+    "currency_4_icon": "<svg viewbox=\"0 0 512 512\" id=\"icon-aud\" class=\"icon-flag\">     <path style=\"fill:#0052B4;\" d=\"M512,256c0,141.384-114.616,256-256,256S0,397.384,0,256C0,256.06,256,0.029,256,0         C397.384,0,512,114.616,512,256z\"><\/path>     <g>         <path style=\"fill:#F0F0F0;\" d=\"M256,0c-0.014,0-0.029,0.001-0.043,0.001L256,0L256,0z\"><\/path>         <path style=\"fill:#F0F0F0;\" d=\"M255.315,256H256c0-0.232,0-0.454,0-0.685C255.772,255.544,255.544,255.772,255.315,256z\"><\/path>         <path style=\"fill:#F0F0F0;\" d=\"M256,133.566c0-45.045,0-74.562,0-133.565h-0.043C114.592,0.024,0,114.629,0,256h133.565v-75.212             L208.777,256h46.539c0.229-0.228,0.457-0.456,0.685-0.685c0-17.247,0-32.636,0-46.536l-75.213-75.213H256z\"><\/path>     <\/g>     <g>         <path style=\"fill:#D80027;\" d=\"M129.515,33.391C89.476,56.19,56.19,89.476,33.391,129.515V256h66.783V100.175v-0.001H256             c0-21.063,0-41.129,0-66.783H129.515z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M256,224.519l-90.953-90.952h-31.481c0-0.001,0,0,0,0L255.999,256H256             C256,256,256,234.295,256,224.519z\"><\/path>     <\/g>     <g>         <polygon style=\"fill:#F0F0F0;\" points=\"154.395,300.522 168.445,329.9 200.172,322.567 185.964,351.869 211.478,372.102              179.711,379.262 179.8,411.826 154.395,391.453 128.991,411.826 129.08,379.262 97.312,372.102 122.827,351.869 108.617,322.567              140.346,329.9   \"><\/polygon>         <polygon style=\"fill:#F0F0F0;\" points=\"383.284,356.174 390.309,370.863 406.173,367.196 399.068,381.847 411.826,391.964              395.942,395.544 395.986,411.826 383.284,401.639 370.582,411.826 370.626,395.544 354.743,391.964 367.5,381.847 360.396,367.196              376.259,370.863     \"><\/polygon>         <polygon style=\"fill:#F0F0F0;\" points=\"317.933,200.348 324.957,215.038 340.821,211.37 333.717,226.021 346.474,236.138              330.591,239.718 330.634,256 317.933,245.813 305.231,256 305.274,239.718 289.391,236.138 302.148,226.021 295.044,211.37              310.908,215.038     \"><\/polygon>         <polygon style=\"fill:#F0F0F0;\" points=\"383.284,111.304 390.309,125.994 406.173,122.327 399.069,136.978 411.825,147.094              395.942,150.675 395.986,166.957 383.284,156.77 370.582,166.957 370.626,150.675 354.743,147.094 367.499,136.978              360.396,122.327 376.259,125.994     \"><\/polygon>         <polygon style=\"fill:#F0F0F0;\" points=\"440.368,178.087 447.392,192.777 463.256,189.109 456.152,203.76 468.909,213.877              453.025,217.458 453.069,233.739 440.368,223.553 427.666,233.739 427.709,217.458 411.826,213.877 424.583,203.76              417.479,189.109 433.342,192.777     \"><\/polygon>         <polygon style=\"fill:#F0F0F0;\" points=\"399.55,256 405.075,273.006 422.957,273.006 408.49,283.517 414.017,300.522              399.55,290.012 385.084,300.522 390.609,283.517 376.143,273.006 394.024,273.006  \"><\/polygon>     <\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg>",
+    "currency_5_unit": "",
+    "currency_5_icon": "",
+    "currency_6_unit": "",
+    "currency_6_icon": "",
+    "currency_7_unit": "",
+    "currency_7_icon": "",
+    "currency_8_unit": "",
+    "currency_8_icon": "",
+    "currency_9_unit": "",
+    "currency_9_icon": "",
+    "currency_10_unit": "",
+    "currency_10_icon": "",
+    "enable_multilang": true,
+    "lange_1": "en",
+    "lange_1_icon": "<svg viewbox=\"0 0 512 512\" id=\"icon-eng\" class=\"icon-flag\">     <circle style=\"fill:#F0F0F0;\" cx=\"256\" cy=\"256\" r=\"256\"><\/circle>     <g>         <path style=\"fill:#0052B4;\" d=\"M52.92,100.142c-20.109,26.163-35.272,56.318-44.101,89.077h133.178L52.92,100.142z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M503.181,189.219c-8.829-32.758-23.993-62.913-44.101-89.076l-89.075,89.076H503.181z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M8.819,322.784c8.83,32.758,23.993,62.913,44.101,89.075l89.074-89.075L8.819,322.784L8.819,322.784             z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M411.858,52.921c-26.163-20.109-56.317-35.272-89.076-44.102v133.177L411.858,52.921z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M100.142,459.079c26.163,20.109,56.318,35.272,89.076,44.102V370.005L100.142,459.079z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M189.217,8.819c-32.758,8.83-62.913,23.993-89.075,44.101l89.075,89.075V8.819z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M322.783,503.181c32.758-8.83,62.913-23.993,89.075-44.101l-89.075-89.075V503.181z\"><\/path>         <path style=\"fill:#0052B4;\" d=\"M370.005,322.784l89.075,89.076c20.108-26.162,35.272-56.318,44.101-89.076H370.005z\"><\/path>     <\/g>     <g>         <path style=\"fill:#D80027;\" d=\"M509.833,222.609h-220.44h-0.001V2.167C278.461,0.744,267.317,0,256,0             c-11.319,0-22.461,0.744-33.391,2.167v220.44v0.001H2.167C0.744,233.539,0,244.683,0,256c0,11.319,0.744,22.461,2.167,33.391             h220.44h0.001v220.442C233.539,511.256,244.681,512,256,512c11.317,0,22.461-0.743,33.391-2.167v-220.44v-0.001h220.442             C511.256,278.461,512,267.319,512,256C512,244.683,511.256,233.539,509.833,222.609z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M322.783,322.784L322.783,322.784L437.019,437.02c5.254-5.252,10.266-10.743,15.048-16.435             l-97.802-97.802h-31.482V322.784z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M189.217,322.784h-0.002L74.98,437.019c5.252,5.254,10.743,10.266,16.435,15.048l97.802-97.804             V322.784z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M189.217,189.219v-0.002L74.981,74.98c-5.254,5.252-10.266,10.743-15.048,16.435l97.803,97.803             H189.217z\"><\/path>         <path style=\"fill:#D80027;\" d=\"M322.783,189.219L322.783,189.219L437.02,74.981c-5.252-5.254-10.743-10.266-16.435-15.047             l-97.802,97.803V189.219z\"><\/path><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg>",
+    "lange_2": "de",
+    "lange_2_icon": "<svg viewbox=\"0 0 512 512\" id=\"icon-germany\" class=\"icon-flag\">     <path style=\"fill:#FFDA44;\" d=\"M15.923,345.043C52.094,442.527,145.929,512,256,512s203.906-69.473,240.077-166.957L256,322.783         L15.923,345.043z\"><\/path>     <path style=\"fill:#000000;\" d=\"M256,0C145.929,0,52.094,69.472,15.923,166.957L256,189.217l240.077-22.261C459.906,69.472,366.071,0,256,0z\"><\/path>     <path style=\"fill:#D80027;\" d=\"M15.923,166.957C5.633,194.69,0,224.686,0,256s5.633,61.31,15.923,89.043h480.155         C506.368,317.31,512,287.314,512,256s-5.632-61.31-15.923-89.043H15.923z\"><\/path><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g><g><\/g> <\/svg>",
+    "lange_3": "",
+    "lange_3_icon": "",
+    "lange_4": "",
+    "lange_4_icon": "",
+    "lange_5": "",
+    "lange_5_icon": "",
+    "display_popup_newsletter": true,
+    "when_to_show": "first_time",
+    "popup_newsletter_expire": 1,
+    "popup_newsletter_delay": 8,
+    "newsletter": "shopify:\/\/shop_images\/newletter.jpg",
+    "popup_newsletter_title": "Subscribe To Our Newsletter",
+    "popup_newsletter_des_1": "Get the latest updates on new products and upcoming sales",
+    "popup_newsletter_des": "We promise to only send you good things",
+    "popup_newsletter_text_note": "Don't show again!",
+    "newssletter_success_text": "You have successfully subscribed!",
+    "display_popup_social": true,
+    "enable_ask_an_expert": true,
+    "ask_an_expert_header": "Have Questions?",
+    "ask_an_expert_des": "Ask The Automotive Experts anything on Speedo-Demo. We will follow up with you via email within 24-48 hours.",
+    "ask_an_expert_title": "Please answer the following questionnaire",
+    "enable_ask_do_you_need": true,
+    "ask_do_you_need": "Do You Need",
+    "ask_do_you_need_1": "Pricing",
+    "ask_do_you_need_2": "Answers",
+    "ask_do_you_need_3": "Both",
+    "ask_form_mess": "What can i help you with today ?",
+    "enable_how_would_you_like_me_to_contact_you": true,
+    "how_would_you_like_me_to_contact_you": "How would you like me to contact you?",
+    "contact_with_you_1": "Phone",
+    "contact_with_you_2": "Email",
+    "contact_with_you_3": "Both",
+    "display_someone-purchased": true,
+    "display_someone-purchased_mb": false,
+    "show_someone-purchased": "left",
+    "autorotate_speed": 8,
+    "text": "Someone recently bought a",
+    "someone_recently_product_1": "aenean-commodo-lipsum-quis-blandit-exims-placerat",
+    "from_ago_1": "20 minutes ago from Blackburn, UK",
+    "someone_recently_product_2": "metus-ornare-bibendum-rorbi-inorau-semper-metus",
+    "from_ago_2": "40 minutes ago, from Blue Mountains, Australia",
+    "someone_recently_product_3": "magnes-de-darturien-de-milance-an-deros-laciniados",
+    "from_ago_3": "55 minutes ago, from Melbourne, AustraliaUK",
+    "someone_recently_product_4": "quisque-consequat-metus-a-arcu-facilisis-ullamcor-commodo",
+    "from_ago_4": "3 hour ago, from Sydney, Australia",
+    "someone_recently_product_5": "aliquam-erat-volutpat-urabitur-nunc-diornare-felis-metus",
+    "from_ago_5": "20 minutes ago from Blackburn, UK",
+    "display_gdpr": true,
+    "display_gdpr_mb": false,
+    "show_gdpr": "right",
+    "gdpr_content": "The cookie settings on this website are set to 'allow all cookies' to give you the very best experience. Please click Accept Cookies to continue to use the site.",
+    "gdpr_privacy_policy_text": "privacy policy",
+    "gdpr_privacy_policy_link": "https:\/\/policies.google.com",
+    "gdpr_accept_cookies_text": "Accept Cookies",
+    "color_body_text": "#383e47",
+    "color_url": "#383e47",
+    "color_url_hover": "#005599",
+    "color_body_bg": "#ffffff",
+    "color_heading_text": "#383e47",
+    "color_heading_url": "#005599",
+    "color_section_border": "#e2e4e8",
+    "color_section_bg_gray": "#f7f7f7",
+    "color_button_text": "#ffffff",
+    "color_button_border": "#b20000",
+    "color_button": "#b20000",
+    "color_button_text_hover": "#ffffff",
+    "color_button_border_hover": "#9a0000",
+    "color_button_hover": "#9a0000",
+    "color_button_secondary_text": "#383e47",
+    "color_button_secondary_border": "#b6b6b6",
+    "color_button_secondary": "",
+    "color_button_secondary_text_hover": "#ffffff",
+    "color_button_secondary_border_hover": "#383e47",
+    "color_button_secondary_hover": "#383e47",
+    "color_small_button_text": "#383e47",
+    "color_small_button_text_hover": "#005599",
+    "color_product_vendor": "#999999",
+    "color_product_title": "#059",
+    "color_product_review": "#ed6912",
+    "color_product_review_empty": "#e4e4e4",
+    "color_product_price": "#141414",
+    "color_product_price_sale": "#b20000",
+    "color_product_price_presale": "#999999",
+    "color_product_button_text": "#373e46",
+    "color_product_button_bg": "#ffffff",
+    "color_product_button_border": "#808287",
+    "color_product_button_text_hover": "#ffffff",
+    "color_product_button_bg_hover": "#b20000",
+    "color_product_button_border_hover": "#b20000",
+    "color_product_button_soldOut_text": "#999999",
+    "color_product_button_soldOut_bg": "#f7f7f7",
+    "color_product_button_soldOut_border": "#f7f7f7",
+    "color_badge_text": "#ffffff",
+    "color_badge_bg": "#383e46",
+    "color_new_badge_text": "#ffffff",
+    "color_new_badge_bg": "#6aa004",
+    "color_sale_badge_text": "#ffffff",
+    "color_sale_badge_bg": "#b9000a",
+    "color_soldOut_badge_text": "#ffffff",
+    "color_soldOut_badge_bg": "#b6b6b6",
+    "color_bestSellers_badge_text": "#ffffff",
+    "color_bestSellers_badge_bg": "#ed6912",
+    "color_text_field_text": "#000",
+    "color_text_field_border": "#cccfd6",
+    "color_text_field": "#fff",
+    "image_overlay_opacity": 40,
+    "color_btt": "#000000",
+    "color_border_btt": "#000000",
+    "color_bg_btt": "#ffffff",
+    "color_cookieMessage": "#ffffff",
+    "color_bg_cookieMessage": "#000000",
+    "color_btn_cookieMessage": "#383e47",
+    "color_btn_bg_cookieMessage": "#ffffff",
+    "color_notification2": "#969696",
+    "color_bg_notification2": "#ffffff",
+    "color_announcement_bar": "#373e46",
+    "color_bg_announcement_bar": "#f7f7f7",
+    "color_header_top": "#383e47",
+    "color_bg_header_top": "#ffffff",
+    "color_border_header_top": "#e2e4e8",
+    "color_header_top_shortdescription": "#b20000",
+    "color_header_middle": "#383e47",
+    "color_bg_header_middle": "#ffffff",
+    "color_time_header_middle": "#b20000",
+    "color_logo": "#383e47",
+    "color_search_bar": "#383e47",
+    "color_border_search_bar": "#cccfd6",
+    "color_bg_search_bar": "#ffffff",
+    "color_search_btn": "#373e46",
+    "color_bg_search_btn": "#f7f7f7",
+    "color_cart_countPill": "#ffffff",
+    "color_bg_cart_countPill": "#b20000",
+    "color_header_bottom": "#f7f7f7",
+    "color_border_header_bottom": "#373e46",
+    "color_bg_header_bottom": "#373e46",
+    "color_label_1": "#ffffff",
+    "color_bg_label_1": "#b20000",
+    "color_label_2": "#ffffff",
+    "color_bg_label_2": "#70b00c",
+    "color_label_3": "#ffffff",
+    "color_bg_label_3": "#008ddd",
+    "nav_vertical_bg": "#b20000",
+    "nav_vertical_color": "#ffffff",
+    "color_dropdownmenu": "#383e47",
+    "color_border_dropdownmenu": "#ebebeb",
+    "color_bg_dropdownmenu": "#ffffff",
+    "color_title_dropdownmenu": "#005599",
+    "color_notification": "#ffffff",
+    "color_bg_notification": "#ed6912",
+    "color_icon_list": "#b20000",
+    "color_icon_list_icon": "#ffffff",
+    "color_icon_list_text": "#ffffff",
+    "color_footer_title": "#ffffff",
+    "color_footer_text": "#dfdfdf",
+    "color_footer_link_hover": "#ffffff",
+    "color_footer_bg": "#222325",
+    "color_contact_owner": "#ffffff",
+    "border_contact_owner": "#39393b",
+    "color_newsletter_input": "#383e47",
+    "color_newsletter_input_bg": "#ffffff",
+    "color_newsletter_input_border": "#ffffff",
+    "color_newsletter_btn": "#ffffff",
+    "color_newsletter_btn_bg": "#b20000",
+    "footer_social": "#ffffff",
+    "footer_social_border": "#636364",
+    "footer_bottom_text": "#dfdfdf",
+    "footer_bottom_bg": "#2e3033",
+    "share_image": "",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "social_twitter_link": "https:\/\/twitter.com\/shopify",
+    "social_facebook_link": "https:\/\/facebook.com\/shopify",
+    "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
+    "social_instagram_link": "http:\/\/instagram.com\/shopify",
+    "social_tumblr_link": "http:\/\/shopify.tumblr.com",
+    "social_snapchat_link": "",
+    "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
+    "social_vimeo_link": "",
+    "show_shipping_calculator": true,
+    "shipping_calculator_heading": "Get shipping estimates",
+    "shipping_calculator_default_country": "United States",
+    "customcss_enable": false,
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "css_enable": false,
+    "qv_use_color_swatch": true,
+    "qv_option_color_swatch": "Color",
+    "qv_use_size_swatch": true,
+    "qv_option_size_swatch": "Size",
+    "qv_use_material_swatch": true,
+    "qv_option_material_swatch": "Material",
+    "i-currency-1": "",
+    "i-currency-2": "",
+    "i-currency-3": "",
+    "i-currency-4": "",
+    "i-currency-5": "",
+    "i-currency-6": "",
+    "i-currency-7": "",
+    "i-currency-8": "",
+    "i-currency-9": "",
+    "i-currency-10": "",
+    "i_lang_1": "shopify:\/\/shop_images\/i-currency-3.png",
+    "i_lang_2": "shopify:\/\/shop_images\/i-currency-5.png",
+    "qv_display_trust_img": true,
+    "qv_img_trust": "shopify:\/\/shop_images\/trust_img.jpg",
+    "i-lang-1": "shopify:\/\/shop_images\/i-currency-3.png",
+    "i-lang-2": "shopify:\/\/shop_images\/i-currency-5.png",
+    "color_sale_text": "#557b97",
+    "color_small_button_text_border": "#3d4246",
+    "color_image_overlay_text": "#fff",
+    "color_image_overlay": "#3d4246",
+    "color_borders": "#e8e9eb",
+    "ask_an_expert": "Have Questions? Ask An Expert",
+    "bg_filter_color": "transparent",
+    "bg_button_filter_color": "#ff8b21",
+    "text_button_filter_color": "#fff",
+    "type_bold_product_titles": false,
+    "search_1": "Your search for",
+    "search_2": "did not yield any results",
+    "search_3": "Your search for",
+    "search_4": "revealed the following:",
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "1569226690682": {
+            "type": "style_1",
+            "settings": {
+              "megamenu_items_1": "Interior",
+              "title_featured_product": "Featured Products",
+              "featured_product": "vivamus-pretium-facitae-mattis-pus-turpis-tortor-tirius-rutru",
+              "featured_product_2": "magnes-de-darturien-cosmo-deros-laciniado-an-milancelos",
+              "featured_product_3": "dinterdum-pretium-an-dapboe-dan-mauris-condimentus",
+              "banner_first_style_1": "shopify:\/\/shop_images\/megamenu-banner-9.png",
+              "link_banner_first_style_1": "#"
+            }
+          },
+          "1569227023435": {
+            "type": "style_2",
+            "settings": {
+              "megamenu_items_2": "Exterior",
+              "banner_first_style_2": "shopify:\/\/shop_images\/megamenu-banner-6.png",
+              "link_banner_first_style_2": "#",
+              "banner_second_style_2": "shopify:\/\/shop_images\/megamenu-banner-7.png",
+              "link_banner_second_style_2": "#",
+              "banner_third_style_2": "shopify:\/\/shop_images\/megamenu-banner-8.png",
+              "link_banner_third_style_2": "#"
+            }
+          },
+          "1569227112981": {
+            "type": "style_3",
+            "settings": {
+              "megamenu_items_3": "Wheels & Tires",
+              "column_category": 5,
+              "banner_image_style_3_1": "shopify:\/\/shop_images\/megamenu-banner-1.png",
+              "banner_image_style_3_2": "shopify:\/\/shop_images\/megamenu-banner-2.png",
+              "banner_image_style_3_3": "shopify:\/\/shop_images\/megamenu-banner-3.png",
+              "banner_image_style_3_4": "shopify:\/\/shop_images\/megamenu-banner-4.png",
+              "banner_image_style_3_5": "shopify:\/\/shop_images\/megamenu-banner-5.png",
+              "banner_image_style_3_6": ""
+            }
+          }
+        },
+        "block_order": [
+          "1569226690682",
+          "1569227023435",
+          "1569227112981"
+        ],
+        "settings": {
+          "message": true,
+          "home_page_only": false,
+          "message_text": "<span><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0272\/1962\/4029\/files\/top-promotion-image.png\" alt=\"\"><\/span> <span><b>Buy Now, Pay Later<\/b> Starting at 0% APR<\/span> <span class=\"btn\">learn more<\/span>",
+          "message_link": "https:\/\/caros-theme.myshopify.com",
+          "header_top": true,
+          "enable_multiple_language": true,
+          "language_position": "left",
+          "enable_multiple_currencies": true,
+          "currency_position": "left",
+          "enable_phone": false,
+          "phone_position": "left",
+          "phone_number": "1800.000.8809",
+          "enable_email": false,
+          "email_position": "left",
+          "email": "suport@halothemes.com",
+          "enable_short_description": true,
+          "short_description_position": "left",
+          "short_description": "Free shipping on all orders. No minimum purchases*",
+          "enable_login": true,
+          "login_position": "right",
+          "enable_url_1": true,
+          "url_position_1": "right",
+          "url_text_1": "Theme FAQs",
+          "url_1": "shopify:\/\/pages\/faqs",
+          "enable_url_2": true,
+          "url_position_2": "right",
+          "url_text_2": "Blog",
+          "url_2": "shopify:\/\/blogs\/news",
+          "enable_url_3": true,
+          "url_position_3": "right",
+          "url_text_3": "Rewards Program",
+          "url_3": "#",
+          "header_middle": true,
+          "logo": "shopify:\/\/shop_images\/caros-lb.png",
+          "logo_text": "",
+          "logo_max_width": 170,
+          "enable_header_phone": true,
+          "header_phone": "+1.800.000.8809",
+          "enable_header_openingTime": true,
+          "header_openingTime": "Open 7 days a week",
+          "enable_header_search": true,
+          "enable_header_account": true,
+          "enable_header_wishlist": true,
+          "enable_header_cart": true,
+          "main_menu": "main-menu",
+          "display_megamenu": true,
+          "label_1": "sale",
+          "label_1_collection": "Repair Parts",
+          "label_2": "Hot",
+          "label_2_collection": "Body Parts",
+          "label_3": "New",
+          "label_3_collection": "Audio & Electronics",
+          "notice_show": true,
+          "notice_home_page_only": true,
+          "notice_text": "<span class=\"icon\"><i class=\"fas fa-bell\"><\/i><\/span><b>Limited Time Offer<\/b>: Sale up to 70% off on selected items. Offer ends:",
+          "notice_time": "2020\/3\/4 0:0:00",
+          "notice_link": "shopify:\/\/collections\/all"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1569230442646": {
+            "type": "contact_owner",
+            "settings": {
+              "contact_description": "Need help? Call our award-winning support team 24\/7 at +1.800.000.8809"
+            }
+          },
+          "1569230522005": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Subscribe to our newsletter",
+              "description": "Get the latest updates on new products and upcoming sales"
+            }
+          },
+          "1569230448583": {
+            "type": "link_list",
+            "settings": {
+              "title": "Shop",
+              "menu": "footer-menu-2"
+            }
+          },
+          "1569230475940": {
+            "type": "link_list",
+            "settings": {
+              "title": "Information",
+              "menu": "footer"
+            }
+          },
+          "1569230467602": {
+            "type": "info_store",
+            "settings": {
+              "title": "Contact",
+              "info_icon_1": "<i class=\"fas fa-map-marker-alt\" aria-hidden=\"true\"><\/i>",
+              "info_text_1": "9087S Divamus Faucibus Str., City name, CA 90896, United States.",
+              "info_icon_2": "<i class=\"fas fa-phone\" aria-hidden=\"true\"><\/i>",
+              "info_text_2": "Toll-free: +1.800.000.8809",
+              "info_text_2_2": "International: +1.900.880.8809",
+              "ask_an_expert_title": "Ask an expert",
+              "info_icon_3": "<i class=\"fas fa-at\" aria-hidden=\"true\"><\/i>",
+              "info_text_3": "Email: sales@halothemes.com"
+            }
+          },
+          "1569230539346": {
+            "type": "captions",
+            "settings": {
+              "caption_description": "<span><i>Please note: All manufacturer names, symbols, and descriptions, used in our images &amp; text are used solely for identification purposes only. It is neither inferred nor implied that any item sold by Speedo Demo is a product authorized by or in any way connected with any vehicle manufacturers displayed on this page.<\/i><\/span>"
+            }
+          },
+          "1569230548430": {
+            "type": "geotrust_ssl",
+            "settings": {
+              "geotrust_ssl_image_1": "shopify:\/\/shop_images\/security-1.png",
+              "geotrust_ssl_image_2": "shopify:\/\/shop_images\/security-2.png",
+              "geotrust_ssl_image_3": "shopify:\/\/shop_images\/security-3.png",
+              "geotrust_ssl_image_4": "shopify:\/\/shop_images\/security-4.png",
+              "geotrust_ssl_image_5": ""
+            }
+          },
+          "1569230610871": {
+            "type": "copyright",
+            "settings": {
+              "copyright_1": "© 2019 Caros Demo. All Rights Reserved. Powered by Shopify.",
+              "copyright_2": "Shopify Themes & Templates by HaloThemes.com"
+            }
+          },
+          "1569230615813": {
+            "type": "payment_methods",
+            "settings": {
+              "payment_image_1": "shopify:\/\/shop_images\/payment-1.png",
+              "payment_image_2": "shopify:\/\/shop_images\/payment-2.png",
+              "payment_image_3": "shopify:\/\/shop_images\/payment-3.png",
+              "payment_image_4": "shopify:\/\/shop_images\/payment-4.png",
+              "payment_image_5": "shopify:\/\/shop_images\/payment-5.png",
+              "payment_image_6": "shopify:\/\/shop_images\/payment-6.png",
+              "payment_image_7": "shopify:\/\/shop_images\/payment-7.png",
+              "payment_image_8": "",
+              "payment_image_9": "",
+              "payment_image_10": ""
+            }
+          }
+        },
+        "block_order": [
+          "1569230442646",
+          "1569230522005",
+          "1569230448583",
+          "1569230475940",
+          "1569230467602",
+          "1569230539346",
+          "1569230548430",
+          "1569230610871",
+          "1569230615813"
+        ],
+        "settings": {
+          "enable_icon_list": true,
+          "padding-top": 1,
+          "padding-bottom": 1,
+          "icon_1": "<i class=\"fas fa-truck\"><\/i>",
+          "title_1": "Worldwide Free Shipping",
+          "icon_2": "<i class=\"far fa-star\"><\/i>",
+          "title_2": "Rewards Program",
+          "icon_3": "<i class=\"fas fa-shield-alt\"><\/i>",
+          "title_3": "Secure Shopping",
+          "icon_4": "<i class=\"fas fa-redo-alt\"><\/i>",
+          "title_4": "30-Day Free Returns"
+        }
+      },
+      "1569227184831": {
+        "type": "slideshow",
+        "blocks": {
+          "1569227184831-0": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/slider-4.jpg",
+              "alignment": "middle",
+              "heading": "custom Wide Body Kits",
+              "slide-des": "Pellentesque meget milancelos de tinciduntos loremous an cosmopolis",
+              "button_slide": "Shop Now",
+              "link": "shopify:\/\/collections\/all"
+            }
+          },
+          "1569227318062": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/slider-5.jpg",
+              "alignment": "middle",
+              "heading": "Off-road Truck",
+              "slide-des": "Pellentesque meget milancelos de tinciduntos loremous an cosmopolis",
+              "button_slide": "Shop Now",
+              "link": "shopify:\/\/collections\/all"
+            }
+          },
+          "1569227383901": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/slider-6.jpg",
+              "alignment": "middle",
+              "heading": "Custom Wheels+Rims",
+              "slide-des": "Pellentesque meget milancelos de tinciduntos loremous an cosmopolis",
+              "button_slide": "Shop Now",
+              "link": "shopify:\/\/collections\/all"
+            }
+          }
+        },
+        "block_order": [
+          "1569227184831-0",
+          "1569227318062",
+          "1569227383901"
+        ],
+        "settings": {
+          "slide_height": "medium",
+          "text_size": "large",
+          "overlay": "dark",
+          "show_arrows": true,
+          "show_dots": true,
+          "show_fadein": true,
+          "autoplay": true,
+          "autorotate_speed": 5,
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": "",
+          "color_button_text": "",
+          "color_button_border": "",
+          "color_button_bg": "",
+          "color_button_text_hover": "",
+          "color_button_border_hover": "",
+          "color_button_bg_hover": "",
+          "color_arrow": "",
+          "color_arrow_border": "",
+          "color_dot": "",
+          "color_dot_border": ""
+        }
+      },
+      "1569228308798": {
+        "type": "collection-list",
+        "blocks": {
+          "1569228308798-0": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "custom-wheels",
+              "image": "shopify:\/\/shop_images\/collection-5.jpg"
+            }
+          },
+          "1569228308798-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "performance-parts",
+              "image": "shopify:\/\/shop_images\/collection-6.jpg"
+            }
+          },
+          "1569228308798-2": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "exhaust-systems",
+              "image": "shopify:\/\/shop_images\/collection-7.jpg"
+            }
+          },
+          "1569228452147": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "exhaust-systems",
+              "image": "shopify:\/\/shop_images\/collection-4.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1569228308798-0",
+          "1569228308798-1",
+          "1569228308798-2",
+          "1569228452147"
+        ],
+        "settings": {
+          "background-color": true,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 5,
+          "title": "Featured Categories",
+          "text_link": "",
+          "custom_link": "",
+          "title_border": false,
+          "description": "Donec placerat endo dictum ornare. Phasellus interdum, ipsum malesuada blandit elementum, justo massa mollis mi del meuismod nisl dui at arcu. Curabitur tempus lorem in felis consequat fringilla. Quisque at imperdiet esto. Morbi sed aliquet felis pellentesque daculis multricies metus.",
+          "title_layout": "center",
+          "collection_layout": "carousel",
+          "column": 3,
+          "carousel-arrows": true,
+          "carousel-dots": true
+        }
+      },
+      "1569228796445": {
+        "type": "hero",
+        "blocks": {
+          "1569327413742": {
+            "type": "product_popup",
+            "settings": {
+              "product": "metus-ornare-bibendum-rorbi-inorau-semper-mortisang",
+              "coordinates_x": 20,
+              "coordinates_y": 40
+            }
+          },
+          "1569327428698": {
+            "type": "product_popup",
+            "settings": {
+              "product": "etiam-vehicula-arcu-metus-ante-convallis-surper-mattis",
+              "coordinates_x": 40,
+              "coordinates_y": 60
+            }
+          }
+        },
+        "block_order": [
+          "1569327413742",
+          "1569327428698"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/banner-overlay-text2.jpg",
+          "hero_layout": "full_width",
+          "hero_size": "large",
+          "overlay": "dark",
+          "content-layout": "right",
+          "text_size": "large",
+          "label_1": "new",
+          "label_2": "custom wheels",
+          "title": "Wheels + Tires",
+          "text": "<p><a href=\"\/collections\/custom-wheels\" title=\"Custom Wheels\">Custom Wheels<\/a><a href=\"\/collections\/audio\" title=\"Audio\">Tires<\/a><a href=\"\/collections\/bibendumeto\" title=\"Bibendumeto\">Wheel + Tire Packages<\/a><a href=\"\/collections\/consequatod-1\" title=\"Consequatod\">Accessories<\/a><a href=\"\/collections\/gravidas\" title=\"Gravidas\">Caliper Covers<\/a><a href=\"\/collections\/all\" title=\"All\">Shop All<\/a><\/p>\n<p><\/p>\n<p>Nullam aliquet vestibulum augue non varius. Cras nec congue elit duis tristique vel ante nec aliquam. Praesent urna tellus laoreet eu tellus ullamcorper lorem, fermentum facilisis erat. Suspendisse tellus erat, saliquam loremous a posuere tincidunt melit. Aliquam eget lacus nec metus lobortis gravida sedos...<\/p>",
+          "button_label": "shop now",
+          "button_link": "shopify:\/\/collections\/all",
+          "button_video": "watch video",
+          "button_video_link": "https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc?autoplay=1&mute=1",
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": ""
+        }
+      },
+      "collection-header": {
+        "type": "collection-header",
+        "blocks": {
+          "1570175959111": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "bibendumetos-1"
+            }
+          },
+          "1570175980341": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "all"
+            }
+          },
+          "1570175994238": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "wheels-tires"
+            }
+          },
+          "1570176008832": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "custom-wheels"
+            }
+          },
+          "1570176018021": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "interior"
+            }
+          },
+          "1570176028069": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "tools-garage"
+            }
+          },
+          "1570176046611": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "lighting"
+            }
+          },
+          "1570176056239": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "exterior"
+            }
+          },
+          "1570176066709": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "exhaust-systems"
+            }
+          },
+          "1570176078133": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "repair-parts"
+            }
+          },
+          "1570176101021": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "audio"
+            }
+          },
+          "1570176111157": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "body-parts"
+            }
+          },
+          "1570176121624": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "performance"
+            }
+          },
+          "1570176131912": {
+            "type": "collection",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-banner_8104c246-8ca6-4562-9b00-0c9f686ab434.jpg",
+              "collection_id": "performance-parts"
+            }
+          }
+        },
+        "block_order": [
+          "1570175959111",
+          "1570175980341",
+          "1570175994238",
+          "1570176008832",
+          "1570176018021",
+          "1570176028069",
+          "1570176046611",
+          "1570176056239",
+          "1570176066709",
+          "1570176078133",
+          "1570176101021",
+          "1570176111157",
+          "1570176121624",
+          "1570176131912"
+        ],
+        "settings": {
+          "show_collection_image": true
+        }
+      },
+      "sidebar-collection": {
+        "type": "sidebar-collection",
+        "blocks": {
+          "1569230840292": {
+            "type": "collection_1",
+            "settings": {
+              "title": "Categories",
+              "collection_id": "little_category",
+              "link_list": "main-menu"
+            }
+          },
+          "1571108651963": {
+            "type": "filter_color",
+            "settings": {
+              "title": "Color",
+              "color_text_1": "red",
+              "color_img_1": "",
+              "color_text_2": "blue",
+              "color_img_2": "",
+              "color_text_3": "purple",
+              "color_img_3": "",
+              "color_text_4": "white",
+              "color_img_4": "",
+              "color_text_5": "aqua",
+              "color_img_5": "",
+              "color_text_6": "salmon",
+              "color_img_6": "",
+              "color_text_7": "saddlebrown",
+              "color_img_7": "",
+              "color_text_8": "silver",
+              "color_img_8": "",
+              "color_text_9": "yellow",
+              "color_img_9": "",
+              "color_text_10": "brown",
+              "color_img_10": "",
+              "color_text_11": "",
+              "color_img_11": "",
+              "color_text_12": "",
+              "color_img_12": "",
+              "color_text_13": "",
+              "color_img_13": "",
+              "color_text_14": "",
+              "color_img_14": "",
+              "color_text_15": "",
+              "color_img_15": "",
+              "color_text_16": "",
+              "color_img_16": "",
+              "color_text_17": "",
+              "color_img_17": "",
+              "color_text_18": "",
+              "color_img_18": "",
+              "color_text_19": "",
+              "color_img_19": "",
+              "color_text_20": "",
+              "color_img_20": ""
+            }
+          },
+          "1571125882231": {
+            "type": "filter_text",
+            "settings": {
+              "title": "Size",
+              "list_tags": "18', 19', 20', 21', 22'"
+            }
+          },
+          "1571128308508": {
+            "type": "filter_text",
+            "settings": {
+              "title": "Brands",
+              "list_tags": "Jimmy Choo®, High Speed Gear®, Modern Amusement®, Tomorrow®, Sodling®, Propper®, Daventry Meers®, Collette®, Marc®, North American Rescue®, French Connection®, Wileyx®, Modern Amusement®"
+            }
+          },
+          "1569230903149": {
+            "type": "product_carousel",
+            "settings": {
+              "title": "Featured Products",
+              "collection": "custom-wheels",
+              "number": 3
+            }
+          },
+          "1569231013813": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "link": "http:\/\/google.com"
+            }
+          },
+          "1569230977276": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "link": "http:\/\/google.com"
+            }
+          },
+          "1569231028227": {
+            "type": "quote",
+            "settings": {
+              "title": "Benutzer CMS-Block",
+              "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from Theme Editor.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1569230840292",
+          "1571108651963",
+          "1571125882231",
+          "1571128308508",
+          "1569230903149",
+          "1569231013813",
+          "1569230977276",
+          "1569231028227"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "position_sidebar": "left"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "layout": "grid",
+          "column": 3,
+          "rows": 12,
+          "sort_enable": true
+        }
+      },
+      "collection_customHtml": {
+        "type": "collection_customHtml",
+        "settings": {
+          "customHtml": true,
+          "text": "Custom CMS Block - Phasellus volutpat magna id mauris sodales et ornare urna molestie. Mauris non sem tincidunt, hendrerit nisi quis honcus felis. Suspendisse tempus mi durna in mattis nisl egestas quis. Proin nisi justo consectetur sed lacus an bibendum commodo diam. Praesent vulputate arcu eros quis accumsan odio malesuada at. Nulla vel ante magna. Cras ultricies nulla porttitor metus cursus malesuada. Sed convallis tempor ante ac semperos. Duis an turpis de nisl ultricies rhoncus. Morbi aliquet sem non orci lacinia posuere nam eget efficitur nibh. Aenean nec ornare ipsum. Aliquam vel semper augue.\n\nPhasellus pharetra lacus eu magna gravida, vel pharetra velit interdum. Duis lobortis faucibus quam, non dignissim odio rhoncus quis. Quisque et nulla molestie, dapibus neque in, bibendum enim. Fusce sollicitudin varius leo, vel condimentum justo volutpat quis. In posuere cursus leo sed molestie. Nam id varius orci. Etiam lorem lacus, eleifend ut elit faucibus, tristique accumsan nibh. Vestibulum a condimentum nisl. Praesent risus est, maximus vitae purus ac, sollicitudin luctus neque. Integer mattis mauris quis urna hendrerit, in eleifend mauris pretium. Phasellus sit amet pharetra tortor. Donec finibus euismod pretium. Vivamus quis tempus enim, id pretium leo. Etiam mollis ex id lectus pretium consequat. Vivamus imperdiet at sapien sit amet iaculis. Vestibulum et felis libero.\n\nPraesent vitae venenatis nisl, non egestas urna. Proin dignissim nunc vel quam dapibus, non varius velit interdum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In sagittis ex eu tellus congue porttitor. Cras non interdum sapien. Maecenas mollis sed diam vitae accumsan. Praesent congue turpis in urna venenatis fringilla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 1,
+          "padding-bottom": 5
+        }
+      },
+      "reviews": {
+        "type": "reviews",
+        "blocks": {
+          "1569231371076": {
+            "type": "review",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/wheel_arch-4.jpg",
+              "brand": "Tomorrow®",
+              "title": "Quisque consequat metus a arcu facilisis ullamcor commodo",
+              "link": "shopify:\/\/products\/quisque-consequat-metus-a-arcu-facilisis-ullamcor-commodo",
+              "stars": 5,
+              "author": "halothemes",
+              "caption": "Look Amazing",
+              "text": "Duis an turpis de nor multricies honcus. Morbi aliquet sem non orci lacinia posuere nam eget efficitur nibh. Aenean nec ornare ipsum..."
+            }
+          },
+          "1569231870041": {
+            "type": "review",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/wheel_arch-10.jpg",
+              "brand": "Marc®",
+              "title": "Scelerisque ullamcorper lectus nunc tempor lobortis",
+              "link": "shopify:\/\/products\/scelerisque-ullamcorper-lectus-nunc-tempor",
+              "stars": 5,
+              "author": "Halo Themes",
+              "caption": "Very Nice Wheels & Rims",
+              "text": "Phasellus volutpat magna id mauris sodales et ornare urna molestie. Mauris non sem tincidunt, hendrerit nisi quis honcus felis. Suspendisse tempus mi durna in mattis de nilos egestas quis. Proin nisi justo consectetur sed lacus."
+            }
+          },
+          "1569232021959": {
+            "type": "review",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/wheel_arch-14.jpg",
+              "brand": "High Speed Gear®",
+              "title": "Fusce eget vestibulum ipsumt tincidunt diam commodo",
+              "link": "shopify:\/\/products\/fusce-eget-vestibulum-ipsumt-tincidunt-diam",
+              "stars": 5,
+              "author": "John Doe",
+              "caption": "best products",
+              "text": "Use overlay text to give your customers insight into your brand. Select image and text that relates to your style and story."
+            }
+          }
+        },
+        "block_order": [
+          "1569231371076",
+          "1569231870041",
+          "1569232021959"
+        ],
+        "settings": {
+          "review_checkbox": true,
+          "background-color": false,
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 5,
+          "title": "Customers Reviews",
+          "text_link": "",
+          "custom_link": "",
+          "description": "",
+          "review_layout": "carousel",
+          "column": 2,
+          "carousel-arrows": true,
+          "carousel-dots": true
+        }
+      },
+      "recently-viewed-products": {
+        "type": "recently-viewed-products",
+        "settings": {
+          "show": true,
+          "background-color": false,
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 8,
+          "title": "Recently Viewed Products",
+          "text_link": "",
+          "custom_link": "",
+          "description": "",
+          "products_layout": "carousel",
+          "column": 4,
+          "limit": 6,
+          "carousel-arrows": true,
+          "carousel-dots": true
+        }
+      },
+      "product-template-3": {
+        "type": "product-template-3",
+        "settings": {
+          "enable_zoom": true,
+          "enable_fancybox": true,
+          "video_product": true,
+          "video_icon_type": "font",
+          "video_icon": "<i class=\"far fa-play-circle\"><\/i>",
+          "video_image": "",
+          "show_contacts": true,
+          "contacts_image": "shopify:\/\/shop_images\/contact-image.jpg",
+          "contact_title": "Have Questions?",
+          "contact_phone": "1.800.000.6890",
+          "ask_an_expert": true,
+          "ask_an_expert_title": "Ask an Experts",
+          "show_services": true,
+          "services_icon_1": "<i class=\"fas fa-check\"><\/i>",
+          "services_title_1": "Guaranteed Fitment",
+          "services_description_1": "Always the correct part",
+          "services_icon_2": "<i class=\"fas fa-phone\"><\/i>",
+          "services_title_2": "In-House Experts",
+          "services_description_2": "We know our products",
+          "services_icon_3": "<i class=\"fas fa-wrench\"><\/i>",
+          "services_title_3": "Added Value",
+          "services_description_3": "Mounting, Balancing",
+          "services_icon_4": "<i class=\"fas fa-dice-d6\"><\/i>",
+          "services_title_4": "Wordwide Delivery",
+          "services_description_4": "Free shipping on all orders",
+          "display_product_reviews": true,
+          "show_sold_in": true,
+          "item_prd": "3,5,6,7,8,10,12,15",
+          "item_prds": "sold in last",
+          "hours_prs": "10,15,16,17,18,20,25,35",
+          "item_hours": "hours",
+          "display_vendor": true,
+          "display_product_sku": true,
+          "display_availability": true,
+          "display_product_type": true,
+          "display_countdown": true,
+          "display_price": true,
+          "display_subtotal": true,
+          "show_quantity_selector": true,
+          "display_short_description": true,
+          "number_words": "16",
+          "display_size_chart": true,
+          "display_size_chart_at": "Size",
+          "size_guide_text": "Size Guide",
+          "custom_size_chart_header": "Size Chart",
+          "size_chart": "none",
+          "custom_size_chart": "",
+          "enable_payment_button": true,
+          "dpl_customers_view": true,
+          "title_view": "customers are viewing this product",
+          "number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+          "display_product_detail_share": true,
+          "share_text": "Share",
+          "display_trust_img": true,
+          "img_trust": "",
+          "enable_sticky_atc": true
+        }
+      },
+      "tab-horizontal": {
+        "type": "tab-horizontal",
+        "blocks": {
+          "1569826900847": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Shipping + Returns",
+              "product_tab_content": "<p><i>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.<\/i><\/p>\n<h6>Returns Policy<\/h6>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis. <\/p>\n<p>Donec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>Curabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>\n\n<h6>Shipping<\/h6>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis. <\/p>\n<p>Donec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>Curabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>",
+              "product_tab_content_2": ""
+            }
+          },
+          "1569827115437": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "FAQS",
+              "product_tab_content": "<div id=\"accordion\">\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569828417275\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569828417275\" aria-expanded=\"true\" aria-controls=\"1569828417275\">\n                    Will your template be fully compatible with Shopify?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569828417275\" class=\"collapse\" aria-labelledby=\"heading-1569828417275\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes it is.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569828878550\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569828878550\" aria-expanded=\"true\" aria-controls=\"1569828878550\">\n                    I cannot upload the theme to my Shopify store \/ Shopify alerts that the file is too big to upload, what is the problem?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569828878550\" class=\"collapse\" aria-labelledby=\"heading-1569828878550\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Please make sure that you follow below steps:<\/p>\n<p>1\/ Download the package from themeforest.net (the file is in zip format)<br><br>2\/ Extract the file you've just downloaded.<br><br>3\/ Find this file: ella-3.0.0-sections-ready.zip in the folder Ella Sections Ready 3.0.0, then you just need to upload ella-3.0.0-sections-ready.zip file to your Shopify store.<br>&lt;\/p&gt;<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569828968822\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569828968822\" aria-expanded=\"true\" aria-controls=\"1569828968822\">\n                    What I have to do when I need your support?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569828968822\" class=\"collapse\" aria-labelledby=\"heading-1569828968822\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>To save your time and reach our support quickly, please follow below steps:<\/p>\n<p>1\/ Create a staff account for us (with Themes permission and Settings permission) <a href=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" title=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" aria-describedby=\"a11y-external-message\">http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members<\/a><\/p>\n<p>2\/ Capture screenshot or video for the issue you get.<\/p>\n<p>3\/ Specify which template and version you are using.<\/p>\n<p>4\/ Describe clearly how to reproduce the issue.<\/p>\n<p>5\/ Send all information (staff account, screenshot, video, template name and version, description of the issues, link) to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\" aria-describedby=\"a11y-external-message\">support@halothemes.com<\/a><\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569829479298\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569829479298\" aria-expanded=\"true\" aria-controls=\"1569829479298\">\n                    Would assistance be available to upload the template if needed?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569829479298\" class=\"collapse\" aria-labelledby=\"heading-1569829479298\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes, we will assist you to install the template if needed<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830261920\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830261920\" aria-expanded=\"true\" aria-controls=\"1569830261920\">\n                    Do you guys offer customisation services for your themes?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830261920\" class=\"collapse\" aria-labelledby=\"heading-1569830261920\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes, we do. Please send your customisation requests to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\" aria-describedby=\"a11y-external-message\">support@halothemes.com<\/a>, we will give you our quote. Thank you.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830303138\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830303138\" aria-expanded=\"true\" aria-controls=\"1569830303138\">\n                    Can I turn on\/off Lazy Loading Image \/ Item Animation \/ Fade Up on the page?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830303138\" class=\"collapse\" aria-labelledby=\"heading-1569830303138\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes. You can turn on\/off the animation in the Setting page.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830330055\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830330055\" aria-expanded=\"true\" aria-controls=\"1569830330055\">\n                    Can I turn on\/off some blocks on the page?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830330055\" class=\"collapse\" aria-labelledby=\"heading-1569830330055\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes. You can turn on\/off almost any blocks on the page (featured products, slideshow, banners, related products, recent products,...).<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830354345\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830354345\" aria-expanded=\"true\" aria-controls=\"1569830354345\">\n                    I want to have the dropdown cart displayed automatically every time clients hover over it (instead of clicking on it). Is it possible?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830354345\" class=\"collapse\" aria-labelledby=\"heading-1569830354345\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes, we have a setting for you to switch between these two options: Display on Hover and Display on Click.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830380421\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830380421\" aria-expanded=\"true\" aria-controls=\"1569830380421\">\n                    What is included in the theme package?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830380421\" class=\"collapse\" aria-labelledby=\"heading-1569830380421\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>The theme package includes theme source, Photoshop design files, sample data and manual guide.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830404635\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830404635\" aria-expanded=\"true\" aria-controls=\"1569830404635\">\n                    I notice that the images used in the theme are all portrait. Will that be a problem if I use square images for our products? How will they be displayed in the theme?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830404635\" class=\"collapse\" aria-labelledby=\"heading-1569830404635\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>That is not a problem. You just need to modify the width\/height ratio in theme settings.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n<\/div>",
+              "product_tab_content_2": ""
+            }
+          },
+          "1569831478932": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "custom",
+              "product_tab_title": "Custom Tab",
+              "product_tab_content": "<p>Use overlay text to give your customers insight into your brand. Select image and text that relates to your style and story.<\/p>",
+              "product_tab_content_2": "custom tab"
+            }
+          }
+        },
+        "block_order": [
+          "1569826900847",
+          "1569827115437",
+          "1569831478932"
+        ],
+        "settings": {
+          "display_product_detail_description": true,
+          "product_description_title": "Description",
+          "display_product_reviews": true,
+          "product_review_title": "Customer Reviews"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 0,
+          "padding-bottom": 5,
+          "title": "Related Products",
+          "text_link": "",
+          "custom_link": "",
+          "description": "",
+          "title_border": true,
+          "products_layout": "carousel",
+          "column": 2,
+          "row": 2,
+          "carousel-arrows": false,
+          "carousel-dots": true
+        }
+      },
+      "sidebar-collections": {
+        "type": "sidebar-collections",
+        "blocks": {
+          "1569232430886": {
+            "type": "collection_1",
+            "settings": {
+              "title": "Category",
+              "collection_id": "little_category",
+              "link_list": "main-menu"
+            }
+          },
+          "1569232452011": {
+            "type": "product_carousel",
+            "settings": {
+              "title": "Featured Products",
+              "collection": "wheels-tires",
+              "number": 3
+            }
+          },
+          "1569232480565": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "link": ""
+            }
+          },
+          "1569232492781": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "link": ""
+            }
+          },
+          "1569232506584": {
+            "type": "quote",
+            "settings": {
+              "title": "CUSTOM CMS BLOCK",
+              "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from Theme Editor.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1569232430886",
+          "1569232452011",
+          "1569232480565",
+          "1569232492781",
+          "1569232506584"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "position_sidebar": "left"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "1573179169398": {
+            "type": "collection",
+            "settings": {
+              "collection": "all"
+            }
+          },
+          "1569232561751": {
+            "type": "collection",
+            "settings": {
+              "collection": "interior"
+            }
+          },
+          "1569232587940": {
+            "type": "collection",
+            "settings": {
+              "collection": "exterior"
+            }
+          },
+          "1569232632070": {
+            "type": "collection",
+            "settings": {
+              "collection": "wheels-tires"
+            }
+          },
+          "1569232602861": {
+            "type": "collection",
+            "settings": {
+              "collection": "performance"
+            }
+          },
+          "1569232612852": {
+            "type": "collection",
+            "settings": {
+              "collection": "lighting"
+            }
+          },
+          "1569232651228": {
+            "type": "collection",
+            "settings": {
+              "collection": "repair-parts"
+            }
+          },
+          "1569232663538": {
+            "type": "collection",
+            "settings": {
+              "collection": "body-parts"
+            }
+          },
+          "1569232673468": {
+            "type": "collection",
+            "settings": {
+              "collection": "audio"
+            }
+          },
+          "1569232705774": {
+            "type": "collection",
+            "settings": {
+              "collection": "custom-wheels"
+            }
+          },
+          "1569232682858": {
+            "type": "collection",
+            "settings": {
+              "collection": "tools-garage"
+            }
+          },
+          "1569232696212": {
+            "type": "collection",
+            "settings": {
+              "collection": "bibendumetos-1"
+            }
+          }
+        },
+        "block_order": [
+          "1573179169398",
+          "1569232561751",
+          "1569232587940",
+          "1569232632070",
+          "1569232602861",
+          "1569232612852",
+          "1569232651228",
+          "1569232663538",
+          "1569232673468",
+          "1569232705774",
+          "1569232682858",
+          "1569232696212"
+        ],
+        "settings": {
+          "display_type": "selected",
+          "sort": "alphabetical",
+          "column": 3
+        }
+      },
+      "sidebar-blog": {
+        "type": "sidebar-blog",
+        "blocks": {
+          "1572434621340": {
+            "type": "search",
+            "settings": {
+              "enable_search": true
+            }
+          },
+          "1572437391950": {
+            "type": "collection_1",
+            "settings": {
+              "title": "Blog Categories",
+              "collection_id": "little_category",
+              "link_list": "blog-categories"
+            }
+          },
+          "1569232776803": {
+            "type": "recent_post",
+            "settings": {
+              "title": "recent articles",
+              "number": 3
+            }
+          },
+          "1569232848254": {
+            "type": "product_carousel",
+            "settings": {
+              "title": "featured products",
+              "collection": "custom-wheels",
+              "number": 3
+            }
+          },
+          "1569232872494": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "link": ""
+            }
+          },
+          "1569232887805": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "link": ""
+            }
+          },
+          "1569232903846": {
+            "type": "quote",
+            "settings": {
+              "title": "CUSTOM CMS BLOCK",
+              "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from Theme Editor.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1572434621340",
+          "1572437391950",
+          "1569232776803",
+          "1569232848254",
+          "1569232872494",
+          "1569232887805",
+          "1569232903846"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "position_sidebar": "left"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "blog_show_date": true,
+          "blog_show_author": true,
+          "blog_show_tag": false
+        }
+      },
+      "search-template": {
+        "type": "search-template",
+        "settings": {
+          "column": 4,
+          "rows": 2
+        }
+      },
+      "sidebar-faq": {
+        "type": "sidebar-faq",
+        "blocks": {
+          "1569828190399": {
+            "type": "widget_sidebar",
+            "settings": {
+              "title": "Contact Support Team",
+              "text": "<p><a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\">support@halothemes.com<\/a><\/p>"
+            }
+          },
+          "1569828457068": {
+            "type": "widget_sidebar",
+            "settings": {
+              "title": "Support Terms",
+              "text": "<p>Please add our email: <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\">support@halothemes.com<\/a> to your address book to ensure our response email isn&rsquo;t marked as spam mail.<\/p>\n<p><strong>What does support include?<\/strong><\/p>\n<p><a href=\"#\" title=\"#\"><strong>Plus, item support includes:<\/strong><\/a><\/p>\n<p>-&nbsp; Availability to answer questions<\/p>\n<p>-&nbsp;&nbsp;Get assistance with reported product bugs and issues<\/p>\n<p><a href=\"#\" title=\"#\"><strong>Item support does not includes:<\/strong><\/a><\/p>\n<p>-&nbsp;&nbsp;Customization requests<\/p>\n<p>-&nbsp;&nbsp;Product Installations services<\/p>\n<p>We will try our best to reply your emails as soon as possible. However, we will prioritise email regarding Theme features and issues.<\/p>\n<p><em>We will reply your email regarding Theme features and issues within 24 hours. Regarding emails about template customisation, we will reply you within 48 hours (but normally much sooner).<\/em><\/p>\n<p>Your opinions is highly appreciated and help us built better products.<\/p>\n<p>Thank you, HaloThemes Team.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1569828190399",
+          "1569828457068"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "position_sidebar": "right"
+        }
+      },
+      "faq-template": {
+        "type": "faq-template",
+        "blocks": {
+          "1569828417275": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>Will your template be fully compatible with Shopify?",
+              "answer_faqs": "<p><span class=\"label-answer\">Answer<\/span>Yes it is.<\/p>"
+            }
+          },
+          "1569828878550": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>I cannot upload the theme to my Shopify store \/ Shopify alerts that the file is too big to upload, what is the problem?",
+              "answer_faqs": "<p><span class=\"label-answer\">Answer<\/span>Please make sure that you follow below steps:<\/p>\n<p>1\/ Download the package from themeforest.net (the file is in zip format)<br><br>2\/ Extract the file you've just downloaded.<br><br>3\/ Find this file: ella-3.0.0-sections-ready.zip in the folder Ella Sections Ready 3.0.0, then you just need to upload ella-3.0.0-sections-ready.zip file to your Shopify store.<br>&lt;\/p&gt;<\/p>"
+            }
+          },
+          "1569828968822": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>What I have to do when I need your support?",
+              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>To save your time and reach our support quickly, please follow below steps:<\/p>\n<p>1\/ Create a staff account for us (with Themes permission and Settings permission) <a href=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" title=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\">http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members<\/a><\/p>\n<p>2\/ Capture screenshot or video for the issue you get.<\/p>\n<p>3\/ Specify which template and version you are using.<\/p>\n<p>4\/ Describe clearly how to reproduce the issue.<\/p>\n<p>5\/ Send all information (staff account, screenshot, video, template name and version, description of the issues, link) to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\">support@halothemes.com<\/a><\/p>"
+            }
+          },
+          "1569829479298": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>Would assistance be available to upload the template if needed?",
+              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes, we will assist you to install the template if needed<\/p>"
+            }
+          },
+          "1569830261920": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>Do you guys offer customisation services for your themes?",
+              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes, we do. Please send your customisation requests to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\">support@halothemes.com<\/a>, we will give you our quote. Thank you.<\/p>"
+            }
+          },
+          "1569830303138": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>Can I turn on\/off Lazy Loading Image \/ Item Animation \/ Fade Up on the page?",
+              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes. You can turn on\/off the animation in the Setting page.<\/p>"
+            }
+          },
+          "1569830330055": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>Can I turn on\/off some blocks on the page?",
+              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes. You can turn on\/off almost any blocks on the page (featured products, slideshow, banners, related products, recent products,...).<\/p>"
+            }
+          },
+          "1569830354345": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>I want to have the dropdown cart displayed automatically every time clients hover over it (instead of clicking on it). Is it possible?",
+              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes, we have a setting for you to switch between these two options: Display on Hover and Display on Click.<\/p>"
+            }
+          },
+          "1569830380421": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>What is included in the theme package?",
+              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>The theme package includes theme source, Photoshop design files, sample data and manual guide.<\/p>"
+            }
+          },
+          "1569830404635": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>I notice that the images used in the theme are all portrait. Will that be a problem if I use square images for our products? How will they be displayed in the theme?",
+              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>That is not a problem. You just need to modify the width\/height ratio in theme settings.<\/p>"
+            }
+          },
+          "1569830427721": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>Does the theme support image resizing and cropping?",
+              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes. Normally, the theme will resize images to a default size (based on your width\/height ratio setting). We also have Crop setting if you don’t want to scale the image.<\/p>"
+            }
+          },
+          "1569830452681": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>Can I add borders around our product images?",
+              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes, you can. You can also set image border colours.<\/p>"
+            }
+          },
+          "1569830485394": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>Can I have multi level menu?",
+              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes, you can. Just simply follow the instructions in our Manual Guide, you will be able to easily create a multi-level menu.<\/p>"
+            }
+          },
+          "1569830499682": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>Do you guys provide customer support during weekends \/ holidays?",
+              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Normally we don't provide support during weekends, except for urgent cases. In these cases, you only need to mark “Urgent” in your email, we will get back to you ASAP.<\/p>"
+            }
+          },
+          "1569830523358": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "<span class=\"label-question\">Question<\/span>Does the theme support Variant Image?",
+              "answer_faqs": "<span class=\"label-answer\">Answer<\/span><p>Yes, it does. Please check it out here to see how it works: <a href=\"https:\/\/sneake-demo.myshopify.com\/products\/sample-proin-de-corper-nulla-dan-melementum-1?variant=10214763888684\">https:\/\/sneake-demo.myshopify.com\/products\/sample-proin-de-corper-nulla-dan-melementum-1?variant=10214763888684<\/a><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1569828417275",
+          "1569828878550",
+          "1569828968822",
+          "1569829479298",
+          "1569830261920",
+          "1569830303138",
+          "1569830330055",
+          "1569830354345",
+          "1569830380421",
+          "1569830404635",
+          "1569830427721",
+          "1569830452681",
+          "1569830485394",
+          "1569830499682",
+          "1569830523358"
+        ],
+        "settings": {
+          "email_text": "Contact Support",
+          "email_url": "mailto:support@halothemes.com"
+        }
+      },
+      "frequently-by-together": {
+        "type": "frequently-by-together",
+        "settings": {
+          "dpl_grouped_product": true,
+          "border": true,
+          "padding-top": 0,
+          "padding-bottom": 6,
+          "title": "Frequently Bought Together",
+          "enable_bundle_discount": true,
+          "bundle_discount_text": "Get a [discount]% discount buying these products together"
+        }
+      },
+      "product-template-2": {
+        "type": "product-template-2",
+        "settings": {
+          "enable_zoom": true,
+          "enable_fancybox": true,
+          "video_product": true,
+          "video_icon_type": "font",
+          "video_icon": "<i class=\"far fa-play-circle\"><\/i>",
+          "video_image": "",
+          "show_contacts": true,
+          "contacts_image": "shopify:\/\/shop_images\/contact-image.jpg",
+          "contact_title": "Have Questions?",
+          "contact_phone": "1.800.000.6890",
+          "ask_an_expert": true,
+          "ask_an_expert_title": "Ask an Experts",
+          "show_services": true,
+          "services_icon_1": "<i class=\"fas fa-check\"><\/i>",
+          "services_title_1": "Guaranteed Fitment",
+          "services_description_1": "Always the correct part",
+          "services_icon_2": "<i class=\"fas fa-phone\"><\/i>",
+          "services_title_2": "In-House Experts",
+          "services_description_2": "We know our products",
+          "services_icon_3": "<i class=\"fas fa-wrench\"><\/i>",
+          "services_title_3": "Added Value",
+          "services_description_3": "Mounting, Balancing",
+          "services_icon_4": "<i class=\"fas fa-dice-d6\"><\/i>",
+          "services_title_4": "Wordwide Delivery",
+          "services_description_4": "Free shipping on all orders",
+          "display_product_reviews": true,
+          "show_sold_in": true,
+          "item_prd": "3,5,6,7,8,10,12,15",
+          "item_prds": "sold in last",
+          "hours_prs": "10,15,16,17,18,20,25,35",
+          "item_hours": "hours",
+          "display_vendor": true,
+          "display_product_sku": true,
+          "display_availability": true,
+          "display_product_type": false,
+          "display_countdown": true,
+          "display_price": true,
+          "display_subtotal": true,
+          "show_quantity_selector": true,
+          "display_short_description": true,
+          "number_words": "20",
+          "display_size_chart": true,
+          "display_size_chart_at": "Size",
+          "size_guide_text": "Size Guide",
+          "custom_size_chart_header": "Size Chart",
+          "size_chart": "different",
+          "custom_size_chart": "shopify:\/\/shop_images\/size-chart.jpg",
+          "enable_payment_button": false,
+          "dpl_customers_view": true,
+          "title_view": "customers are viewing this product",
+          "number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+          "display_product_detail_share": true,
+          "share_text": "Share",
+          "display_trust_img": true,
+          "img_trust": "shopify:\/\/shop_images\/trust_img.jpg",
+          "enable_sticky_atc": true
+        }
+      },
+      "frequently-by-together-2": {
+        "type": "frequently-by-together-2",
+        "settings": {
+          "dpl_grouped_product": true,
+          "border": true,
+          "padding-top": 0,
+          "padding-bottom": 7,
+          "title": "Frequently Bought Together",
+          "enable_bundle_discount": true,
+          "bundle_discount_text": "Get a [discount]% discount buying these products together"
+        }
+      },
+      "tab-vertical": {
+        "type": "tab-vertical",
+        "blocks": {
+          "1570067786899": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "SHIPPING & RETURNS",
+              "product_tab_content": "<p><i>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.<\/i><\/p>\n<h6>Returns Policy<\/h6>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis. <\/p>\n<p>Donec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>Curabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>\n\n<h6>Shipping<\/h6>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis. <\/p>\n<p>Donec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>Curabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>",
+              "product_tab_content_2": ""
+            }
+          },
+          "1570067909133": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "CUSTOM PRODUCT TAB",
+              "product_tab_content": "<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis. Pellentesque diam dolor cosmopolis etos lobortis.<\/p>\n<table>\n    <tbody>\n        <tr>\n            <td class=\"title\">Comodous:<\/td>\n            <td>Comodous in tempor ullamcorper miaculis<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Mattis laoreet:<\/td>\n            <td>Pellentesque vitae neque mollis urna mattis laoreet<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Divamus de ametos:<\/td>\n            <td>Divamus sit amet purus justo<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Molestie:<\/td>\n            <td>Proin molestie egestas orci ac suscipit risus posuere loremous<\/td>\n        <\/tr>\n    <\/tbody>\n<\/table>",
+              "product_tab_content_2": ""
+            }
+          }
+        },
+        "block_order": [
+          "1570067786899",
+          "1570067909133"
+        ],
+        "settings": {
+          "display_product_detail_description": true,
+          "product_description_title": "Description",
+          "display_product_reviews": true,
+          "product_review_title": "Customer Reviews",
+          "display_shipping_returns": true
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "thumnail_image_position": "position_left",
+          "enable_zoom": true,
+          "enable_fancybox": true,
+          "video_product": true,
+          "video_icon_type": "image",
+          "video_icon": "<i class=\"far fa-play-circle\"><\/i>",
+          "video_image": "shopify:\/\/shop_images\/video.png",
+          "video_header": "Video",
+          "instruction_product": true,
+          "instruction_icon_type": "image",
+          "instruction_icon": "<i class=\"fas fa-book\"><\/i>",
+          "instruction_image": "shopify:\/\/shop_images\/instruction.png",
+          "instruction_header": "Instruction",
+          "warranty_product": true,
+          "warranty_icon_type": "image",
+          "warranty_icon": "<i class=\"fas fa-shield-alt\"><\/i>",
+          "warranty_image": "shopify:\/\/shop_images\/warranty.png",
+          "warranty_header": "Warranty",
+          "show_contacts": true,
+          "contacts_image": "shopify:\/\/shop_images\/contact-image.jpg",
+          "contact_title": "Have Questions?",
+          "contact_phone": "1.800.000.6890",
+          "ask_an_expert": true,
+          "ask_an_expert_title": "Ask an Experts",
+          "show_services": true,
+          "services_icon_1": "<i class=\"fas fa-check\"><\/i>",
+          "services_title_1": "Guaranteed Fitment",
+          "services_description_1": "Always the correct part",
+          "services_icon_2": "<i class=\"fas fa-phone\"><\/i>",
+          "services_title_2": "In-House Experts",
+          "services_description_2": "We know our products",
+          "services_icon_3": "<i class=\"fas fa-wrench\"><\/i>",
+          "services_title_3": "Added Value",
+          "services_description_3": "Mounting, Balancing",
+          "services_icon_4": "<i class=\"fas fa-dice-d6\"><\/i>",
+          "services_title_4": "Wordwide Delivery",
+          "services_description_4": "Free shipping on all orders",
+          "display_product_reviews": true,
+          "show_sold_in": true,
+          "item_prd": "3,5,6,7,8,10,12,15",
+          "item_prds": "sold in last",
+          "hours_prs": "10,15,16,17,18,20,25,35",
+          "item_hours": "hours",
+          "display_vendor": true,
+          "display_product_sku": true,
+          "display_availability": true,
+          "display_product_type": false,
+          "display_countdown": true,
+          "display_price": true,
+          "display_subtotal": true,
+          "show_quantity_selector": true,
+          "display_short_description": true,
+          "number_words": "20",
+          "display_size_chart": true,
+          "display_size_chart_at": "Size",
+          "size_guide_text": "Size Guide",
+          "custom_size_chart_header": "Size Chart",
+          "size_chart": "none",
+          "custom_size_chart": "shopify:\/\/shop_images\/size-chart.jpg",
+          "enable_payment_button": true,
+          "dpl_customers_view": true,
+          "title_view": "customers are viewing this product",
+          "number_view": "100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+          "display_product_detail_share": true,
+          "share_text": "Share",
+          "display_trust_img": true,
+          "img_trust": "shopify:\/\/shop_images\/trust_img.jpg",
+          "enable_sticky_atc": true
+        }
+      },
+      "tab-horizontal-2": {
+        "type": "tab-horizontal-2",
+        "blocks": {
+          "1570073800333": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Shipping + Returns",
+              "product_tab_content": "<p><i>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.<\/i><\/p>\n<h6>Returns Policy<\/h6>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis. <\/p>\n<p>Donec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>Curabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>\n\n<h6>Shipping<\/h6>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis. <\/p>\n<p>Donec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>Curabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>",
+              "product_tab_content_2": ""
+            }
+          },
+          "1570073957194": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "custom",
+              "product_tab_title": "Custom Tab",
+              "product_tab_content": "<p>Use overlay text to give your customers insight into your brand. Select image and text that relates to your style and story.<\/p>",
+              "product_tab_content_2": "custom tab"
+            }
+          },
+          "1570073908496": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "FAQ",
+              "product_tab_content": "<div id=\"accordion\">\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569828417275\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569828417275\" aria-expanded=\"true\" aria-controls=\"1569828417275\">\n                    Will your template be fully compatible with Shopify?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569828417275\" class=\"collapse\" aria-labelledby=\"heading-1569828417275\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes it is.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569828878550\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569828878550\" aria-expanded=\"true\" aria-controls=\"1569828878550\">\n                    I cannot upload the theme to my Shopify store \/ Shopify alerts that the file is too big to upload, what is the problem?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569828878550\" class=\"collapse\" aria-labelledby=\"heading-1569828878550\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Please make sure that you follow below steps:<\/p>\n<p>1\/ Download the package from themeforest.net (the file is in zip format)<br><br>2\/ Extract the file you've just downloaded.<br><br>3\/ Find this file: ella-3.0.0-sections-ready.zip in the folder Ella Sections Ready 3.0.0, then you just need to upload ella-3.0.0-sections-ready.zip file to your Shopify store.<br><\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569828968822\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569828968822\" aria-expanded=\"true\" aria-controls=\"1569828968822\">\n                    What I have to do when I need your support?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569828968822\" class=\"collapse\" aria-labelledby=\"heading-1569828968822\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>To save your time and reach our support quickly, please follow below steps:<\/p>\n<p>1\/ Create a staff account for us (with Themes permission and Settings permission) <a href=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" title=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" aria-describedby=\"a11y-external-message\">http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members<\/a><\/p>\n<p>2\/ Capture screenshot or video for the issue you get.<\/p>\n<p>3\/ Specify which template and version you are using.<\/p>\n<p>4\/ Describe clearly how to reproduce the issue.<\/p>\n<p>5\/ Send all information (staff account, screenshot, video, template name and version, description of the issues, link) to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\" aria-describedby=\"a11y-external-message\">support@halothemes.com<\/a><\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569829479298\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569829479298\" aria-expanded=\"true\" aria-controls=\"1569829479298\">\n                    Would assistance be available to upload the template if needed?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569829479298\" class=\"collapse\" aria-labelledby=\"heading-1569829479298\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes, we will assist you to install the template if needed<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830261920\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830261920\" aria-expanded=\"true\" aria-controls=\"1569830261920\">\n                    Do you guys offer customisation services for your themes?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830261920\" class=\"collapse\" aria-labelledby=\"heading-1569830261920\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes, we do. Please send your customisation requests to <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\" aria-describedby=\"a11y-external-message\">support@halothemes.com<\/a>, we will give you our quote. Thank you.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830303138\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830303138\" aria-expanded=\"true\" aria-controls=\"1569830303138\">\n                    Can I turn on\/off Lazy Loading Image \/ Item Animation \/ Fade Up on the page?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830303138\" class=\"collapse\" aria-labelledby=\"heading-1569830303138\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes. You can turn on\/off the animation in the Setting page.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830330055\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830330055\" aria-expanded=\"true\" aria-controls=\"1569830330055\">\n                    Can I turn on\/off some blocks on the page?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830330055\" class=\"collapse\" aria-labelledby=\"heading-1569830330055\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes. You can turn on\/off almost any blocks on the page (featured products, slideshow, banners, related products, recent products,...).<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830354345\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830354345\" aria-expanded=\"true\" aria-controls=\"1569830354345\">\n                    I want to have the dropdown cart displayed automatically every time clients hover over it (instead of clicking on it). Is it possible?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830354345\" class=\"collapse\" aria-labelledby=\"heading-1569830354345\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>Yes, we have a setting for you to switch between these two options: Display on Hover and Display on Click.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830380421\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830380421\" aria-expanded=\"true\" aria-controls=\"1569830380421\">\n                    What is included in the theme package?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830380421\" class=\"collapse\" aria-labelledby=\"heading-1569830380421\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>The theme package includes theme source, Photoshop design files, sample data and manual guide.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n        <div class=\"card card-2\">\n            <div class=\"card-header\" id=\"heading-1569830404635\">\n                <button class=\"title collapsed\" data-toggle=\"collapse\" data-target=\"#1569830404635\" aria-expanded=\"true\" aria-controls=\"1569830404635\">\n                    I notice that the images used in the theme are all portrait. Will that be a problem if I use square images for our products? How will they be displayed in the theme?\n                <\/button>\n                \n                <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon--wide icon-chevron-down\" viewbox=\"0 0 498.98 284.49\"><defs><\/defs><path class=\"cls-1\" d=\"M80.93 271.76A35 35 0 0 1 140.68 247l189.74 189.75L520.16 247a35 35 0 1 1 49.5 49.5L355.17 511a35 35 0 0 1-49.5 0L91.18 296.5a34.89 34.89 0 0 1-10.25-24.74z\" transform=\"translate(-80.93 -236.76)\"><\/path><\/svg>\n            <\/div>\n            <div id=\"1569830404635\" class=\"collapse\" aria-labelledby=\"heading-1569830404635\" data-parent=\"#accordion\">\n                <div class=\"card-body\">\n                    \n                    <p>That is not a problem. You just need to modify the width\/height ratio in theme settings.<\/p>\n                <\/div>\n            <\/div>\n        <\/div>\n    \n<\/div>",
+              "product_tab_content_2": ""
+            }
+          },
+          "1571994309249": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Custom tab",
+              "product_tab_content": "<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis. Pellentesque diam dolor cosmopolis etos lobortis.<\/p>\n<table>\n    <tbody>\n        <tr>\n            <td class=\"title\">Comodous:<\/td>\n            <td>Comodous in tempor ullamcorper miaculis<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Mattis laoreet:<\/td>\n            <td>Pellentesque vitae neque mollis urna mattis laoreet<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Divamus de ametos:<\/td>\n            <td>Divamus sit amet purus justo<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"title\">Molestie:<\/td>\n            <td>Proin molestie egestas orci ac suscipit risus posuere loremous<\/td>\n        <\/tr>\n    <\/tbody>\n<\/table>",
+              "product_tab_content_2": ""
+            }
+          }
+        },
+        "block_order": [
+          "1570073800333",
+          "1570073957194",
+          "1570073908496",
+          "1571994309249"
+        ],
+        "settings": {
+          "display_product_detail_description": true,
+          "product_description_title": "Description"
+        }
+      },
+      "product-reviews": {
+        "type": "product-reviews",
+        "settings": {
+          "show_product_reviews": true,
+          "background-color": false,
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 3,
+          "padding-bottom": 1,
+          "title": "Customer Reviews",
+          "title_border": false
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "blocks": {
+          "1570414089065": {
+            "type": "contact_infomation",
+            "settings": {
+              "title": "CHAT WITH US:",
+              "description": "<p>If you have an issue or question that requires immediate assistance, you can click below to chat live with a Customer Service Dept. representative. If we aren&rsquo;t availale, just drop us an email to the left and we&rsquo;ll response within 24~48 hours.<\/p>\n<p><a href=\"http:\/\/google.com\" title=\"http:\/\/google.com\">Message us<\/a><\/p>"
+            }
+          },
+          "1570414124122": {
+            "type": "contact_infomation",
+            "settings": {
+              "title": "Get In Touch:",
+              "description": "<p>Call Toll-Free<\/p>\n<p>+1.800.000.8809<\/p>\n<p>Monday to Saturday: 9am - 10pm<\/p>\n<p>Sundays: 10am - 6pm<\/p>\n<p>Or you can reach us via email at <a href=\"mailto:support@halothemes.com\" title=\"mailto:support@halothemes.com\">support@halothemes.com<\/a> and expect a response within 24-48 hours.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1570414089065",
+          "1570414124122"
+        ],
+        "settings": {
+          "display_google_map": true,
+          "google_map_code": "<iframe src=\"https:\/\/maps.google.com\/maps?f=q&source=s_q&hl=vi&geocode=&q=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1&aq=&sll=37.0625,-95.677068&sspn=41.903538,86.572266&ie=UTF8&hq=&hnear=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+Chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam&t=m&ll=10.797518,106.700377&spn=0.014754,0.071197&z=15&iwloc=A&output=embed\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"100%\" height=\"350\"><\/iframe>"
+        }
+      },
+      "lookbook-content": {
+        "type": "lookbook-content",
+        "blocks": {
+          "1570417104560": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_tab": "lookbook 01",
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-4.jpg",
+              "lookbook_image_text": "Image caption 1",
+              "product_1": "aenean-commodo-lipsum-quis-blandit-exims-placerat",
+              "coordinates_x_1": 15,
+              "coordinates_y_1": 30,
+              "product_2": "fusce-eget-vestibulum-ipsumt-tincidunt-diam",
+              "coordinates_x_2": 50,
+              "coordinates_y_2": 55,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1570417875600": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_tab": "lookbook 02",
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-5.jpg",
+              "lookbook_image_text": "Image caption 2",
+              "product_1": "etiam-bibendum-nisl-id-urna-elementum-varius-turpis",
+              "coordinates_x_1": 40,
+              "coordinates_y_1": 55,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1570420146389": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_tab": "lookbook 03",
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-3.jpg",
+              "lookbook_image_text": "Image caption 3",
+              "product_1": "metus-ornare-bibendum-rorbi-inorau-semper-metus",
+              "coordinates_x_1": 30,
+              "coordinates_y_1": 40,
+              "product_2": "dinterdum-pretium-an-dapboe-dan-mauris-condimentus",
+              "coordinates_x_2": 60,
+              "coordinates_y_2": 50,
+              "product_3": "magnes-de-darturien-cosmo-deros-laciniado-an-milancelos",
+              "coordinates_x_3": 50,
+              "coordinates_y_3": 15
+            }
+          },
+          "1570420286934": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_tab": "lookbook 04",
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-6.jpg",
+              "lookbook_image_text": "Image caption 4",
+              "product_1": "scelerisque-ullamcorper-lectus-nunc-tempor",
+              "coordinates_x_1": 50,
+              "coordinates_y_1": 35,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1570420348764": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_tab": "lookbook 05",
+              "lookbook_image": "shopify:\/\/shop_images\/lookbook-2.jpg",
+              "lookbook_image_text": "Image caption 5",
+              "product_1": "scelerisque-lectus-ultrices-volutpat-torto-bib-endum",
+              "coordinates_x_1": 15,
+              "coordinates_y_1": 45,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          }
+        },
+        "block_order": [
+          "1570417104560",
+          "1570417875600",
+          "1570420146389",
+          "1570420286934",
+          "1570420348764"
+        ],
+        "settings": {
+          "fontsize_tab": "medium",
+          "title_layout": "center",
+          "display_share": true,
+          "display_btn": true,
+          "btn_text": "Shop LookBook",
+          "btn_link": ""
+        }
+      },
+      "portfolio-content": {
+        "type": "portfolio-content",
+        "blocks": {
+          "1570434060351": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "all",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-1.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-2.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-3.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-4.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-5.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "shopify:\/\/shop_images\/image-6.jpg",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "shopify:\/\/shop_images\/image-7.jpg",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "shopify:\/\/shop_images\/image-8.jpg",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "shopify:\/\/shop_images\/image-9.jpg",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "shopify:\/\/shop_images\/image-10.jpg",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "shopify:\/\/shop_images\/image-11.jpg",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "shopify:\/\/shop_images\/image-12.jpg",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          },
+          "1570434210753": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "portfolio 01",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-4.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-10.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-6.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-1.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-7.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "shopify:\/\/shop_images\/image-8.jpg",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "shopify:\/\/shop_images\/image-3.jpg",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          },
+          "1570434240566": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "portfolio 02",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-12.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-11.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-6.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-7.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-5.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          },
+          "1570434248355": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "portfolio 03",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-11.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-9.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-4.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-3.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-8.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          },
+          "1570434257331": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "portfolio 04",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-1.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-5.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-3.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-10.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-11.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          },
+          "1570434262331": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "portfolio 05",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-7.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-8.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-12.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-4.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-9.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          },
+          "1570434274679": {
+            "type": "portfolio_item",
+            "settings": {
+              "portfolio_tab": "portfolio 06",
+              "portfolio_image_1": "shopify:\/\/shop_images\/image-10.jpg",
+              "portfolio_title_1": "Portfolio",
+              "portfolio_des_1": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_2": "shopify:\/\/shop_images\/image-6.jpg",
+              "portfolio_title_2": "Portfolio",
+              "portfolio_des_2": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_3": "shopify:\/\/shop_images\/image-3.jpg",
+              "portfolio_title_3": "Portfolio",
+              "portfolio_des_3": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_4": "shopify:\/\/shop_images\/image-5.jpg",
+              "portfolio_title_4": "Portfolio",
+              "portfolio_des_4": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_5": "shopify:\/\/shop_images\/image-4.jpg",
+              "portfolio_title_5": "Portfolio",
+              "portfolio_des_5": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_6": "shopify:\/\/shop_images\/image-7.jpg",
+              "portfolio_title_6": "Portfolio",
+              "portfolio_des_6": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_7": "",
+              "portfolio_title_7": "Portfolio",
+              "portfolio_des_7": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_8": "",
+              "portfolio_title_8": "Portfolio",
+              "portfolio_des_8": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_9": "",
+              "portfolio_title_9": "Portfolio",
+              "portfolio_des_9": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_10": "",
+              "portfolio_title_10": "Portfolio",
+              "portfolio_des_10": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_11": "",
+              "portfolio_title_11": "Portfolio",
+              "portfolio_des_11": "Use overlay text to give your customers insight into your brand",
+              "portfolio_image_12": "",
+              "portfolio_title_12": "Portfolio",
+              "portfolio_des_12": "Use overlay text to give your customers insight into your brand"
+            }
+          }
+        },
+        "block_order": [
+          "1570434060351",
+          "1570434210753",
+          "1570434240566",
+          "1570434248355",
+          "1570434257331",
+          "1570434262331",
+          "1570434274679"
+        ],
+        "settings": {
+          "fontsize_tab": "medium",
+          "title_layout": "center"
+        }
+      },
+      "header_2": {
+        "type": "header_2",
+        "settings": {
+          "message": true,
+          "home_page_only": false,
+          "message_text": "<span><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0272\/1962\/4029\/files\/top-promotion-image-2.png\" alt=\"\"><\/span> <span><b>Buy Now, Pay Later<\/b> Starting at 0% APR<\/span> <span class=\"btn\">learn more<\/span>",
+          "message_link": "",
+          "header_top": true,
+          "enable_multiple_language": true,
+          "language_position": "right",
+          "enable_multiple_currencies": true,
+          "currency_position": "right",
+          "enable_phone": true,
+          "phone_position": "left",
+          "phone_number": "+1.800.000.8806",
+          "enable_email": true,
+          "email_position": "left",
+          "email": "support@halothemes.com",
+          "enable_short_description": true,
+          "short_description_position": "center",
+          "short_description": "FREE DELIVERY WORLDWIDE",
+          "enable_url_1": true,
+          "url_position_1": "right",
+          "url_text_1": "Need Help?",
+          "url_1": "shopify:\/\/pages\/contact-us",
+          "enable_url_2": true,
+          "url_position_2": "right",
+          "url_text_2": "Blog",
+          "url_2": "shopify:\/\/blogs\/news",
+          "enable_url_3": true,
+          "url_position_3": "right",
+          "url_text_3": "Rewards Program",
+          "url_3": "http:\/\/google.com",
+          "main_menu_2": "main-menu",
+          "display_megamenu_2": false,
+          "header_middle": true,
+          "logo": "shopify:\/\/shop_images\/logo_30a68f07-e207-4da0-a656-a3d6eb0ec9f8.png",
+          "logo_text": "",
+          "logo_max_width": 165,
+          "enable_header_search": true,
+          "enable_header_account": true,
+          "enable_header_wishlist": true,
+          "enable_header_cart": true,
+          "main_menu": "main-menu-2",
+          "label_1": "",
+          "label_1_collection": "",
+          "label_2": "",
+          "label_2_collection": "",
+          "label_3": "",
+          "label_3_collection": "",
+          "social_show": true,
+          "social_text": "<i class=\"fab fa-facebook-square\" style=\"color: #3b5998\"><\/i> Like us",
+          "social_link": "https:\/\/facebook.com\/shopify",
+          "notice_show": false,
+          "notice_home_page_only": true,
+          "notice_text": "<span class=\"icon\"><i class=\"fas fa-bell\"><\/i><\/span><b>Limited Time Offer<\/b>: Sale up to 70% off on selected items. Offer ends:",
+          "notice_time": "2020\/3\/4 0:0:00",
+          "notice_link": ""
+        }
+      },
+      "header_3": {
+        "type": "header_3",
+        "blocks": {
+          "1571301004582": {
+            "type": "style_1",
+            "settings": {
+              "megamenu_items_1": "Interior",
+              "title_featured_product": "Featured Products",
+              "featured_product": "dinterdum-pretium-an-dapboe-dan-mauris-condimentus",
+              "featured_product_2": "",
+              "featured_product_3": "",
+              "banner_first_style_1": "shopify:\/\/shop_images\/megamenu-banner-9.png",
+              "link_banner_first_style_1": "#"
+            }
+          },
+          "1571302917287": {
+            "type": "style_2",
+            "settings": {
+              "megamenu_items_2": "Exterior",
+              "banner_first_style_2": "shopify:\/\/shop_images\/megamenu-banner-6.png",
+              "link_banner_first_style_2": "#",
+              "banner_second_style_2": "shopify:\/\/shop_images\/megamenu-banner-7.png",
+              "link_banner_second_style_2": "",
+              "banner_third_style_2": "shopify:\/\/shop_images\/megamenu-banner-8.png",
+              "link_banner_third_style_2": ""
+            }
+          },
+          "1571303388122": {
+            "type": "style_3",
+            "settings": {
+              "megamenu_items_3": "Wheels & Tires",
+              "column_category": 4,
+              "banner_image_style_3_1": "shopify:\/\/shop_images\/megamenu-banner-1.png",
+              "banner_image_style_3_2": "shopify:\/\/shop_images\/megamenu-banner-2.png",
+              "banner_image_style_3_3": "shopify:\/\/shop_images\/megamenu-banner-3.png",
+              "banner_image_style_3_4": "shopify:\/\/shop_images\/megamenu-banner-4.png",
+              "banner_image_style_3_5": "",
+              "banner_image_style_3_6": ""
+            }
+          }
+        },
+        "block_order": [
+          "1571301004582",
+          "1571302917287",
+          "1571303388122"
+        ],
+        "settings": {
+          "message": true,
+          "home_page_only": false,
+          "message_text": "<span><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0272\/1962\/4029\/files\/top-promotion-image-2.png\" alt=\"\"><\/span> <span><b>Buy Now, Pay Later<\/b> Starting at 0% APR<\/span> <span class=\"btn\">learn more<\/span>",
+          "message_link": "",
+          "header_top": true,
+          "enable_multiple_language": true,
+          "language_position": "right",
+          "enable_multiple_currencies": true,
+          "currency_position": "right",
+          "enable_phone": true,
+          "phone_position": "left",
+          "phone_number": "+1.800.000.8809",
+          "enable_email": true,
+          "email_position": "left",
+          "email": "support@halothemes.com",
+          "enable_short_description": true,
+          "short_description_position": "center",
+          "short_description": "FREE DELIVERY WORLDWIDE",
+          "enable_url_1": true,
+          "url_position_1": "right",
+          "url_text_1": "Need Help?",
+          "url_1": "shopify:\/\/pages\/contact-us",
+          "enable_url_2": true,
+          "url_position_2": "right",
+          "url_text_2": "Blog",
+          "url_2": "shopify:\/\/blogs\/news",
+          "enable_url_3": true,
+          "url_position_3": "right",
+          "url_text_3": "Rewards Program",
+          "url_3": "http:\/\/google.com",
+          "header_middle": true,
+          "logo": "shopify:\/\/shop_images\/logo_30a68f07-e207-4da0-a656-a3d6eb0ec9f8.png",
+          "logo_text": "",
+          "logo_max_width": 170,
+          "enable_header_search": true,
+          "enable_header_account": true,
+          "enable_header_wishlist": true,
+          "enable_header_cart": true,
+          "main_menu_2": "main-menu",
+          "main_menu_title": "Categories",
+          "always_show": false,
+          "display_megamenu_2": true,
+          "main_menu": "main-menu-2",
+          "label_1": "sale",
+          "label_1_collection": "flash deals",
+          "label_2": "hot",
+          "label_2_collection": "brands",
+          "label_3": "new",
+          "label_3_collection": "demo",
+          "social_show": true,
+          "social_text": "Special Offers",
+          "social_link": "https:\/\/facebook.com\/shopify",
+          "notice_show": true,
+          "notice_home_page_only": true,
+          "notice_text": "<span class=\"icon\"><i class=\"fas fa-bell\"><\/i><\/span><b>Limited Time Offer<\/b>: Sale up to 70% off on selected items. Offer ends:",
+          "notice_time": "2020\/3\/4 0:0:00",
+          "notice_link": ""
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_notes_enable": true,
+          "display_trust_img": true,
+          "img_trust": "shopify:\/\/shop_images\/trust_img.jpg",
+          "cart_securityContact": true,
+          "cart_securityContact_text1": "Secure Shopping Guarantee. Your information is secure.",
+          "cart_securityContact_text2": "Need Help? Contact us or Get in touch 1.800.000.8809"
+        }
+      },
+      "password-section": {
+        "type": "password-section",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/logo.png",
+          "logo_text": "",
+          "logo_max_width": 170,
+          "banner": "",
+          "heading": "Our new store will be  opening soon",
+          "subtitle": "Phasellus lorem malesuada de pulvinar commodo maecenas.",
+          "display_newsletter": true,
+          "success_message": "Thanks for contacting us. We'll get back to you as soon as possible",
+          "display_product_detail_share": true,
+          "footer_address_code": "© 2018 Ella Demo. All Rights Reserved. Ecommerce Software by Shopify.Shopify Themes by HaloThemes.com."
+        }
+      },
+      "1573027750154": {
+        "type": "brand-carousel",
+        "blocks": {
+          "1573027750154-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-1.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573027750154-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-2.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573027750154-2": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-3.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573027750154-3": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-4.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573027750154-4": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-5.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573028032887": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-8_1a048c08-570b-4052-b35d-8af61ad8c0b0.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          }
+        },
+        "block_order": [
+          "1573027750154-0",
+          "1573027750154-1",
+          "1573027750154-2",
+          "1573027750154-3",
+          "1573027750154-4",
+          "1573028032887"
+        ],
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": true,
+          "padding-top": 3,
+          "padding-bottom": 3,
+          "layout": "layout special",
+          "title": "Our Top Brands",
+          "text_link": "Browse all",
+          "custom_link": "shopify:\/\/pages\/brands",
+          "description": "",
+          "carousel-arrows": true,
+          "carousel-dots": false,
+          "column": 5
+        }
+      },
+      "brand-grid": {
+        "type": "brand-grid",
+        "blocks": {
+          "1573029593485": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-1.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573029628537": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-2.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573029656474": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-3.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573029677612": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-4.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573029700582": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-5.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573029724180": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-6.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573029751546": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-7.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573029819884": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-8_1a048c08-570b-4052-b35d-8af61ad8c0b0.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573029778414": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-9_bfaff2a3-29eb-413c-b65c-7bde59bb25f7.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          },
+          "1573029803302": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-10_1b1efb2e-b2e8-466b-95c3-b6c07f307f04.png",
+              "link": "https:\/\/caros-theme.myshopify.com",
+              "title": ""
+            }
+          }
+        },
+        "block_order": [
+          "1573029593485",
+          "1573029628537",
+          "1573029656474",
+          "1573029677612",
+          "1573029700582",
+          "1573029724180",
+          "1573029751546",
+          "1573029819884",
+          "1573029778414",
+          "1573029803302"
+        ],
+        "settings": {
+          "background-color": true,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 7,
+          "title": "Featured Brands",
+          "text_link": "view all",
+          "custom_link": "shopify:\/\/pages\/brands",
+          "description": "",
+          "column": 5
+        }
+      },
+      "1573033709117": {
+        "type": "banner-block-1",
+        "blocks": {
+          "1573033709117-0": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/card-image-5.jpg",
+              "link": "shopify:\/\/collections\/audio",
+              "title": "Headlights",
+              "description": "Pellentesque cosmo dinciduntos"
+            }
+          },
+          "1573033709117-1": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/card-image-6.jpg",
+              "link": "shopify:\/\/collections\/bibendumetos-1",
+              "title": "Brakes",
+              "description": "Pellentesque cosmo dinciduntos"
+            }
+          },
+          "1573033709117-2": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/card-image-7.jpg",
+              "link": "shopify:\/\/collections\/interior",
+              "title": "Seat Covers",
+              "description": "Pellentesque cosmo dinciduntos"
+            }
+          },
+          "1573033709117-3": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/card-image-8.jpg",
+              "link": "shopify:\/\/collections\/body-parts",
+              "title": "Body Kits",
+              "description": "Pellentesque cosmo dinciduntos"
+            }
+          },
+          "1573033709117-4": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/card-image-9.jpg",
+              "link": "shopify:\/\/collections\/custom-wheels",
+              "title": "Custom Wheels",
+              "description": "Pellentesque cosmo dinciduntos"
+            }
+          },
+          "1573033709117-5": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/card-image-10.jpg",
+              "link": "shopify:\/\/collections\/lighting",
+              "title": "Rear Lights",
+              "description": "Pellentesque cosmo dinciduntos"
+            }
+          }
+        },
+        "block_order": [
+          "1573033709117-0",
+          "1573033709117-1",
+          "1573033709117-2",
+          "1573033709117-3",
+          "1573033709117-4",
+          "1573033709117-5"
+        ],
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 5,
+          "title": "Popular Categories",
+          "text_link": "Browse all",
+          "custom_link": "#",
+          "description": "",
+          "title_layout": "center",
+          "column": 3,
+          "overlay": "light",
+          "custom_color": false,
+          "color_heading": "",
+          "color_heading_hover": "",
+          "color_text": ""
+        }
+      },
+      "1573037386750": {
+        "type": "banner-block-4",
+        "blocks": {
+          "1573037386750-0": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/card-image-13.jpg",
+              "link": "#",
+              "title": "POWERSPORTS",
+              "description": "Dinterdum pretium, Mauris, Condimentus",
+              "button": "shop now"
+            }
+          },
+          "1573037386750-1": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/card-image-14.jpg",
+              "link": "#",
+              "title": "JEEP SHOP",
+              "description": "Dinterdum pretium, Mauris, Condimentus",
+              "button": "shop now"
+            }
+          },
+          "1573037386750-2": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/card-image-15.jpg",
+              "link": "#",
+              "title": "SUV\/TRUCK",
+              "description": "Dinterdum pretium, Mauris, Condimentus",
+              "button": "shop now"
+            }
+          },
+          "1573037386750-3": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/card-image-16.jpg",
+              "link": "#",
+              "title": "MOTOCYCLE",
+              "description": "Dinterdum pretium, Mauris, Condimentus",
+              "button": "shop now"
+            }
+          }
+        },
+        "block_order": [
+          "1573037386750-0",
+          "1573037386750-1",
+          "1573037386750-2",
+          "1573037386750-3"
+        ],
+        "settings": {
+          "background-color": true,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 6,
+          "padding-bottom": 6,
+          "title": "More Departments",
+          "text_link": "",
+          "custom_link": "",
+          "description": "",
+          "title_layout": "center",
+          "overlay": "dark",
+          "button_all": "Browse All Departments",
+          "button_all_link": "https:\/\/caros-theme.myshopify.com",
+          "custom_color": false,
+          "color_heading": "",
+          "color_heading_hover": "",
+          "color_text": "",
+          "color_button_text": "",
+          "color_button_border": "",
+          "color_button_bg": "",
+          "color_button_text_hover": "",
+          "color_button_border_hover": "",
+          "color_button_bg_hover": ""
+        }
+      },
+      "1573041795656": {
+        "type": "section-product-special",
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 1,
+          "padding-bottom": 5,
+          "icon": "<i class=\"fas fa-bolt\"><\/i>",
+          "title": "Flash Sale",
+          "text_link": "",
+          "custom_link": "",
+          "description": "",
+          "title_layout": "left",
+          "title_border": true,
+          "custom-color": true,
+          "color_heading_custom": "#b20000",
+          "collection": "custom-wheels",
+          "collection_layout": "carousel",
+          "grid": 3,
+          "rows": 2,
+          "carousel-arrows": true,
+          "carousel-dots": true,
+          "icon_more": "",
+          "title_more": "Best Sellers",
+          "title_border_more": true,
+          "custom_color_more": false,
+          "color_heading_custom_more": "",
+          "collection_id": "comodianos-1",
+          "ads_image": "",
+          "ads_url": ""
+        }
+      },
+      "1573094198161": {
+        "type": "section-product-tab-1",
+        "blocks": {
+          "1573094198161-0": {
+            "type": "collectiontab",
+            "settings": {
+              "title_tab": "Top Rated",
+              "collection": "scelerisque-yurna"
+            }
+          },
+          "1573094198161-1": {
+            "type": "collectiontab",
+            "settings": {
+              "title_tab": "Featured Products",
+              "collection": "senectus-milance"
+            }
+          },
+          "1573094198161-2": {
+            "type": "collectiontab",
+            "settings": {
+              "title_tab": "Editor’s Picks",
+              "collection": "dincidunteros"
+            }
+          }
+        },
+        "block_order": [
+          "1573094198161-0",
+          "1573094198161-1",
+          "1573094198161-2"
+        ],
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 6,
+          "padding-bottom": 6,
+          "collection_layout": "carousel",
+          "column": 4,
+          "carousel-arrows": true,
+          "carousel-dots": true
+        }
+      },
+      "1573095868273": {
+        "type": "section-product-tab-2",
+        "blocks": {
+          "1573095868273-0": {
+            "type": "collectiontab",
+            "settings": {
+              "title_tab": "All",
+              "collection": "audio"
+            }
+          },
+          "1573095868273-1": {
+            "type": "collectiontab",
+            "settings": {
+              "title_tab": "Interior",
+              "collection": "interior"
+            }
+          },
+          "1573095868273-2": {
+            "type": "collectiontab",
+            "settings": {
+              "title_tab": "Exterior",
+              "collection": "exterior"
+            }
+          },
+          "1573095868273-3": {
+            "type": "collectiontab",
+            "settings": {
+              "title_tab": "performance",
+              "collection": "performance"
+            }
+          },
+          "1573095868273-4": {
+            "type": "collectiontab",
+            "settings": {
+              "title_tab": "Lighting",
+              "collection": "lighting"
+            }
+          },
+          "1573096069231": {
+            "type": "collectiontab",
+            "settings": {
+              "title_tab": "wheels & Tires",
+              "collection": "wheels-tires"
+            }
+          },
+          "1573096179633": {
+            "type": "collectiontab",
+            "settings": {
+              "title_tab": "Repair Parts",
+              "collection": "repair-parts"
+            }
+          },
+          "1573096112558": {
+            "type": "collectiontab",
+            "settings": {
+              "title_tab": "Body parts",
+              "collection": "body-parts"
+            }
+          }
+        },
+        "block_order": [
+          "1573095868273-0",
+          "1573095868273-1",
+          "1573095868273-2",
+          "1573095868273-3",
+          "1573095868273-4",
+          "1573096069231",
+          "1573096179633",
+          "1573096112558"
+        ],
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 5,
+          "title": "New Products",
+          "collection_layout": "carousel",
+          "column": 4,
+          "carousel-arrows": true,
+          "carousel-dots": true,
+          "collection_sort": "created-descending"
+        }
+      },
+      "1573113603503": {
+        "type": "featured-blog",
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 6,
+          "padding-bottom": 5,
+          "title": "Recent Blog Posts",
+          "text_link": "view all",
+          "custom_link": "shopify:\/\/blogs\/news",
+          "description": "",
+          "title_layout": "center",
+          "blog_layout": "carousel",
+          "column": 3,
+          "post_limit": 4,
+          "blog": "news",
+          "blog_show_author": true,
+          "blog_show_date": true
+        }
+      },
+      "section-product-1": {
+        "type": "section-product-1",
+        "settings": {
+          "background-color": false,
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 8,
+          "icon": "",
+          "title": "Current Top Sellers",
+          "text_link": "",
+          "custom_link": "",
+          "description": "",
+          "title_layout": "center",
+          "title_border": false,
+          "custom-color": false,
+          "color_heading_custom": "",
+          "collection": "all",
+          "collection_layout": "carousel",
+          "grid": 4,
+          "rows": 1,
+          "show_view_all": false,
+          "carousel-arrows": true,
+          "carousel-dots": true
+        }
+      }
+    },
+    "content_for_index": [
+      "1569227184831",
+      "1573027750154",
+      "1573033709117",
+      "1573041795656",
+      "1569228308798",
+      "1573095868273",
+      "1569228796445",
+      "1573094198161",
+      "1573037386750",
+      "1573113603503"
+    ]
+  }
+}

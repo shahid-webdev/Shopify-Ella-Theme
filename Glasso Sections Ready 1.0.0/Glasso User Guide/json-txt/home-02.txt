@@ -1,0 +1,2159 @@
+{
+  "current": {
+    "font_header": "google_fonts",
+    "fonts_name_header": "Heebo",
+    "header_font_shopify": "poppins_n7",
+    "type_header_base_size": 14,
+    "logo_size": 26,
+    "font_body": "google_fonts",
+    "fonts_name_body": "Heebo",
+    "type_base_font": "poppins_n4",
+    "type_base_size": 12,
+    "font_heading": "google_fonts",
+    "fonts_name_heading": "Heebo",
+    "type_heading_font": "poppins_n7",
+    "type_heading_size": 24,
+    "font_button": "google_fonts",
+    "fonts_name_button": "Heebo",
+    "type_button_font": "poppins_n7",
+    "type_button_size": 14,
+    "favicon": "shopify:\/\/shop_images\/favicon_32x32_5c7a9580-197b-429f-81ac-6e5d66920571.png",
+    "enable_opengraph": true,
+    "image_share": "",
+    "enable_backtotop": true,
+    "product_card_height_procent": 80,
+    "terms_conditions": true,
+    "terms_conditions_text": "I agree with the terms and conditions",
+    "use_option_swatch": true,
+    "option_color_swatch": "Color",
+    "enable_change_group_image": false,
+    "display_countdown": true,
+    "option_countdown": "all_product",
+    "count_down_timer": "2020-12-25 22:11:00",
+    "image_swap": true,
+    "show_product_quickview": true,
+    "show_product_vendor": true,
+    "show_product_title": true,
+    "show_product_reviews": false,
+    "show_product_price": true,
+    "show_product_variant": true,
+    "show_product_variant_img": false,
+    "show_product_variant_img_product": false,
+    "show_product_button": true,
+    "show_wishlist": true,
+    "show_wishlist_mb": false,
+    "show_product_compare": true,
+    "show_product_compare_mb": false,
+    "time_new": 30,
+    "number_product": 10,
+    "type_label_sale": "number",
+    "qv_enable_zoom": true,
+    "qv_enable_fancybox": true,
+    "qv_video_product": true,
+    "qv_display_product_reviews": true,
+    "qv_show_sold_in": true,
+    "qv_item_prd": "3,5,6,7,8,10,12,15",
+    "qv_item_prds": "sold in last",
+    "qv_hours_prs": "10,15,16,17,18,20,25,35",
+    "qv_item_hours": "hours",
+    "qv_display_vendor": true,
+    "qv_display_product_sku": true,
+    "qv_display_availability": true,
+    "qv_display_product_type": false,
+    "qv_display_price": true,
+    "qv_display_subtotal": false,
+    "qv_show_quantity_selector": true,
+    "qv_display_short_description": true,
+    "qv_number_words": "16",
+    "qv_dpl_customers_view": true,
+    "qv_title_view": "customers are viewing this product",
+    "qv_number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+    "qv_display_product_detail_share": true,
+    "qv_share_text": "Share",
+    "header_layout": "header_2",
+    "footer_layout": "footer_2",
+    "enable_language": false,
+    "lange_1": "en",
+    "lange_2": "de",
+    "lange_3": "",
+    "lange_4": "",
+    "lange_5": "",
+    "lange_6": "",
+    "enable_shopify_payments_currencies": false,
+    "enable_multiple_currencies": true,
+    "enable_auto_currency": false,
+    "currency_1_unit": "USD",
+    "currency_2_unit": "EUR",
+    "currency_3_unit": "GBP",
+    "currency_4_unit": "CHF",
+    "currency_5_unit": "",
+    "currency_6_unit": "",
+    "currency_7_unit": "",
+    "currency_8_unit": "",
+    "currency_9_unit": "",
+    "currency_10_unit": "",
+    "enable_search_trending": true,
+    "trending_search_title": "trending",
+    "trending_search_item_1": "sample",
+    "trending_search_item_2": "eyeswear shopify templates",
+    "trending_search_item_3": "glasses shopify themes",
+    "trending_search_item_4": "drag & drop",
+    "trending_search_item_5": "drag & drop shopify themes",
+    "trending_search_item_6": "sunglasses shop",
+    "enable_search_popular_products": true,
+    "popular_products_search_title": "Popular Products",
+    "popular_products_collection": "best-sellers",
+    "popular_products_limit": 3,
+    "display_popup_newsletter": true,
+    "when_to_show": "first_time",
+    "popup_newsletter_expire": 1,
+    "popup_newsletter_delay": 8,
+    "newsletter": "shopify:\/\/shop_images\/newsletter-image-compressor.jpg",
+    "popup_newsletter_title": "Join Our Mailing List",
+    "popup_newsletter_des_1": "Sign Up for exclusive updates, new arrivals and insider-only discounts",
+    "popup_newsletter_des": "We promise to only send you good things",
+    "popup_newsletter_text_note": "Don't show again!",
+    "newssletter_success_text": "You have successfully subscribed!",
+    "display_popup_social": true,
+    "display_someone-purchased": true,
+    "display_someone-purchased_mb": true,
+    "show_someone-purchased": "left",
+    "autorotate_speed": 8,
+    "text": "Someone recently bought a",
+    "someone_recently_product_1": "cosmopolis-an-milance-delo-sempus",
+    "from_ago_1": "20 minutes ago from Blackburn, UK",
+    "someone_recently_product_2": "daciniado-metropolis-an-darturien",
+    "from_ago_2": "20 minutes ago from Blackburn, UK",
+    "someone_recently_product_3": "fermentum-sodale-haugue-dinone-muscipito",
+    "from_ago_3": "20 minutes ago from Blackburn, UK",
+    "someone_recently_product_4": "fermentum-sodales-haugue-dinone-de-muscipito",
+    "from_ago_4": "20 minutes ago from Blackburn, UK",
+    "someone_recently_product_5": "lobortis-masim-tesque-lobortis",
+    "from_ago_5": "20 minutes ago from Blackburn, UK",
+    "display_gdpr": true,
+    "display_gdpr_mb": true,
+    "show_gdpr": "right",
+    "gdpr_content": "This website uses cookies to ensure you get the best experience.",
+    "gdpr_privacy_policy_text": "Learn more",
+    "gdpr_privacy_policy_link": "https:\/\/policies.google.com",
+    "gdpr_accept_cookies_text": "Ok, Got It",
+    "enable_progress_bar_shipping": true,
+    "shipping_price": "1001",
+    "enable_ask_an_expert": true,
+    "image-ask": "shopify:\/\/shop_images\/ask-an-expert-compressor.jpg",
+    "ask_an_expert_header": "Have Questions?",
+    "image_logo_ask": "shopify:\/\/shop_images\/logo-ask.png",
+    "ask_an_expert_des": "We will follow up with you via email within 24-36 hours.\nPlease answer the following questionnaire:",
+    "ask_an_expert_title": "Ask the expert anything on Glasso Store",
+    "enable_ask_do_you_need": true,
+    "ask_do_you_need": "Do You Need",
+    "ask_do_you_need_1": "Pricing",
+    "ask_do_you_need_2": "Answers",
+    "ask_do_you_need_3": "Both",
+    "ask_form_mess": "What can i help you with today ?",
+    "enable_how_would_you_like_me_to_contact_you": true,
+    "how_would_you_like_me_to_contact_you": "How would you like me to contact you?",
+    "contact_with_you_1": "Phone",
+    "contact_with_you_2": "Email",
+    "contact_with_you_3": "Both",
+    "share_image": "",
+    "social_twitter_link": "#",
+    "social_facebook_link": "#",
+    "social_pinterest_link": "#",
+    "social_google_plus_link": "#",
+    "social_instagram_link": "#",
+    "social_mail_link": "",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "color_body_text": "#3c3c3c",
+    "color_url": "#3c3c3c",
+    "color_url_hover": "#323232",
+    "color_body_bg": "#ffffff",
+    "color_heading_text": "#26292d",
+    "color_section_border": "#e2e2e2",
+    "color_section_bg_gray": "#f9f9f9",
+    "color_button_text": "#ffffff",
+    "color_button_border": "#26292d",
+    "color_button": "#26292d",
+    "color_button_text_hover": "#26292d",
+    "color_button_border_hover": "#26292d",
+    "color_button_hover": "#ffffff",
+    "color_button_secondary_text": "#26292d",
+    "color_button_secondary_border": "#26292d",
+    "color_button_secondary": "",
+    "color_button_secondary_text_hover": "#ffffff",
+    "color_button_secondary_border_hover": "#26292d",
+    "color_button_secondary_hover": "#26292d",
+    "color_small_button_text": "#000000",
+    "color_small_button_text_hover": "#8d8d8d",
+    "color_text_field_text": "#878787",
+    "color_text_field_border": "#d2d2d2",
+    "color_text_field": "#fff",
+    "image_overlay_opacity": 40,
+    "color_btt": "#999999",
+    "color_border_btt": "#999999",
+    "color_bg_btt": "#ffffff",
+    "color_cookieMessage": "#3c3c3c",
+    "color_bg_cookieMessage": "#ffffff",
+    "color_btn_cookieMessage_link": "#337dcf",
+    "color_btn_cookieMessage": "#3c3c3c",
+    "color_btn_cookieMessage_hover": "#3c3c3c",
+    "color_notification2": "#999999",
+    "color_title_notification2": "#323232",
+    "color_bg_notification2": "#ffffff",
+    "color_announcement_bar": "#26292d",
+    "color_bg_announcement_bar": "#ddbdb0",
+    "color_announcement_bar_svg": "#26292d",
+    "color_header_top": "#26292d",
+    "color_header_top_2": "#fff",
+    "color_bg_header_top": "#26292d",
+    "color_icon_social": "#fff",
+    "bg_line_header_top": "#b1978d",
+    "bg_line_header_top_2": "#fff",
+    "bg_eng_current_top": "#ddbdb0",
+    "color_cart_countPill": "#26292d",
+    "color_cart_countPill_2": "#fff",
+    "color_bg_cart_countPill": "rgba(0,0,0,0)",
+    "color_bg_cart_countPill_2": "#e64225",
+    "bg_cart_top": "#ddbdb0",
+    "color_header_middle": "#26292d",
+    "color_bg_header_middle": "#ffffff",
+    "color_logo": "#383e47",
+    "color_search_bar": "#868686",
+    "color_bg_search_bar": "#f7f7f7",
+    "color_bg_search_bar_2": "#fff",
+    "color_search_btn": "#26292d",
+    "bg_line_header_middle_2": "#d9d9d9",
+    "color_label_1": "#ffffff",
+    "color_bg_label_1": "#31b1df",
+    "color_label_2": "#ffffff",
+    "color_bg_label_2": "#e64225",
+    "color_label_3": "#ffffff",
+    "color_bg_label_3": "#ffb72d",
+    "color_dropdownmenu": "#383e47",
+    "color_dropdownmenu_hover": "#337dcf",
+    "color_border_dropdownmenu": "#f7f7f7",
+    "color_bg_dropdownmenu": "#ffffff",
+    "color_bg_dropdownmenu_hover": "#fafafa",
+    "color_title_dropdownmenu": "#323232",
+    "color_megamenu_lv2": "#26292d",
+    "color_megamenu_hover_lv2": "#26292d",
+    "color_megamenu_lv3": "#5a5a5a",
+    "color_megamenu_hover_lv3": "#337dcf",
+    "color_bg_megamenu": "#ffffff",
+    "color_footer_title": "#ffffff",
+    "color_footer_text": "#dddddd",
+    "color_footer_link_hover": "#ffffff",
+    "color_footer_bg": "#26292d",
+    "bg_contact_owner": "#26292d",
+    "border_contact_owner": "#343434",
+    "color_newsletter_input": "#383e47",
+    "color_newsletter_input_bg": "#ffffff",
+    "color_newsletter_input_border": "#ffffff",
+    "color_newsletter_button": "#fff",
+    "color_newsletter_button_bg": "#ddbdb0",
+    "color_newsletter_button_border": "#ddbdb0",
+    "color_newsletter_button_hover": "#fff",
+    "color_newsletter_button_bg_hover": "#ddbdb0",
+    "color_newsletter_button_border_hover": "#ddbdb0",
+    "footer_social": "#ffffff",
+    "footer_bottom_text": "#696969",
+    "footer_bottom_bg": "#fafafa",
+    "color_footer_title_2": "#26292d",
+    "color_footer_text_first": "#26292d",
+    "color_footer_text_2": "#696969",
+    "color_footer_link_hover_2": "#26292d",
+    "color_footer_bg_2": "#fafafa",
+    "color_newsletter_input_2": "#383e47",
+    "color_newsletter_input_bg_2": "#ffffff",
+    "color_newsletter_input_border_2": "#ffffff",
+    "color_newsletter_button_2": "#fff",
+    "color_newsletter_button_bg_2": "#000000",
+    "color_newsletter_button_border_2": "#000000",
+    "color_newsletter_button_hover_2": "#fff",
+    "color_newsletter_button_bg_hover_2": "#000000",
+    "color_newsletter_button_border_hover_2": "#000000",
+    "footer_social_2": "#191919",
+    "footer_bottom_text_2": "#696969",
+    "footer_bottom_bg_2": "#ffffff",
+    "color_product_vendor": "#696969",
+    "color_product_title": "#26292d",
+    "color_product_title_hover": "#26292d",
+    "color_product_review": "#ed6824",
+    "color_product_review_empty": "#e4e4e4",
+    "color_product_price": "#696969",
+    "color_product_price_sale": "#e64225",
+    "color_product_price_presale": "#696969",
+    "color_product_card_button_text": "#000000",
+    "color_product_card_button_bg": "#f9f9f9",
+    "color_product_card_button_border": "#f9f9f9",
+    "color_product_card_button_text_hover": "#000000",
+    "color_product_card_button_bg_hover": "#efefef",
+    "color_product_card_button_border_hover": "#efefef",
+    "color_product_button_text": "#ffffff",
+    "color_product_button_bg": "#26292d",
+    "color_product_button_border": "#26292d",
+    "color_product_button_text_hover": "#26292d",
+    "color_product_button_bg_hover": "#ffffff",
+    "color_product_button_border_hover": "#26292d",
+    "color_product_button_soldOut_text": "#ffffff",
+    "color_product_button_soldOut_bg": "#b2b2b2",
+    "color_product_button_soldOut_border": "#b2b2b2",
+    "color_checkout_button_text": "#ffffff",
+    "color_checkout_button_bg": "#e64225",
+    "color_checkout_button_border": "#e64225",
+    "color_checkout_button_text_hover": "#ffffff",
+    "color_checkout_button_bg_hover": "#e64225",
+    "color_checkout_button_border_hover": "#e64225",
+    "color_product_button_w_text": "#8b8c8e",
+    "color_product_button_w_bg": "#fff",
+    "color_product_button_w_border": "#aaaaaa",
+    "color_product_button_w_text_hover": "#e64225",
+    "color_product_button_w_bg_hover": "#fff",
+    "color_product_button_w_border_hover": "#aaaaaa",
+    "color_badge_text": "#ffffff",
+    "color_badge_bg": "#383e46",
+    "color_new_badge_text": "#ffffff",
+    "color_new_badge_bg": "#31b1df",
+    "color_sale_badge_text": "#ffffff",
+    "color_sale_badge_bg": "#f04723",
+    "color_soldOut_badge_text": "#ffffff",
+    "color_soldOut_badge_bg": "#b6b6b6",
+    "color_top_badge_text": "#ffffff",
+    "color_top_badge_bg": "#ffb72d",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "qv_display_countdown": "true",
+    "tid": "9691007",
+    "color_bestSellers_badge_text": "#ffffff",
+    "color_bestSellers_badge_bg": "#ed6912",
+    "fonts_name_hader": "Heebo",
+    "fonts_name_handle": "Comic Neue",
+    "type_header_font": "poppins_n7",
+    "option_size_swatch": "Size",
+    "option_material_swatch": "Product Options",
+    "color_heading_url": "#e020cc",
+    "color_social": "#f04723",
+    "color_social_hover": "#f04723",
+    "enable_multilang": false,
+    "qv_display_trust_img": true,
+    "qv_img_trust": "",
+    "qv_option_color_swatch": "Color",
+    "qv_option_size_swatch": "Size",
+    "qv_option_material_swatch": "Material",
+    "qv_use_color_swatch": true,
+    "qv_use_size_swatch": true,
+    "show_shipping_calculator": true,
+    "shipping_calculator_heading": "Get shipping estimates",
+    "shipping_calculator_default_country": "Canada",
+    "product_layout": "layout-2",
+    "color_btn_cookieMessage_link_hover": "#337dcf",
+    "color_btn_bg_cookieMessage": "#ffffff",
+    "color_btn_bg_cookieMessage_hover": "#58a335",
+    "multiCategory_color": "#ffffff",
+    "multiCategory_border": "#ffffff",
+    "multiCategory_bg": "#383e47",
+    "productCard_layout": "layout_1",
+    "color_footer_block_icon": "#505050",
+    "color_title_footer_block_icon": "#323232",
+    "bg_footer_block_icon": "#ffffff",
+    "border_footer_block_icon": "#ededed",
+    "color_contact_owner": "#ffffff",
+    "footer_social_border": "#636364",
+    "color_bg_search_btn": "#f7f7f7",
+    "color_border_search_bar": "#cccfd6",
+    "color_time_header_middle": "#383e47",
+    "nav_vertical_bg": "#f7f7f7",
+    "nav_vertical_color": "#383e47",
+    "nav_vertical_dropdown_bg": "#ffffff",
+    "nav_vertical_dropdown_border": "#ffffff",
+    "color_header_bottom": "#323232",
+    "color_bg_header_bottom": "#ffffff",
+    "color_border_header_bottom": "#eeeeee",
+    "color_header_top_shortdescription": "#383e47",
+    "color_border_header_top": "#f7f7f7",
+    "body_layout": "default",
+    "enable_multilevel_categories": true,
+    "category_filter_title": "",
+    "category_filter_des": "",
+    "category_filter_label1": "",
+    "category_filter_label2": "",
+    "category_filter_label3": "",
+    "category_filter": "",
+    "css_enable": false,
+    "customcss_enable": false,
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "1577760339503": {
+            "type": "style_1",
+            "settings": {
+              "megamenu_items_1": "Women",
+              "title_featured_product": "Featured Products",
+              "featured_product": "cosmopolis-an-milance-delo-sempus",
+              "featured_product_2": "pellentesque-divamus-cosmo-an-milancelos",
+              "featured_product_3": "",
+              "banner_first_style_1": "shopify:\/\/shop_images\/image-mega-1-compressor.jpg",
+              "link_banner_first_style_1": ""
+            }
+          },
+          "1577933235606": {
+            "type": "style_2",
+            "settings": {
+              "megamenu_items_2": "Best Sellers",
+              "banner_first_style_2": "shopify:\/\/shop_images\/image-mega-3-compressor.jpg",
+              "link_banner_first_style_2": "#",
+              "banner_second_style_2": "shopify:\/\/shop_images\/image-mega-4-compressor.jpg",
+              "link_banner_second_style_2": "#",
+              "banner_third_style_2": "shopify:\/\/shop_images\/image-mega-5-compressor.jpg",
+              "link_banner_third_style_2": "#",
+              "title_top_brand": "Top Brands",
+              "text_link_top_brand": "View all",
+              "link_top_brand": "shopify:\/\/collections\/all",
+              "banner_brand_top_1": "shopify:\/\/shop_images\/menu-brand-1-compressor.jpg",
+              "link_brand_top_1": "",
+              "banner_brand_top_2": "shopify:\/\/shop_images\/menu-brand-2-compressor.jpg",
+              "link_brand_top_2": "",
+              "banner_brand_top_3": "shopify:\/\/shop_images\/menu-brand-3-compressor.jpg",
+              "link_brand_top_3": "",
+              "banner_brand_top_4": "shopify:\/\/shop_images\/menu-brand-4-compressor.jpg",
+              "link_brand_top_4": "",
+              "banner_brand_top_5": "shopify:\/\/shop_images\/menu-brand-5-compressor.jpg",
+              "link_brand_top_5": "",
+              "banner_brand_top_6": "shopify:\/\/shop_images\/menu-brand-6-compressor.jpg",
+              "link_brand_top_6": ""
+            }
+          },
+          "1577965072247": {
+            "type": "style_3",
+            "settings": {
+              "megamenu_items_3": "New Arrivals",
+              "banner_first_style_3": "shopify:\/\/shop_images\/image-mega-2-compressor.jpg",
+              "link_banner_first_style_3": "shopify:\/\/collections\/all"
+            }
+          },
+          "1578034554518": {
+            "type": "style_4",
+            "settings": {
+              "megamenu_items_4": "Shop All",
+              "banner_first_style_4": "shopify:\/\/shop_images\/image-mega-6-compressor.jpg",
+              "link_banner_first_style_4": "shopify:\/\/collections\/all"
+            }
+          }
+        },
+        "block_order": [
+          "1577760339503",
+          "1577933235606",
+          "1577965072247",
+          "1578034554518"
+        ],
+        "settings": {
+          "message": true,
+          "home_page_only": false,
+          "message_text1": "Special offer: Sale upto 60% off. Use code: “SALE70”",
+          "message_link1": "",
+          "message_text2": "Genuine Product Guarantee",
+          "message_link2": "",
+          "header_top": true,
+          "enable_social": true,
+          "enable_multiple_language": true,
+          "enable_multiple_currencies": true,
+          "enable_header_cart": true,
+          "header_middle": true,
+          "main_menu": "main-menu",
+          "display_megamenu": true,
+          "show_more_menu": 5,
+          "logo": "shopify:\/\/shop_images\/glasso-b.png",
+          "logo_text": "",
+          "logo_max_width": 130,
+          "enable_header_search": true,
+          "enable_header_account": true,
+          "enable_header_wishlist": true,
+          "header_text_wishlist": "Wishlist",
+          "header_link_wishlist": "shopify:\/\/pages\/wish-list",
+          "enable_header_text_faq": true,
+          "header_text_faq": "FAQ",
+          "header_link_faq": "shopify:\/\/pages\/faqs",
+          "enable_header_text_about": true,
+          "header_text_about": "About",
+          "header_link_about": "shopify:\/\/pages\/about-us",
+          "label_1": "new",
+          "label_1_collection": "Shop All",
+          "label_2": "sale",
+          "label_2_collection": "Best Sellers",
+          "label_3": "hot",
+          "label_3_collection": "New Arrivals"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1578384295063": {
+            "type": "newsletter",
+            "settings": {
+              "enable_social": true,
+              "enable_newsletters": true,
+              "title": "Newsletters Sign Up"
+            }
+          },
+          "1578396099662": {
+            "type": "contact_owner",
+            "settings": {
+              "logo_footer": "shopify:\/\/shop_images\/logo-footer-compressor.png",
+              "contact_description": "<p>685 Market Street, San Francisco,<br> CA 94105, United States<\/p>\n<p>Toll-free: 1800-000-Glasso<br> Email: support@halothemes.com<\/p>\n<p>M-T 8:30-2:00 pm<br> F-S 9:00-1:00 pm GMT+7<\/p>"
+            }
+          },
+          "1578395309811": {
+            "type": "link_list",
+            "settings": {
+              "title": "Shop",
+              "menu": "shop"
+            }
+          },
+          "1578395316922": {
+            "type": "link_list",
+            "settings": {
+              "title": "Top Brands",
+              "menu": "top-brands"
+            }
+          },
+          "1578395334991": {
+            "type": "link_list",
+            "settings": {
+              "title": "Customer Service",
+              "menu": "customer-service"
+            }
+          },
+          "1578395342875": {
+            "type": "link_list",
+            "settings": {
+              "title": "Further Info",
+              "menu": "further-info"
+            }
+          },
+          "1578453524272": {
+            "type": "copyright",
+            "settings": {
+              "copyright_1": "©2020 Glassos Demo. All Rights Reserved. Powered by Shopify.",
+              "copyright_2": "Shopify Themes by HaloThemes.com"
+            }
+          },
+          "1578453529248": {
+            "type": "payment_methods",
+            "settings": {
+              "payment_image_1": "shopify:\/\/shop_images\/Visa_Inverted-compressor.png",
+              "payment_image_2": "shopify:\/\/shop_images\/MasterCard--compressor.png",
+              "payment_image_3": "shopify:\/\/shop_images\/American-Express--compressor.png",
+              "payment_image_4": "shopify:\/\/shop_images\/Discover--compressor.png",
+              "payment_image_5": "shopify:\/\/shop_images\/Cirrus_Inverted-compressor.png",
+              "payment_image_6": "shopify:\/\/shop_images\/PayPal--compressor.png",
+              "payment_image_7": "shopify:\/\/shop_images\/Western-Union-compressor.png",
+              "payment_image_8": "",
+              "payment_image_9": "",
+              "payment_image_10": ""
+            }
+          }
+        },
+        "block_order": [
+          "1578384295063",
+          "1578396099662",
+          "1578395309811",
+          "1578395316922",
+          "1578395334991",
+          "1578395342875",
+          "1578453524272",
+          "1578453529248"
+        ],
+        "settings": {
+        }
+      },
+      "sidebar-blog": {
+        "type": "sidebar-blog",
+        "blocks": {
+          "1579062245198": {
+            "type": "search",
+            "settings": {
+              "enable_search": true
+            }
+          },
+          "1579062250993": {
+            "type": "collection_1",
+            "settings": {
+              "title": "Categories",
+              "collection_id": "little_category",
+              "link_list": "sidebar-blog-category"
+            }
+          },
+          "1579062268015": {
+            "type": "recent_post",
+            "settings": {
+              "title": "Recent Articles",
+              "number": 5
+            }
+          },
+          "1580438117024": {
+            "type": "filter",
+            "settings": {
+              "title": "Browse Tags"
+            }
+          },
+          "1580442818563": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/image-sidebar-blog-compressor.jpg",
+              "link": ""
+            }
+          },
+          "1580443802353": {
+            "type": "quote",
+            "settings": {
+              "title": "Custom CMS Block",
+              "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... or whatever you like.<\/p>\n<p><\/p>\n<p><\/p>\n<p>There are many similar sample content placeholders across the store. All editable from admin panel.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1579062245198",
+          "1579062250993",
+          "1579062268015",
+          "1580438117024",
+          "1580442818563",
+          "1580443802353"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "position_sidebar": "left"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "blog_show_date": true,
+          "blog_show_author": true,
+          "blog_show_tag": false
+        }
+      },
+      "custom-block": {
+        "type": "custom-block",
+        "blocks": {
+          "1579078616958": {
+            "type": "logo_image",
+            "settings": {
+              "icon_policy": "<i class=\"fas fa-shipping-fast\" aria-hidden=\"true\"><\/i>",
+              "title": "Free Shipping",
+              "text": "on all orders over $199"
+            }
+          },
+          "1579078660796": {
+            "type": "logo_image",
+            "settings": {
+              "icon_policy": "<i class=\"far fa-star\"><\/i>",
+              "title": "Brand Authenticity",
+              "text": "100% genuine products"
+            }
+          },
+          "1579078673767": {
+            "type": "logo_image",
+            "settings": {
+              "icon_policy": "<i class=\"fas fa-sync\"><\/i>",
+              "title": "Free Returns",
+              "text": "online and in-store"
+            }
+          },
+          "1579078689459": {
+            "type": "logo_image",
+            "settings": {
+              "icon_policy": "<i class=\"fas fa-gift\"><\/i>",
+              "title": "Free Gift Wrapping",
+              "text": "on all orders over $69"
+            }
+          }
+        },
+        "block_order": [
+          "1579078616958",
+          "1579078660796",
+          "1579078673767",
+          "1579078689459"
+        ],
+        "settings": {
+          "background-color": true,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 3,
+          "padding-bottom": 3,
+          "style": "style-1",
+          "carousel-arrows": false,
+          "carousel-dots": false,
+          "column": 4,
+          "custom_color": false,
+          "color_icon": "",
+          "color_heading": "",
+          "color_text": "",
+          "color_line": "#26292d"
+        }
+      },
+      "blog-template-first": {
+        "type": "blog-template-first",
+        "settings": {
+          "blog_show_date": true,
+          "blog_show_author": true,
+          "blog_show_tag": false
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "blocks": {
+          "1580876137139": {
+            "type": "contact_infomation",
+            "settings": {
+              "title": "Please Do Get In Touch!",
+              "description": "<p>We'd love to hear from you - please use the form to send us your message or ideas. Or simply pop in for a cup of fresh tea and a cookie.<\/p>\n<p><a href=\"#\" title=\"#\">Chat With Us<\/a><\/p>\n\n<p class=\"line\">8808 Ave Dermentum, Onsec Adipiscing <br>\nTortor Sagittis, CA 880986, <br>United States<\/p>\n\n<p class=\"line\">Email: support@halothemes.com<br>Toll-free: +1800-000-GLASSO<\/p>\n\n<p class=\"line-bottom\"><span>Opening Hours:<\/span><br>\nMonday to Saturday: 9am - 10pm<br>Sundays: 10am - 6pm<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1580876137139"
+        ],
+        "settings": {
+          "display_google_map": true,
+          "google_map_code": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d3919.197399262761!2d106.7169798!3d10.7961881!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528a923189451%3A0x7e9f4037972a53da!2sLandmark%2081!5e0!3m2!1sen!2s!4v1580877246229!5m2!1sen!2s\" width=\"100%\" height=\"280\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\"><\/iframe>"
+        }
+      },
+      "sidebar-faq": {
+        "type": "sidebar-faq",
+        "blocks": {
+          "1580896245668": {
+            "type": "widget_sidebar",
+            "settings": {
+              "title": "",
+              "text": "<div class=\"wrapper-faqs\">\n    <h3 class=\"heading\">Need Help?<\/h3>\n\n    <div class=\"need-help\">\n\n        <a class=\"chat-link\" href=\"\" title=\"Message Us\">\n            <i class=\"fab fa-facebook-messenger\"><\/i>\n            <span class=\"link_text\">Message Us<\/span>\n        <\/a>\n\n        <a class=\"contact-link\" href=\"\" title=\"Contact Us\">\n            <i class=\"far fa-envelope\"><\/i>\n            <span class=\"link_text\">Contact Us<\/span>\n        <\/a>\n\n    <\/div>\n<\/div>"
+            }
+          }
+        },
+        "block_order": [
+          "1580896245668"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "position_sidebar": "left"
+        }
+      },
+      "faq-template": {
+        "type": "faq-template",
+        "blocks": {
+          "1580896361246": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Will your template be fully compatible with Shopify?",
+              "answer_faqs": "<p>Yes it is.<\/p>",
+              "faq_type": "1"
+            }
+          },
+          "1580896558806": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "I cannot upload the theme to my Shopify store \/ Shopify alerts that the file is too big to upload, what is the problem?",
+              "answer_faqs": "<p>1\/ Download the package from themeforest.net (the file is in zip format)<br><br>2\/ Extract the file you've just downloaded.<br><br>3\/ Find this file: glasso-1.0.0-sections-ready.zip in the folder Glasso Sections Ready 1.0.0 then you just need to upload glasso-1.0.0-sections-ready.zip file to your Shopify store.<\/p>",
+              "faq_type": "2"
+            }
+          },
+          "1580896627083": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "What I have to do when I need your support?",
+              "answer_faqs": "<p>To save your time and reach our support quickly, please follow below steps:\n<\/p><p>1\/ Create a staff account for us (with Themes permission and Settings permission) <a href=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" target=\"_blank\" rel=\"noopener noreferrer\">http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members<\/a><\/p>\n<p>2\/ Capture screenshot or video for the issue you get.<\/p>\n<p>3\/ Specify which template and version you are using.<\/p>\n<p>4\/ Describe clearly how to reproduce the issue.<\/p>\n<p>5\/ Send all information (staff account, screenshot, video, template name and version, description of the issues, link) to <a href=\"mailto:support@halothemes.com\" target=\"_blank\" rel=\"noopener noreferrer\">support@halothemes.com<\/a><\/p>\n<p><\/p>",
+              "faq_type": "2"
+            }
+          },
+          "1580899512153": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Would assistance be available to upload the template if needed?",
+              "answer_faqs": "<p>Yes, we will assist you to install the template if needed<\/p>",
+              "faq_type": "2"
+            }
+          },
+          "1580899549577": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Do you guys offer customisation services for your themes?",
+              "answer_faqs": "<p>Yes, we do. Please send your customisation requests to support@halothemes.com, we will give you our quote. Thank you.<\/p>",
+              "faq_type": "2"
+            }
+          },
+          "1580899838777": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Can I turn on\/off Lazy Loading Image \/ Item Animation \/ Fade Up on the page?",
+              "answer_faqs": "<p>Yes. You can turn on\/off the animation in the Setting page.<\/p>",
+              "faq_type": "2"
+            }
+          },
+          "1580899858872": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Can I turn on\/off some blocks on the page?",
+              "answer_faqs": "<p>Yes. You can turn on\/off almost any blocks on the page (featured products, slideshow, banners, related products, recent products,...).<\/p>",
+              "faq_type": "2"
+            }
+          },
+          "1580899879016": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "I want to have the dropdown cart displayed automatically every time clients hover over it (instead of clicking on it). Is it possible?",
+              "answer_faqs": "<p>Yes, we have a setting for you to switch between these two options: Display on Hover and Display on Click.<\/p>",
+              "faq_type": "2"
+            }
+          },
+          "1580899899977": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "What is included in the theme package?",
+              "answer_faqs": "<p>The theme package includes theme source, Photoshop design files, sample data and manual guide.<\/p>",
+              "faq_type": "2"
+            }
+          },
+          "1580899912122": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "I notice that the images used in the theme are all portrait. Will that be a problem if I use square images for our",
+              "answer_faqs": "<p>That is not a problem. You just need to modify the width\/height ratio in theme settings.<\/p>",
+              "faq_type": "2"
+            }
+          },
+          "1580899932477": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Does the theme support image resizing and cropping?",
+              "answer_faqs": "<p>Yes. Normally, the theme will resize images to a default size (based on your width\/height ratio setting). We also have Crop setting if you don’t want to scale the image.<\/p>",
+              "faq_type": "2"
+            }
+          },
+          "1580899960748": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Can I add borders around our product images?",
+              "answer_faqs": "<p>Yes, you can. You can also set image border colours.<\/p>",
+              "faq_type": "2"
+            }
+          },
+          "1580899976210": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Can I have multi level menu?",
+              "answer_faqs": "<p>Yes, you can. Just simply follow the instructions in our Manual Guide, you will be able to easily create a multi-level menu.<\/p>",
+              "faq_type": "2"
+            }
+          },
+          "1580899994547": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Do you guys provide customer support during weekends \/ holidays?",
+              "answer_faqs": "<p>Normally we don't provide support during weekends, except for urgent cases. In these cases, you only need to mark “Urgent” in your email, we will get back to you ASAP.<\/p>",
+              "faq_type": "2"
+            }
+          },
+          "1580900011224": {
+            "type": "question",
+            "settings": {
+              "question_faqs": "Does the theme support Variant Image?",
+              "answer_faqs": "<p>Yes, it does. Please check it out here to see how it works: <a href=\"https:\/\/glasso-theme.myshopify.com\/\/collections\/new-releases\/products\/daciniado-metropolis-darturien\">https:\/\/glasso-theme.myshopify.com\/\/collections\/new-releases\/products\/daciniado-metropolis-darturien<\/a><\/p>",
+              "faq_type": "2"
+            }
+          }
+        },
+        "block_order": [
+          "1580896361246",
+          "1580896558806",
+          "1580896627083",
+          "1580899512153",
+          "1580899549577",
+          "1580899838777",
+          "1580899858872",
+          "1580899879016",
+          "1580899899977",
+          "1580899912122",
+          "1580899932477",
+          "1580899960748",
+          "1580899976210",
+          "1580899994547",
+          "1580900011224"
+        ],
+        "settings": {
+          "show_question_faqs_type_1": true,
+          "question_faqs_type_1_title": "Pre-Sales Questions",
+          "show_question_faqs_type_2": true,
+          "question_faqs_type_2_title": "Theme Questions",
+          "email_text": "Contact Support",
+          "email_url": ""
+        }
+      },
+      "lookbook-content": {
+        "type": "lookbook-content",
+        "blocks": {
+          "1582107035475": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_image": "shopify:\/\/shop_images\/image-loobook-1-compressor.jpg",
+              "product_1": "cosmopolis-an-milance-delo-sempus-de-dinciduntsn",
+              "coordinates_x_1": 36,
+              "coordinates_y_1": 48,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1582107572527": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_image": "shopify:\/\/shop_images\/image-loobook-2-compressor.jpg",
+              "product_1": "lobortis-masim-tesque-lobortis",
+              "coordinates_x_1": 55,
+              "coordinates_y_1": 32,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          },
+          "1582107585509": {
+            "type": "lookbook_item",
+            "settings": {
+              "lookbook_image": "shopify:\/\/shop_images\/image-loobook-3-compressor.jpg",
+              "product_1": "proin-thuncy-semper-dustoute-lucto-de-cosmopolis-dincidunts",
+              "coordinates_x_1": 23,
+              "coordinates_y_1": 16,
+              "product_2": "pellentesque-divamus-cosmo-an-milancelos",
+              "coordinates_x_2": 81,
+              "coordinates_y_2": 39,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30
+            }
+          }
+        },
+        "block_order": [
+          "1582107035475",
+          "1582107572527",
+          "1582107585509"
+        ],
+        "settings": {
+          "display_share": true,
+          "display_btn": true,
+          "btn_text": "Shop LookBook",
+          "btn_link": "shopify:\/\/collections"
+        }
+      },
+      "section-product-lookbook": {
+        "type": "section-product-lookbook",
+        "settings": {
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 3,
+          "title": "You May Also Like...",
+          "sub_title": "Nullam maliquet destibulum augue an milance cosmopolis",
+          "custom-color": false,
+          "color_heading_custom": "",
+          "color_description_custom": "",
+          "collection": "shop-all",
+          "collection_layout": "carousel",
+          "grid": 4,
+          "rows": 6,
+          "carousel-arrows": true,
+          "carousel-dots": false
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "1582192904247": {
+            "type": "collection",
+            "settings": {
+              "collection": "placeratto"
+            }
+          },
+          "1582192917396": {
+            "type": "collection",
+            "settings": {
+              "collection": "milancelos-lanos"
+            }
+          },
+          "1582192922107": {
+            "type": "collection",
+            "settings": {
+              "collection": "dole-cosmopolis"
+            }
+          },
+          "1582252096078": {
+            "type": "collection",
+            "settings": {
+              "collection": "comos-de-milano"
+            }
+          },
+          "1582252102743": {
+            "type": "collection",
+            "settings": {
+              "collection": "nora-loremirus"
+            }
+          },
+          "1582252109248": {
+            "type": "collection",
+            "settings": {
+              "collection": "accessorius"
+            }
+          }
+        },
+        "block_order": [
+          "1582192904247",
+          "1582192917396",
+          "1582192922107",
+          "1582252096078",
+          "1582252102743",
+          "1582252109248"
+        ],
+        "settings": {
+          "display_type": "selected",
+          "sort": "alphabetical",
+          "column": 3,
+          "des_collection": "Phasellus pretium porttitor magna de porta. Maecenas in tortor volutpat massa consequat condimentum lacinia id nisl integer porta gravida. Dignissim duis dictum enos detiumos en loremous feugiat lacus cursus inos. Praesent sed nodeus at nisl pharetra, posuere daesent adipiscing laoreet dehicula."
+        }
+      },
+      "collection-header": {
+        "type": "collection-header",
+        "blocks": {
+          "1582271902245": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection_id": "shop-all"
+            }
+          },
+          "1582278379712": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection_id": "best-sellers"
+            }
+          }
+        },
+        "block_order": [
+          "1582271902245",
+          "1582278379712"
+        ],
+        "settings": {
+          "show_collection_image": true,
+          "display_collection_image_all": true,
+          "collection_image": "shopify:\/\/shop_images\/image-categories-1-compressor.jpg",
+          "custom_color": false,
+          "color_title_collection": "",
+          "color_description": ""
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "column": 3,
+          "rows": 12,
+          "sort_enable": true,
+          "showmore_enable": false
+        }
+      },
+      "sidebar-collection": {
+        "type": "sidebar-collection",
+        "blocks": {
+          "1582271694474": {
+            "type": "collection_1",
+            "settings": {
+              "title": "Categories",
+              "collection_id": "little_category",
+              "link_list": "menu-sidebar-category"
+            }
+          },
+          "1582622890100": {
+            "type": "filter_color",
+            "settings": {
+              "title": "Colors",
+              "list_tags": "Bisque, Black, Brown, White, Orange, Lightskyblue, CadetBlue, Custom Color"
+            }
+          },
+          "1582627549569": {
+            "type": "filter_text",
+            "settings": {
+              "title": "Sizes",
+              "list_tags": "XS, S, M, L, XL, 2X"
+            }
+          },
+          "1582629786284": {
+            "type": "filter_text",
+            "settings": {
+              "title": "Prices",
+              "list_tags": "Less than $100, $100 - $200, $200 - $400, Above $400"
+            }
+          },
+          "1582630007928": {
+            "type": "filter_text",
+            "settings": {
+              "title": "Brands",
+              "list_tags": "Able Brewing, Barr-Co, Benjamin Button, Chemex, Common Good, Sodling"
+            }
+          },
+          "1582683195966": {
+            "type": "filter_text",
+            "settings": {
+              "title": "Product Type",
+              "list_tags": "Dincidunteros, Cosmopolis, Solutmades, Loremous Comodous"
+            }
+          },
+          "1582685084370": {
+            "type": "product_carousel",
+            "settings": {
+              "title": "Featured Products",
+              "collection": "men",
+              "number": 6
+            }
+          },
+          "1582684198271": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/image-sidebar-blog-compressor.jpg",
+              "link": "#"
+            }
+          },
+          "1582684292611": {
+            "type": "quote",
+            "settings": {
+              "title": "Custom CMS Block",
+              "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... or whatever you like.<\/p>\n<p><\/p>\n<p><\/p>\n<p>There are many similar sample content placeholders across the store. All editable from admin panel.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1582271694474",
+          "1582622890100",
+          "1582627549569",
+          "1582629786284",
+          "1582630007928",
+          "1582683195966",
+          "1582685084370",
+          "1582684198271",
+          "1582684292611"
+        ],
+        "settings": {
+          "title_sidebar": "Shop By",
+          "display_sidebar": true
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "enable_zoom": true,
+          "text_zoom": "Zoom the image with the mouse",
+          "enable_fancybox": true,
+          "enable_thumbnails": true,
+          "video_product": true,
+          "display_product_reviews": true,
+          "show_sold_in": true,
+          "item_prd": "3,5,6,7,8,10,12,15",
+          "item_prds": "sold in last",
+          "hours_prs": "10,15,16,17,18,20,25,35",
+          "item_hours": "hours",
+          "display_vendor": true,
+          "display_product_sku": true,
+          "display_availability": true,
+          "display_product_type": false,
+          "display_progressbar": true,
+          "total_items": "100",
+          "min_items_left": "8",
+          "max_items_left": "26",
+          "progressbar_color": "#ccc",
+          "progressbar_active_color": "#2abd22",
+          "display_price": true,
+          "display_subtotal": false,
+          "show_quantity_selector": true,
+          "display_short_description": true,
+          "type_short_description": "default",
+          "number_words": "16",
+          "display_size_chart": true,
+          "size_guide_text": "Size Guide",
+          "custom_size_chart_header": "Size Chart",
+          "image_logo_sizechart": "shopify:\/\/shop_images\/logo-ask.png",
+          "size_chart": "none",
+          "custom_size_chart": "shopify:\/\/shop_images\/image-size-chart-compressor.jpg",
+          "enable_payment_button": true,
+          "dpl_customers_view": true,
+          "title_view": "customers are viewing this product",
+          "number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+          "display_product_detail_share": true,
+          "share_text": "Share",
+          "display_trust_img": true,
+          "img_trust": "shopify:\/\/shop_images\/trust_img.jpg",
+          "enable_sticky_atc": true
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "background-color": false,
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 3,
+          "title": "Related Products",
+          "products_layout": "carousel",
+          "column": 4,
+          "row": 1,
+          "carousel-arrows": true,
+          "carousel-dots": false
+        }
+      },
+      "recently-viewed-products": {
+        "type": "recently-viewed-products",
+        "settings": {
+          "show": true,
+          "background-color": false,
+          "border-top": true,
+          "border-bottom": false,
+          "padding-top": 5,
+          "padding-bottom": 3,
+          "title": "Recently Viewed",
+          "products_layout": "carousel",
+          "column": 4,
+          "limit": 6,
+          "carousel-arrows": true,
+          "carousel-dots": false
+        }
+      },
+      "collection_customHtml": {
+        "type": "collection_customHtml",
+        "settings": {
+          "customHtml": true,
+          "text": "Sample Paragraph Text Block: Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin delos felis. Pellentesque diam dolor cosmo elementum et lobortis at mollis delos risus. Curabitur semper sagittis mino de condimentum. Donec an mullamcorper mauris. Lorem ipsum dolor sit amet consectetur curabitur porttitor porta augue ddeu milance justo. Lorem ipsum dolor sit amet, consectetur adipiscing elito Sample Paragraph Text Block: Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin delos felis. Pellentesque diam dolor cosmo elementum et lobortis at mollis delos risus. Curabitur semper sagittis mino de condimentum. Donec an mullamcorper mauris. Lorem ipsum dolor sit amet consectetur curabitur porttitor porta augue ddeu milance justo. Lorem ipsum dolor sit amet, consectetur adipiscing elito",
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 3,
+          "padding-bottom": 9
+        }
+      },
+      "banner-custom-collection": {
+        "type": "banner-custom-collection",
+        "settings": {
+          "padding-top": 3,
+          "padding-bottom": 3,
+          "image": "shopify:\/\/shop_images\/banner-custom-collection-compressor.jpg",
+          "hero_layout_content": "right_to_left",
+          "title": "John Smith",
+          "text": "<p>&ldquo; Nam tempus turpis de metus scelerisque an lacerato nulla deumantos sollicitudin. Delos melis pellentesque dolor lobortis.&rdquo;<\/p>",
+          "button_label": "Read All Reviews",
+          "button_link": "",
+          "custom_color": false,
+          "bg_html": "",
+          "color_heading": "",
+          "color_text": "",
+          "color_button_one": "",
+          "border_button_one": "",
+          "bg_button_one": "",
+          "color_button_one_hover": "",
+          "border_button_one_hover": "",
+          "bg_button_one_hover": ""
+        }
+      },
+      "about-us-slideshow": {
+        "type": "about-us-slideshow",
+        "blocks": {
+          "1583124131599": {
+            "type": "content",
+            "settings": {
+              "title": "Temper de Milance",
+              "content": "Quisquemos sodales suscipit tortor ditaemcos condimentum de cosmo lacus meleifend menean diverra loremous. Nullam sit amet orci rutrum risus laoreet semper vel non magna. Mauris vel sem a lectus vehicula ultricies. Etiam semper sollicitudin lectus indous scelerisque. Curabitur vel tristique lacus. Nam risus mauris, accumsan et eleifend vitae, dignissim at eros. Vivamus pellentesque dui ex, a interdum orci dignissim vel.",
+              "dpl_qoute": true,
+              "profile_picture": "shopify:\/\/shop_images\/avata-blog.png",
+              "qoute_heading": "Managing Director",
+              "name": "Anne.Kl",
+              "qoute_content": "\"Quisquemos sodales suscipit tortor ditaemcos condimentum de cosmo lacus meleifend menean diverra loremous. Nullam sit amet orci rutrum risus laoreet semper vel non magna. Mauris vel sem a lectus vehicula ultricies...\"",
+              "button_text": "Meet The Team",
+              "button_link": ""
+            }
+          },
+          "1583124140383": {
+            "type": "content",
+            "settings": {
+              "title": "Glasso de Milance",
+              "content": "Quisquemos sodales suscipit tortor ditaemcos condimentum de cosmo lacus meleifend menean diverra loremous. Nullam sit amet orci rutrum risus laoreet semper vel non magna. Mauris vel sem a lectus vehicula ultricies. Etiam semper sollicitudin lectus indous scelerisque. Curabitur vel tristique lacus. Nam risus mauris, accumsan et eleifend vitae, dignissim at eros. Vivamus pellentesque dui ex, a interdum orci dignissim vel.",
+              "dpl_qoute": true,
+              "profile_picture": "shopify:\/\/shop_images\/avata-blog.png",
+              "qoute_heading": "Glasso Director",
+              "name": "Anne.B",
+              "qoute_content": "\"Quisquemos sodales suscipit tortor ditaemcos condimentum de cosmo lacus meleifend menean diverra loremous. Nullam sit amet orci rutrum risus laoreet semper vel non magna. Mauris vel sem a lectus vehicula ultricies...\"",
+              "button_text": "Meet The Team",
+              "button_link": ""
+            }
+          },
+          "1583124172868": {
+            "type": "content",
+            "settings": {
+              "title": "Tortor de Milance",
+              "content": "Quisquemos sodales suscipit tortor ditaemcos condimentum de cosmo lacus meleifend menean diverra loremous. Nullam sit amet orci rutrum risus laoreet semper vel non magna. Mauris vel sem a lectus vehicula ultricies. Etiam semper sollicitudin lectus indous scelerisque. Curabitur vel tristique lacus. Nam risus mauris, accumsan et eleifend vitae, dignissim at eros. Vivamus pellentesque dui ex, a interdum orci dignissim vel.",
+              "dpl_qoute": true,
+              "profile_picture": "shopify:\/\/shop_images\/avata-blog.png",
+              "qoute_heading": "Managing Director",
+              "name": "Linon.l",
+              "qoute_content": "\"Quisquemos sodales suscipit tortor ditaemcos condimentum de cosmo lacus meleifend menean diverra loremous. Nullam sit amet orci rutrum risus laoreet semper vel non magna. Mauris vel sem a lectus vehicula ultricies...\"",
+              "button_text": "Meet The Team",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1583124131599",
+          "1583124140383",
+          "1583124172868"
+        ],
+        "settings": {
+          "autoplay": true,
+          "slideshow_speed": "5000",
+          "background_image": "shopify:\/\/shop_images\/about-compo_2000x2000_a5286e01-dd0b-456e-b47a-d31cbcb7dd3e.jpg",
+          "custom_color": false,
+          "text_color": "#fff",
+          "button_text_color": "#fff",
+          "button_bg_color": "rgba(0,0,0,0)",
+          "button_bd_color": "#fff",
+          "button_text_color_h": "#fff",
+          "button_bg_color_h": "rgba(0,0,0,0)",
+          "button_bd_color_h": "#fff"
+        }
+      },
+      "tab-horizontal": {
+        "type": "tab-horizontal",
+        "blocks": {
+          "1583394607030": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Shipping+Returns",
+              "product_tab_content": "<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.<\/p>\n<h5>Returns Policy<\/h5>\n<p>You may return most new, unopened items within 30 days of delivery for a full refund. We'll also pay the return shipping costs if the return is a result of our error (you received an incorrect or defective item, etc.)... <\/p>\n<p>You should expect to receive your refund within four weeks of giving your package to the return shipper, however, in many cases you will receive a refund more quickly. This time period includes the transit time for us to receive your return from the shipper (5 to 10 business days), the time it takes us to process your return once we receive it (3 to 5 business days), and the time it takes your bank to process our refund request (5 to 10 business days). <\/p>\n<p>If you need to return an item, simply login to your account, view the order using the \"Complete Orders\" link under the My Account menu and click the Return Item(s) button. We'll notify you via e-mail of your refund once we've received and processed the returned item.<\/p>\n<h5>Shipping<\/h5>\n<p>If you need to return an item, simply login to your account, view the order using the \"Complete Orders\" link under the My Account menu and click the Return Item(s) button. We'll notify you via e-mail of your refund once we've received and processed the returned item. <\/p>\n<p>When you place an order, we will estimate shipping and delivery dates for you based on the availability of your items and the shipping options you choose. Depending on the shipping provider you choose, shipping date estimates may appear on the shipping quotes page.<\/p>\n<p>Please also note that the shipping rates for many items we sell are weight-based. The weight of any such item can be found on its detail page. To reflect the policies of the shipping companies we use, all weights will be rounded up to the next full pound.<\/p>",
+              "product_tab_content_2": ""
+            }
+          },
+          "1583394800860": {
+            "type": "product_tab",
+            "settings": {
+              "type_tab": "all",
+              "product_tab_title": "Custom Tab",
+              "product_tab_content": "<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.<\/p>\n<h5>Information<\/h5>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis. <\/p>\n<ul>\n    <li>Comodous in tempor ullamcorper miaculis. <\/li>\n    <li>Pellentesque vitae neque mollis urna mattis laoreet.<\/li>\n    <li>Divamus sit amet purus justo.<\/li>\n    <li>Proin molestie egestas orci ac suscipit risus posuere loremous.<\/li>\n<\/ul>\n<h5>Sample LookBook Gallery<\/h5>\n<div data-gallery-images=\"\">\n    <ul class=\"gallery-images\" data-slick='{\n    \"arrows\": true,\n    \"dots\": true,\n    \"autoplay\": true,\n    \"infinite\": false,\n    \"slidesToShow\": 3,\n    \"slidesToScroll\": 3\n    }'>\n        <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0286\/1252\/6220\/files\/gallary-custom-tab-1-compressor.jpg?v=1583471156\" data-fancybox=\"images\"><img class=\"image-item\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0286\/1252\/6220\/files\/gallary-custom-tab-1-compressor.jpg?v=1583471156\" alt=\"\"><\/a>\n        <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0286\/1252\/6220\/files\/gallary-custom-tab-2-compressor.jpg?v=1583471156\" data-fancybox=\"images\"><img class=\"image-item\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0286\/1252\/6220\/files\/gallary-custom-tab-2-compressor.jpg?v=1583471156\" alt=\"\"><\/a>\n        <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0286\/1252\/6220\/files\/gallary-custom-tab-3-compressor.jpg?v=1583471156\" data-fancybox=\"images\"><img class=\"image-item\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0286\/1252\/6220\/files\/gallary-custom-tab-3-compressor.jpg?v=1583471156\" alt=\"\"><\/a>\n        <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0286\/1252\/6220\/files\/gallary-custom-tab-1-compressor.jpg?v=1583471156\" data-fancybox=\"images\"><img class=\"image-item\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0286\/1252\/6220\/files\/gallary-custom-tab-1-compressor.jpg?v=1583471156\" alt=\"\"><\/a>\n        <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0286\/1252\/6220\/files\/gallary-custom-tab-2-compressor.jpg?v=1583471156\" data-fancybox=\"images\"><img class=\"image-item\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0286\/1252\/6220\/files\/gallary-custom-tab-2-compressor.jpg?v=1583471156\" alt=\"\"><\/a>\n    <\/ul>\n<\/div>\n<p>Curabitur semper sagittis mino de condimentum. Donec an mullamcorper mauris. Lorem ipsum dolor sit amet consectetur curabitur porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed efficitur vulputate turpis, a fermentum diam condimentum eget. Donec egestas ante vitae risus dignissim nec efficitur enim vulputate. Pellentesquae diam dolor an elementum et lobortis at mollis ut risus. <\/p>",
+              "product_tab_content_2": ""
+            }
+          }
+        },
+        "block_order": [
+          "1583394607030",
+          "1583394800860"
+        ],
+        "settings": {
+          "display_product_detail_description": true,
+          "product_description_title": "Description"
+        }
+      },
+      "product-reviews": {
+        "type": "product-reviews",
+        "settings": {
+          "show_product_reviews": true,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 0,
+          "padding-bottom": 9,
+          "title": "Customer Reviews",
+          "title_text": "Real Reviews from Real Customers"
+        }
+      },
+      "frequently-by-together": {
+        "type": "frequently-by-together",
+        "settings": {
+          "dpl_grouped_product": true,
+          "padding-top": 5,
+          "padding-bottom": 2,
+          "title": "Frequently Bought Together",
+          "enable_bundle_discount": true,
+          "bundle_discount_text": "Get a [discount]% discount buying these products together"
+        }
+      },
+      "banner-custom-product": {
+        "type": "banner-custom-product",
+        "settings": {
+          "padding-top": 0,
+          "padding-bottom": 3,
+          "image": "shopify:\/\/shop_images\/banner-image-custom-2-compressor.jpg",
+          "hero_layout_content": "right_to_left",
+          "title": "Quality handcrafted<br>100% Satisfaction Guarantee",
+          "text": "<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos.<\/p>",
+          "button_label": "",
+          "button_link": "",
+          "custom_color": false,
+          "bg_html": "",
+          "color_heading": "",
+          "color_text": "",
+          "color_button_one": "",
+          "border_button_one": "",
+          "bg_button_one": "",
+          "color_button_one_hover": "",
+          "border_button_one_hover": "",
+          "bg_button_one_hover": ""
+        }
+      },
+      "banner-image-product": {
+        "type": "banner-image-product",
+        "settings": {
+          "padding-top": 0,
+          "padding-bottom": 0,
+          "image": "shopify:\/\/shop_images\/banner-image-custom-1-compressor.jpg"
+        }
+      },
+      "product-customhtml": {
+        "type": "product-customhtml",
+        "settings": {
+          "customHtml": true,
+          "text": "<h4>Sample Ordered List<\/h4>\n<ol>\n<li>Comodous in tempor ullamcorper miaculis.<\/li>\n<li>Pellentesque vitae neque mollis urna mattis laoreet.<\/li>\n<li>Divamus sit amet purus justo.<\/li>\n<li>Proin molestie egestas orci ac suscipit risus posuere loremous.<\/li>\n<\/ol>\n<h4>Sample Block Quote<\/h4>\n<blockquote class=\"blockquote\">Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui.<\/blockquote>\n<h6>Sample Block Text<\/h6>\n<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar.<\/p>",
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 3,
+          "padding-bottom": 8
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_ajax_enable": true,
+          "cart_coupon_enable": true,
+          "cart_notes_enable": true,
+          "show_shipping_calculator": true,
+          "shipping_calculator_default_country": "Canada"
+        }
+      },
+      "search-template": {
+        "type": "search-template",
+        "settings": {
+          "column": 3,
+          "rows": 2
+        }
+      },
+      "header_2": {
+        "type": "header_2",
+        "blocks": {
+          "1587644358933": {
+            "type": "style_1",
+            "settings": {
+              "megamenu_items_1": "Women",
+              "title_featured_product": "Featured Products",
+              "featured_product": "cosmopolis-an-milance-delo-sempus-de-dinciduntsn",
+              "featured_product_2": "fermentum-sodales-haugue-dinone-de-muscipito",
+              "featured_product_3": "",
+              "banner_first_style_1": "shopify:\/\/shop_images\/image-mega-1-compressor.jpg",
+              "link_banner_first_style_1": ""
+            }
+          },
+          "1587644590694": {
+            "type": "style_2",
+            "settings": {
+              "megamenu_items_2": "Best Sellers",
+              "banner_first_style_2": "shopify:\/\/shop_images\/image-mega-3-compressor.jpg",
+              "link_banner_first_style_2": "",
+              "banner_second_style_2": "shopify:\/\/shop_images\/image-mega-4-compressor.jpg",
+              "link_banner_second_style_2": "",
+              "banner_third_style_2": "shopify:\/\/shop_images\/image-mega-5-compressor.jpg",
+              "link_banner_third_style_2": "",
+              "title_top_brand": "Top Brands",
+              "text_link_top_brand": "View all",
+              "link_top_brand": "shopify:\/\/collections",
+              "banner_brand_top_1": "shopify:\/\/shop_images\/menu-brand-1-compressor.jpg",
+              "link_brand_top_1": "",
+              "banner_brand_top_2": "shopify:\/\/shop_images\/menu-brand-2-compressor.jpg",
+              "link_brand_top_2": "",
+              "banner_brand_top_3": "shopify:\/\/shop_images\/menu-brand-3-compressor.jpg",
+              "link_brand_top_3": "",
+              "banner_brand_top_4": "shopify:\/\/shop_images\/menu-brand-4-compressor.jpg",
+              "link_brand_top_4": "",
+              "banner_brand_top_5": "shopify:\/\/shop_images\/menu-brand-5-compressor.jpg",
+              "link_brand_top_5": "",
+              "banner_brand_top_6": "shopify:\/\/shop_images\/menu-brand-6-compressor.jpg",
+              "link_brand_top_6": ""
+            }
+          },
+          "1587644824296": {
+            "type": "style_3",
+            "settings": {
+              "megamenu_items_3": "New Arrivals",
+              "banner_first_style_3": "shopify:\/\/shop_images\/image-mega-2-compressor.jpg",
+              "link_banner_first_style_3": ""
+            }
+          },
+          "1587644848155": {
+            "type": "style_4",
+            "settings": {
+              "megamenu_items_4": "Shop All",
+              "banner_first_style_4": "shopify:\/\/shop_images\/image-mega-6-compressor.jpg",
+              "link_banner_first_style_4": "shopify:\/\/collections"
+            }
+          }
+        },
+        "block_order": [
+          "1587644358933",
+          "1587644590694",
+          "1587644824296",
+          "1587644848155"
+        ],
+        "settings": {
+          "message": true,
+          "home_page_only": false,
+          "message_text1": "Special offer: Sale upto 60% off. Use code: “SALE70”",
+          "message_link1": "",
+          "message_text2": "Genuine Product Guarantee",
+          "message_link2": "",
+          "header_top": true,
+          "logo": "shopify:\/\/shop_images\/glasso-w.png",
+          "logo_text": "",
+          "logo_max_width": 155,
+          "enable_call_us": true,
+          "text_call_us": "Call Us +1 234 567 8901",
+          "link_call_us": "",
+          "enable_header_account": true,
+          "enable_header_wishlist": true,
+          "header_text_wishlist": "My Wishlists",
+          "header_link_wishlist": "shopify:\/\/pages\/wish-list",
+          "enable_multiple_language": true,
+          "enable_multiple_currencies": true,
+          "enable_header_cart": true,
+          "header_middle": true,
+          "main_menu": "main-menu",
+          "display_megamenu": true,
+          "show_more_menu": 5,
+          "enable_header_search": true,
+          "enable_header_text_faq": true,
+          "header_text_faq": "FAQ",
+          "header_link_faq": "",
+          "enable_header_text_about": true,
+          "header_text_about": "About",
+          "header_link_about": "",
+          "label_1": "new",
+          "label_1_collection": "Shop All",
+          "label_2": "sale",
+          "label_2_collection": "Best Sellers",
+          "label_3": "hot",
+          "label_3_collection": "New Arrivals"
+        }
+      },
+      "footer_2": {
+        "type": "footer_2",
+        "blocks": {
+          "1587953230039": {
+            "type": "link_list",
+            "settings": {
+              "title": "Trend Now",
+              "menu": "trend-now"
+            }
+          },
+          "1587953273494": {
+            "type": "link_list",
+            "settings": {
+              "title": "Top Brands",
+              "menu": "top-brands"
+            }
+          },
+          "1587953298481": {
+            "type": "link_list",
+            "settings": {
+              "title": "Customer Service",
+              "menu": "customer-service"
+            }
+          },
+          "1587953321905": {
+            "type": "link_list",
+            "settings": {
+              "title": "Further Info",
+              "menu": "further-info"
+            }
+          },
+          "1587954272461": {
+            "type": "newsletter",
+            "settings": {
+              "enable_social": true,
+              "enable_newsletters": true,
+              "title": "Join Our Mailing List",
+              "description": "Subscribe to the newsletter for exclusive access to the latest trends, sales and special offers."
+            }
+          },
+          "1587954281089": {
+            "type": "copyright",
+            "settings": {
+              "copyright_1": "©2020 Glassos Demo. All Rights Reserved. Powered by Shopify.",
+              "copyright_2": "Shopify Themes by HaloThemes.com"
+            }
+          },
+          "1587954282935": {
+            "type": "payment_methods",
+            "settings": {
+              "payment_image_1": "shopify:\/\/shop_images\/Visa_Inverted-compressor.png",
+              "payment_image_2": "shopify:\/\/shop_images\/MasterCard--compressor.png",
+              "payment_image_3": "shopify:\/\/shop_images\/American-Express--compressor.png",
+              "payment_image_4": "shopify:\/\/shop_images\/Discover--compressor.png",
+              "payment_image_5": "shopify:\/\/shop_images\/Cirrus_Inverted-compressor.png",
+              "payment_image_6": "shopify:\/\/shop_images\/PayPal--compressor.png",
+              "payment_image_7": "shopify:\/\/shop_images\/Western-Union-compressor.png",
+              "payment_image_8": "",
+              "payment_image_9": "",
+              "payment_image_10": ""
+            }
+          }
+        },
+        "block_order": [
+          "1587953230039",
+          "1587953273494",
+          "1587953298481",
+          "1587953321905",
+          "1587954272461",
+          "1587954281089",
+          "1587954282935"
+        ],
+        "settings": {
+        }
+      },
+      "1587960166400": {
+        "type": "rich-text",
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "top": 40,
+          "bottom": 90,
+          "full_width": false,
+          "text_align": "text-center",
+          "section_title": "Custom CMS Block",
+          "text": "<p>Nullam aliquet vestibulum augue non varius. Cras nec congue elit duis tristique vel ante nec aliquam. Praesent urna tellus laoreet eu tellus ullamcorper fermentum facilisis erat. Suspendisse tellus erat saliquam vel loremous a posuere. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elitos. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous.<\/p>",
+          "title_size": "medium",
+          "text_size": "medium",
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": ""
+        }
+      },
+      "1588134343132": {
+        "type": "section-product-new",
+        "settings": {
+          "padding-top": 5,
+          "padding-bottom": 0,
+          "title": "",
+          "text_link": "",
+          "custom_link": "",
+          "title_border": false,
+          "collection": "shop-all",
+          "collection_layout": "carousel",
+          "grid": 3,
+          "rows": 6,
+          "carousel-arrows": true,
+          "carousel-dots": false,
+          "custom-color": true,
+          "color_heading_custom": "",
+          "color_link_section": "",
+          "color_border_section": "",
+          "color_button_show_text": "#26292d",
+          "color_button_show_text_bg": "#ffffff",
+          "color_button_show_text_border": "#b7b8b9",
+          "color_button_show_text_hover": "#ffffff",
+          "color_button_show_text_bg_hover": "#26292d",
+          "color_button_show_text_border_hover": "#26292d"
+        }
+      },
+      "1588564614211": {
+        "type": "banner-image-full-width-1",
+        "blocks": {
+          "1588564614211-0": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-custom-1-compressor.jpg",
+              "link": "shopify:\/\/collections\/accessorius",
+              "title": "Cosmopolis",
+              "sub_title": "New Collection"
+            }
+          },
+          "1588564614211-1": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-custom-2-compressor.jpg",
+              "link": "shopify:\/\/collections\/best-sellers",
+              "title": "Best Sellers",
+              "sub_title": ""
+            }
+          },
+          "1588564614211-2": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-custom-3-compressor.jpg",
+              "link": "shopify:\/\/collections\/comos-de-milano",
+              "title": "Trending Now",
+              "sub_title": ""
+            }
+          },
+          "1588564614211-3": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-custom-4-compressor.jpg",
+              "link": "shopify:\/\/collections\/dole-cosmopolis",
+              "title": "Milancelos",
+              "sub_title": "Most Popular"
+            }
+          }
+        },
+        "block_order": [
+          "1588564614211-0",
+          "1588564614211-1",
+          "1588564614211-2",
+          "1588564614211-3"
+        ],
+        "settings": {
+          "padding-top": 0,
+          "padding-bottom": 0,
+          "custom_color": false,
+          "color_heading": "",
+          "color_sub_heading": ""
+        }
+      },
+      "1588565923440": {
+        "type": "banner-image-full-width",
+        "settings": {
+          "padding-top": 0,
+          "padding-bottom": 3,
+          "image": "shopify:\/\/shop_images\/banner-custom-full-1-compressor.jpg",
+          "effect": "parallax",
+          "content-layout": "left",
+          "title": "Editor’s Picks",
+          "text": "<p>Pellentesque habitant morbi tristique de malesuada fame de turpis lorem milancelos.<\/p>",
+          "button_label": "Shop Now",
+          "button_link": "",
+          "content-layout-video": "right",
+          "button_video_link": "",
+          "custom_color": true,
+          "color_heading": "",
+          "color_text": "",
+          "color_button_one": "#ffffff",
+          "border_button_one": "#000000",
+          "bg_button_one": "#000000",
+          "color_button_one_hover": "#000000",
+          "border_button_one_hover": "#000000",
+          "bg_button_one_hover": "#ffffff",
+          "color_icon_video": ""
+        }
+      },
+      "1588585466990": {
+        "type": "section-product-new",
+        "settings": {
+          "padding-top": 3,
+          "padding-bottom": 0,
+          "title": "",
+          "text_link": "",
+          "custom_link": "",
+          "title_border": false,
+          "collection": "new-arrivals",
+          "collection_layout": "carousel",
+          "grid": 3,
+          "rows": 4,
+          "carousel-arrows": true,
+          "carousel-dots": false,
+          "custom-color": true,
+          "color_heading_custom": "",
+          "color_link_section": "",
+          "color_border_section": "",
+          "color_button_show_text": "#26292d",
+          "color_button_show_text_bg": "#ffffff",
+          "color_button_show_text_border": "#b7b8b9",
+          "color_button_show_text_hover": "#ffffff",
+          "color_button_show_text_bg_hover": "#26292d",
+          "color_button_show_text_border_hover": "#26292d"
+        }
+      },
+      "1588585760820": {
+        "type": "banner-image-full-width",
+        "settings": {
+          "padding-top": 0,
+          "padding-bottom": 3,
+          "image": "shopify:\/\/shop_images\/banner-custom-full-2-compressor.jpg",
+          "effect": "parallax",
+          "content-layout": "left",
+          "title": "Must Have",
+          "text": "<p>Pellentesque habitant morbi tristique de malesuada fame de turpis lorem milancelos.<\/p>",
+          "button_label": "Shop Now",
+          "button_link": "",
+          "content-layout-video": "right",
+          "button_video_link": "https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc?autoplay=1&mute=1",
+          "custom_color": true,
+          "color_heading": "",
+          "color_text": "",
+          "color_button_one": "#ffffff",
+          "border_button_one": "#000000",
+          "bg_button_one": "#000000",
+          "color_button_one_hover": "#000000",
+          "border_button_one_hover": "#000000",
+          "bg_button_one_hover": "#ffffff",
+          "color_icon_video": ""
+        }
+      },
+      "1588586139208": {
+        "type": "section-product-new",
+        "settings": {
+          "padding-top": 3,
+          "padding-bottom": 0,
+          "title": "",
+          "text_link": "",
+          "custom_link": "",
+          "title_border": true,
+          "collection": "shop-all",
+          "collection_layout": "carousel",
+          "grid": 3,
+          "rows": 4,
+          "carousel-arrows": true,
+          "carousel-dots": false,
+          "custom-color": true,
+          "color_heading_custom": "",
+          "color_link_section": "",
+          "color_border_section": "",
+          "color_button_show_text": "#26292d",
+          "color_button_show_text_bg": "#ffffff",
+          "color_button_show_text_border": "#b7b8b9",
+          "color_button_show_text_hover": "#ffffff",
+          "color_button_show_text_bg_hover": "#26292d",
+          "color_button_show_text_border_hover": "#26292d"
+        }
+      },
+      "1588592450277": {
+        "type": "banner-image-full-width-2",
+        "blocks": {
+          "1588592450277-0": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-image-full-custom-1-compressor.jpg",
+              "link": "#",
+              "title": "Men",
+              "description": "Pellentesque habitant morbi tristique de malesuada fame de turpis lorem milancelos.",
+              "button_label": "Shop Men",
+              "button_link": "#"
+            }
+          },
+          "1588646945572": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-image-full-custom-2-compressor.jpg",
+              "link": "#",
+              "title": "Women",
+              "description": "Pellentesque habitant morbi tristique de malesuada fame de turpis lorem milancelos.",
+              "button_label": "Shop Women",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1588592450277-0",
+          "1588646945572"
+        ],
+        "settings": {
+          "padding-top": 0,
+          "padding-bottom": 3,
+          "custom_color": true,
+          "color_heading": "",
+          "color_description": "",
+          "color_button": "#ffffff",
+          "border_button": "#000000",
+          "bg_button": "#000000",
+          "color_button_hover": "#000000",
+          "border_button_hover": "#000000",
+          "bg_button_hover": "#ffffff"
+        }
+      },
+      "1588593167897": {
+        "type": "section-product-new",
+        "settings": {
+          "padding-top": 3,
+          "padding-bottom": 3,
+          "title": "Featured Products",
+          "text_link": "",
+          "custom_link": "",
+          "title_border": false,
+          "collection": "new-arrivals",
+          "collection_layout": "grid",
+          "grid": 3,
+          "rows": 6,
+          "carousel-arrows": false,
+          "carousel-dots": false,
+          "custom-color": true,
+          "color_heading_custom": "",
+          "color_link_section": "",
+          "color_border_section": "",
+          "color_button_show_text": "#26292d",
+          "color_button_show_text_bg": "#ffffff",
+          "color_button_show_text_border": "#b7b8b9",
+          "color_button_show_text_hover": "#ffffff",
+          "color_button_show_text_bg_hover": "#26292d",
+          "color_button_show_text_border_hover": "#26292d"
+        }
+      },
+      "1588663328145": {
+        "type": "instagram-2",
+        "blocks": {
+          "1588663342049": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/instagram-custom-1-compressor.jpg"
+            }
+          },
+          "1588663351910": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/instagram-custom-2-compressor.jpg"
+            }
+          },
+          "1588663356952": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/instagram-custom-3-compressor.jpg"
+            }
+          },
+          "1588663358409": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/instagram-custom-4-compressor.jpg"
+            }
+          },
+          "1588663363674": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/instagram-custom-5-compressor.jpg"
+            }
+          },
+          "1588663364982": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/instagram-custom-6-compressor.jpg"
+            }
+          },
+          "1588669496982": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/banner-image-custom-2-compressor.jpg"
+            }
+          },
+          "1588669501818": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/adalia-botha-Tsg7bwV0iTk-unsplash-compressor.jpg"
+            }
+          },
+          "1588669503850": {
+            "type": "instagram_block",
+            "settings": {
+              "instagram_image": "shopify:\/\/shop_images\/fanny-renaud-NvVQzDrHrSU-unsplash-compressor.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1588663342049",
+          "1588663351910",
+          "1588663356952",
+          "1588663358409",
+          "1588663363674",
+          "1588663364982",
+          "1588669496982",
+          "1588669501818",
+          "1588669503850"
+        ],
+        "settings": {
+          "padding-top": 6,
+          "padding-bottom": 3,
+          "title": "#Glasso Image Gallery",
+          "text_des": "This is an image gallery block but you can use this block as an instagram feed by installing an Instagram Shopify App",
+          "instagram_option": "block",
+          "accessToken": "",
+          "load_more": true,
+          "custom_color": false,
+          "color_heading_section": "",
+          "color_text": "",
+          "color_icon": ""
+        }
+      },
+      "1588729974738": {
+        "type": "custom-block",
+        "blocks": {
+          "1588729974738-0": {
+            "type": "logo_image",
+            "settings": {
+              "icon_policy": "<i class=\"fas fa-shipping-fast\" aria-hidden=\"true\"><\/i>",
+              "title": "Free Shipping",
+              "text": "on all orders over $199"
+            }
+          },
+          "1588729974738-1": {
+            "type": "logo_image",
+            "settings": {
+              "icon_policy": "<i class=\"far fa-star\"><\/i>",
+              "title": "Authentic Brands",
+              "text": "100% genuine products"
+            }
+          },
+          "1588729974738-2": {
+            "type": "logo_image",
+            "settings": {
+              "icon_policy": "<i class=\"fas fa-sync\"><\/i>",
+              "title": "Free Returns",
+              "text": "online and in-store"
+            }
+          },
+          "1588729974738-3": {
+            "type": "logo_image",
+            "settings": {
+              "icon_policy": "<i class=\"fas fa-gift\"><\/i>",
+              "title": "Free Gift Wrapping",
+              "text": "on all orders over $69"
+            }
+          }
+        },
+        "block_order": [
+          "1588729974738-0",
+          "1588729974738-1",
+          "1588729974738-2",
+          "1588729974738-3"
+        ],
+        "settings": {
+          "background-color": false,
+          "border-top": false,
+          "border-bottom": false,
+          "padding-top": 6,
+          "padding-bottom": 3,
+          "style": "style-2",
+          "carousel-arrows": false,
+          "carousel-dots": false,
+          "column": 4,
+          "custom_color": false,
+          "color_icon": "",
+          "color_heading": "",
+          "color_text": "",
+          "color_line": "#26292d"
+        }
+      },
+      "1588748747229": {
+        "type": "banner-image-full-width-3",
+        "blocks": {
+          "1588748747229-0": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/image-full-custom-1-compressor.jpg",
+              "link": "#",
+              "icon": "<i class=\"fas fa-trophy\"><\/i>",
+              "title": "High Quality",
+              "button_label": "Find out more",
+              "button_link": "shopify:\/\/collections"
+            }
+          },
+          "1588748747229-1": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/image-full-custom-2-compressor.jpg",
+              "link": "#",
+              "icon": "<i class=\"fas fa-glasses\"><\/i>",
+              "title": "More Style",
+              "button_label": "Discover",
+              "button_link": "shopify:\/\/collections"
+            }
+          },
+          "1588748747229-2": {
+            "type": "banner_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/image-full-custom-3-compressor.jpg",
+              "link": "#",
+              "icon": "<i class=\"far fa-calendar-check\"><\/i>",
+              "title": "More Durable",
+              "button_label": "Find out more",
+              "button_link": "shopify:\/\/collections"
+            }
+          }
+        },
+        "block_order": [
+          "1588748747229-0",
+          "1588748747229-1",
+          "1588748747229-2"
+        ],
+        "settings": {
+          "padding-top": 2,
+          "padding-bottom": 3,
+          "custom_color": false,
+          "color_heading": "",
+          "color_icon": "",
+          "color_button": "",
+          "color_button_hover": ""
+        }
+      },
+      "1589195771419": {
+        "type": "banner-image-full-width",
+        "settings": {
+          "padding-top": 0,
+          "padding-bottom": 0,
+          "image": "shopify:\/\/shop_images\/banner-image-parallax-1-compressor.jpg",
+          "effect": "parallax",
+          "content-layout": "left",
+          "title": "New Release",
+          "text": "<p>Pellentesque habitant morbi tristique de malesuada fame de turpis lorem milancelos.<\/p>",
+          "button_label": "Shop Now",
+          "button_link": "",
+          "content-layout-video": "right",
+          "button_video_link": "",
+          "custom_color": false,
+          "color_heading": "",
+          "color_text": "",
+          "color_button_one": "",
+          "border_button_one": "",
+          "bg_button_one": "",
+          "color_button_one_hover": "",
+          "border_button_one_hover": "",
+          "bg_button_one_hover": "",
+          "color_icon_video": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1589195771419",
+      "1588134343132",
+      "1588564614211",
+      "1588565923440",
+      "1588585466990",
+      "1588585760820",
+      "1588586139208",
+      "1588592450277",
+      "1588593167897",
+      "1588663328145",
+      "1588729974738",
+      "1588748747229",
+      "1587960166400"
+    ]
+  }
+}

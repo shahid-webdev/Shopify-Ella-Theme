@@ -1,0 +1,1958 @@
+﻿{
+  "current": {
+    "license": "",
+    "tid": "9691007",
+    "layout_body": "default",
+    "bg_body_boxed": "#f8f8f8",
+    "header_layout": "parallax",
+    "list_collections_layout": "collections_01_grid",
+    "category_layout": "default",
+    "product_layout": "default",
+    "blog_layout": "default",
+    "footer_layout": "default",
+    "enable_multilang": false,
+    "lange_1": "English",
+    "lange_2": "German",
+    "display_sticky": true,
+    "display_sticky_mb": true,
+    "display_countdown": true,
+    "bg_sticky": "#fff",
+    "color_sticky": "#3c3c3c",
+    "color_variants": "#646464",
+    "social_facebook_link": "http:\/\/facebook.com\/shopify",
+    "social_twitter_link": "http:\/\/twitter.com\/shopify",
+    "social_vimeo_link": "",
+    "social_instagram_link": "http:\/\/instagram.com\/shopify",
+    "social_google_plus_link": "http:\/\/plus.google.com\/+shopify",
+    "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/shopify",
+    "social_youtube_link": "",
+    "bg_menu_mb": "#fff",
+    "color_menu_mb": "#232323",
+    "border_color_menu_mb": "#ebebeb",
+    "color_menu_mb_lv1": "#232323",
+    "color_menu_mb_lv1_hover": "#0688e2",
+    "bg_color_menu_mb_lv1_hover": "#f8f8f8",
+    "color_menu_mb_lv2": "#232323",
+    "color_menu_mb_lv2_hover": "#232323",
+    "color_menu_mb_lv3": "#3c3c3c",
+    "color_menu_mb_lv3_hover": "#0688e2",
+    "favicon": "shopify:\/\/shop_images\/favicon.png",
+    "body_font_size": "12",
+    "body_bg": "#ffffff",
+    "body_color": "#3c3c3c",
+    "link_color": "#0688e2",
+    "link_color_hover": "#232323",
+    "display_breadcrumb": true,
+    "breadcrumb_color": "#999999",
+    "breadcrumb_text_transform": "capitalize",
+    "page_title_font_size": "20",
+    "page_title_color": "#232323",
+    "page_title_text_align": "left",
+    "enable_sidebar_multiple_choice": true,
+    "product_name_text_transform": "none",
+    "product_name_text_align": "center",
+    "color_title_product": "#232323",
+    "color_title_product_hover": "#232323",
+    "color_vendor": "#232323",
+    "sale_text": "#fff",
+    "bg_sale": "#e95144",
+    "custom_label_text": "#fff",
+    "custom_label_bg": "#323232",
+    "sold_out_text": "#fff",
+    "bg_sold_out": "#c1c1c1",
+    "color_price": "#232323",
+    "color_price_sale": "#e95144",
+    "color_compare_price": "#969696",
+    "color_quick_view": "#ffffff",
+    "bg_quick_view": "#000000",
+    "color_wishlist": "#232323",
+    "bg_wishlist": "#ffe5e5",
+    "enable_hover_image": true,
+    "use_color_swatch": true,
+    "color_swatch_style": "normal",
+    "btn_1_bg_color": "#232323",
+    "btn_1_border_color": "#232323",
+    "btn_1_text_color": "#ffffff",
+    "btn_2_bg_color": "#fff",
+    "btn_2_border_color": "#232323",
+    "btn_2_text_color": "#232323",
+    "btn_3_bg_color": "#e95144",
+    "btn_3_border_color": "#e95144",
+    "btn_3_text_color": "#ffffff",
+    "display_popup_newsletter": true,
+    "newsletter": "shopify:\/\/shop_images\/newsletter-compressor.jpg",
+    "popup_newsletter_title": "Join Our Mailing List",
+    "popup_newsletter_des": "Sign Up for exclusive updates,  <br>new arrivals & insider-only discounts",
+    "mailing_list_form_action": "\/\/myshopify.us9.list-manage.com\/subscribe\/post?u=f03cabb421b3912425cda25cc&amp;id=2b084b0139",
+    "popup_newsletter_text_note": "No, thanks",
+    "display_popup_social": true,
+    "enable_wishlist": true,
+    "image_swap": true,
+    "product_image_border": false,
+    "product_image_border_color": "#e6e6e6",
+    "product_image_resize": false,
+    "show_vendor": true,
+    "display_product_reviews": true,
+    "display_item_size": true,
+    "display_item_swatch": true,
+    "display_button": true,
+    "collection_infinite_scrolling": true,
+    "infinity_scroll_feature": true,
+    "enable_quick_view": true,
+    "qv_display_product_reviews": true,
+    "qv_show_sold_in": true,
+    "qv_item_prd": "3,5,6,7,8,10,12,15",
+    "qv_item_prds": "sold in last",
+    "qv_hours_prs": "10,15,16,17,18,20,25,35",
+    "qv_item_hours": "hours",
+    "display_quickview_vendor": true,
+    "quickview_text_vendor": "Brand:",
+    "display_quickview_product_sku": true,
+    "text_quickview_product_sku": "Product Code:",
+    "display_quickview_availability": true,
+    "quickview_text_availability": "Availability",
+    "display_quickview_product_type": false,
+    "quickview_text_product_type": "Product Type",
+    "quickview_text_countdown": "Limited-Time Offers, End in:",
+    "display_quickview_short_desc": true,
+    "display_quickview_subtotal": true,
+    "dpl_customers_view_qv": true,
+    "title_view_qv": "customers are viewing this product",
+    "number_view_qv": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+    "display_product_detail_share": true,
+    "display_size_chart": true,
+    "size_guide_text": "Size Guide",
+    "custom_size_chart_header": "Size Chart",
+    "size_chart": "none",
+    "custom_size_chart": "shopify:\/\/shop_images\/size-chart-compressor.jpg",
+    "enable_ask_an_expert": true,
+    "ask_an_expert": "<i class=\"fa fa-question-circle\"><\/i><span class=\"text\">Have Questions?<\/span><a href=\"javascript:void(0)\" title=\"Ask An Expert\">Ask An Expert<\/a>",
+    "ask_an_expert_header": "Have Questions?",
+    "ask_an_expert_title": "Ask the Fashion Expert anything on Ella Boutique",
+    "ask_an_expert_des": "We will follow up with you via email within 24-36 hours",
+    "ask_an_expert_questions": "Please answer the following questionnaire",
+    "enable_ask_do_you_need": true,
+    "ask_do_you_need": "Do You Need:",
+    "ask_do_you_need_1": "Pricing",
+    "ask_do_you_need_2": "Answers",
+    "ask_do_you_need_3": "Both",
+    "ask_form_mess": "What can i help you with today ?",
+    "enable_how_would_you_like_me_to_contact_you": true,
+    "how_would_you_like_me_to_contact_you": "How would you like me to contact you?",
+    "contact_with_you_1": "Phone",
+    "contact_with_you_2": "Email",
+    "contact_with_you_3": "Both",
+    "ajax_popup_cart": "upsell",
+    "cart_popup_related_title": "YOU MAY ALSO LIKE",
+    "secure_text": "Secure Shopping Guarantee.",
+    "img_trust": "shopify:\/\/shop_images\/trust_800x-compressor.png",
+    "show_shipping_calculator": true,
+    "shipping_calculator_heading": "Get shipping estimates | Holen Versand Schätzungen",
+    "shipping_calculator_default_country": "United States",
+    "register_text_desc": "Sign up for a free account at Ella Boutique.",
+    "login_text_desc": "Register with us for a faster checkout, <br> to track the status of your order and more.",
+    "search_1": "Your search for | Ihre Suche nach",
+    "search_2": "did not yield any results. | hat keine Ergebnisse hervorgebracht.",
+    "search_3": "Your search for | Ihre Suche nach",
+    "search_4": "revealed the following: | hat folgende Ergebnisse hervorgebracht:",
+    "enable_search_trending": true,
+    "trending_search_title": "trending",
+    "trending_search_item_1": "dempus",
+    "trending_search_item_2": "sample",
+    "trending_search_item_3": "magnis",
+    "trending_search_item_4": "loremous saliduar",
+    "trending_search_item_5": "naminos",
+    "trending_search_item_6": "dinterdum",
+    "enable_search_popular_products": true,
+    "popular_products_search_title": "Popular Products",
+    "popular_products_collection": "new-in",
+    "popular_products_limit": 4,
+    "enable_multiple_currencies": true,
+    "currency_1_unit": "USD",
+    "currency_2_unit": "EUR",
+    "currency_3_unit": "GBP",
+    "currency_4_unit": "CHF",
+    "font": "google_fonts",
+    "fonts_name": "Poppins",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#2d2d2d",
+    "checkout_button_color": "#000000",
+    "checkout_error_color": "#ff6d6d",
+    "checkout_use_header_image": true,
+    "checkout_logo": "checkout_logo.png",
+    "checkout_use_body_background_image": false,
+    "checkout_use_sidebar_background_image": false,
+    "checkout_banner_background_color": "#ffffff",
+    "checkout_headline": "",
+    "checkout_call_to_action_color": "#000000",
+    "customer_layout": "theme",
+    "search_placeholder": "Suche | search",
+    "sections": {
+      "header-parallax": {
+        "type": "header-parallax",
+        "blocks": {
+          "1547542822279": {
+            "type": "style_1",
+            "settings": {
+              "megamenu_items_1": "Trend",
+              "title_featured_product": "Featured Products",
+              "featured_product": "dinterdum-pretium-condimento-1",
+              "banner_first_style_1": "shopify:\/\/shop_images\/mega-style-1-compressor.jpg",
+              "link_banner_first_style_1": "shopify:\/\/collections\/all"
+            }
+          },
+          "1547543027133": {
+            "type": "style_2",
+            "settings": {
+              "megamenu_items_2": "New In",
+              "banner_first_style_2": "shopify:\/\/shop_images\/mega-style-2-1-compressor.jpg",
+              "link_banner_first_style_2": "shopify:\/\/collections\/cosmopolis",
+              "banner_second_style_2": "shopify:\/\/shop_images\/mega-style-2-2-compressor.jpg",
+              "link_banner_second_style_2": "shopify:\/\/collections\/all",
+              "banner_third_style_2": "shopify:\/\/shop_images\/mega-style-2-3-compressor.jpg",
+              "link_banner_third_style_2": "shopify:\/\/collections\/suito"
+            }
+          },
+          "1547543160341": {
+            "type": "style_3",
+            "settings": {
+              "megamenu_items_3": "Collections"
+            }
+          },
+          "1547543164901": {
+            "type": "style_4",
+            "settings": {
+              "megamenu_items_4": "Demo",
+              "banner_first_style_4": "shopify:\/\/shop_images\/mega-style-4-compressor.jpg",
+              "link_banner_first_style_4": ""
+            }
+          }
+        },
+        "block_order": [
+          "1547542822279",
+          "1547543027133",
+          "1547543160341",
+          "1547543164901"
+        ],
+        "settings": {
+          "display_header_top": true,
+          "top_message_text": "Mid-season sale up to 70% off. <a href=\"#\">Shop now<\/a>",
+          "font_weight_bold": false,
+          "bg_header_top": "#ef6454",
+          "text_header_top_color": "#fff",
+          "brand_type": "image",
+          "brand_text": "",
+          "logo": "shopify:\/\/shop_images\/ella-logo-black-compressor.png",
+          "max_height_logo_mb": "26px",
+          "logo_pc": "shopify:\/\/shop_images\/ella-logo-black-compressor.png",
+          "max_height_logo_pc": "33px",
+          "display_parallax": true,
+          "font_weight_nav": false,
+          "logo_parallax": "shopify:\/\/shop_images\/ella-logo-black-compressor.png",
+          "menu_parallax_color": "#232323",
+          "bg_search_color": "#f8f8f8",
+          "search_color": "#787878",
+          "search_color_btn": "#333333",
+          "bg_cart_color": "#ef6454",
+          "cart_color": "#fff",
+          "display_fixtop_menu": true,
+          "alignment": "center",
+          "bg_menu": "#fff",
+          "bg_dropdown_menu": "#fff",
+          "color_menu_lv1": "#232323",
+          "hover_color_mnu_lv1": "#232323",
+          "font_size_mnu_lv1": "13px",
+          "color_menu_lv2": "#232323",
+          "hover_color_mnu_lv2": "#232323",
+          "font_size_mnu_lv2": "12px",
+          "color_menu_lv3": "#3c3c3c",
+          "hover_color_mnu_lv3": "#0688e2",
+          "font_size_mnu_lv3": "12px",
+          "enable_sale": true,
+          "lb_sale": "Sale",
+          "sale_item": "Collections",
+          "bg_lb_sale": "#ef6454",
+          "color_lb_sale": "#fff",
+          "enable_new": true,
+          "lb_new": "New",
+          "new_item": "Demo",
+          "bg_lb_new": "#06bfe2",
+          "color_lb_new": "#fff",
+          "enable_hot": true,
+          "lb_hot": "Hot",
+          "hot_item": "Shop Instagram",
+          "bg_lb_hot": "#ffbb49",
+          "color_lb_hot": "#fff",
+          "display_megamenu": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1541579674639": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Shop",
+              "footer_linklist": "shop"
+            }
+          },
+          "1541579687499": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Information",
+              "footer_linklist": "information"
+            }
+          },
+          "1541579706355": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Customer Service",
+              "footer_linklist": "customer-service"
+            }
+          }
+        },
+        "block_order": [
+          "1541579674639",
+          "1541579687499",
+          "1541579706355"
+        ],
+        "settings": {
+          "bg_footer_img": "none",
+          "bg_footer_color": "#232323",
+          "bg_footer_position_x": "left",
+          "bg_footer_position_y": "top",
+          "bg_footer_repeat": "repeat",
+          "bg_footer_attachment": "scroll",
+          "bg-footer-img": "",
+          "footer_title_color": "#ffffff",
+          "footer_link_color": "#969696",
+          "footer_link_hover_color": "#969696",
+          "bg_footer_line_color": "#3b3b3b",
+          "footer_newsletter_enable": true,
+          "footer_newsletter_title": "Sign up for our Newsletter",
+          "footer_newsletter_des": "",
+          "bg_newsletter_color": "rgba(0,0,0,0)",
+          "newsletter_color": "#717171",
+          "newsletter_border_color": "#3b3b3b",
+          "bg_newsletter_button_color": "#3b3b3b",
+          "newsletter_button_color": "#fff",
+          "footer_social_enable": true,
+          "footer_social_title": "Stay Connected",
+          "fb_like_code_text": "<span>LIKE US <i>on <\/i> FACEBOOK<\/span>",
+          "fb_like_code": "<div id=\"fb-root\"><\/div>\n<script>(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = \"\/\/connect.facebook.net\/en_US\/sdk.js#xfbml=1&version=v2.5\";\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));<\/script>\n<div class=\"fb-like\" data-href=\"https:\/\/www.facebook.com\/pages\/Halothemes-Premium-Magento-Themes\/469058089834105\" data-layout=\"button_count\" data-action=\"like\" data-show-faces=\"true\" data-share=\"true\"><\/div>",
+          "social_icon_color": "#141414",
+          "social_icon_bg_color": "#fff",
+          "bg_footer_bottom_color": "#232323",
+          "footer_bottom_color": "#969696",
+          "footer_address_code": "© 2018 Ella Demo. All Rights Reserved. Ecommerce Software by Shopify.<br><a href=\"https:\/\/www.halothemes.com\/template_category\/shopify-templates\/\" title=\"Shopify Themes\">Shopify Themes<\/a> by <a href=\"http:\/\/halothemes.com\/\" title=\"HaloThemes.com\">HaloThemes.com<\/a>.",
+          "show_payment_icons": true,
+          "payment_display_visa": true,
+          "payment_display_visa_electron": false,
+          "payment_display_american_express": true,
+          "payment_display_master": true,
+          "payment_display_maestro": false,
+          "payment_display_solo": false,
+          "payment_display_paypal": true,
+          "payment_display_amazon_payments": false,
+          "payment_display_apple_pay": false,
+          "payment_display_bitcoin": false,
+          "payment_display_cirrus": true,
+          "payment_display_dankort": false,
+          "payment_display_diners_club": false,
+          "payment_display_discover": true,
+          "payment_display_dogecoin": false,
+          "payment_display_dwolla": false,
+          "payment_display_forbrugsforeningen": false,
+          "payment_display_interac": false,
+          "payment_display_jcb": false,
+          "payment_display_litecoin": true,
+          "payment_display_stripe": false,
+          "payment_display_sage": false,
+          "payment_display_wallet": false,
+          "icon_visa": "shopify:\/\/shop_images\/Visa_Inverted.png",
+          "icon_visa_electron": "",
+          "icon_master": "shopify:\/\/shop_images\/MasterCard.png",
+          "icon_american_express": "shopify:\/\/shop_images\/American-Express.png",
+          "icon_maestro": "",
+          "icon_solo": "",
+          "icon_paypal": "shopify:\/\/shop_images\/PayPal.png",
+          "icon_amazon_payments": "",
+          "icon_apple_pay": "",
+          "icon_bitcoin": "",
+          "icon_cirrus": "shopify:\/\/shop_images\/Cirrus_Inverted.png",
+          "icon_dankort": "",
+          "icon_diners_club": "",
+          "icon_discover": "shopify:\/\/shop_images\/Discover.png",
+          "icon_dogecoin": "",
+          "icon_dwolla": "",
+          "icon_forbrugsforeningen": "",
+          "icon_interac": "",
+          "icon_jcb": "",
+          "icon_litecoin": "shopify:\/\/shop_images\/Western_Union.png",
+          "icon_stripe": "",
+          "icon_sage": "",
+          "icon_wallet": ""
+        }
+      },
+      "recently-viewed-products": {
+        "type": "recently-viewed-products",
+        "settings": {
+          "display_recently_viewed_products": true,
+          "recently_viewed_products_title": "Recently Viewed Products",
+          "number_of_recently_viewed_products": "10"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "blog_post": "3",
+          "blog_text_align": "left",
+          "blog_show_author": true,
+          "blog_show_date": true
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "settings": {
+          "display_google_map": true,
+          "google_map_code": "<iframe src=\"https:\/\/maps.google.com\/maps?f=q&source=s_q&hl=vi&geocode=&q=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1&aq=&sll=37.0625,-95.677068&sspn=41.903538,86.572266&ie=UTF8&hq=&hnear=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+Chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam&t=m&ll=10.797518,106.700377&spn=0.014754,0.071197&z=15&iwloc=A&output=embed\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"100%\" height=\"350\"><\/iframe>",
+          "contact_title": "DROP US A LINE | Schreiben Sie uns",
+          "contact_text_desc": "Have a question or comment? Use the form below to send us a message or contact us by mail at:",
+          "contact_your_name": "",
+          "contact_phone_number": "",
+          "contact_your_email": "",
+          "display_location": true,
+          "location_code": "<h4>Store Information<\/h4>\n<p>We'd love to hear from you - please use the form to send us your message or ideas. Or simply pop in for a cup of fresh tea and a cookie:<\/p>\n<p class=\"addr\">8808 Ave Dermentum, Onsectetur Adipiscing<br>Tortor Sagittis, CA 880986,<br>United States\n<\/p>\n\n<p class=\"addr\">Email: <a href=\"mailto:support@halothemes.com\">support@halothemes.com<\/a><br>Toll-free: <strong>1-888-699-8900<\/strong><\/p><div class=\"open-hours\">\n<strong>Opening Hours:<\/strong>\n<br>Monday to Saturday: 9am - 10pm\n<br>Sundays: 10am - 6pm\n<p><\/p>\n<\/div>"
+        }
+      },
+      "lookbook": {
+        "type": "lookbook",
+        "blocks": {
+          "1489975455753": {
+            "type": "image",
+            "settings": {
+              "dpl_slide_img": true,
+              "image_slide": "shopify:\/\/shop_images\/lookbook-1-compressor.jpg",
+              "alignment": "left",
+              "heading": "",
+              "font_size_heading": "40px",
+              "color_heading": "#232323",
+              "slide-des": "",
+              "font_size_des": "12px",
+              "color_des": "#232323",
+              "button_slide": "",
+              "link": "",
+              "bg_button": "#232323",
+              "border_button": "#232323",
+              "color_button": "#fff",
+              "lb_product_1": "loremous-saliduar-a-cosmopolito-1",
+              "top_position_1": "41",
+              "left_position_1": "55",
+              "dots_color_1": "#fff",
+              "dots_bg_color_1": "#323232",
+              "dots_shadow_color_1": "#323232",
+              "lb_product_2": "",
+              "top_position_2": "10",
+              "left_position_2": "10",
+              "dots_color_2": "#fff",
+              "dots_bg_color_2": "#323232",
+              "dots_shadow_color_2": "#fff",
+              "lb_product_3": "",
+              "top_position_3": "10",
+              "left_position_3": "10",
+              "dots_color_3": "#fff",
+              "dots_bg_color_3": "#323232",
+              "dots_shadow_color_3": "#fff"
+            }
+          },
+          "1489975477125": {
+            "type": "image",
+            "settings": {
+              "dpl_slide_img": true,
+              "image_slide": "shopify:\/\/shop_images\/lookbook-2-compressor.jpg",
+              "alignment": "left",
+              "heading": "",
+              "font_size_heading": "40px",
+              "color_heading": "#232323",
+              "slide-des": "",
+              "font_size_des": "12px",
+              "color_des": "#232323",
+              "button_slide": "",
+              "link": "",
+              "bg_button": "#232323",
+              "border_button": "#232323",
+              "color_button": "#fff",
+              "lb_product_1": "dempus-lortis-cosmo-sapiendo-1",
+              "top_position_1": "34",
+              "left_position_1": "19",
+              "dots_color_1": "#fff",
+              "dots_bg_color_1": "#323232",
+              "dots_shadow_color_1": "#323232",
+              "lb_product_2": "dempus-lortis-cosmo-sapiendo-2",
+              "top_position_2": "81",
+              "left_position_2": "48",
+              "dots_color_2": "#fff",
+              "dots_bg_color_2": "#323232",
+              "dots_shadow_color_2": "#323232",
+              "lb_product_3": "",
+              "top_position_3": "10",
+              "left_position_3": "10",
+              "dots_color_3": "#fff",
+              "dots_bg_color_3": "#323232",
+              "dots_shadow_color_3": "#fff"
+            }
+          },
+          "1532404848065": {
+            "type": "image",
+            "settings": {
+              "dpl_slide_img": true,
+              "image_slide": "shopify:\/\/shop_images\/lookbook-3-compressor.jpg",
+              "alignment": "left",
+              "heading": "",
+              "font_size_heading": "40px",
+              "color_heading": "#232323",
+              "slide-des": "",
+              "font_size_des": "12px",
+              "color_des": "#232323",
+              "button_slide": "",
+              "link": "",
+              "bg_button": "#232323",
+              "border_button": "#232323",
+              "color_button": "#fff",
+              "lb_product_1": "dempus-an-lortis-tempus-sapiendos",
+              "top_position_1": "28",
+              "left_position_1": "33.5",
+              "dots_color_1": "#fff",
+              "dots_bg_color_1": "#323232",
+              "dots_shadow_color_1": "#323232",
+              "lb_product_2": "dempus-lortis-cosmo-sapiendo-4",
+              "top_position_2": "84",
+              "left_position_2": "40",
+              "dots_color_2": "#fff",
+              "dots_bg_color_2": "#323232",
+              "dots_shadow_color_2": "#323232",
+              "lb_product_3": "",
+              "top_position_3": "10",
+              "left_position_3": "10",
+              "dots_color_3": "#fff",
+              "dots_bg_color_3": "#323232",
+              "dots_shadow_color_3": "#fff"
+            }
+          }
+        },
+        "block_order": [
+          "1489975455753",
+          "1489975477125",
+          "1532404848065"
+        ],
+        "settings": {
+          "display_product_detail_share": true,
+          "share_text": "Share",
+          "button": "Shop LookBook",
+          "link": "shopify:\/\/collections\/all",
+          "autoplay": false,
+          "speed": "5000",
+          "transition": "true",
+          "arrow_color": "#727272",
+          "arrow_border_color": "#d3d3d3",
+          "arrow_bg_color": "#ffffff",
+          "position_slick_arrow": "-35px"
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_notes": true
+        }
+      },
+      "faq-page": {
+        "type": "faq-page",
+        "blocks": {
+          "1507878888245": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Will your template be fully compatible with Shopify?",
+              "answer_faqs": "Yes it is."
+            }
+          },
+          "1507879452149": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "I cannot upload the theme to my Shopify store \/ Shopify alerts that the file is too big to upload, what is the problem?",
+              "answer_faqs": "<p>Please make sure that you follow below steps:<\/p>\n\n<p>1\/ Download the package from themeforest.net (the file is in zip format)\n<br>\n<br>\n2\/ Extract the file you've just downloaded.\n<br>\n<br>\n3\/ Find this file: ella-3.0.0-sections-ready.zip in the folder Ella Sections Ready 3.0.0, then you just need to upload ella-3.0.0-sections-ready.zip file to your Shopify store.\n<\/p>"
+            }
+          },
+          "1507879511326": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "What I have to do when I need your support?",
+              "answer_faqs": "<p>To save your time and reach our support quickly, please follow below steps:\n<\/p><p>1\/ Create a staff account for us (with Themes permission and Settings permission) <a href=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" target=\"_blank\" style=\"color: #e66f65;\" rel=\"noopener noreferrer\">http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members<\/a><\/p>\n<p>2\/ Capture screenshot or video for the issue you get.<\/p>\n<p>3\/ Specify which template and version you are using.<\/p>\n<p>4\/ Describe clearly how to reproduce the issue.<\/p>\n<p>5\/ Send all information (staff account, screenshot, video, template name and version, description of the issues, link) to <a href=\"mailto:support@halothemes.com\" target=\"_blank\" style=\"color: #e66f65;\" rel=\"noopener noreferrer\">support@halothemes.com<\/a><\/p>\n<p><\/p>"
+            }
+          },
+          "1507879518615": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Would assistance be available to upload the template if needed?",
+              "answer_faqs": "Yes, we will assist you to install the template if needed"
+            }
+          },
+          "1507879528740": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Do you guys offer customisation services for your themes?",
+              "answer_faqs": "Yes, we do. Please send your customisation requests to support@halothemes.com, we will give you our quote. Thank you."
+            }
+          },
+          "1507879543697": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Can I turn on\/off Lazy Loading Image \/ Item Animation \/ Fade Up on the page?",
+              "answer_faqs": "Yes. You can turn on\/off the animation in the Setting page."
+            }
+          },
+          "1507879557094": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Can I turn on\/off some blocks on the page?",
+              "answer_faqs": "Yes. You can turn on\/off almost any blocks on the page (featured products, slideshow, banners, related products, recent products,...)."
+            }
+          },
+          "1507879567640": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "I want to have the dropdown cart displayed automatically every time clients hover over it (instead of clicking on it). Is it possible?",
+              "answer_faqs": "Yes, we have a setting for you to switch between these two options: Display on Hover and Display on Click."
+            }
+          },
+          "1507879577808": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "What is included in the theme package?",
+              "answer_faqs": "The theme package includes theme source, Photoshop design files, sample data and manual guide."
+            }
+          },
+          "1507879582861": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "I notice that the images used in the theme are all portrait. Will that be a problem if I use square images for our products? How will they be displayed in the theme?",
+              "answer_faqs": "That is not a problem. You just need to modify the width\/height ratio in theme settings."
+            }
+          },
+          "1507879597073": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Does the theme support image resizing and cropping?",
+              "answer_faqs": "Yes. Normally, the theme will resize images to a default size (based on your width\/height ratio setting). We also have Crop setting if you don’t want to scale the image."
+            }
+          },
+          "1507879608326": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Can I add borders around our product images?",
+              "answer_faqs": "Yes, you can. You can also set image border colours."
+            }
+          },
+          "1507879613494": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Can I have multi level menu?",
+              "answer_faqs": "Yes, you can. Just simply follow the instructions in our Manual Guide, you will be able to easily create a multi-level menu."
+            }
+          },
+          "1507879626512": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Do you guys provide customer support during weekends \/ holidays?",
+              "answer_faqs": "Normally we don't provide support during weekends, except for urgent cases. In these cases, you only need to mark “Urgent” in your email, we will get back to you ASAP."
+            }
+          },
+          "1507879632829": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Does the theme support Variant Image?",
+              "answer_faqs": "Yes, it does. Please check it out here to see how it works: <a href=\"https:\/\/sneake-demo.myshopify.com\/products\/sample-proin-de-corper-nulla-dan-melementum-1?variant=10214763888684\">https:\/\/sneake-demo.myshopify.com\/products\/sample-proin-de-corper-nulla-dan-melementum-1?variant=10214763888684<\/a>"
+            }
+          }
+        },
+        "block_order": [
+          "1507878888245",
+          "1507879452149",
+          "1507879511326",
+          "1507879518615",
+          "1507879528740",
+          "1507879543697",
+          "1507879557094",
+          "1507879567640",
+          "1507879577808",
+          "1507879582861",
+          "1507879597073",
+          "1507879608326",
+          "1507879613494",
+          "1507879626512",
+          "1507879632829"
+        ],
+        "settings": {
+          "des_faqs": "Below FAQ are some common concerns of our clients before purchasing the theme, if you have other questions, please just send it to <a href=\"mailto:support@halothemes.com\" target=\"_blank\">support@halothemes.com<\/a>",
+          "contact_text": "Unable to find satisfactory answers ?",
+          "contact_link_text": "Contact Support",
+          "contact_link": "https:\/\/www.halothemes.com\/",
+          "icon_faqs": "Question",
+          "bg_icon_qs": "#ef6454",
+          "color_icon_qs": "#ffffff",
+          "bg_question": "#fafafa",
+          "color_question": "#323232",
+          "font_size_qs": "12",
+          "bg_question_acitve": "#232323",
+          "color_question_acitve": "#ffffff",
+          "icon_answer": "Answer",
+          "bg_icon_answer": "#69c69c",
+          "color_icon_answer": "#ffffff",
+          "color_question_answer": "#3c3c3c",
+          "font_size_answer": "12",
+          "color_question_link": "#0688e2"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "1543214716857": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": "cosmopolis"
+            }
+          },
+          "1543214733702": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": "suito"
+            }
+          },
+          "1543214800120": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": "milancelos"
+            }
+          },
+          "1543214818887": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": "blazero"
+            }
+          },
+          "1543214834303": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": "glamos"
+            }
+          },
+          "1543214844672": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": "metropolis"
+            }
+          },
+          "1543214860592": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": "valkyrio"
+            }
+          },
+          "1543214872428": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": "scarvero"
+            }
+          },
+          "1543214881800": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": "congue"
+            }
+          }
+        },
+        "block_order": [
+          "1543214716857",
+          "1543214733702",
+          "1543214800120",
+          "1543214818887",
+          "1543214834303",
+          "1543214844672",
+          "1543214860592",
+          "1543214872428",
+          "1543214881800"
+        ],
+        "settings": {
+          "list_collection_results_per_row": "3",
+          "list_collection_title_size": "20",
+          "style_categories": "style_little"
+        }
+      },
+      "sidebar-section": {
+        "type": "sidebar-section",
+        "blocks": {
+          "1543314984589": {
+            "type": "menu",
+            "settings": {
+              "enable": true,
+              "title": "Categories",
+              "style_categories": "style_little",
+              "link_list": "sidebar"
+            }
+          },
+          "1543315002517": {
+            "type": "product",
+            "settings": {
+              "enable": true,
+              "title": "Featured Products",
+              "collection": "cosmopolis",
+              "limit": "3"
+            }
+          },
+          "1543315033286": {
+            "type": "image",
+            "settings": {
+              "enable": true,
+              "image": "shopify:\/\/shop_images\/sidebar-1-compressor.jpg",
+              "link": "shopify:\/\/collections\/cosmopolis"
+            }
+          },
+          "1543315049567": {
+            "type": "image",
+            "settings": {
+              "enable": true,
+              "image": "shopify:\/\/shop_images\/sidebar-2-compressor.jpg",
+              "link": "shopify:\/\/collections\/blaz-ro"
+            }
+          },
+          "1543315088462": {
+            "type": "quote",
+            "settings": {
+              "enable": true,
+              "title": "Custom Block",
+              "quote": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from admin panel.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1543314984589",
+          "1543315002517",
+          "1543315033286",
+          "1543315049567",
+          "1543315088462"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "show_sidebar": "left"
+        }
+      },
+      "collection-template-default": {
+        "type": "collection-template-default",
+        "settings": {
+          "display_collection_image": true,
+          "collection_image": "shopify:\/\/shop_images\/coll-header-compressor.jpg",
+          "display_collection_des": true,
+          "limited_view": true,
+          "sort_enable": true,
+          "collection_results_per_row": "4",
+          "collection_results_per_page": "24"
+        }
+      },
+      "sidebar-filter": {
+        "type": "sidebar-filter",
+        "blocks": {
+          "1543545849973": {
+            "type": "filter_color",
+            "settings": {
+              "enable": true,
+              "title": "Color",
+              "color_text_1": "Black",
+              "color_img_1": "shopify:\/\/shop_images\/black.png",
+              "color_text_2": "Beige",
+              "color_img_2": "shopify:\/\/shop_images\/beige.png",
+              "color_text_3": "Red",
+              "color_img_3": "shopify:\/\/shop_images\/red.png",
+              "color_text_4": "White",
+              "color_img_4": "shopify:\/\/shop_images\/white.png",
+              "color_text_5": "Pink",
+              "color_img_5": "shopify:\/\/shop_images\/pink.png",
+              "color_text_6": "Blue",
+              "color_img_6": "shopify:\/\/shop_images\/blue.png",
+              "color_text_7": "Gray",
+              "color_img_7": "shopify:\/\/shop_images\/gray.png",
+              "color_text_8": "Green",
+              "color_img_8": "shopify:\/\/shop_images\/green.png",
+              "color_text_9": "Yellow",
+              "color_img_9": "shopify:\/\/shop_images\/yellow.png",
+              "color_text_10": "",
+              "color_img_10": "",
+              "color_text_11": "",
+              "color_img_11": "",
+              "color_text_12": "",
+              "color_img_12": "",
+              "color_text_13": "",
+              "color_img_13": "",
+              "color_text_14": "",
+              "color_img_14": "",
+              "color_text_15": "",
+              "color_img_15": "",
+              "color_text_16": "",
+              "color_img_16": "",
+              "color_text_17": "",
+              "color_img_17": "",
+              "color_text_18": "",
+              "color_img_18": "",
+              "color_text_19": "",
+              "color_img_19": "",
+              "color_text_20": "",
+              "color_img_20": ""
+            }
+          },
+          "1543546574439": {
+            "type": "filter_text",
+            "settings": {
+              "enable": true,
+              "title": "Size | Größe",
+              "list_tags": "XS,\nS,\nM,\nL,\nXL,\n2X,\n3X"
+            }
+          },
+          "1543546610760": {
+            "type": "filter_text",
+            "settings": {
+              "enable": true,
+              "title": "Price",
+              "list_tags": "Less than $100,\n $100 - $200,\n $200 - $400,\n Above $400,"
+            }
+          },
+          "1543546642200": {
+            "type": "filter_text",
+            "settings": {
+              "enable": true,
+              "title": "Brand",
+              "list_tags": "Sodling,\nTomorrow,\nPaul Smith,\nMango,\nDonatello,\nFrench Connection,\nGANTT,\nJimmy Choo,\nBenjamin Button,\nAnna,"
+            }
+          },
+          "1543546687010": {
+            "type": "filter_text",
+            "settings": {
+              "enable": true,
+              "title": "Product Type",
+              "list_tags": "Dincidunteros,\nCosmopolis,\nSolutmades,\nLoremous Comodous,"
+            }
+          }
+        },
+        "block_order": [
+          "1543545849973",
+          "1543546574439",
+          "1543546610760",
+          "1543546642200",
+          "1543546687010"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "show_sidebar": "left",
+          "enable_categories": true,
+          "title_categories": "Categories | Categories",
+          "style_categories": "style_little",
+          "link_list": "sidebar",
+          "enable_product": true,
+          "title_product": "Featured Products | Featured Products",
+          "collection": "cosmopolis",
+          "limit": "5",
+          "enable_img_1": true,
+          "image_img_1": "shopify:\/\/shop_images\/mega-style-2-1-compressor.jpg",
+          "link_img_1": "shopify:\/\/collections\/blaz-ro",
+          "enable_img_2": true,
+          "image_img_2": "shopify:\/\/shop_images\/mega-style-1-compressor.jpg",
+          "link_img_2": "shopify:\/\/collections\/congu",
+          "enable_custom_block": true,
+          "title_custom_block": "Custom Block | Custom Block",
+          "quote_custom_block": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from admin panel.<\/p>"
+        }
+      },
+      "product-template-default": {
+        "type": "product-template-default",
+        "blocks": {
+          "1545637133729": {
+            "type": "image",
+            "settings": {
+              "main_pr_look": "dempus-lortis-cosmo-sapiendo",
+              "image_1": "shopify:\/\/shop_images\/16-compressor.jpg",
+              "lb_product_1_1": "",
+              "top_position_1_1": "10",
+              "left_position_1_1": "10",
+              "dots_color_1_1": "#fff",
+              "dots_bg_color_1_1": "#323232",
+              "dots_shadow_color_1_1": "#fff",
+              "lb_product_1_2": "",
+              "top_position_1_2": "10",
+              "left_position_1_2": "10",
+              "dots_color_1_2": "#fff",
+              "dots_bg_color_1_2": "#323232",
+              "dots_shadow_color_1_2": "#fff",
+              "lb_product_1_3": "",
+              "top_position_1_3": "10",
+              "left_position_1_3": "10",
+              "dots_color_1_3": "#fff",
+              "dots_bg_color_1_3": "#323232",
+              "dots_shadow_color_1_3": "#fff",
+              "image_2": "shopify:\/\/shop_images\/16b-compressor.jpg",
+              "lb_product_2_1": "",
+              "top_position_2_1": "10",
+              "left_position_2_1": "10",
+              "dots_color_2_1": "#fff",
+              "dots_bg_color_2_1": "#323232",
+              "dots_shadow_color_2_1": "#fff",
+              "lb_product_2_2": "",
+              "top_position_2_2": "10",
+              "left_position_2_2": "10",
+              "dots_color_2_2": "#fff",
+              "dots_bg_color_2_2": "#323232",
+              "dots_shadow_color_2_2": "#fff",
+              "lb_product_2_3": "",
+              "top_position_2_3": "10",
+              "left_position_2_3": "10",
+              "dots_color_2_3": "#fff",
+              "dots_bg_color_2_3": "#323232",
+              "dots_shadow_color_2_3": "#fff",
+              "image_3": "shopify:\/\/shop_images\/16-compressor.jpg",
+              "lb_product_3_1": "",
+              "top_position_3_1": "10",
+              "left_position_3_1": "10",
+              "dots_color_3_1": "#fff",
+              "dots_bg_color_3_1": "#323232",
+              "dots_shadow_color_3_1": "#fff",
+              "lb_product_3_2": "",
+              "top_position_3_2": "10",
+              "left_position_3_2": "10",
+              "dots_color_3_2": "#fff",
+              "dots_bg_color_3_2": "#323232",
+              "dots_shadow_color_3_2": "#fff",
+              "lb_product_3_3": "",
+              "top_position_3_3": "10",
+              "left_position_3_3": "10",
+              "dots_color_3_3": "#fff",
+              "dots_bg_color_3_3": "#323232",
+              "dots_shadow_color_3_3": "#fff"
+            }
+          }
+        },
+        "block_order": [
+          "1545637133729"
+        ],
+        "settings": {
+          "style_moreview": "horizontal",
+          "video_product": true,
+          "video_product_icon": "#c1c1c1",
+          "enable_payment_button": true,
+          "show_sold_in": true,
+          "item_prd": "3,5,6,7,8,10,12,15",
+          "item_prds": "sold in last",
+          "hours_prs": "10,15,16,17,18,20,25,35",
+          "item_hours": "hours",
+          "display_vendor": true,
+          "text_vendor": "Brand:",
+          "display_product_sku": true,
+          "text_product_sku": "Product Code:",
+          "display_availability": true,
+          "text_availability": "Availability:",
+          "display_product_type": false,
+          "text_product_type": "Product Type:",
+          "countdown": "countdown_1",
+          "text_countdown": "Limited-Time Offers, End in:",
+          "progressbar_1": "Please hurry, only",
+          "progressbar_2": "left in stock",
+          "total_items": "100",
+          "min_items_left": "15",
+          "max_items_left": "50",
+          "progressbar_color": "#f5f5f5",
+          "progressbar_active_color": "#69c69c",
+          "dpl_customers_view": true,
+          "title_view": "customers are viewing this product",
+          "number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+          "show_desc": "short",
+          "display_subtotal": true,
+          "display_product_detail_tag": false,
+          "display_product_detail_share": true,
+          "share_text": "Share",
+          "display_trust_img": false,
+          "show_tab": "horizontal",
+          "display_product_detail_description": true,
+          "product_description_title": "Description",
+          "display_product_reviews": true,
+          "product_review_title": "Customer Reviews",
+          "display_shipping_returns": true,
+          "shipping_returns_title": "Shipping & Returns",
+          "shipping_returns_content": "<h4>RETURNS POLICY<\/h4>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis.<\/p>\n<p>\nDonec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>\nCurabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>\n<h4>SHIPPING<\/h4>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis.<\/p>\n<p>\nDonec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>\nCurabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>",
+          "display_custom_tab": true,
+          "custom_tab_title": "Custom Product Tab",
+          "display_related_products": true,
+          "related_products_title": "Related Products",
+          "number_of_related_products": "8",
+          "dpl_lookbook_description": true,
+          "style_lookbook_description": "all_product",
+          "quote_title": "Sample Block Quote",
+          "quote_des": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo loremous convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos.",
+          "quote_title_2": "Sample Paragraph Text",
+          "quote_des_2": "<p>\nPraesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui.\n<\/p>\n<p>\nCras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elitos. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.\n<\/p>",
+          "dpl_gallery_lookbook": true,
+          "style_lookbook_gallery": "all_product"
+        }
+      },
+      "cart-best-sellers": {
+        "type": "cart-best-sellers",
+        "settings": {
+          "show_cart_best_sellers_product": true,
+          "title": "Best Sellers",
+          "show_slider_featured_collection": "suito",
+          "slider_featured_limit_all": 10,
+          "collection_results_per_row1": "5"
+        }
+      },
+      "sidebar-blog": {
+        "type": "sidebar-blog",
+        "blocks": {
+          "1546400179484": {
+            "type": "product",
+            "settings": {
+              "enable": true,
+              "title": "Featured Products",
+              "collection": "metropolis",
+              "limit": "8"
+            }
+          },
+          "1546400210430": {
+            "type": "image",
+            "settings": {
+              "enable": true,
+              "image": "shopify:\/\/shop_images\/mega-style-2-1-compressor.jpg",
+              "link": "shopify:\/\/collections\/all"
+            }
+          },
+          "1546400245437": {
+            "type": "image",
+            "settings": {
+              "enable": true,
+              "image": "shopify:\/\/shop_images\/mega-style-1-compressor.jpg",
+              "link": ""
+            }
+          },
+          "1546400262551": {
+            "type": "quote",
+            "settings": {
+              "enable": true,
+              "title": "Custom Block",
+              "quote": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from admin panel.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1546400179484",
+          "1546400210430",
+          "1546400245437",
+          "1546400262551"
+        ],
+        "settings": {
+          "display_sidebar_blog_page": true,
+          "show_sidebar": "left",
+          "display_sidebar_link": true,
+          "sidebar_link_title": "Categories",
+          "style_categories": "style_little",
+          "link_list": "sidebar",
+          "sidebar_recent_art": true,
+          "sidebar_blog_tags": false
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "blocks": {
+          "1546501567008": {
+            "type": "image",
+            "settings": {
+              "image_1": "shopify:\/\/shop_images\/12-compressor.jpg",
+              "lb_product_1_1": "dinterdum-pretium-condimento",
+              "top_position_1_1": "27",
+              "left_position_1_1": "64",
+              "dots_color_1_1": "#fff",
+              "dots_bg_color_1_1": "#323232",
+              "dots_shadow_color_1_1": "#323232",
+              "lb_product_1_2": "",
+              "top_position_1_2": "10",
+              "left_position_1_2": "10",
+              "dots_color_1_2": "#fff",
+              "dots_bg_color_1_2": "#323232",
+              "dots_shadow_color_1_2": "#fff",
+              "lb_product_1_3": "",
+              "top_position_1_3": "10",
+              "left_position_1_3": "10",
+              "dots_color_1_3": "#fff",
+              "dots_bg_color_1_3": "#323232",
+              "dots_shadow_color_1_3": "#fff",
+              "image_2": "shopify:\/\/shop_images\/lb-2-compressor.jpg",
+              "lb_product_2_1": "dempus-lortis-cosmo-sapiendo-2",
+              "top_position_2_1": "28",
+              "left_position_2_1": "28",
+              "dots_color_2_1": "#fff",
+              "dots_bg_color_2_1": "#323232",
+              "dots_shadow_color_2_1": "#323232",
+              "lb_product_2_2": "dempus-an-lortis-tempus-sapiendos",
+              "top_position_2_2": "83",
+              "left_position_2_2": "66",
+              "dots_color_2_2": "#fff",
+              "dots_bg_color_2_2": "#323232",
+              "dots_shadow_color_2_2": "#323232",
+              "lb_product_2_3": "",
+              "top_position_2_3": "10",
+              "left_position_2_3": "10",
+              "dots_color_2_3": "#fff",
+              "dots_bg_color_2_3": "#323232",
+              "dots_shadow_color_2_3": "#fff",
+              "image_3": "shopify:\/\/shop_images\/lb-1-compressor.jpg",
+              "lb_product_3_1": "loremous-saliduar-a-cosmopolito-2",
+              "top_position_3_1": "26",
+              "left_position_3_1": "68",
+              "dots_color_3_1": "#fff",
+              "dots_bg_color_3_1": "#323232",
+              "dots_shadow_color_3_1": "#323232",
+              "lb_product_3_2": "",
+              "top_position_3_2": "10",
+              "left_position_3_2": "10",
+              "dots_color_3_2": "#fff",
+              "dots_bg_color_3_2": "#323232",
+              "dots_shadow_color_3_2": "#fff",
+              "lb_product_3_3": "",
+              "top_position_3_3": "10",
+              "left_position_3_3": "10",
+              "dots_color_3_3": "#fff",
+              "dots_bg_color_3_3": "#323232",
+              "dots_shadow_color_3_3": "#fff"
+            }
+          }
+        },
+        "block_order": [
+          "1546501567008"
+        ],
+        "settings": {
+          "blog_show_author": true,
+          "blog_show_date": true,
+          "dpl_lookbook_description": true,
+          "quote_title": "Sample Block Quote",
+          "quote_des": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo loremous convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos.",
+          "quote_title_2": "Sample Paragraph Text",
+          "quote_des_2": "<p>\nPraesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui.\n<\/p>\n<p>\nCras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elitos. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.\n<\/p>",
+          "dpl_gallery_lookbook": true,
+          "gallery_lb_title": "LookBook Gallery",
+          "show_cart_best_sellers_product": false,
+          "title": "Editor’s Picks",
+          "show_slider_featured_collection": "suito",
+          "slider_featured_limit_all": 8,
+          "collection_results_per_row1": "4"
+        }
+      },
+      "brands-page": {
+        "type": "brands-page",
+        "blocks": {
+          "1546921086313": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-1-compressor.jpg",
+              "title": "Loremous",
+              "link": ""
+            }
+          },
+          "1546921152681": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-2-compressor.jpg",
+              "title": "Isablella",
+              "link": ""
+            }
+          },
+          "1546921217742": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-3-compressor.jpg",
+              "title": "Benjamin Button",
+              "link": ""
+            }
+          },
+          "1546921256644": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-4-compressor.jpg",
+              "title": "Fermends",
+              "link": ""
+            }
+          },
+          "1546921290795": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-5-compressor.jpg",
+              "title": "conseqaur",
+              "link": ""
+            }
+          },
+          "1546921315910": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-3-compressor.jpg",
+              "title": "Benjamin Button",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1546921086313",
+          "1546921152681",
+          "1546921217742",
+          "1546921256644",
+          "1546921290795",
+          "1546921315910"
+        ],
+        "settings": {
+          "display_brand": true
+        }
+      },
+      "shop-instagram": {
+        "type": "shop-instagram",
+        "settings": {
+          "title": "Shop Instagram",
+          "des": "Nullam aliquet vestibulum augue non varius cras de congue elitos. Duis tristique delos ante an daliquam. Praesent urna tellus laoreet an tellus ullamcorper fermentum facilisis.",
+          "embed_code": "<script src=\"https:\/\/snapppt.com\/widgets\/widget_loader\/33732d63-5077-4f49-a869-7d4ddc227b6f\/grid.js\" defer class=\"snapppt-widget\"><\/script>"
+        }
+      },
+      "someone-purchased": {
+        "type": "someone-purchased",
+        "blocks": {
+          "1548643650260": {
+            "type": "image",
+            "settings": {
+              "product": "dempus-lortis-cosmo-sapiendo",
+              "from_ago": "from Blackburn, UK",
+              "time_ago": "20 minutes ago,"
+            }
+          },
+          "1548643708120": {
+            "type": "image",
+            "settings": {
+              "product": "dempus-lortis-cosmo-sapiendo-1",
+              "from_ago": "from Washington, US",
+              "time_ago": "30 minutes ago,"
+            }
+          },
+          "1548643726643": {
+            "type": "image",
+            "settings": {
+              "product": "dempus-lortis-cosmo-sapiendo-2",
+              "from_ago": "in Blumenau, Brazil",
+              "time_ago": "10 minutes ago,"
+            }
+          },
+          "1548643747526": {
+            "type": "image",
+            "settings": {
+              "product": "dempus-an-lortis-tempus-sapiendos",
+              "from_ago": "from Bauru, Brazil",
+              "time_ago": "35 minutes ago,"
+            }
+          }
+        },
+        "block_order": [
+          "1548643650260",
+          "1548643708120",
+          "1548643726643",
+          "1548643747526"
+        ],
+        "settings": {
+          "display_someone-purchased": true,
+          "display_someone-purchased_mb": true,
+          "show_someone-purchased": "right",
+          "someone_speed": "7000",
+          "text": "Someone recently bought a"
+        }
+      },
+      "GDPR-modal": {
+        "type": "GDPR-modal",
+        "settings": {
+          "display_gdpr": true,
+          "show_gdp": "left",
+          "bg_color": "#141414",
+          "text_color": "#ffffff",
+          "privacy_policy_color": "#818181",
+          "content": "The cookie settings on this website are set to 'allow all cookies' to give you the very best experience. Please click Accept Cookies to continue to use the site.",
+          "privacy_policy_text": "privacy policy",
+          "privacy_policy_link": "https:\/\/policies.google.com\/",
+          "accept_cookies_text": "accept"
+        }
+      },
+      "1540952363851": {
+        "type": "home-slideshow",
+        "blocks": {
+          "1540952363851-0": {
+            "type": "image",
+            "settings": {
+              "dpl_slide_img": true,
+              "image_slide": "shopify:\/\/shop_images\/1-compressor_a6b9ae5b-bcdb-482f-82ca-32e5a0bcb8c7.jpg",
+              "alignment": "left",
+              "heading": "Metropolis",
+              "font_size_heading": "40px",
+              "color_heading": "#232323",
+              "slide-des": "Quisquemos sodales suscipit tortor ditaemcos condimentum de cosmo lacus meleifend menean diverra loremous.",
+              "font_size_des": "12px",
+              "color_des": "#232323",
+              "button_slide": "Shop Now",
+              "link": "",
+              "bg_button": "#232323",
+              "border_button": "#232323",
+              "color_button": "#fff",
+              "lb_product_1": "",
+              "top_position_1": "10",
+              "left_position_1": "10",
+              "dots_color_1": "#fff",
+              "dots_bg_color_1": "#323232",
+              "dots_shadow_color_1": "#fff",
+              "lb_product_2": "",
+              "top_position_2": "10",
+              "left_position_2": "10",
+              "dots_color_2": "#fff",
+              "dots_bg_color_2": "#323232",
+              "dots_shadow_color_2": "#fff",
+              "lb_product_3": "",
+              "top_position_3": "10",
+              "left_position_3": "10",
+              "dots_color_3": "#fff",
+              "dots_bg_color_3": "#323232",
+              "dots_shadow_color_3": "#fff"
+            }
+          },
+          "1540956832206": {
+            "type": "image",
+            "settings": {
+              "dpl_slide_img": true,
+              "image_slide": "shopify:\/\/shop_images\/2-compressor_75719947-12b8-409f-b1dc-bb4776720638.jpg",
+              "alignment": "left",
+              "heading": "",
+              "font_size_heading": "",
+              "color_heading": "#232323",
+              "slide-des": "",
+              "font_size_des": "",
+              "color_des": "#232323",
+              "button_slide": "",
+              "link": "",
+              "bg_button": "#232323",
+              "border_button": "#232323",
+              "color_button": "#fff",
+              "lb_product_1": "",
+              "top_position_1": "10",
+              "left_position_1": "10",
+              "dots_color_1": "#fff",
+              "dots_bg_color_1": "#323232",
+              "dots_shadow_color_1": "#fff",
+              "lb_product_2": "",
+              "top_position_2": "10",
+              "left_position_2": "10",
+              "dots_color_2": "#fff",
+              "dots_bg_color_2": "#323232",
+              "dots_shadow_color_2": "#fff",
+              "lb_product_3": "",
+              "top_position_3": "10",
+              "left_position_3": "10",
+              "dots_color_3": "#fff",
+              "dots_bg_color_3": "#323232",
+              "dots_shadow_color_3": "#fff"
+            }
+          },
+          "1540956857517": {
+            "type": "image",
+            "settings": {
+              "dpl_slide_img": true,
+              "image_slide": "shopify:\/\/shop_images\/3-compressor_940fe8dc-d72a-4e95-9c6a-c38d672afbd1.jpg",
+              "alignment": "left",
+              "heading": "Cosmopolis",
+              "font_size_heading": "40px",
+              "color_heading": "#232323",
+              "slide-des": "Quisquemos sodales suscipit tortor ditaemcos condimentum lacus meleifend menean diverra lorem comodous.",
+              "font_size_des": "12px",
+              "color_des": "#232323",
+              "button_slide": "Shop Now",
+              "link": "",
+              "bg_button": "#232323",
+              "border_button": "#232323",
+              "color_button": "#fff",
+              "lb_product_1": "",
+              "top_position_1": "10",
+              "left_position_1": "10",
+              "dots_color_1": "#fff",
+              "dots_bg_color_1": "#323232",
+              "dots_shadow_color_1": "#fff",
+              "lb_product_2": "",
+              "top_position_2": "10",
+              "left_position_2": "10",
+              "dots_color_2": "#fff",
+              "dots_bg_color_2": "#323232",
+              "dots_shadow_color_2": "#fff",
+              "lb_product_3": "",
+              "top_position_3": "10",
+              "left_position_3": "10",
+              "dots_color_3": "#fff",
+              "dots_bg_color_3": "#323232",
+              "dots_shadow_color_3": "#fff"
+            }
+          }
+        },
+        "block_order": [
+          "1540952363851-0",
+          "1540956832206",
+          "1540956857517"
+        ],
+        "settings": {
+          "layout": "full",
+          "margin_bottom_mb": 20,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0,
+          "autoplay": true,
+          "slideshow_speed": "9000",
+          "slideshow_transition": "true",
+          "dots": "true",
+          "dots_color": "#7c8888",
+          "dots_active_color": "#839090",
+          "dots_opacity": true,
+          "arrow_color": "#7d8989",
+          "arrow_border_color": "#7d8989",
+          "arrow_bg_color": "rgba(0,0,0,0)",
+          "position_slick_arrow": "10%",
+          "min_width_banner_button": "",
+          "bg_video": "#866965",
+          "bg_overlay_opacity": 40,
+          "video_height": "41.7%",
+          "auto_playvideo": true
+        }
+      },
+      "1541559977022": {
+        "type": "home-brands",
+        "blocks": {
+          "1541560311488": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-1-compressor.jpg",
+              "title": "Loremous",
+              "link": ""
+            }
+          },
+          "1541560317185": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-2-compressor.jpg",
+              "title": "Isablella",
+              "link": ""
+            }
+          },
+          "1541560319232": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-3-compressor.jpg",
+              "title": "Loremous",
+              "link": ""
+            }
+          },
+          "1541560320472": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-4-compressor.jpg",
+              "title": "FERMENDS",
+              "link": ""
+            }
+          },
+          "1541560321823": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-5-compressor.jpg",
+              "title": "CONSEQAUR",
+              "link": ""
+            }
+          },
+          "1541560836473": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brand-3-compressor.jpg",
+              "title": "Loremous",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1541560311488",
+          "1541560317185",
+          "1541560319232",
+          "1541560320472",
+          "1541560321823",
+          "1541560836473"
+        ],
+        "settings": {
+          "layout": "default",
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0,
+          "display_brand_border": false,
+          "brand_title": "",
+          "brand_des": "",
+          "title_style": "style_2",
+          "brand_rows": "4"
+        }
+      },
+      "1549942917101": {
+        "type": "home-custom-sub-banner-3",
+        "blocks": {
+          "1549942917101-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1-compressor_8952dec1-8db2-4b63-afc9-cc4e9d69c082.jpg",
+              "color": "#fff",
+              "title": "Cosmó",
+              "des": "Ditaemcos Condimentum",
+              "link_text": "Shop Now",
+              "link": ""
+            }
+          },
+          "1549942917101-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2-compressor_a172c87b-8a90-4243-8422-e5ca8b1ab05a.jpg",
+              "color": "#fff",
+              "title": "Blazéro",
+              "des": "Diverra Blanditos",
+              "link_text": "Shop Now",
+              "link": ""
+            }
+          },
+          "1549942917101-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1-compressor_8952dec1-8db2-4b63-afc9-cc4e9d69c082.jpg",
+              "color": "#fff",
+              "title": "Solades",
+              "des": "Diverra Blanditos",
+              "link_text": "Shop Now",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1549942917101-0",
+          "1549942917101-1",
+          "1549942917101-2"
+        ],
+        "settings": {
+          "layout": "default",
+          "img_results_per_row": "2",
+          "widget_title": "",
+          "widget_des": "",
+          "title_style": "style_1",
+          "margin_bottom_mb": 28,
+          "margin_bottom_tab": 28,
+          "margin_bottom": 38,
+          "font_size_title": "30px"
+        }
+      },
+      "1541065669115": {
+        "type": "home-featured-products",
+        "settings": {
+          "display_banner": false,
+          "banner_is": "left",
+          "image": "",
+          "banner_heading": "#CAMPAIGNS",
+          "font_size_banner_heading": "40px",
+          "color_banner_heading": "#fff",
+          "banner_sub_heading": "Spring Summer’08",
+          "font_size_banner_sub_heading": "13px",
+          "color_banner_sub_heading": "#fff",
+          "banner_des": "Phasellus lorem malesuada ligula pulvinar de cosmopolis",
+          "font_size_banner_des": "12px",
+          "color_banner_des": "#fff",
+          "banner_button": "Shop Now",
+          "link": "",
+          "bg_banner_button": "#fff",
+          "border_banner_button": "#fff",
+          "color_banner_button": "#232323",
+          "featured_products_title": "New Arrivals",
+          "featured_products_des": "Phasellus lorem malesuada ligula cosmopolis",
+          "title_style": "style_2",
+          "show_slider_featured_collection": "metropolis",
+          "slider_featured_limit_all": 10,
+          "collection_results_per_row1": "5",
+          "margin_bottom_mb": 40,
+          "margin_bottom_tab": 40,
+          "margin_bottom": 20
+        }
+      },
+      "1548124464884": {
+        "type": "home-custom-block-sub-banner",
+        "blocks": {
+          "1548124464884-0": {
+            "type": "oneImage",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-1-compressor_7af7b05a-474e-46f2-bf2a-389cbbcb0799.jpg",
+              "title": "",
+              "color_title": "#fff",
+              "button": "Shop Now",
+              "link": "",
+              "bg_button": "#fff",
+              "border_button": "#fff",
+              "color_button": "#232323"
+            }
+          },
+          "1548124464884-1": {
+            "type": "oneImage",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-2-compressor.jpg",
+              "title": "",
+              "color_title": "#fff",
+              "button": "Shop Now",
+              "link": "",
+              "bg_button": "#fff",
+              "border_button": "#fff",
+              "color_button": "#232323"
+            }
+          }
+        },
+        "block_order": [
+          "1548124464884-0",
+          "1548124464884-1"
+        ],
+        "settings": {
+          "display_sub_banner": true,
+          "layout": "default",
+          "title": "",
+          "title_style": "style_1",
+          "desc": "",
+          "font_size_title": "",
+          "display_padding": true,
+          "block_des": "",
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0
+        }
+      },
+      "1541389364083": {
+        "type": "home-custom-block-baner",
+        "blocks": {
+          "1541389364083-0": {
+            "type": "largeImg",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/4-compressor_90ea7b7a-24b0-4b8e-8900-4098b252f63c.jpg",
+              "display_parallax": false,
+              "dpl_down_arrow": false,
+              "height_img_parallax": "970px",
+              "alignment": "right",
+              "banner_heading": "Metropólis",
+              "font_size_banner_heading": "40px",
+              "color_banner_heading": "#fff",
+              "banner_des": "Pellentesque posuere orci lobortis scelerisque blandit. Donec id tellus lacinia an tincidunt risus an consequat delit quisquemos.",
+              "font_size_banner_des": "12px",
+              "color_banner_des": "#fff",
+              "countdown": "",
+              "banner_button": "Shop The Looks",
+              "link": "",
+              "bg_banner_button": "#fff",
+              "border_banner_button": "#fff",
+              "color_banner_button": "#232323",
+              "min_width_banner_button": "237px"
+            }
+          }
+        },
+        "block_order": [
+          "1541389364083-0"
+        ],
+        "settings": {
+          "layout": "default",
+          "widget_title": "",
+          "widget_des": "",
+          "title_style": "style_1",
+          "img_align": "center",
+          "margin_bottom_mb": 35,
+          "margin_bottom_tab": 35,
+          "margin_bottom": 50
+        }
+      },
+      "1548125347355": {
+        "type": "home-featured-products",
+        "settings": {
+          "display_banner": false,
+          "banner_is": "left",
+          "image": "",
+          "banner_heading": "#CAMPAIGNS",
+          "font_size_banner_heading": "40px",
+          "color_banner_heading": "#fff",
+          "banner_sub_heading": "Spring Summer’08",
+          "font_size_banner_sub_heading": "13px",
+          "color_banner_sub_heading": "#fff",
+          "banner_des": "Phasellus lorem malesuada ligula pulvinar de cosmopolis",
+          "font_size_banner_des": "12px",
+          "color_banner_des": "#fff",
+          "banner_button": "Shop Now",
+          "link": "",
+          "bg_banner_button": "#fff",
+          "border_banner_button": "#fff",
+          "color_banner_button": "#232323",
+          "featured_products_title": "Trending Now",
+          "featured_products_des": "Phasellus lorem malesuada ligula cosmopolis",
+          "title_style": "style_2",
+          "show_slider_featured_collection": "metropolis",
+          "slider_featured_limit_all": 10,
+          "collection_results_per_row1": "5",
+          "margin_bottom_mb": 40,
+          "margin_bottom_tab": 40,
+          "margin_bottom": 10
+        }
+      },
+      "1541414200176": {
+        "type": "home-custom-block-spotlight",
+        "blocks": {
+          "1541414200176-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/custom-block-1-compressor.jpg",
+              "title": "Lorem De Dorus",
+              "des": "Nullam aliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam. Praesent murna de tellus laoreet cosmopolis.",
+              "button": "Shop Now",
+              "link": ""
+            }
+          },
+          "1541414200176-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/custom-block-2-compressor.jpg",
+              "title": "Milancelos Lanos",
+              "des": "Nullam aliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam. Praesent murna de tellus laoreet cosmopolis.",
+              "button": "Shop Now",
+              "link": ""
+            }
+          },
+          "1541414200176-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/custom-block-3-compressor.jpg",
+              "title": "Como A Milano",
+              "des": "Nullam aliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam. Praesent murna de tellus laoreet cosmopolis.",
+              "button": "Shop Now",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1541414200176-0",
+          "1541414200176-1",
+          "1541414200176-2"
+        ],
+        "settings": {
+          "layout": "default",
+          "margin_bottom_mb": 25,
+          "margin_bottom_tab": 35,
+          "margin_bottom": 35,
+          "spotlight_block_title": "#Featured On Ella",
+          "spotlight_block_des": "Phasellus lorem malesuada ligula cosmopolis",
+          "title_style": "style_2"
+        }
+      },
+      "1541566560488": {
+        "type": "home-instagram",
+        "settings": {
+          "show_instagram": true,
+          "layout": "full",
+          "display_border_top": true,
+          "instagram_bg": "#fff",
+          "instagram_title": "#Ella On Instagram",
+          "instagram_des": "Phasellus lorem malesuada ligula pulvinar commodo maecenas",
+          "title_style": "style_2",
+          "display_instagram_button": true,
+          "instagram_button_text": "View Gallery",
+          "instagram_button_link": "",
+          "accessToken": "8944927192.1677ed0.c5296f1b30f347d6965da2ab64321b89",
+          "limit": "10",
+          "images_per_row": "5",
+          "slide_ins": "centermode",
+          "display_arrow": false,
+          "slide_rows": "1",
+          "resolution_images": "standard_resolution"
+        }
+      }
+    },
+    "content_for_index": [
+      "1540952363851",
+      "1541559977022",
+      "1549942917101",
+      "1541065669115",
+      "1548124464884",
+      "1541389364083",
+      "1548125347355",
+      "1541414200176",
+      "1541566560488"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "search_placeholder": "search",
+      "mailing_list_form_action": "\/\/halothemes.us3.list-manage.com\/subscribe\/post?u=0bf85dc81d846feb53a235178&amp;id=89ea28643a",
+      "body_font_size": "12",
+      "body_color": "#3c3c3c",
+      "display_breadcrumb": true,
+      "breadcrumb_color": "#999999",
+      "breadcrumb_text_transform": "capitalize",
+      "page_title_color": "#232323",
+      "page_title_text_align": "left",
+      "display_popup_newsletter": true,
+      "popup_newsletter_title": "Join Our Mailing List",
+      "display_popup_social": true,
+      "enable_wishlist": true,
+      "product_image_border": false,
+      "product_image_border_color": "#e6e6e6",
+      "use_color_swatch": true,
+      "display_size_chart": true,
+      "display_product_reviews": true,
+      "enable_quick_view": true,
+      "display_quickview_availability": true,
+      "display_quickview_product_type": true,
+      "display_quickview_vendor": true,
+      "display_quickview_subtotal": true,
+      "show_shipping_calculator": true,
+      "shipping_calculator_heading": "Get shipping estimates",
+      "shipping_calculator_default_country": "United States",
+      "shipping_calculator_submit_button_label": "Calculate Shipping",
+      "shipping_calculator_submit_button_label_disabled": "Calculating...",
+      "enable_multiple_currencies": true,
+      "currency_1_unit": "USD",
+      "currency_2_unit": "EUR",
+      "currency_3_unit": "GBP",
+      "currency_4_unit": "CHF",
+      "checkout_use_header_image": true,
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_logo": "checkout_logo.png",
+      "checkout_headline": "",
+      "checkout_accent_color": "#2d2d2d",
+      "checkout_button_color": "#000000",
+      "checkout_call_to_action_color": "#000000",
+      "customer_layout": "theme",
+      "link_color": "#0688e2"
+    }
+  }
+}
